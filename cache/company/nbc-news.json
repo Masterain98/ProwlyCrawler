@@ -1,0 +1,825 @@
+[
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Jonathan Bender",
+        "first_name": "Jonathan",
+        "middle_name": "",
+        "last_name": "Bender",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "House",
+            "Food"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jonathan-bender"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Scott Cohn",
+        "first_name": "Scott",
+        "middle_name": "",
+        "last_name": "Cohn",
+        "title": "Freelance Correspondent",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/scott-cohn"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Sahil Kapur",
+        "first_name": "Sahil",
+        "middle_name": "",
+        "last_name": "Kapur",
+        "title": "National Politics Reporter",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 81,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/sahil-kapur"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Yuliya Talmazan",
+        "first_name": "Yuliya",
+        "middle_name": "",
+        "last_name": "Talmazan",
+        "title": "Digital Reporter",
+        "location": "United Kingdom",
+        "topics": [
+            "International News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/yuliya-talmazan"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Alexander Smith",
+        "first_name": "Alexander",
+        "middle_name": "",
+        "last_name": "Smith",
+        "title": "Digital Senior Reporter",
+        "location": "United Kingdom",
+        "topics": [
+            "General Assignment News",
+            "International News"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/alexander-smith"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Ali Galante",
+        "first_name": "Ali",
+        "middle_name": "",
+        "last_name": "Galante",
+        "title": "Medical Producer",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Science"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/ali-galante"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Emilie Ikeda",
+        "first_name": "Emilie",
+        "middle_name": "",
+        "last_name": "Ikeda",
+        "title": "Correspondent",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/emilie-ikeda"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Julie Shapiro",
+        "first_name": "Julie",
+        "middle_name": "",
+        "last_name": "Shapiro",
+        "title": "Assistant Managing Editor for Enterprise",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/julie-shapiro"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Nicole McCartney",
+        "first_name": "Nicole",
+        "middle_name": "",
+        "last_name": "McCartney",
+        "title": "Medical Producer",
+        "location": "United States",
+        "topics": [
+            "Law"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/nicole-mccartney"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Nicole Spector",
+        "first_name": "Nicole",
+        "middle_name": "",
+        "last_name": "Spector",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "House"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/nicole-spector"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Julian Castro",
+        "first_name": "Julian",
+        "middle_name": "",
+        "last_name": "Castro",
+        "title": "Political Analyst",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 86,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/julian-castro-101928"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Nicole Mastrangelo",
+        "first_name": "Nicole",
+        "middle_name": "",
+        "last_name": "Mastrangelo",
+        "title": "Associate Booking Producer",
+        "location": "United States",
+        "topics": [
+            "Books"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/nicole-mastrangelo"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Saba Hamedy",
+        "first_name": "Saba",
+        "middle_name": "",
+        "last_name": "Hamedy",
+        "title": "Trends Editor",
+        "location": "United States",
+        "topics": [
+            "Apparel"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/saba-hamedy"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Ben Goggin",
+        "first_name": "Ben",
+        "middle_name": "",
+        "last_name": "Goggin",
+        "title": "Deputy Tech Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/ben-goggin-101573"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Aria Bendix",
+        "first_name": "Aria",
+        "middle_name": "",
+        "last_name": "Bendix",
+        "title": "Breaking Health Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Politics",
+            "News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/aria-bendix-138538"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Alicia Victoria Lozano",
+        "first_name": "Alicia",
+        "middle_name": "Victoria",
+        "last_name": "Lozano",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Environment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/alicia-victoria-lozano"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Amita Kelly",
+        "first_name": "Amita",
+        "middle_name": "",
+        "last_name": "Kelly",
+        "title": "Supervising Politics Producer",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/amita-kelly"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Ryan Reilly",
+        "first_name": "Ryan",
+        "middle_name": "",
+        "last_name": "Reilly",
+        "title": "Justice Reporter",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 79,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/ryan-reilly-115587"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Eli Rosenberg",
+        "first_name": "Eli",
+        "middle_name": "",
+        "last_name": "Rosenberg",
+        "title": "Investigative Reporter",
+        "location": "United States",
+        "topics": [
+            "Unions",
+            "Technology"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/eli-rosenberg-263230"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Ali Vitali",
+        "first_name": "Ali",
+        "middle_name": "",
+        "last_name": "Vitali",
+        "title": "Capitol Hill Correspondent",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 79,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/ali-vitali"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Jonathan Lemire",
+        "first_name": "Jonathan",
+        "middle_name": "",
+        "last_name": "Lemire",
+        "title": "Political Analyst",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 79,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jonathan-lemire-69674"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Zach Haberman",
+        "first_name": "Zach",
+        "middle_name": "",
+        "last_name": "Haberman",
+        "title": "Politics Editor",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/zach-haberman"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Rob Wile",
+        "first_name": "Rob",
+        "middle_name": "",
+        "last_name": "Wile",
+        "title": "National Breaking Business News Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "News"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/rob-wile"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Daniel Arkin",
+        "first_name": "Daniel",
+        "middle_name": "",
+        "last_name": "Arkin",
+        "title": "Reporter/Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Music"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/daniel-arkin"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Alex Johnson",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Johnson",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "News",
+            "Politics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/alex-johnson"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Eli Rosenberg",
+        "first_name": "Eli",
+        "middle_name": "",
+        "last_name": "Rosenberg",
+        "title": "Investigative Reporter",
+        "location": "United States",
+        "topics": [
+            "Investigative Reporting",
+            "Unions",
+            "Technology"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/eli-rosenberg-156096"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "David Firestone",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Firestone",
+        "title": "Executive Editor for Digital",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Entertainment",
+            "General Assignment News"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/david-firestone"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Bracey Harris",
+        "first_name": "Bracey",
+        "middle_name": "",
+        "last_name": "Harris",
+        "title": "National Reporter, Enterprise",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/bracey-harris"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Ben Goggin",
+        "first_name": "Ben",
+        "middle_name": "",
+        "last_name": "Goggin",
+        "title": "Deputy Tech Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/ben-goggin"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Lauren Dunn",
+        "first_name": "Lauren",
+        "middle_name": "",
+        "last_name": "Dunn",
+        "title": "Medical & Health Producer",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/lauren-dunn"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Julian Castro",
+        "first_name": "Julian",
+        "middle_name": "",
+        "last_name": "Castro",
+        "title": "Political Analyst",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 86,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/julian-castro"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Denise Chow",
+        "first_name": "Denise",
+        "middle_name": "",
+        "last_name": "Chow",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Science",
+            "Environment"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/denise-chow"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Rehema Ellis",
+        "first_name": "Rehema",
+        "middle_name": "",
+        "last_name": "Ellis",
+        "title": "Education Correspondent",
+        "location": "United States",
+        "topics": [
+            "Education"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/rehema-ellis"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Rashida Jones",
+        "first_name": "Rashida",
+        "middle_name": "",
+        "last_name": "Jones",
+        "title": "Senior Vice President, Specials",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/rashida-jones"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Mili Godio",
+        "first_name": "Mili",
+        "middle_name": "",
+        "last_name": "Godio",
+        "title": "Editorial Assistant",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "House",
+            "Demographics",
+            "Fitness",
+            "Gifts"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/mili-godio"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Kelly Daniel",
+        "first_name": "Kelly",
+        "middle_name": "",
+        "last_name": "Daniel",
+        "title": "Executive Producer",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Entertainment",
+            "General Assignment News",
+            "International News",
+            "National News",
+            "Science",
+            "Sports",
+            "Technology",
+            "News",
+            "Politics"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/kelly-daniel"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Ahiza Garcia",
+        "first_name": "Ahiza",
+        "middle_name": "",
+        "last_name": "Garcia",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "General Assignment News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/ahiza-garcia"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Kimberly Yam",
+        "first_name": "Kimberly",
+        "middle_name": "",
+        "last_name": "Yam",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Demographics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/kimberly-yam"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Tracey Eyers",
+        "first_name": "Tracey",
+        "middle_name": "",
+        "last_name": "Eyers",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Human Rights"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/tracey-eyers"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Rebecca Sinderbrand",
+        "first_name": "Rebecca",
+        "middle_name": "",
+        "last_name": "Sinderbrand",
+        "title": "Senior Washington Editor",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/rebecca-sinderbrand"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Zoe Schiffer",
+        "first_name": "Zoe",
+        "middle_name": "",
+        "last_name": "Schiffer",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/zoe-schiffer"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Yamiche Alcindor",
+        "first_name": "Yamiche",
+        "middle_name": "",
+        "last_name": "Alcindor",
+        "title": "Washington Correspondent",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 87,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/yamiche-alcindor"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Maria Shriver",
+        "first_name": "Maria",
+        "middle_name": "",
+        "last_name": "Shriver",
+        "title": "Special Anchor",
+        "location": "United States",
+        "topics": [
+            "Society"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/maria-shriver"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Austin Mullen",
+        "first_name": "Austin",
+        "middle_name": "",
+        "last_name": "Mullen",
+        "title": "Assignment Editor",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/austin-mullen"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Hasani Gittens",
+        "first_name": "Hasani",
+        "middle_name": "",
+        "last_name": "Gittens",
+        "title": "Senior Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Entertainment",
+            "General Assignment News",
+            "International News",
+            "National News",
+            "Science",
+            "Sports",
+            "Technology",
+            "News",
+            "Politics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/hasani-gittens"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Tim Fitzsimons",
+        "first_name": "Tim",
+        "middle_name": "",
+        "last_name": "Fitzsimons",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "LGBT"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/tim-fitzsimons"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Maia Davis",
+        "first_name": "Maia",
+        "middle_name": "",
+        "last_name": "Davis",
+        "title": "Digital Breaking News Editor",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/maia-davis"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Anna Brand",
+        "first_name": "Anna",
+        "middle_name": "",
+        "last_name": "Brand",
+        "title": "Senior Editor, News Projects",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/anna-brand"
+    },
+    {
+        "company": "nbc-news",
+        "company_url": "nbcnews.com",
+        "name": "Sahil Kapur",
+        "first_name": "Sahil",
+        "middle_name": "",
+        "last_name": "Kapur",
+        "title": "National Politics Reporter",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 81,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/sahil-kapur-253574"
+    }
+]

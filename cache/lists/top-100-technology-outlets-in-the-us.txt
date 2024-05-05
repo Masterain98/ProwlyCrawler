@@ -1,0 +1,502 @@
+[
+    {
+        "name": "BuzzFeed",
+        "url": "https://prowly.com/profiles/outlets/buzzfeed",
+        "influence_score": 91
+    },
+    {
+        "name": "CNN Online",
+        "url": "https://prowly.com/profiles/outlets/cnn-online-350214",
+        "influence_score": 89
+    },
+    {
+        "name": "NBC News",
+        "url": "https://prowly.com/profiles/outlets/nbc-news",
+        "influence_score": 89
+    },
+    {
+        "name": "Variety",
+        "url": "https://prowly.com/profiles/outlets/variety",
+        "influence_score": 89
+    },
+    {
+        "name": "QuickTake by Bloomberg",
+        "url": "https://prowly.com/profiles/outlets/quicktake-by-bloomberg",
+        "influence_score": 85
+    },
+    {
+        "name": "The Verge",
+        "url": "https://prowly.com/profiles/outlets/the-verge",
+        "influence_score": 85
+    },
+    {
+        "name": "Lifehacker",
+        "url": "https://prowly.com/profiles/outlets/lifehacker-143290",
+        "influence_score": 81
+    },
+    {
+        "name": "Ars Technica",
+        "url": "https://prowly.com/profiles/outlets/ars-technica",
+        "influence_score": 81
+    },
+    {
+        "name": "Wired",
+        "url": "https://prowly.com/profiles/outlets/wired-349321",
+        "influence_score": 81
+    },
+    {
+        "name": "MacRumors",
+        "url": "https://prowly.com/profiles/outlets/macrumors-357905",
+        "influence_score": 81
+    },
+    {
+        "name": "U.S. News & World Report",
+        "url": "https://prowly.com/profiles/outlets/u-s-news-world-report",
+        "influence_score": 81
+    },
+    {
+        "name": "Live Science",
+        "url": "https://prowly.com/profiles/outlets/live-science",
+        "influence_score": 79
+    },
+    {
+        "name": "Discovery Channel Online",
+        "url": "https://prowly.com/profiles/outlets/discovery-channel-online",
+        "influence_score": 79
+    },
+    {
+        "name": "Salon",
+        "url": "https://prowly.com/profiles/outlets/salon-120148",
+        "influence_score": 79
+    },
+    {
+        "name": "Salon",
+        "url": "https://prowly.com/profiles/outlets/salon-143529",
+        "influence_score": 79
+    },
+    {
+        "name": "TheStreet",
+        "url": "https://prowly.com/profiles/outlets/thestreet",
+        "influence_score": 79
+    },
+    {
+        "name": "ScienceDaily",
+        "url": "https://prowly.com/profiles/outlets/sciencedaily",
+        "influence_score": 78
+    },
+    {
+        "name": "Phys.org",
+        "url": "https://prowly.com/profiles/outlets/phys-org",
+        "influence_score": 77
+    },
+    {
+        "name": "AppleInsider",
+        "url": "https://prowly.com/profiles/outlets/appleinsider",
+        "influence_score": 77
+    },
+    {
+        "name": "DetroitBORG",
+        "url": "https://prowly.com/profiles/outlets/detroitborg",
+        "influence_score": 77
+    },
+    {
+        "name": "Buffer",
+        "url": "https://prowly.com/profiles/outlets/buffer-322765",
+        "influence_score": 76
+    },
+    {
+        "name": "Jalopnik",
+        "url": "https://prowly.com/profiles/outlets/jalopnik",
+        "influence_score": 76
+    },
+    {
+        "name": "PCWorld",
+        "url": "https://prowly.com/profiles/outlets/pcworld",
+        "influence_score": 76
+    },
+    {
+        "name": "SourceForge",
+        "url": "https://prowly.com/profiles/outlets/sourceforge",
+        "influence_score": 76
+    },
+    {
+        "name": "Tom's Guide",
+        "url": "https://prowly.com/profiles/outlets/tom-s-guide",
+        "influence_score": 75
+    },
+    {
+        "name": "MacRumors",
+        "url": "https://prowly.com/profiles/outlets/macrumors",
+        "influence_score": 75
+    },
+    {
+        "name": "Popular Science",
+        "url": "https://prowly.com/profiles/outlets/popular-science",
+        "influence_score": 74
+    },
+    {
+        "name": "Quartz",
+        "url": "https://prowly.com/profiles/outlets/quartz",
+        "influence_score": 74
+    },
+    {
+        "name": "Salon",
+        "url": "https://prowly.com/profiles/outlets/salon-356668",
+        "influence_score": 74
+    },
+    {
+        "name": "LAist",
+        "url": "https://prowly.com/profiles/outlets/laist",
+        "influence_score": 74
+    },
+    {
+        "name": "Elite Daily",
+        "url": "https://prowly.com/profiles/outlets/elite-daily",
+        "influence_score": 74
+    },
+    {
+        "name": "Thrillist",
+        "url": "https://prowly.com/profiles/outlets/thrillist",
+        "influence_score": 74
+    },
+    {
+        "name": "O'Reilly Media",
+        "url": "https://prowly.com/profiles/outlets/o-reilly-media",
+        "influence_score": 74
+    },
+    {
+        "name": "CNN Tech",
+        "url": "https://prowly.com/profiles/outlets/cnn-tech",
+        "influence_score": 73
+    },
+    {
+        "name": "Soldier Knows Best",
+        "url": "https://prowly.com/profiles/outlets/soldier-knows-best",
+        "influence_score": 72
+    },
+    {
+        "name": "Popular Mechanics",
+        "url": "https://prowly.com/profiles/outlets/popular-mechanics-113416",
+        "influence_score": 72
+    },
+    {
+        "name": "Digital Trends Espa\u00f1ol",
+        "url": "https://prowly.com/profiles/outlets/digital-trends-espanol",
+        "influence_score": 72
+    },
+    {
+        "name": "BGR",
+        "url": "https://prowly.com/profiles/outlets/bgr-111111",
+        "influence_score": 72
+    },
+    {
+        "name": "BGR",
+        "url": "https://prowly.com/profiles/outlets/bgr",
+        "influence_score": 72
+    },
+    {
+        "name": "WSJ Pro: Private-Equity Group",
+        "url": "https://prowly.com/profiles/outlets/wsj-pro-private-equity-group",
+        "influence_score": 71
+    },
+    {
+        "name": "ToastyBros",
+        "url": "https://prowly.com/profiles/outlets/toastybros",
+        "influence_score": 71
+    },
+    {
+        "name": "Popular Mechanics",
+        "url": "https://prowly.com/profiles/outlets/popular-mechanics",
+        "influence_score": 70
+    },
+    {
+        "name": "Digg",
+        "url": "https://prowly.com/profiles/outlets/digg",
+        "influence_score": 69
+    },
+    {
+        "name": "9to5Google",
+        "url": "https://prowly.com/profiles/outlets/9to5google",
+        "influence_score": 69
+    },
+    {
+        "name": "Innovations - The Washington Post",
+        "url": "https://prowly.com/profiles/outlets/innovations-the-washington-post",
+        "influence_score": 69
+    },
+    {
+        "name": "Lifewire",
+        "url": "https://prowly.com/profiles/outlets/lifewire",
+        "influence_score": 69
+    },
+    {
+        "name": "Heavy.com",
+        "url": "https://prowly.com/profiles/outlets/heavy-com",
+        "influence_score": 68
+    },
+    {
+        "name": "Bleeping Computer",
+        "url": "https://prowly.com/profiles/outlets/bleeping-computer",
+        "influence_score": 67
+    },
+    {
+        "name": "The Washington Post",
+        "url": "https://prowly.com/profiles/outlets/the-washington-post",
+        "influence_score": 67
+    },
+    {
+        "name": "Global Citizen (us)",
+        "url": "https://prowly.com/profiles/outlets/global-citizen-us",
+        "influence_score": 67
+    },
+    {
+        "name": "Gawker",
+        "url": "https://prowly.com/profiles/outlets/gawker",
+        "influence_score": 67
+    },
+    {
+        "name": "Futurism",
+        "url": "https://prowly.com/profiles/outlets/futurism",
+        "influence_score": 67
+    },
+    {
+        "name": "Paste",
+        "url": "https://prowly.com/profiles/outlets/paste",
+        "influence_score": 67
+    },
+    {
+        "name": "Download - CNET",
+        "url": "https://prowly.com/profiles/outlets/download-cnet",
+        "influence_score": 66
+    },
+    {
+        "name": "Mind Seed TV",
+        "url": "https://prowly.com/profiles/outlets/mind-seed-tv",
+        "influence_score": 66
+    },
+    {
+        "name": "Techhive.com",
+        "url": "https://prowly.com/profiles/outlets/techhive-com",
+        "influence_score": 66
+    },
+    {
+        "name": "Techhive.com",
+        "url": "https://prowly.com/profiles/outlets/techhive-com-341535",
+        "influence_score": 66
+    },
+    {
+        "name": "LAist",
+        "url": "https://prowly.com/profiles/outlets/laist-350606",
+        "influence_score": 66
+    },
+    {
+        "name": "Food Science and Technology International: SAGE Journals",
+        "url": "https://prowly.com/profiles/outlets/food-science-and-technology-international-sage-journals",
+        "influence_score": 66
+    },
+    {
+        "name": "SlashGear",
+        "url": "https://prowly.com/profiles/outlets/slashgear-120150",
+        "influence_score": 65
+    },
+    {
+        "name": "Newsweek",
+        "url": "https://prowly.com/profiles/outlets/newsweek",
+        "influence_score": 64
+    },
+    {
+        "name": "Creative Cow",
+        "url": "https://prowly.com/profiles/outlets/creative-cow",
+        "influence_score": 64
+    },
+    {
+        "name": "Nerdist News",
+        "url": "https://prowly.com/profiles/outlets/nerdist-news",
+        "influence_score": 64
+    },
+    {
+        "name": "Creative Cow",
+        "url": "https://prowly.com/profiles/outlets/creative-cow-3237",
+        "influence_score": 64
+    },
+    {
+        "name": "BestProducts.com",
+        "url": "https://prowly.com/profiles/outlets/bestproducts-com",
+        "influence_score": 64
+    },
+    {
+        "name": "ARCHITECT",
+        "url": "https://prowly.com/profiles/outlets/architect",
+        "influence_score": 64
+    },
+    {
+        "name": "The Conversation",
+        "url": "https://prowly.com/profiles/outlets/the-conversation",
+        "influence_score": 64
+    },
+    {
+        "name": "On The Air",
+        "url": "https://prowly.com/profiles/outlets/on-the-air",
+        "influence_score": 64
+    },
+    {
+        "name": "The Cheapskate",
+        "url": "https://prowly.com/profiles/outlets/the-cheapskate",
+        "influence_score": 64
+    },
+    {
+        "name": "How-To Geek",
+        "url": "https://prowly.com/profiles/outlets/how-to-geek",
+        "influence_score": 64
+    },
+    {
+        "name": "Business News Daily",
+        "url": "https://prowly.com/profiles/outlets/business-news-daily",
+        "influence_score": 64
+    },
+    {
+        "name": "The Boston Globe Magazine",
+        "url": "https://prowly.com/profiles/outlets/the-boston-globe-magazine",
+        "influence_score": 63
+    },
+    {
+        "name": "Chicago Business Journal Online",
+        "url": "https://prowly.com/profiles/outlets/chicago-business-journal-online-123170",
+        "influence_score": 63
+    },
+    {
+        "name": "Chicago Business Journal Online",
+        "url": "https://prowly.com/profiles/outlets/chicago-business-journal-online",
+        "influence_score": 63
+    },
+    {
+        "name": "NBC News Online - New York Office",
+        "url": "https://prowly.com/profiles/outlets/nbc-news-online-new-york-office",
+        "influence_score": 62
+    },
+    {
+        "name": "Game Informer Magazine",
+        "url": "https://prowly.com/profiles/outlets/game-informer-magazine",
+        "influence_score": 62
+    },
+    {
+        "name": "The Real Deal by RetailMeNot",
+        "url": "https://prowly.com/profiles/outlets/the-real-deal-by-retailmenot",
+        "influence_score": 62
+    },
+    {
+        "name": "Sara Dietschy",
+        "url": "https://prowly.com/profiles/outlets/sara-dietschy",
+        "influence_score": 62
+    },
+    {
+        "name": "The Inquisitr",
+        "url": "https://prowly.com/profiles/outlets/the-inquisitr",
+        "influence_score": 62
+    },
+    {
+        "name": "InsideHook",
+        "url": "https://prowly.com/profiles/outlets/insidehook",
+        "influence_score": 62
+    },
+    {
+        "name": "BetaNews",
+        "url": "https://prowly.com/profiles/outlets/betanews",
+        "influence_score": 62
+    },
+    {
+        "name": "OneZero - Medium",
+        "url": "https://prowly.com/profiles/outlets/onezero-medium",
+        "influence_score": 62
+    },
+    {
+        "name": "CEOWORLD Magazine",
+        "url": "https://prowly.com/profiles/outlets/ceoworld-magazine",
+        "influence_score": 61
+    },
+    {
+        "name": "Slate",
+        "url": "https://prowly.com/profiles/outlets/slate-357663",
+        "influence_score": 61
+    },
+    {
+        "name": "Boston Business Journal Online",
+        "url": "https://prowly.com/profiles/outlets/boston-business-journal-online",
+        "influence_score": 61
+    },
+    {
+        "name": "Connected World",
+        "url": "https://prowly.com/profiles/outlets/connected-world-111131",
+        "influence_score": 60
+    },
+    {
+        "name": "Industry Focus - The Motley Fool",
+        "url": "https://prowly.com/profiles/outlets/industry-focus-the-motley-fool",
+        "influence_score": 60
+    },
+    {
+        "name": "SlashGear",
+        "url": "https://prowly.com/profiles/outlets/slashgear",
+        "influence_score": 60
+    },
+    {
+        "name": "Towleroad",
+        "url": "https://prowly.com/profiles/outlets/towleroad",
+        "influence_score": 59
+    },
+    {
+        "name": "InformIT",
+        "url": "https://prowly.com/profiles/outlets/informit",
+        "influence_score": 59
+    },
+    {
+        "name": "Entrepreneur Online",
+        "url": "https://prowly.com/profiles/outlets/entrepreneur-online",
+        "influence_score": 59
+    },
+    {
+        "name": "Inked Magazine",
+        "url": "https://prowly.com/profiles/outlets/inked-magazine",
+        "influence_score": 59
+    },
+    {
+        "name": "The IT Instructor",
+        "url": "https://prowly.com/profiles/outlets/the-it-instructor",
+        "influence_score": 58
+    },
+    {
+        "name": "The Mac Observer",
+        "url": "https://prowly.com/profiles/outlets/the-mac-observer",
+        "influence_score": 58
+    },
+    {
+        "name": "The IT Instructor",
+        "url": "https://prowly.com/profiles/outlets/the-it-instructor-4503",
+        "influence_score": 58
+    },
+    {
+        "name": "Washington Business Journal Online",
+        "url": "https://prowly.com/profiles/outlets/washington-business-journal-online",
+        "influence_score": 57
+    },
+    {
+        "name": "The Week Online",
+        "url": "https://prowly.com/profiles/outlets/the-week-online",
+        "influence_score": 57
+    },
+    {
+        "name": "Connected World",
+        "url": "https://prowly.com/profiles/outlets/connected-world",
+        "influence_score": 56
+    },
+    {
+        "name": "KDnuggets",
+        "url": "https://prowly.com/profiles/outlets/kdnuggets",
+        "influence_score": 47
+    },
+    {
+        "name": "Buffer",
+        "url": "https://prowly.com/profiles/outlets/buffer",
+        "influence_score": 45
+    }
+]

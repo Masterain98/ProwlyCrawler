@@ -1,0 +1,117 @@
+[
+    {
+        "company": "bestproducts-com",
+        "company_url": "bestproducts.com",
+        "name": "Cat Bowen",
+        "first_name": "Cat",
+        "middle_name": "",
+        "last_name": "Bowen",
+        "title": "Associate Parenting Editor",
+        "location": "United States",
+        "topics": [
+            "Apparel",
+            "Demographics"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/cat-bowen"
+    },
+    {
+        "company": "bestproducts-com",
+        "company_url": "bestproducts.com",
+        "name": "Stefan Vazharov",
+        "first_name": "Stefan",
+        "middle_name": "",
+        "last_name": "Vazharov",
+        "title": "Senior Technology Editor",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Commerce"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/stefan-vazharov"
+    },
+    {
+        "company": "bestproducts-com",
+        "company_url": "bestproducts.com",
+        "name": "Katherine Pittman",
+        "first_name": "Katherine",
+        "middle_name": "",
+        "last_name": "Pittman",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Gifts"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/katherine-pittman"
+    },
+    {
+        "company": "bestproducts-com",
+        "company_url": "bestproducts.com",
+        "name": "Jennifer Hussein",
+        "first_name": "Jennifer",
+        "middle_name": "",
+        "last_name": "Hussein",
+        "title": "Beauty Editor",
+        "location": "United States",
+        "topics": [
+            "Beauty"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/jennifer-hussein"
+    },
+    {
+        "company": "bestproducts-com",
+        "company_url": "bestproducts.com",
+        "name": "Erica Murphy",
+        "first_name": "Erica",
+        "middle_name": "",
+        "last_name": "Murphy",
+        "title": "Director, SEO & Content",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/erica-murphy"
+    },
+    {
+        "company": "bestproducts-com",
+        "company_url": "bestproducts.com",
+        "name": "Brandon Carte",
+        "first_name": "Brandon",
+        "middle_name": "",
+        "last_name": "Carte",
+        "title": "Technology Editor",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Commerce"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/brandon-carte"
+    },
+    {
+        "company": "bestproducts-com",
+        "company_url": "bestproducts.com",
+        "name": "Caitlyn Fitzpatrick",
+        "first_name": "Caitlyn",
+        "middle_name": "",
+        "last_name": "Fitzpatrick",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Social Media"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/caitlyn-fitzpatrick"
+    }
+]

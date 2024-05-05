@@ -1,0 +1,406 @@
+[
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Tara Gonzalez",
+        "first_name": "Tara",
+        "middle_name": "",
+        "last_name": "Gonzalez",
+        "title": "Associate Commerce Editor",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Apparel",
+            "Commerce"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/tara-gonzalez"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Emily Tannenbaum",
+        "first_name": "Emily",
+        "middle_name": "",
+        "last_name": "Tannenbaum",
+        "title": "Weekend Editor",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Celebrities",
+            "Apparel",
+            "Demographics",
+            "Society"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/emily-tannenbaum"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Leah Melby Clinton",
+        "first_name": "Leah",
+        "middle_name": "Melby",
+        "last_name": "Clinton",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Apparel",
+            "Gifts"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/leah-melby-clinton"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Macaela Mackenzie",
+        "first_name": "Macaela",
+        "middle_name": "",
+        "last_name": "Mackenzie",
+        "title": "Senior Editor, Health",
+        "location": "United States",
+        "topics": [
+            "Women's Health"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/macaela-mackenzie"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Samantha Barry",
+        "first_name": "Samantha",
+        "middle_name": "",
+        "last_name": "Barry",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Celebrities",
+            "Apparel",
+            "Demographics",
+            "Society"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/samantha-barry"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Natasha Pearlman",
+        "first_name": "Natasha",
+        "middle_name": "",
+        "last_name": "Pearlman",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Apparel",
+            "Society"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/natasha-pearlman"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Khaliha Hawkins",
+        "first_name": "Khaliha",
+        "middle_name": "",
+        "last_name": "Hawkins",
+        "title": "Producer",
+        "location": "United States",
+        "topics": [
+            "Beauty"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/khaliha-hawkins"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Bella Cacciatore",
+        "first_name": "Bella",
+        "middle_name": "",
+        "last_name": "Cacciatore",
+        "title": "Associate Beauty Editor",
+        "location": "United States",
+        "topics": [
+            "Beauty"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/bella-cacciatore"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Sarah Michelson",
+        "first_name": "Sarah",
+        "middle_name": "",
+        "last_name": "Michelson",
+        "title": "Beauty Assistant",
+        "location": "United States",
+        "topics": [
+            "Beauty"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/sarah-michelson"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Perrie Samotin",
+        "first_name": "Perrie",
+        "middle_name": "",
+        "last_name": "Samotin",
+        "title": "Digital Director",
+        "location": "United States",
+        "topics": [
+            "Apparel"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/perrie-samotin"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Lindsay Schallon",
+        "first_name": "Lindsay",
+        "middle_name": "",
+        "last_name": "Schallon",
+        "title": "Senior Beauty Editor",
+        "location": "United States",
+        "topics": [
+            "Beauty"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/lindsay-schallon"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Talia Abbas",
+        "first_name": "Talia",
+        "middle_name": "",
+        "last_name": "Abbas",
+        "title": "Commerce Writer",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/talia-abbas"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Petra Guglielmetti",
+        "first_name": "Petra",
+        "middle_name": "",
+        "last_name": "Guglielmetti",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Beauty"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/petra-guglielmetti"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Claudia Saide",
+        "first_name": "Claudia",
+        "middle_name": "",
+        "last_name": "Saide",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/claudia-saide"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Erin Parker",
+        "first_name": "Erin",
+        "middle_name": "",
+        "last_name": "Parker",
+        "title": "Commerce & Shopping Writer",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/erin-parker"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Carrie Courogen",
+        "first_name": "Carrie",
+        "middle_name": "",
+        "last_name": "Courogen",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Music",
+            "Media"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/carrie-courogen"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Jessica Radloff",
+        "first_name": "Jessica",
+        "middle_name": "",
+        "last_name": "Radloff",
+        "title": "West Coast Editor",
+        "location": "United States",
+        "topics": [
+            "Media"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jessica-radloff"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Kathleen Thomas",
+        "first_name": "Kathleen",
+        "middle_name": "",
+        "last_name": "Thomas",
+        "title": "Fashion Market Assistant",
+        "location": "United States",
+        "topics": [
+            "Apparel"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/kathleen-thomas"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Mattie Kahn",
+        "first_name": "Mattie",
+        "middle_name": "",
+        "last_name": "Kahn",
+        "title": "Culture Director",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/mattie-kahn"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Christopher Rosa",
+        "first_name": "Christopher",
+        "middle_name": "",
+        "last_name": "Rosa",
+        "title": "Entertainment Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Celebrities"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/christopher-rosa"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Jenny Singer",
+        "first_name": "Jenny",
+        "middle_name": "",
+        "last_name": "Singer",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Entertainment",
+            "Politics"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jenny-singer"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Macaela Mackenzie",
+        "first_name": "Macaela",
+        "middle_name": "",
+        "last_name": "Mackenzie",
+        "title": "Senior Editor, Health & Wellness",
+        "location": "United States",
+        "topics": [
+            "Women's Health"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/macaela-mackenzie-80781"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Halie LeSavage",
+        "first_name": "Halie",
+        "middle_name": "",
+        "last_name": "LeSavage",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Media"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/halie-lesavage-34711"
+    },
+    {
+        "company": "glamour",
+        "company_url": "glamour.com",
+        "name": "Allie Merriam",
+        "first_name": "Allie",
+        "middle_name": "",
+        "last_name": "Merriam",
+        "title": "Senior Director, Video Programming Strategy",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Apparel",
+            "Demographics"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/allie-merriam"
+    }
+]

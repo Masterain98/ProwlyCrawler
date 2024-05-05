@@ -1,0 +1,44 @@
+[
+    {
+        "company": "phys-org",
+        "company_url": "phys.org",
+        "name": "Ingrid Fadelli",
+        "first_name": "Ingrid",
+        "middle_name": "",
+        "last_name": "Fadelli",
+        "title": "Freelance Science and Technology Journalist",
+        "location": "United Kingdom",
+        "topics": [
+            "Computers & Technology",
+            "Electrical",
+            "Internet",
+            "Telecommunications",
+            "PCs/Laptops",
+            "Science",
+            "Windows",
+            "Apple Products"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 77,
+        "url": "https://prowly.com/profiles/journalists/ingrid-fadelli"
+    },
+    {
+        "company": "phys-org",
+        "company_url": "phys.org",
+        "name": "John Benson",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Benson",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Nanotechnology",
+            "Physics",
+            "Science",
+            "Technology"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 77,
+        "url": "https://prowly.com/profiles/journalists/john-benson"
+    }
+]

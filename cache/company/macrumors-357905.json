@@ -1,0 +1,100 @@
+[
+    {
+        "company": "macrumors-357905",
+        "company_url": "macrumors.com",
+        "name": "Joe Rossignol",
+        "first_name": "Joe",
+        "middle_name": "",
+        "last_name": "Rossignol",
+        "title": "Editor",
+        "location": "Canada",
+        "topics": [
+            "Consumer Electronics",
+            "Apple Products"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/joe-rossignol"
+    },
+    {
+        "company": "macrumors-357905",
+        "company_url": "macrumors.com",
+        "name": "Arnold Kim",
+        "first_name": "Arnold",
+        "middle_name": "",
+        "last_name": "Kim",
+        "title": "Editorial Director & Founder",
+        "location": "United States",
+        "topics": [
+            "Apple Products"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/arnold-kim"
+    },
+    {
+        "company": "macrumors-357905",
+        "company_url": "macrumors.com",
+        "name": "Dan Barbera",
+        "first_name": "Dan",
+        "middle_name": "",
+        "last_name": "Barbera",
+        "title": "Video Producer/Content Creator",
+        "location": "United States",
+        "topics": [
+            "Apple Products"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/dan-barbera"
+    },
+    {
+        "company": "macrumors-357905",
+        "company_url": "macrumors.com",
+        "name": "Eric Slivka",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "Slivka",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Apple Products"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/eric-slivka"
+    },
+    {
+        "company": "macrumors-357905",
+        "company_url": "macrumors.com",
+        "name": "Mitchel Broussard",
+        "first_name": "Mitchel",
+        "middle_name": "",
+        "last_name": "Broussard",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Apple Products"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/mitchel-broussard"
+    },
+    {
+        "company": "macrumors-357905",
+        "company_url": "macrumors.com",
+        "name": "Juli Clover",
+        "first_name": "Juli",
+        "middle_name": "",
+        "last_name": "Clover",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Apple Products"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/juli-clover"
+    }
+]

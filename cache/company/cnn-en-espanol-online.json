@@ -1,0 +1,34 @@
+[
+    {
+        "company": "cnn-en-espanol-online",
+        "company_url": "cnnespanol.cnn.com",
+        "name": "Jaqueline Hurtado",
+        "first_name": "Jaqueline",
+        "middle_name": "",
+        "last_name": "Hurtado",
+        "title": "News Correspondent",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/jaqueline-hurtado"
+    },
+    {
+        "company": "cnn-en-espanol-online",
+        "company_url": "cnnespanol.cnn.com",
+        "name": "Juan Andr\u00e9s Mu\u00f1oz",
+        "first_name": "Juan",
+        "middle_name": "Andr\u00e9s",
+        "last_name": "Mu\u00f1oz",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/juan-andres-munoz"
+    }
+]

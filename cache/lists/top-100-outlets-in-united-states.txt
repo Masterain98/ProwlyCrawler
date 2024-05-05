@@ -1,0 +1,502 @@
+[
+    {
+        "name": "BuzzFeed",
+        "url": "https://prowly.com/profiles/outlets/buzzfeed",
+        "influence_score": 91
+    },
+    {
+        "name": "ABC News Online",
+        "url": "https://prowly.com/profiles/outlets/abc-news-online",
+        "influence_score": 89
+    },
+    {
+        "name": "CNN Online",
+        "url": "https://prowly.com/profiles/outlets/cnn-online-350214",
+        "influence_score": 89
+    },
+    {
+        "name": "NBC News",
+        "url": "https://prowly.com/profiles/outlets/nbc-news",
+        "influence_score": 89
+    },
+    {
+        "name": "TMZ.com",
+        "url": "https://prowly.com/profiles/outlets/tmz-com",
+        "influence_score": 89
+    },
+    {
+        "name": "Netflix",
+        "url": "https://prowly.com/profiles/outlets/netflix",
+        "influence_score": 89
+    },
+    {
+        "name": "IGN.com",
+        "url": "https://prowly.com/profiles/outlets/ign-com",
+        "influence_score": 89
+    },
+    {
+        "name": "VICE",
+        "url": "https://prowly.com/profiles/outlets/vice-134553",
+        "influence_score": 89
+    },
+    {
+        "name": "Digital Trends",
+        "url": "https://prowly.com/profiles/outlets/digital-trends",
+        "influence_score": 89
+    },
+    {
+        "name": "Variety",
+        "url": "https://prowly.com/profiles/outlets/variety",
+        "influence_score": 89
+    },
+    {
+        "name": "MarketWatch",
+        "url": "https://prowly.com/profiles/outlets/marketwatch",
+        "influence_score": 87
+    },
+    {
+        "name": "Hulu",
+        "url": "https://prowly.com/profiles/outlets/hulu-356673",
+        "influence_score": 87
+    },
+    {
+        "name": "GameSpot",
+        "url": "https://prowly.com/profiles/outlets/gamespot-359829",
+        "influence_score": 87
+    },
+    {
+        "name": "VICE",
+        "url": "https://prowly.com/profiles/outlets/vice",
+        "influence_score": 87
+    },
+    {
+        "name": "LinkedIn",
+        "url": "https://prowly.com/profiles/outlets/linkedin-359874",
+        "influence_score": 87
+    },
+    {
+        "name": "GameSpot",
+        "url": "https://prowly.com/profiles/outlets/gamespot",
+        "influence_score": 87
+    },
+    {
+        "name": "CNN Business",
+        "url": "https://prowly.com/profiles/outlets/cnn-business",
+        "influence_score": 87
+    },
+    {
+        "name": "The Daily Beast",
+        "url": "https://prowly.com/profiles/outlets/the-daily-beast",
+        "influence_score": 87
+    },
+    {
+        "name": "The New Yorker",
+        "url": "https://prowly.com/profiles/outlets/the-new-yorker",
+        "influence_score": 86
+    },
+    {
+        "name": "The Motley Fool",
+        "url": "https://prowly.com/profiles/outlets/the-motley-fool-350507",
+        "influence_score": 86
+    },
+    {
+        "name": "Medium",
+        "url": "https://prowly.com/profiles/outlets/medium",
+        "influence_score": 85
+    },
+    {
+        "name": "Business Insider",
+        "url": "https://prowly.com/profiles/outlets/business-insider",
+        "influence_score": 85
+    },
+    {
+        "name": "Engadget",
+        "url": "https://prowly.com/profiles/outlets/engadget",
+        "influence_score": 85
+    },
+    {
+        "name": "PBS NewsHour Online",
+        "url": "https://prowly.com/profiles/outlets/pbs-newshour-online",
+        "influence_score": 85
+    },
+    {
+        "name": "NPR Politics Podcast - NPR/National Public Radio",
+        "url": "https://prowly.com/profiles/outlets/npr-politics-podcast-npr-national-public-radio",
+        "influence_score": 85
+    },
+    {
+        "name": "Bethany Mota",
+        "url": "https://prowly.com/profiles/outlets/bethany-mota",
+        "influence_score": 85
+    },
+    {
+        "name": "Insider",
+        "url": "https://prowly.com/profiles/outlets/insider",
+        "influence_score": 85
+    },
+    {
+        "name": "Insider",
+        "url": "https://prowly.com/profiles/outlets/insider-356666",
+        "influence_score": 85
+    },
+    {
+        "name": "Business Insider",
+        "url": "https://prowly.com/profiles/outlets/business-insider-80324",
+        "influence_score": 85
+    },
+    {
+        "name": "GamesRadar+",
+        "url": "https://prowly.com/profiles/outlets/gamesradar-586718",
+        "influence_score": 85
+    },
+    {
+        "name": "Meredith Foster",
+        "url": "https://prowly.com/profiles/outlets/meredith-foster",
+        "influence_score": 85
+    },
+    {
+        "name": "Ingrid Nilsen - missglamorazzi",
+        "url": "https://prowly.com/profiles/outlets/ingrid-nilsen-missglamorazzi",
+        "influence_score": 85
+    },
+    {
+        "name": "WebMD.com",
+        "url": "https://prowly.com/profiles/outlets/webmd-com",
+        "influence_score": 85
+    },
+    {
+        "name": "Capital Weather Gang - The Washington Post",
+        "url": "https://prowly.com/profiles/outlets/capital-weather-gang-the-washington-post",
+        "influence_score": 85
+    },
+    {
+        "name": "GamesRadar+",
+        "url": "https://prowly.com/profiles/outlets/gamesradar",
+        "influence_score": 85
+    },
+    {
+        "name": "Business Insider",
+        "url": "https://prowly.com/profiles/outlets/business-insider-81841",
+        "influence_score": 85
+    },
+    {
+        "name": "First Take - ESPN",
+        "url": "https://prowly.com/profiles/outlets/first-take-espn",
+        "influence_score": 85
+    },
+    {
+        "name": "Rotten Tomatoes",
+        "url": "https://prowly.com/profiles/outlets/rotten-tomatoes",
+        "influence_score": 85
+    },
+    {
+        "name": "Pinterest",
+        "url": "https://prowly.com/profiles/outlets/pinterest",
+        "influence_score": 85
+    },
+    {
+        "name": "QuickTake by Bloomberg",
+        "url": "https://prowly.com/profiles/outlets/quicktake-by-bloomberg",
+        "influence_score": 85
+    },
+    {
+        "name": "The The New Yorker",
+        "url": "https://prowly.com/profiles/outlets/the-the-new-yorker",
+        "influence_score": 84
+    },
+    {
+        "name": "The Motley Fool",
+        "url": "https://prowly.com/profiles/outlets/the-motley-fool",
+        "influence_score": 84
+    },
+    {
+        "name": "reddit",
+        "url": "https://prowly.com/profiles/outlets/reddit-2631",
+        "influence_score": 84
+    },
+    {
+        "name": "reddit",
+        "url": "https://prowly.com/profiles/outlets/reddit",
+        "influence_score": 84
+    },
+    {
+        "name": "Well - The New York Times",
+        "url": "https://prowly.com/profiles/outlets/well-the-new-york-times",
+        "influence_score": 84
+    },
+    {
+        "name": "AccuWeather Online",
+        "url": "https://prowly.com/profiles/outlets/accuweather-online",
+        "influence_score": 84
+    },
+    {
+        "name": "Fast Company Online",
+        "url": "https://prowly.com/profiles/outlets/fast-company-online-29580",
+        "influence_score": 84
+    },
+    {
+        "name": "The Daily Beast",
+        "url": "https://prowly.com/profiles/outlets/the-daily-beast-349838",
+        "influence_score": 84
+    },
+    {
+        "name": "Fast Company Online",
+        "url": "https://prowly.com/profiles/outlets/fast-company-online",
+        "influence_score": 84
+    },
+    {
+        "name": "Shots - NPR/National Public Radio",
+        "url": "https://prowly.com/profiles/outlets/shots-npr-national-public-radio",
+        "influence_score": 83
+    },
+    {
+        "name": "Makeuplocalypse",
+        "url": "https://prowly.com/profiles/outlets/makeuplocalypse",
+        "influence_score": 83
+    },
+    {
+        "name": "Lonely Planet",
+        "url": "https://prowly.com/profiles/outlets/lonely-planet",
+        "influence_score": 82
+    },
+    {
+        "name": "CNN en Espa\u00f1ol Online",
+        "url": "https://prowly.com/profiles/outlets/cnn-en-espanol-online",
+        "influence_score": 82
+    },
+    {
+        "name": "allkpop",
+        "url": "https://prowly.com/profiles/outlets/allkpop",
+        "influence_score": 82
+    },
+    {
+        "name": "NHL.com",
+        "url": "https://prowly.com/profiles/outlets/nhl-com",
+        "influence_score": 82
+    },
+    {
+        "name": "MLB.com",
+        "url": "https://prowly.com/profiles/outlets/mlb-com",
+        "influence_score": 82
+    },
+    {
+        "name": "NBA.com",
+        "url": "https://prowly.com/profiles/outlets/nba-com",
+        "influence_score": 82
+    },
+    {
+        "name": "Fandom",
+        "url": "https://prowly.com/profiles/outlets/fandom",
+        "influence_score": 82
+    },
+    {
+        "name": "SmoshGames",
+        "url": "https://prowly.com/profiles/outlets/smoshgames",
+        "influence_score": 82
+    },
+    {
+        "name": "Wikipedia",
+        "url": "https://prowly.com/profiles/outlets/wikipedia",
+        "influence_score": 82
+    },
+    {
+        "name": "B&H Photo and Video",
+        "url": "https://prowly.com/profiles/outlets/b-h-photo-and-video",
+        "influence_score": 82
+    },
+    {
+        "name": "Hulu",
+        "url": "https://prowly.com/profiles/outlets/hulu",
+        "influence_score": 82
+    },
+    {
+        "name": "Only in Boston",
+        "url": "https://prowly.com/profiles/outlets/only-in-boston",
+        "influence_score": 82
+    },
+    {
+        "name": "Glamour",
+        "url": "https://prowly.com/profiles/outlets/glamour",
+        "influence_score": 81
+    },
+    {
+        "name": "Sports Illustrated",
+        "url": "https://prowly.com/profiles/outlets/sports-illustrated",
+        "influence_score": 81
+    },
+    {
+        "name": "Habitat World",
+        "url": "https://prowly.com/profiles/outlets/habitat-world",
+        "influence_score": 81
+    },
+    {
+        "name": "Complex",
+        "url": "https://prowly.com/profiles/outlets/complex",
+        "influence_score": 81
+    },
+    {
+        "name": "Ars Technica",
+        "url": "https://prowly.com/profiles/outlets/ars-technica",
+        "influence_score": 81
+    },
+    {
+        "name": "The Cut - New York",
+        "url": "https://prowly.com/profiles/outlets/the-cut-new-york",
+        "influence_score": 81
+    },
+    {
+        "name": "Android Central",
+        "url": "https://prowly.com/profiles/outlets/android-central",
+        "influence_score": 81
+    },
+    {
+        "name": "Seventeen",
+        "url": "https://prowly.com/profiles/outlets/seventeen",
+        "influence_score": 81
+    },
+    {
+        "name": "BuzzFeed News",
+        "url": "https://prowly.com/profiles/outlets/buzzfeed-news",
+        "influence_score": 81
+    },
+    {
+        "name": "Lifehacker",
+        "url": "https://prowly.com/profiles/outlets/lifehacker-143290",
+        "influence_score": 81
+    },
+    {
+        "name": "TVGuide.com",
+        "url": "https://prowly.com/profiles/outlets/tvguide-com",
+        "influence_score": 81
+    },
+    {
+        "name": "Kotaku",
+        "url": "https://prowly.com/profiles/outlets/kotaku",
+        "influence_score": 81
+    },
+    {
+        "name": "CBSSports.com",
+        "url": "https://prowly.com/profiles/outlets/cbssports-com",
+        "influence_score": 81
+    },
+    {
+        "name": "Health",
+        "url": "https://prowly.com/profiles/outlets/health-350222",
+        "influence_score": 81
+    },
+    {
+        "name": "PCMag.com",
+        "url": "https://prowly.com/profiles/outlets/pcmag-com",
+        "influence_score": 81
+    },
+    {
+        "name": "Windows Central",
+        "url": "https://prowly.com/profiles/outlets/windows-central",
+        "influence_score": 81
+    },
+    {
+        "name": "Mad Money with Jim Cramer Online - CNBC Cable Network",
+        "url": "https://prowly.com/profiles/outlets/mad-money-with-jim-cramer-online-cnbc-cable-network",
+        "influence_score": 81
+    },
+    {
+        "name": "Daily Mail - MailOnline US Bureau",
+        "url": "https://prowly.com/profiles/outlets/daily-mail-mailonline-us-bureau",
+        "influence_score": 81
+    },
+    {
+        "name": "Wired",
+        "url": "https://prowly.com/profiles/outlets/wired-349321",
+        "influence_score": 81
+    },
+    {
+        "name": "The Onion",
+        "url": "https://prowly.com/profiles/outlets/the-onion-345324",
+        "influence_score": 81
+    },
+    {
+        "name": "Martha Stewart Living",
+        "url": "https://prowly.com/profiles/outlets/martha-stewart-living",
+        "influence_score": 79
+    },
+    {
+        "name": "Gizmodo",
+        "url": "https://prowly.com/profiles/outlets/gizmodo",
+        "influence_score": 79
+    },
+    {
+        "name": "Cosmopolitan",
+        "url": "https://prowly.com/profiles/outlets/cosmopolitan",
+        "influence_score": 79
+    },
+    {
+        "name": "Teen VOGUE",
+        "url": "https://prowly.com/profiles/outlets/teen-vogue",
+        "influence_score": 79
+    },
+    {
+        "name": "Pitchfork",
+        "url": "https://prowly.com/profiles/outlets/pitchfork",
+        "influence_score": 79
+    },
+    {
+        "name": "PGATOUR.com",
+        "url": "https://prowly.com/profiles/outlets/pgatour-com",
+        "influence_score": 79
+    },
+    {
+        "name": "Live Science",
+        "url": "https://prowly.com/profiles/outlets/live-science",
+        "influence_score": 79
+    },
+    {
+        "name": "Food & Wine",
+        "url": "https://prowly.com/profiles/outlets/food-wine-52045",
+        "influence_score": 79
+    },
+    {
+        "name": "FOX Business Network Online",
+        "url": "https://prowly.com/profiles/outlets/fox-business-network-online",
+        "influence_score": 79
+    },
+    {
+        "name": "The  Shutterstock Blog",
+        "url": "https://prowly.com/profiles/outlets/the-shutterstock-blog",
+        "influence_score": 77
+    },
+    {
+        "name": "Travel + Leisure",
+        "url": "https://prowly.com/profiles/outlets/travel-leisure",
+        "influence_score": 76
+    },
+    {
+        "name": "Los Angeles Times Online",
+        "url": "https://prowly.com/profiles/outlets/los-angeles-times-online",
+        "influence_score": 64
+    },
+    {
+        "name": "On The Air",
+        "url": "https://prowly.com/profiles/outlets/on-the-air",
+        "influence_score": 64
+    },
+    {
+        "name": "CNN International Online",
+        "url": "https://prowly.com/profiles/outlets/cnn-international-online",
+        "influence_score": 62
+    },
+    {
+        "name": "deviantART",
+        "url": "https://prowly.com/profiles/outlets/deviantart",
+        "influence_score": 62
+    },
+    {
+        "name": "NVIDIA",
+        "url": "https://prowly.com/profiles/outlets/nvidia",
+        "influence_score": 62
+    },
+    {
+        "name": "LinkedIn",
+        "url": "https://prowly.com/profiles/outlets/linkedin",
+        "influence_score": 62
+    }
+]

@@ -1,0 +1,183 @@
+[
+    {
+        "company": "linkedin-359874",
+        "company_url": "linkedin.com",
+        "name": "Caroline Fairchild",
+        "first_name": "Caroline",
+        "middle_name": "",
+        "last_name": "Fairchild",
+        "title": "Editor at Large",
+        "location": "United States",
+        "topics": [
+            "Workplace"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/caroline-fairchild"
+    },
+    {
+        "company": "linkedin-359874",
+        "company_url": "linkedin.com",
+        "name": "Andrew Seaman",
+        "first_name": "Andrew",
+        "middle_name": "",
+        "last_name": "Seaman",
+        "title": "News Editor",
+        "location": "United States",
+        "topics": [
+            "Careers"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/andrew-seaman"
+    },
+    {
+        "company": "linkedin-359874",
+        "company_url": "linkedin.com",
+        "name": "Victoria Taylor",
+        "first_name": "Victoria",
+        "middle_name": "",
+        "last_name": "Taylor",
+        "title": "Community Editor",
+        "location": "United States",
+        "topics": [
+            "Careers"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/victoria-taylor"
+    },
+    {
+        "company": "linkedin-359874",
+        "company_url": "linkedin.com",
+        "name": "Beth Kutscher",
+        "first_name": "Beth",
+        "middle_name": "",
+        "last_name": "Kutscher",
+        "title": "Senior News Editor - Segments",
+        "location": "United States",
+        "topics": [
+            "Careers"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/beth-kutscher"
+    },
+    {
+        "company": "linkedin-359874",
+        "company_url": "linkedin.com",
+        "name": "John Abell",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Abell",
+        "title": "Managing Editor, News",
+        "location": "United States",
+        "topics": [
+            "Careers"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/john-abell"
+    },
+    {
+        "company": "linkedin-359874",
+        "company_url": "linkedin.com",
+        "name": "Florencia Iriondo",
+        "first_name": "Florencia",
+        "middle_name": "",
+        "last_name": "Iriondo",
+        "title": "Head of Original Video / Senior Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/florencia-iriondo"
+    },
+    {
+        "company": "linkedin-359874",
+        "company_url": "linkedin.com",
+        "name": "Joseph Milord",
+        "first_name": "Joseph",
+        "middle_name": "",
+        "last_name": "Milord",
+        "title": "News Editor, Frontline Workers & Athletes",
+        "location": "United States",
+        "topics": [
+            "Food",
+            "Commerce"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/joseph-milord"
+    },
+    {
+        "company": "linkedin-359874",
+        "company_url": "linkedin.com",
+        "name": "Tequia Burt",
+        "first_name": "Tequia",
+        "middle_name": "",
+        "last_name": "Burt",
+        "title": "Editor, Blogs & Social Media",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Careers",
+            "Marketing",
+            "Workplace",
+            "Education"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/tequia-burt"
+    },
+    {
+        "company": "linkedin-359874",
+        "company_url": "linkedin.com",
+        "name": "Devin Banerjee",
+        "first_name": "Devin",
+        "middle_name": "",
+        "last_name": "Banerjee",
+        "title": "Senior Financial Services Editor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/devin-banerjee"
+    },
+    {
+        "company": "linkedin-359874",
+        "company_url": "linkedin.com",
+        "name": "Daniel Roth",
+        "first_name": "Daniel",
+        "middle_name": "",
+        "last_name": "Roth",
+        "title": "Editor In Chief, VP",
+        "location": "United States",
+        "topics": [
+            "Careers"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/daniel-roth"
+    },
+    {
+        "company": "linkedin-359874",
+        "company_url": "linkedin.com",
+        "name": "Devin Banerjee",
+        "first_name": "Devin",
+        "middle_name": "",
+        "last_name": "Banerjee",
+        "title": "Editor at Large, Business & Finance",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/devin-banerjee-797790"
+    }
+]

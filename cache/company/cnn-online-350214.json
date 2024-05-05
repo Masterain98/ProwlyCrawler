@@ -1,0 +1,1615 @@
+[
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Kristen Rogers",
+        "first_name": "Kristen",
+        "middle_name": "",
+        "last_name": "Rogers",
+        "title": "Digital Features Reporter",
+        "location": "United States",
+        "topics": [
+            "Features/Lifestyle"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/kristen-rogers-10192"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Rob Picheta",
+        "first_name": "Rob",
+        "middle_name": "",
+        "last_name": "Picheta",
+        "title": "Digital Producer",
+        "location": "United Kingdom",
+        "topics": [
+            "International News",
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/rob-picheta"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Mike Toppo",
+        "first_name": "Mike",
+        "middle_name": "",
+        "last_name": "Toppo",
+        "title": "Vice President(Video Programming)/Senior Editorial Director",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/mike-toppo"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Philip Gast",
+        "first_name": "Philip",
+        "middle_name": "",
+        "last_name": "Gast",
+        "title": "Senior News Editor",
+        "location": "United States",
+        "topics": [
+            "International News",
+            "National News",
+            "News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/philip-gast"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Pat Wiedenkeller",
+        "first_name": "Pat",
+        "middle_name": "",
+        "last_name": "Wiedenkeller",
+        "title": "Senior Opinion Section Editor",
+        "location": "United States",
+        "topics": [
+            "Editorial Page"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/pat-wiedenkeller"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "John Blake",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Blake",
+        "title": "Writer, CNN Enterprise Team",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Features/Lifestyle",
+            "Religion",
+            "Politics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/john-blake"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Jen Christensen",
+        "first_name": "Jen",
+        "middle_name": "",
+        "last_name": "Christensen",
+        "title": "Reporter and Writer",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Environment"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jen-christensen"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Brian Ries",
+        "first_name": "Brian",
+        "middle_name": "",
+        "last_name": "Ries",
+        "title": "Senior Editor, Breaking News",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/brian-ries"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Jane Carr",
+        "first_name": "Jane",
+        "middle_name": "",
+        "last_name": "Carr",
+        "title": "Opinion Editor & Producer",
+        "location": "United States",
+        "topics": [
+            "Editorial Page"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jane-carr"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Andrew Morse",
+        "first_name": "Andrew",
+        "middle_name": "",
+        "last_name": "Morse",
+        "title": "Executive Vice President & Chief Digital Officer",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/andrew-morse-57550"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Alisha Ebrahimji",
+        "first_name": "Alisha",
+        "middle_name": "",
+        "last_name": "Ebrahimji",
+        "title": "Social Discovery Producer and Journalist",
+        "location": "United States",
+        "topics": [
+            "Foreign Affairs",
+            "Politics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/alisha-ebrahimji"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Ford Vox",
+        "first_name": "Ford",
+        "middle_name": "",
+        "last_name": "Vox",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/ford-vox"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Roxanne Jones",
+        "first_name": "Roxanne",
+        "middle_name": "",
+        "last_name": "Jones",
+        "title": "Opinion Columnist",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Editorial Page",
+            "Sports"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/roxanne-jones"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Dakin Andone",
+        "first_name": "Dakin",
+        "middle_name": "",
+        "last_name": "Andone",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "National News",
+            "News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/dakin-andone"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Tricia Escobedo",
+        "first_name": "Tricia",
+        "middle_name": "",
+        "last_name": "Escobedo",
+        "title": "Supervising Producer",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Entertainment",
+            "Food"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/tricia-escobedo"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Gisela Crespo",
+        "first_name": "Gisela",
+        "middle_name": "",
+        "last_name": "Crespo",
+        "title": "Associate Producer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/gisela-crespo"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Melissa Gray",
+        "first_name": "Melissa",
+        "middle_name": "",
+        "last_name": "Gray",
+        "title": "Digital News Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Entertainment"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/melissa-gray"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Yaffa Fredrick",
+        "first_name": "Yaffa",
+        "middle_name": "",
+        "last_name": "Fredrick",
+        "title": "Opinion Producer",
+        "location": "United States",
+        "topics": [
+            "Editorial Page"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/yaffa-fredrick"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Nick Scott",
+        "first_name": "Nick",
+        "middle_name": "",
+        "last_name": "Scott",
+        "title": "Producer II",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/nick-scott"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Sarah Aarthun",
+        "first_name": "Sarah",
+        "middle_name": "",
+        "last_name": "Aarthun",
+        "title": "Managing Editor, Digital National News",
+        "location": "United States",
+        "topics": [
+            "National News",
+            "News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/sarah-aarthun"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Dalila-Johari Paul",
+        "first_name": "Dalila-Johari",
+        "middle_name": "",
+        "last_name": "Paul",
+        "title": "Digital News Editor",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/dalila-johari-paul"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Jon Sarlin",
+        "first_name": "Jon",
+        "middle_name": "",
+        "last_name": "Sarlin",
+        "title": "Producer",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jon-sarlin"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Catherine Shoichet",
+        "first_name": "Catherine",
+        "middle_name": "",
+        "last_name": "Shoichet",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Demographics",
+            "Immigration"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/catherine-shoichet"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Suzanne Presto",
+        "first_name": "Suzanne",
+        "middle_name": "",
+        "last_name": "Presto",
+        "title": "Planning Editor",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/suzanne-presto"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Wes Little",
+        "first_name": "Wes",
+        "middle_name": "",
+        "last_name": "Little",
+        "title": "Editor / Producer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/wes-little"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Mark Thompson",
+        "first_name": "Mark",
+        "middle_name": "",
+        "last_name": "Thompson",
+        "title": "International Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Food"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/mark-thompson"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Samantha Guff",
+        "first_name": "Samantha",
+        "middle_name": "",
+        "last_name": "Guff",
+        "title": "Producer II",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/samantha-guff"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Isabelle Chapman",
+        "first_name": "Isabelle",
+        "middle_name": "",
+        "last_name": "Chapman",
+        "title": "Social Producer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/isabelle-chapman"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Leah Asmelash",
+        "first_name": "Leah",
+        "middle_name": "",
+        "last_name": "Asmelash",
+        "title": "Associate Writer, Trends and Culture",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "General Assignment News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/leah-asmelash"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Zach Wade",
+        "first_name": "Zach",
+        "middle_name": "",
+        "last_name": "Wade",
+        "title": "Senior Programming Producer",
+        "location": "United States",
+        "topics": [
+            "International News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/zach-wade"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Brandon Griggs",
+        "first_name": "Brandon",
+        "middle_name": "",
+        "last_name": "Griggs",
+        "title": "Senior Producer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/brandon-griggs"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Elizabeth Cohen",
+        "first_name": "Elizabeth",
+        "middle_name": "",
+        "last_name": "Cohen",
+        "title": "Senior Medical Correspondent",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/elizabeth-cohen"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Meredith Artley",
+        "first_name": "Meredith",
+        "middle_name": "",
+        "last_name": "Artley",
+        "title": "Editor in Chief and Senior Vice President",
+        "location": "United States",
+        "topics": [
+            "International News"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/meredith-artley"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Jason Kurtz",
+        "first_name": "Jason",
+        "middle_name": "",
+        "last_name": "Kurtz",
+        "title": "Producer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Politics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jason-kurtz"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Aaron Cooper",
+        "first_name": "Aaron",
+        "middle_name": "",
+        "last_name": "Cooper",
+        "title": "Producer",
+        "location": "United States",
+        "topics": [
+            "Crime",
+            "Politics",
+            "Defense & Military"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/aaron-cooper"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Eric Levenson",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "Levenson",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Crime",
+            "Immigration",
+            "News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/eric-levenson"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "John Sutter",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Sutter",
+        "title": "Senior Investigative Reporter",
+        "location": "United States",
+        "topics": [
+            "Investigative Reporting"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/john-sutter"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Holly Yan",
+        "first_name": "Holly",
+        "middle_name": "",
+        "last_name": "Yan",
+        "title": "Senior News Writer & Editor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "International News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/holly-yan"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Cassie Spodak",
+        "first_name": "Cassie",
+        "middle_name": "",
+        "last_name": "Spodak",
+        "title": "Senior Producer, Digital Video Politics",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/cassie-spodak"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Judson Jones",
+        "first_name": "Judson",
+        "middle_name": "",
+        "last_name": "Jones",
+        "title": "Digital Weather Producer/Meteorologist/Photographer",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/judson-jones"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Holly Yan",
+        "first_name": "Holly",
+        "middle_name": "",
+        "last_name": "Yan",
+        "title": "Senior News Writer & Editor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "International News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/holly-yan-14259"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Steve Almasy",
+        "first_name": "Steve",
+        "middle_name": "",
+        "last_name": "Almasy",
+        "title": "Digital News Writer",
+        "location": "United States",
+        "topics": [
+            "Crime",
+            "International News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/steve-almasy"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Richard Galant",
+        "first_name": "Richard",
+        "middle_name": "",
+        "last_name": "Galant",
+        "title": "Managing Editor, Opinion",
+        "location": "United States",
+        "topics": [
+            "Editorial Page"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/richard-galant"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Veronica Rocha",
+        "first_name": "Veronica",
+        "middle_name": "",
+        "last_name": "Rocha",
+        "title": "Breaking News Editor",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/veronica-rocha"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Natasha Chen",
+        "first_name": "Natasha",
+        "middle_name": "",
+        "last_name": "Chen",
+        "title": "National Correspondent",
+        "location": "United States",
+        "topics": [
+            "Crime",
+            "Immigration",
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/natasha-chen"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Cristina Alesci",
+        "first_name": "Cristina",
+        "middle_name": "",
+        "last_name": "Alesci",
+        "title": "Business & Politics Correspondent",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/cristina-alesci"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Christina Walker",
+        "first_name": "Christina",
+        "middle_name": "",
+        "last_name": "Walker",
+        "title": "Digital News Editor",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/christina-walker"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Marcus Mabry",
+        "first_name": "Marcus",
+        "middle_name": "",
+        "last_name": "Mabry",
+        "title": "Vice President, Global News Programming",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/marcus-mabry"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Amanda Wills",
+        "first_name": "Amanda",
+        "middle_name": "",
+        "last_name": "Wills",
+        "title": "Executive Producer, Breaking News",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/amanda-wills"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "AJ Willingham",
+        "first_name": "AJ",
+        "middle_name": "",
+        "last_name": "Willingham",
+        "title": "Senior Trends & Culture Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "National News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/aj-willingham-1450"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Vanessa Yurkevich",
+        "first_name": "Vanessa",
+        "middle_name": "",
+        "last_name": "Yurkevich",
+        "title": "Business & Politics Correspondent",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Politics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/vanessa-yurkevich"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Ashley Fantz",
+        "first_name": "Ashley",
+        "middle_name": "",
+        "last_name": "Fantz",
+        "title": "Investigative Reporter",
+        "location": "United States",
+        "topics": [
+            "Crime",
+            "Investigative Reporting"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/ashley-fantz"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Mitra Kalita",
+        "first_name": "Mitra",
+        "middle_name": "",
+        "last_name": "Kalita",
+        "title": "Vice President of Programmi ng",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/mitra-kalita"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Leinz Vales",
+        "first_name": "Leinz",
+        "middle_name": "",
+        "last_name": "Vales",
+        "title": "Digital Producer",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/leinz-vales"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Meera Senthilingam",
+        "first_name": "Meera",
+        "middle_name": "",
+        "last_name": "Senthilingam",
+        "title": "Digital Health Editor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/meera-senthilingam-45533"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Kristen Rogers",
+        "first_name": "Kristen",
+        "middle_name": "",
+        "last_name": "Rogers",
+        "title": "Associate Writer",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Health & Medicine",
+            "Science",
+            "Travel"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/kristen-rogers-444382"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Faith Karimi",
+        "first_name": "Faith",
+        "middle_name": "",
+        "last_name": "Karimi",
+        "title": "Weekend/Newsdesk Editor and Digital Senior Writer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "News"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/faith-karimi"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Gabe Ramirez",
+        "first_name": "Gabe",
+        "middle_name": "",
+        "last_name": "Ramirez",
+        "title": "Senior Producer, CNN Digital",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/gabe-ramirez"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Rachel Smolkin",
+        "first_name": "Rachel",
+        "middle_name": "",
+        "last_name": "Smolkin",
+        "title": "Vice President and Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/rachel-smolkin"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Faye Chiu",
+        "first_name": "Faye",
+        "middle_name": "",
+        "last_name": "Chiu",
+        "title": "Editor, Newsletters",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Health & Medicine",
+            "Science",
+            "Space Exploration"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/faye-chiu"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Melissa Mahtani",
+        "first_name": "Melissa",
+        "middle_name": "",
+        "last_name": "Mahtani",
+        "title": "Senior Producer/Reporter",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/melissa-mahtani"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Stephen Mays",
+        "first_name": "Stephen",
+        "middle_name": "",
+        "last_name": "Mays",
+        "title": "Associate Producer, Digital Programming",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/stephen-mays"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Jacque Smith",
+        "first_name": "Jacque",
+        "middle_name": "",
+        "last_name": "Smith",
+        "title": "Supervising Producer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jacque-smith"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Madeleine Stix",
+        "first_name": "Madeleine",
+        "middle_name": "",
+        "last_name": "Stix",
+        "title": "Digital Video Producer",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/madeleine-stix"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Vanessa Yurkevich",
+        "first_name": "Vanessa",
+        "middle_name": "",
+        "last_name": "Yurkevich",
+        "title": "Business & Politics Correspondent",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Politics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/vanessa-yurkevich-823176"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Marnie Hunter",
+        "first_name": "Marnie",
+        "middle_name": "",
+        "last_name": "Hunter",
+        "title": "Senior Producer",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/marnie-hunter"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Jill Martin",
+        "first_name": "Jill",
+        "middle_name": "",
+        "last_name": "Martin",
+        "title": "Sports News Editor",
+        "location": "United States",
+        "topics": [
+            "Baseball",
+            "Sports"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jill-martin-76613"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Madeline Holcombe",
+        "first_name": "Madeline",
+        "middle_name": "",
+        "last_name": "Holcombe",
+        "title": "Associate Writer",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/madeline-holcombe"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Matt Gannon",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Gannon",
+        "title": "Producer",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/matt-gannon"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Scottie Andrew",
+        "first_name": "Scottie",
+        "middle_name": "",
+        "last_name": "Andrew",
+        "title": "Associate Writer, Trends & Culture",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/scottie-andrew"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Ray Sanchez",
+        "first_name": "Ray",
+        "middle_name": "",
+        "last_name": "Sanchez",
+        "title": "Producer, Digital Editor and Senior Writer",
+        "location": "United States",
+        "topics": [
+            "International News",
+            "National News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/ray-sanchez"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Tim Lister",
+        "first_name": "Tim",
+        "middle_name": "",
+        "last_name": "Lister",
+        "title": "Producer and Contributing Writer",
+        "location": "Spain",
+        "topics": [
+            "Foreign Affairs",
+            "International News",
+            "Defense & Military"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/tim-lister"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Thomas Lake",
+        "first_name": "Thomas",
+        "middle_name": "",
+        "last_name": "Lake",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Politics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/thomas-lake"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Jamie Gumbrecht",
+        "first_name": "Jamie",
+        "middle_name": "",
+        "last_name": "Gumbrecht",
+        "title": "Supervising Editor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jamie-gumbrecht"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Edward Meagher",
+        "first_name": "Edward",
+        "middle_name": "",
+        "last_name": "Meagher",
+        "title": "Weekend Programming Manager",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/edward-meagher"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Dan Berman",
+        "first_name": "Dan",
+        "middle_name": "",
+        "last_name": "Berman",
+        "title": "Assistant Managing Editor, CNN Politics",
+        "location": "United States",
+        "topics": [
+            "Foreign Affairs",
+            "Politics",
+            "Immigration"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/dan-berman"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Jason Hanna",
+        "first_name": "Jason",
+        "middle_name": "",
+        "last_name": "Hanna",
+        "title": "Digital News Journalist",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "News"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jason-hanna"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Chris Boyette",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Boyette",
+        "title": "National News Editor",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/chris-boyette-15479"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Eliott McLaughlin",
+        "first_name": "Eliott",
+        "middle_name": "",
+        "last_name": "McLaughlin",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 76,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/eliott-mclaughlin"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "David Williams",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Williams",
+        "title": "Community Manager",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/david-williams"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Melissa Macaya",
+        "first_name": "Melissa",
+        "middle_name": "",
+        "last_name": "Macaya",
+        "title": "Live News Editor",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/melissa-macaya"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Tierney Sneed",
+        "first_name": "Tierney",
+        "middle_name": "",
+        "last_name": "Sneed",
+        "title": "Digital Writer",
+        "location": "United States",
+        "topics": [
+            "Politics",
+            "Law"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/tierney-sneed"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Cullen Daly",
+        "first_name": "Cullen",
+        "middle_name": "",
+        "last_name": "Daly",
+        "title": "Executive Producer",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/cullen-daly"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Justin Lear",
+        "first_name": "Justin",
+        "middle_name": "",
+        "last_name": "Lear",
+        "title": "Senior Director of Social Discovery",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 69,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/justin-lear"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Chris Boyette",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Boyette",
+        "title": "National News Editor",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/chris-boyette"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Lisa Respers France",
+        "first_name": "Lisa",
+        "middle_name": "Respers",
+        "last_name": "France",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/lisa-respers-france"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Ronnie Glassberg",
+        "first_name": "Ronnie",
+        "middle_name": "",
+        "last_name": "Glassberg",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "General Assignment News",
+            "Technology"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/ronnie-glassberg"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Kristen Rogers",
+        "first_name": "Kristen",
+        "middle_name": "",
+        "last_name": "Rogers",
+        "title": "Digital Features Reporter",
+        "location": "United States",
+        "topics": [
+            "Features/Lifestyle"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/kristen-rogers"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Umaro Djau",
+        "first_name": "Umaro",
+        "middle_name": "",
+        "last_name": "Djau",
+        "title": "Cross Platform Producer & International Desk News Editor",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/umaro-djau"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Drew Kann",
+        "first_name": "Drew",
+        "middle_name": "",
+        "last_name": "Kann",
+        "title": "Producer",
+        "location": "United States",
+        "topics": [
+            "Environment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/drew-kann"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Saeed Ahmed",
+        "first_name": "Saeed",
+        "middle_name": "",
+        "last_name": "Ahmed",
+        "title": "Assistant Managing Editor, National Culture, Trends & Enterprise",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Features/Lifestyle",
+            "News"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/saeed-ahmed-1382"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Matt Dornic",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Dornic",
+        "title": "Head of Strategic Communications",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/matt-dornic"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Deblina Chakraborty",
+        "first_name": "Deblina",
+        "middle_name": "",
+        "last_name": "Chakraborty",
+        "title": "Section Editor",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Health & Medicine",
+            "Science",
+            "Entertainment",
+            "Travel",
+            "Space Exploration"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/deblina-chakraborty"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Keith Allen",
+        "first_name": "Keith",
+        "middle_name": "",
+        "last_name": "Allen",
+        "title": "Senior News Editor",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/keith-allen"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Joseph Dugan",
+        "first_name": "Joseph",
+        "middle_name": "",
+        "last_name": "Dugan",
+        "title": "Senior Vice President, Sales & Client Partnerships",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/joseph-dugan"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Katia Hetter",
+        "first_name": "Katia",
+        "middle_name": "",
+        "last_name": "Hetter",
+        "title": "Senior Editor, Science and Wellness",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Science"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/katia-hetter"
+    },
+    {
+        "company": "cnn-online-350214",
+        "company_url": "cnn.com",
+        "name": "Eric Ferrell",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "Ferrell",
+        "title": "Video Manager and Digital Media Coordinator",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/eric-ferrell"
+    }
+]

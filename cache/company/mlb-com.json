@@ -1,0 +1,313 @@
+[
+    {
+        "company": "mlb-com",
+        "company_url": "mlb.com",
+        "name": "Mark Feinsand",
+        "first_name": "Mark",
+        "middle_name": "",
+        "last_name": "Feinsand",
+        "title": "Executive Reporter",
+        "location": "United States",
+        "topics": [
+            "Baseball"
+        ],
+        "influence_score": 76,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/mark-feinsand"
+    },
+    {
+        "company": "mlb-com",
+        "company_url": "mlb.com",
+        "name": "Sarah Langs",
+        "first_name": "Sarah",
+        "middle_name": "",
+        "last_name": "Langs",
+        "title": "Researcher / Reporter",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 74,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/sarah-langs"
+    },
+    {
+        "company": "mlb-com",
+        "company_url": "mlb.com",
+        "name": "Daniel Kramer",
+        "first_name": "Daniel",
+        "middle_name": "",
+        "last_name": "Kramer",
+        "title": "Club Reporter",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/daniel-kramer"
+    },
+    {
+        "company": "mlb-com",
+        "company_url": "mlb.com",
+        "name": "Jessica Camerato",
+        "first_name": "Jessica",
+        "middle_name": "",
+        "last_name": "Camerato",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/jessica-camerato"
+    },
+    {
+        "company": "mlb-com",
+        "company_url": "mlb.com",
+        "name": "Jenifer Langosch",
+        "first_name": "Jenifer",
+        "middle_name": "",
+        "last_name": "Langosch",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/jenifer-langosch"
+    },
+    {
+        "company": "mlb-com",
+        "company_url": "mlb.com",
+        "name": "Matt Monagan",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Monagan",
+        "title": "Editor / Writer / Reporter",
+        "location": "United States",
+        "topics": [
+            "Sports",
+            "Travel"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/matt-monagan"
+    },
+    {
+        "company": "mlb-com",
+        "company_url": "mlb.com",
+        "name": "Thomas Harding",
+        "first_name": "Thomas",
+        "middle_name": "",
+        "last_name": "Harding",
+        "title": "Sports Reporter",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/thomas-harding"
+    },
+    {
+        "company": "mlb-com",
+        "company_url": "mlb.com",
+        "name": "Richard Justice",
+        "first_name": "Richard",
+        "middle_name": "",
+        "last_name": "Justice",
+        "title": "Correspondent",
+        "location": "United States",
+        "topics": [
+            "Baseball",
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/richard-justice"
+    },
+    {
+        "company": "mlb-com",
+        "company_url": "mlb.com",
+        "name": "Keegan Matheson",
+        "first_name": "Keegan",
+        "middle_name": "",
+        "last_name": "Matheson",
+        "title": "Toronto Blue Jays Reporter",
+        "location": "Canada",
+        "topics": [
+            "Baseball"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/keegan-matheson"
+    },
+    {
+        "company": "mlb-com",
+        "company_url": "mlb.com",
+        "name": "Mark Bowman",
+        "first_name": "Mark",
+        "middle_name": "",
+        "last_name": "Bowman",
+        "title": "Braves Beat Writer",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 74,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/mark-bowman"
+    },
+    {
+        "company": "mlb-com",
+        "company_url": "mlb.com",
+        "name": "Maria Isabel Guardado",
+        "first_name": "Maria",
+        "middle_name": "Isabel",
+        "last_name": "Guardado",
+        "title": "Giants Beat Reporter /  Writer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/maria-isabel-guardado"
+    },
+    {
+        "company": "mlb-com",
+        "company_url": "mlb.com",
+        "name": "Steve Gilbert",
+        "first_name": "Steve",
+        "middle_name": "",
+        "last_name": "Gilbert",
+        "title": "D-Backs Beat Writer/Reporter",
+        "location": "United States",
+        "topics": [
+            "Baseball",
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/steve-gilbert"
+    },
+    {
+        "company": "mlb-com",
+        "company_url": "mlb.com",
+        "name": "Todd Zolecki",
+        "first_name": "Todd",
+        "middle_name": "",
+        "last_name": "Zolecki",
+        "title": "Phillies Beat Writer",
+        "location": "United States",
+        "topics": [
+            "Baseball",
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/todd-zolecki"
+    },
+    {
+        "company": "mlb-com",
+        "company_url": "mlb.com",
+        "name": "Jonathan Mayo",
+        "first_name": "Jonathan",
+        "middle_name": "",
+        "last_name": "Mayo",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/jonathan-mayo"
+    },
+    {
+        "company": "mlb-com",
+        "company_url": "mlb.com",
+        "name": "Scott Merkin",
+        "first_name": "Scott",
+        "middle_name": "",
+        "last_name": "Merkin",
+        "title": "White Sox Beat Writer",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/scott-merkin"
+    },
+    {
+        "company": "mlb-com",
+        "company_url": "mlb.com",
+        "name": "Mike Petriello",
+        "first_name": "Mike",
+        "middle_name": "",
+        "last_name": "Petriello",
+        "title": "Host & Baseball Writer & Stats Analyst",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/mike-petriello"
+    },
+    {
+        "company": "mlb-com",
+        "company_url": "mlb.com",
+        "name": "Bryan Hoch",
+        "first_name": "Bryan",
+        "middle_name": "",
+        "last_name": "Hoch",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Baseball",
+            "Sports"
+        ],
+        "influence_score": 76,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/bryan-hoch"
+    },
+    {
+        "company": "mlb-com",
+        "company_url": "mlb.com",
+        "name": "Will Leitch",
+        "first_name": "Will",
+        "middle_name": "",
+        "last_name": "Leitch",
+        "title": "Columnist",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/will-leitch"
+    },
+    {
+        "company": "mlb-com",
+        "company_url": "mlb.com",
+        "name": "Brian McTaggart",
+        "first_name": "Brian",
+        "middle_name": "",
+        "last_name": "McTaggart",
+        "title": "Astros Beat Reporter",
+        "location": "United States",
+        "topics": [
+            "Baseball",
+            "Sports"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/brian-mctaggart"
+    }
+]

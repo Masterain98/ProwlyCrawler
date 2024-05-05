@@ -1,0 +1,101 @@
+[
+    {
+        "company": "lifehacker-143290",
+        "company_url": "lifehacker.com",
+        "name": "Beth Skwarecki",
+        "first_name": "Beth",
+        "middle_name": "",
+        "last_name": "Skwarecki",
+        "title": "Senior Health Editor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Nutrition"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/beth-skwarecki"
+    },
+    {
+        "company": "lifehacker-143290",
+        "company_url": "lifehacker.com",
+        "name": "Beth Skwarecki",
+        "first_name": "Beth",
+        "middle_name": "",
+        "last_name": "Skwarecki",
+        "title": "Senior Health Editor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Nutrition"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/beth-skwarecki-229351"
+    },
+    {
+        "company": "lifehacker-143290",
+        "company_url": "lifehacker.com",
+        "name": "Reema Prabhakar",
+        "first_name": "Reema",
+        "middle_name": "",
+        "last_name": "Prabhakar",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Demographics",
+            "Food"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/reema-prabhakar"
+    },
+    {
+        "company": "lifehacker-143290",
+        "company_url": "lifehacker.com",
+        "name": "Claire Lower",
+        "first_name": "Claire",
+        "middle_name": "",
+        "last_name": "Lower",
+        "title": "Senior Food Editor",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/claire-lower"
+    },
+    {
+        "company": "lifehacker-143290",
+        "company_url": "lifehacker.com",
+        "name": "Imani Bashir",
+        "first_name": "Imani",
+        "middle_name": "",
+        "last_name": "Bashir",
+        "title": "Contributing Travel Writer",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/imani-bashir"
+    },
+    {
+        "company": "lifehacker-143290",
+        "company_url": "lifehacker.com",
+        "name": "Meghan Moravcik Walbert",
+        "first_name": "Meghan",
+        "middle_name": "Moravcik",
+        "last_name": "Walbert",
+        "title": "Parenting Editor",
+        "location": "United States",
+        "topics": [
+            "Demographics"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/meghan-moravcik-walbert"
+    }
+]

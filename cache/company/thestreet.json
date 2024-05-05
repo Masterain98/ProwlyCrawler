@@ -1,0 +1,311 @@
+[
+    {
+        "company": "thestreet",
+        "company_url": "thestreet.com",
+        "name": "Jim Cramer",
+        "first_name": "Jim",
+        "middle_name": "",
+        "last_name": "Cramer",
+        "title": "Founder & Blogger",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 84,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/jim-cramer"
+    },
+    {
+        "company": "thestreet",
+        "company_url": "thestreet.com",
+        "name": "Anuz Thapa",
+        "first_name": "Anuz",
+        "middle_name": "",
+        "last_name": "Thapa",
+        "title": "Video Producer",
+        "location": "United States",
+        "topics": [
+            "Recruiting",
+            "General Assignment News",
+            "Social Media"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/anuz-thapa"
+    },
+    {
+        "company": "thestreet",
+        "company_url": "thestreet.com",
+        "name": "Rob Lenihan",
+        "first_name": "Rob",
+        "middle_name": "",
+        "last_name": "Lenihan",
+        "title": "Reporter/Writer",
+        "location": "United States",
+        "topics": [
+            "Automobiles",
+            "Technology"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/rob-lenihan-433005"
+    },
+    {
+        "company": "thestreet",
+        "company_url": "thestreet.com",
+        "name": "Colette Bennett",
+        "first_name": "Colette",
+        "middle_name": "",
+        "last_name": "Bennett",
+        "title": "Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "Commerce",
+            "Finance & Banking Services",
+            "Travel"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/colette-bennett-253537"
+    },
+    {
+        "company": "thestreet",
+        "company_url": "thestreet.com",
+        "name": "James Deporre",
+        "first_name": "James",
+        "middle_name": "",
+        "last_name": "Deporre",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/james-deporre"
+    },
+    {
+        "company": "thestreet",
+        "company_url": "thestreet.com",
+        "name": "Scott Rutt",
+        "first_name": "Scott",
+        "middle_name": "",
+        "last_name": "Rutt",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/scott-rutt"
+    },
+    {
+        "company": "thestreet",
+        "company_url": "thestreet.com",
+        "name": "Bruce Kamich",
+        "first_name": "Bruce",
+        "middle_name": "",
+        "last_name": "Kamich",
+        "title": "Technical Analyst",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/bruce-kamich"
+    },
+    {
+        "company": "thestreet",
+        "company_url": "thestreet.com",
+        "name": "Rob Lenihan",
+        "first_name": "Rob",
+        "middle_name": "",
+        "last_name": "Lenihan",
+        "title": "Writer- Reporter",
+        "location": "United States",
+        "topics": [
+            "Automobiles",
+            "Technology"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/rob-lenihan-264373"
+    },
+    {
+        "company": "thestreet",
+        "company_url": "thestreet.com",
+        "name": "Chris Nolter",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Nolter",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Media",
+            "Computers & Technology",
+            "Telecommunications"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/chris-nolter"
+    },
+    {
+        "company": "thestreet",
+        "company_url": "thestreet.com",
+        "name": "Eric Reed",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "Reed",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Finance & Banking Services",
+            "Travel",
+            "Economic Development"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/eric-reed"
+    },
+    {
+        "company": "thestreet",
+        "company_url": "thestreet.com",
+        "name": "Veronika Bondarenko",
+        "first_name": "Veronika",
+        "middle_name": "",
+        "last_name": "Bondarenko",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Travel",
+            "Finance & Banking Services",
+            "News"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/veronika-bondarenko"
+    },
+    {
+        "company": "thestreet",
+        "company_url": "thestreet.com",
+        "name": "Tom Bemis",
+        "first_name": "Tom",
+        "middle_name": "",
+        "last_name": "Bemis",
+        "title": "West Coast Editor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/tom-bemis"
+    },
+    {
+        "company": "thestreet",
+        "company_url": "thestreet.com",
+        "name": "Brian O'Connell",
+        "first_name": "Brian",
+        "middle_name": "",
+        "last_name": "O'Connell",
+        "title": "Writer/Content Producer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Real Estate"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/brian-o-connell"
+    },
+    {
+        "company": "thestreet",
+        "company_url": "thestreet.com",
+        "name": "Helene Meisler",
+        "first_name": "Helene",
+        "middle_name": "",
+        "last_name": "Meisler",
+        "title": "Columnist",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/helene-meisler"
+    },
+    {
+        "company": "thestreet",
+        "company_url": "thestreet.com",
+        "name": "Eric Jhonsa",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "Jhonsa",
+        "title": "Technology Columnist",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/eric-jhonsa"
+    },
+    {
+        "company": "thestreet",
+        "company_url": "thestreet.com",
+        "name": "Katherine Ross",
+        "first_name": "Katherine",
+        "middle_name": "",
+        "last_name": "Ross",
+        "title": "Video Correspondent & Host",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Computers & Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/katherine-ross"
+    },
+    {
+        "company": "thestreet",
+        "company_url": "thestreet.com",
+        "name": "Bret Kenwell",
+        "first_name": "Bret",
+        "middle_name": "",
+        "last_name": "Kenwell",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Automobiles",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/bret-kenwell"
+    },
+    {
+        "company": "thestreet",
+        "company_url": "thestreet.com",
+        "name": "Rob Lenihan",
+        "first_name": "Rob",
+        "middle_name": "",
+        "last_name": "Lenihan",
+        "title": "Reporter/Writer",
+        "location": "United States",
+        "topics": [
+            "Automobiles",
+            "Technology"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/rob-lenihan"
+    }
+]

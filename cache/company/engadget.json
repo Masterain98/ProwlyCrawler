@@ -1,0 +1,525 @@
+[
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Igor Bonifacic",
+        "first_name": "Igor",
+        "middle_name": "",
+        "last_name": "Bonifacic",
+        "title": "Contributor",
+        "location": "Canada",
+        "topics": [
+            "Consumer Electronics",
+            "Computers & Technology",
+            "Technology"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/igor-bonifacic"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Mat Smith",
+        "first_name": "Mat",
+        "middle_name": "",
+        "last_name": "Smith",
+        "title": "Bureau Chief, UK",
+        "location": "United Kingdom",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 69,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/mat-smith"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Nicole Lee",
+        "first_name": "Nicole",
+        "middle_name": "",
+        "last_name": "Lee",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Internet",
+            "Commerce",
+            "Technology"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/nicole-lee"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Daniel Cooper",
+        "first_name": "Daniel",
+        "middle_name": "",
+        "last_name": "Cooper",
+        "title": "Senior Editor",
+        "location": "United Kingdom",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 69,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/daniel-cooper"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Kris Naudus",
+        "first_name": "Kris",
+        "middle_name": "",
+        "last_name": "Naudus",
+        "title": "Buyer's Guide Editor",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/kris-naudus"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Jessica Conditt",
+        "first_name": "Jessica",
+        "middle_name": "",
+        "last_name": "Conditt",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/jessica-conditt"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Violet Blue",
+        "first_name": "Violet",
+        "middle_name": "",
+        "last_name": "Blue",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Computers & Technology",
+            "Social Media",
+            "Mobile"
+        ],
+        "influence_score": 76,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/violet-blue"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Devindra Hardawar",
+        "first_name": "Devindra",
+        "middle_name": "",
+        "last_name": "Hardawar",
+        "title": "Senior Editor/Blogger",
+        "location": "United States",
+        "topics": [
+            "Commerce",
+            "PCs/Laptops",
+            "Technology"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/devindra-hardawar-88205"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Avery Menegus",
+        "first_name": "Avery",
+        "middle_name": "",
+        "last_name": "Menegus",
+        "title": "Labor Reporter / Senior News Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Technology"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/avery-menegus"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Valentina Palladino",
+        "first_name": "Valentina",
+        "middle_name": "",
+        "last_name": "Palladino",
+        "title": "Commerce Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Commerce"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/valentina-palladino"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Sam Rutherford",
+        "first_name": "Sam",
+        "middle_name": "",
+        "last_name": "Rutherford",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/sam-rutherford-114952"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Nicole Lee",
+        "first_name": "Nicole",
+        "middle_name": "",
+        "last_name": "Lee",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Internet",
+            "Commerce",
+            "Technology"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/nicole-lee-244146"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Richard Lai",
+        "first_name": "Richard",
+        "middle_name": "",
+        "last_name": "Lai",
+        "title": "Senior Editor",
+        "location": "Hong Kong",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/richard-lai"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Michael Morris",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Morris",
+        "title": "Head of Social Media and Senior Digital Producer",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Computers & Technology",
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/michael-morris-18408"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Cherlynn Low",
+        "first_name": "Cherlynn",
+        "middle_name": "",
+        "last_name": "Low",
+        "title": "Reviews Editor",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/cherlynn-low"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Brian Oh",
+        "first_name": "Brian",
+        "middle_name": "",
+        "last_name": "Oh",
+        "title": "Executive Producer, Video",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Computers & Technology",
+            "Technology"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/brian-oh"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Amber Bouman",
+        "first_name": "Amber",
+        "middle_name": "",
+        "last_name": "Bouman",
+        "title": "Community Content Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/amber-bouman"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "James Trew",
+        "first_name": "James",
+        "middle_name": "",
+        "last_name": "Trew",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/james-trew"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Jon Fingas",
+        "first_name": "Jon",
+        "middle_name": "",
+        "last_name": "Fingas",
+        "title": "Associate Editor",
+        "location": "Canada",
+        "topics": [
+            "Technology",
+            "Politics"
+        ],
+        "influence_score": 69,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/jon-fingas"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Nathan Ingraham",
+        "first_name": "Nathan",
+        "middle_name": "",
+        "last_name": "Ingraham",
+        "title": "Deputy Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/nathan-ingraham-240813"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Chris Schodt",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Schodt",
+        "title": "Video Producer",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/chris-schodt"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Terrence O'Brien",
+        "first_name": "Terrence",
+        "middle_name": "",
+        "last_name": "O'Brien",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/terrence-o-brien"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Nicole Lee",
+        "first_name": "Nicole",
+        "middle_name": "",
+        "last_name": "Lee",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Internet",
+            "Commerce",
+            "Technology"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/nicole-lee-219612"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Nathan Ingraham",
+        "first_name": "Nathan",
+        "middle_name": "",
+        "last_name": "Ingraham",
+        "title": "Deputy Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/nathan-ingraham"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Jon Turi",
+        "first_name": "Jon",
+        "middle_name": "",
+        "last_name": "Turi",
+        "title": "Homepage Editor",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/jon-turi"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Aaron Souppouris",
+        "first_name": "Aaron",
+        "middle_name": "",
+        "last_name": "Souppouris",
+        "title": "Executive Editor",
+        "location": "United Kingdom",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 69,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/aaron-souppouris"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Adam Morath",
+        "first_name": "Adam",
+        "middle_name": "",
+        "last_name": "Morath",
+        "title": "Senior Director & General Manager",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/adam-morath"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Billy Steele",
+        "first_name": "Billy",
+        "middle_name": "",
+        "last_name": "Steele",
+        "title": "Senior News Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Technology",
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/billy-steele"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Dana Wollman",
+        "first_name": "Dana",
+        "middle_name": "",
+        "last_name": "Wollman",
+        "title": "Editor-in-Chief",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/dana-wollman"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Tony Sala",
+        "first_name": "Tony",
+        "middle_name": "",
+        "last_name": "Sala",
+        "title": "Director of Sales",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/tony-sala"
+    },
+    {
+        "company": "engadget",
+        "company_url": "engadget.com",
+        "name": "Devindra Hardawar",
+        "first_name": "Devindra",
+        "middle_name": "",
+        "last_name": "Hardawar",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/devindra-hardawar"
+    }
+]

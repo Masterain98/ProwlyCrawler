@@ -1,0 +1,115 @@
+[
+    {
+        "company": "business-news-daily",
+        "company_url": "businessnewsdaily.com",
+        "name": "Kiely Kuligowski",
+        "first_name": "Kiely",
+        "middle_name": "",
+        "last_name": "Kuligowski",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/kiely-kuligowski"
+    },
+    {
+        "company": "business-news-daily",
+        "company_url": "businessnewsdaily.com",
+        "name": "Adam C. Uzialko",
+        "first_name": "Adam",
+        "middle_name": "C.",
+        "last_name": "Uzialko",
+        "title": "Freelance Editor",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/adam-c-uzialko"
+    },
+    {
+        "company": "business-news-daily",
+        "company_url": "businessnewsdaily.com",
+        "name": "Eric Noe",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "Noe",
+        "title": "Vice President of Content and Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/eric-noe"
+    },
+    {
+        "company": "business-news-daily",
+        "company_url": "businessnewsdaily.com",
+        "name": "Chad Brooks",
+        "first_name": "Chad",
+        "middle_name": "",
+        "last_name": "Brooks",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/chad-brooks"
+    },
+    {
+        "company": "business-news-daily",
+        "company_url": "businessnewsdaily.com",
+        "name": "Joshua Stowers",
+        "first_name": "Joshua",
+        "middle_name": "",
+        "last_name": "Stowers",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 52,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/joshua-stowers"
+    },
+    {
+        "company": "business-news-daily",
+        "company_url": "businessnewsdaily.com",
+        "name": "Paula Fernandes",
+        "first_name": "Paula",
+        "middle_name": "",
+        "last_name": "Fernandes",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 52,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/paula-fernandes"
+    },
+    {
+        "company": "business-news-daily",
+        "company_url": "businessnewsdaily.com",
+        "name": "Mona Bushnell",
+        "first_name": "Mona",
+        "middle_name": "",
+        "last_name": "Bushnell",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Technology"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/mona-bushnell"
+    }
+]

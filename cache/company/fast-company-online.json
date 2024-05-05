@@ -1,0 +1,285 @@
+[
+    {
+        "company": "fast-company-online",
+        "company_url": "fastcompany.com",
+        "name": "Art Markman",
+        "first_name": "Art",
+        "middle_name": "",
+        "last_name": "Markman",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Demographics",
+            "Health & Medicine",
+            "Workplace"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/art-markman-431684"
+    },
+    {
+        "company": "fast-company-online",
+        "company_url": "fastcompany.com",
+        "name": "Arianne Cohen",
+        "first_name": "Arianne",
+        "middle_name": "",
+        "last_name": "Cohen",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Careers",
+            "Internet",
+            "Workplace"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/arianne-cohen"
+    },
+    {
+        "company": "fast-company-online",
+        "company_url": "fastcompany.com",
+        "name": "Judith Humphrey",
+        "first_name": "Judith",
+        "middle_name": "",
+        "last_name": "Humphrey",
+        "title": "Columnist",
+        "location": "Canada",
+        "topics": [
+            "Workplace"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/judith-humphrey"
+    },
+    {
+        "company": "fast-company-online",
+        "company_url": "fastcompany.com",
+        "name": "Morgan Clendaniel",
+        "first_name": "Morgan",
+        "middle_name": "",
+        "last_name": "Clendaniel",
+        "title": "Senior Editor, Digital",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Careers",
+            "Internet",
+            "Workplace"
+        ],
+        "influence_score": 28,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/morgan-clendaniel"
+    },
+    {
+        "company": "fast-company-online",
+        "company_url": "fastcompany.com",
+        "name": "Anett Grant",
+        "first_name": "Anett",
+        "middle_name": "",
+        "last_name": "Grant",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Workplace"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/anett-grant"
+    },
+    {
+        "company": "fast-company-online",
+        "company_url": "fastcompany.com",
+        "name": "Ximena Vengoechea",
+        "first_name": "Ximena",
+        "middle_name": "",
+        "last_name": "Vengoechea",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Workplace"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/ximena-vengoechea"
+    },
+    {
+        "company": "fast-company-online",
+        "company_url": "fastcompany.com",
+        "name": "John Townsend",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Townsend",
+        "title": "Social Media Producer & Writer",
+        "location": "United States",
+        "topics": [
+            "Environment",
+            "Society",
+            "Social Media"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/john-townsend"
+    },
+    {
+        "company": "fast-company-online",
+        "company_url": "fastcompany.com",
+        "name": "Benjamin Landy",
+        "first_name": "Benjamin",
+        "middle_name": "",
+        "last_name": "Landy",
+        "title": "Executive Editor, Digital",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/benjamin-landy"
+    },
+    {
+        "company": "fast-company-online",
+        "company_url": "fastcompany.com",
+        "name": "Kathleen Davis",
+        "first_name": "Kathleen",
+        "middle_name": "",
+        "last_name": "Davis",
+        "title": "Deputy Editor",
+        "location": "United States",
+        "topics": [
+            "Demographics",
+            "Workplace"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/kathleen-davis"
+    },
+    {
+        "company": "fast-company-online",
+        "company_url": "fastcompany.com",
+        "name": "Alex Pasternack",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Pasternack",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Science",
+            "Technology"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/alex-pasternack"
+    },
+    {
+        "company": "fast-company-online",
+        "company_url": "fastcompany.com",
+        "name": "Art Markman",
+        "first_name": "Art",
+        "middle_name": "",
+        "last_name": "Markman",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Demographics",
+            "Health & Medicine",
+            "Workplace"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/art-markman"
+    },
+    {
+        "company": "fast-company-online",
+        "company_url": "fastcompany.com",
+        "name": "Arianna O'Dell",
+        "first_name": "Arianna",
+        "middle_name": "",
+        "last_name": "O'Dell",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Electrical",
+            "Music",
+            "Travel"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/arianna-o-dell"
+    },
+    {
+        "company": "fast-company-online",
+        "company_url": "fastcompany.com",
+        "name": "Art Markman",
+        "first_name": "Art",
+        "middle_name": "",
+        "last_name": "Markman",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Demographics",
+            "Health & Medicine",
+            "Workplace"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/art-markman-8622"
+    },
+    {
+        "company": "fast-company-online",
+        "company_url": "fastcompany.com",
+        "name": "Rick Wartzman",
+        "first_name": "Rick",
+        "middle_name": "",
+        "last_name": "Wartzman",
+        "title": "Contribor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Technology"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/rick-wartzman"
+    },
+    {
+        "company": "fast-company-online",
+        "company_url": "fastcompany.com",
+        "name": "Susan Karlin",
+        "first_name": "Susan",
+        "middle_name": "",
+        "last_name": "Karlin",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "Advertising",
+            "Entertainment",
+            "Marketing",
+            "Computers & Technology"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/susan-karlin"
+    },
+    {
+        "company": "fast-company-online",
+        "company_url": "fastcompany.com",
+        "name": "John Paul Titlow",
+        "first_name": "John",
+        "middle_name": "Paul",
+        "last_name": "Titlow",
+        "title": "Freelance Journalist",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Health & Medicine",
+            "Music",
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/john-paul-titlow"
+    }
+]

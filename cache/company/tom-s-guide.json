@@ -1,0 +1,293 @@
+[
+    {
+        "company": "tom-s-guide",
+        "company_url": "tomsguide.com",
+        "name": "Kate Kozuch",
+        "first_name": "Kate",
+        "middle_name": "",
+        "last_name": "Kozuch",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Computers & Technology",
+            "Social Media"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 75,
+        "url": "https://prowly.com/profiles/journalists/kate-kozuch"
+    },
+    {
+        "company": "tom-s-guide",
+        "company_url": "tomsguide.com",
+        "name": "Craig Goldstein",
+        "first_name": "Craig",
+        "middle_name": "",
+        "last_name": "Goldstein",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Technology",
+            "Video Games"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 75,
+        "url": "https://prowly.com/profiles/journalists/craig-goldstein"
+    },
+    {
+        "company": "tom-s-guide",
+        "company_url": "tomsguide.com",
+        "name": "Matthew Murray",
+        "first_name": "Matthew",
+        "middle_name": "",
+        "last_name": "Murray",
+        "title": "Head of Testing & Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 75,
+        "url": "https://prowly.com/profiles/journalists/matthew-murray"
+    },
+    {
+        "company": "tom-s-guide",
+        "company_url": "tomsguide.com",
+        "name": "Michael Prospero",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Prospero",
+        "title": "Deputy Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Entertainment",
+            "Commerce"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 75,
+        "url": "https://prowly.com/profiles/journalists/michael-prospero"
+    },
+    {
+        "company": "tom-s-guide",
+        "company_url": "tomsguide.com",
+        "name": "Alex Bracetti",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Bracetti",
+        "title": "Freelance Editor (Audio)",
+        "location": "United States",
+        "topics": [
+            "Engineering"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 75,
+        "url": "https://prowly.com/profiles/journalists/alex-bracetti"
+    },
+    {
+        "company": "tom-s-guide",
+        "company_url": "tomsguide.com",
+        "name": "Imad Khan",
+        "first_name": "Imad",
+        "middle_name": "",
+        "last_name": "Khan",
+        "title": "News Editor",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Video Games",
+            "Online Gaming",
+            "Mobile"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 75,
+        "url": "https://prowly.com/profiles/journalists/imad-khan"
+    },
+    {
+        "company": "tom-s-guide",
+        "company_url": "tomsguide.com",
+        "name": "Philip Michaels",
+        "first_name": "Philip",
+        "middle_name": "",
+        "last_name": "Michaels",
+        "title": "Senior Group Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Telecommunications"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 75,
+        "url": "https://prowly.com/profiles/journalists/philip-michaels"
+    },
+    {
+        "company": "tom-s-guide",
+        "company_url": "tomsguide.com",
+        "name": "Michael Prospero",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Prospero",
+        "title": "Deputy Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Commerce"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 75,
+        "url": "https://prowly.com/profiles/journalists/michael-prospero-205454"
+    },
+    {
+        "company": "tom-s-guide",
+        "company_url": "tomsguide.com",
+        "name": "Phillip Tracy",
+        "first_name": "Phillip",
+        "middle_name": "",
+        "last_name": "Tracy",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Commerce",
+            "PCs/Laptops",
+            "Technology"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 75,
+        "url": "https://prowly.com/profiles/journalists/phillip-tracy"
+    },
+    {
+        "company": "tom-s-guide",
+        "company_url": "tomsguide.com",
+        "name": "Henry T. Casey",
+        "first_name": "Henry",
+        "middle_name": "T.",
+        "last_name": "Casey",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Consumer Electronics",
+            "PCs/Laptops",
+            "Technology"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 75,
+        "url": "https://prowly.com/profiles/journalists/henry-t-casey"
+    },
+    {
+        "company": "tom-s-guide",
+        "company_url": "tomsguide.com",
+        "name": "Paul Wagenseil",
+        "first_name": "Paul",
+        "middle_name": "",
+        "last_name": "Wagenseil",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 75,
+        "url": "https://prowly.com/profiles/journalists/paul-wagenseil"
+    },
+    {
+        "company": "tom-s-guide",
+        "company_url": "tomsguide.com",
+        "name": "Lee Dunkley",
+        "first_name": "Lee",
+        "middle_name": "",
+        "last_name": "Dunkley",
+        "title": "Audio Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 75,
+        "url": "https://prowly.com/profiles/journalists/lee-dunkley"
+    },
+    {
+        "company": "tom-s-guide",
+        "company_url": "tomsguide.com",
+        "name": "Hilda Scott",
+        "first_name": "Hilda",
+        "middle_name": "",
+        "last_name": "Scott",
+        "title": "Deals Writer / Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 75,
+        "url": "https://prowly.com/profiles/journalists/hilda-scott-147556"
+    },
+    {
+        "company": "tom-s-guide",
+        "company_url": "tomsguide.com",
+        "name": "Hilda Scott",
+        "first_name": "Hilda",
+        "middle_name": "",
+        "last_name": "Scott",
+        "title": "Deals Writer",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 75,
+        "url": "https://prowly.com/profiles/journalists/hilda-scott"
+    },
+    {
+        "company": "tom-s-guide",
+        "company_url": "tomsguide.com",
+        "name": "Henry Casey",
+        "first_name": "Henry",
+        "middle_name": "",
+        "last_name": "Casey",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "PCs/Laptops",
+            "Apple Products"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 75,
+        "url": "https://prowly.com/profiles/journalists/henry-casey"
+    },
+    {
+        "company": "tom-s-guide",
+        "company_url": "tomsguide.com",
+        "name": "Brian Westover",
+        "first_name": "Brian",
+        "middle_name": "",
+        "last_name": "Westover",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "PCs/Laptops",
+            "Media"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 75,
+        "url": "https://prowly.com/profiles/journalists/brian-westover"
+    },
+    {
+        "company": "tom-s-guide",
+        "company_url": "tomsguide.com",
+        "name": "Rami Tabari",
+        "first_name": "Rami",
+        "middle_name": "",
+        "last_name": "Tabari",
+        "title": "Tech Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 75,
+        "url": "https://prowly.com/profiles/journalists/rami-tabari"
+    }
+]

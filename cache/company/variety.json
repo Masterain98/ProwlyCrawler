@@ -1,0 +1,354 @@
+[
+    {
+        "company": "variety",
+        "company_url": "variety.com",
+        "name": "Caroline Framke",
+        "first_name": "Caroline",
+        "middle_name": "",
+        "last_name": "Framke",
+        "title": "Chief TV Critic",
+        "location": "United States",
+        "topics": [
+            "Media"
+        ],
+        "influence_score": 29,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/caroline-framke"
+    },
+    {
+        "company": "variety",
+        "company_url": "variety.com",
+        "name": "Adam Vary",
+        "first_name": "Adam",
+        "middle_name": "",
+        "last_name": "Vary",
+        "title": "Senior Entertainment Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Media"
+        ],
+        "influence_score": 31,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/adam-vary"
+    },
+    {
+        "company": "variety",
+        "company_url": "variety.com",
+        "name": "Jon Burlingame",
+        "first_name": "Jon",
+        "middle_name": "",
+        "last_name": "Burlingame",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 40,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jon-burlingame"
+    },
+    {
+        "company": "variety",
+        "company_url": "variety.com",
+        "name": "Tim Gray",
+        "first_name": "Tim",
+        "middle_name": "",
+        "last_name": "Gray",
+        "title": "Senior Vice President & Awards Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Media"
+        ],
+        "influence_score": 40,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/tim-gray"
+    },
+    {
+        "company": "variety",
+        "company_url": "variety.com",
+        "name": "Jazz Tangcay",
+        "first_name": "Jazz",
+        "middle_name": "",
+        "last_name": "Tangcay",
+        "title": "Senior Artisans Editor",
+        "location": "United States",
+        "topics": [
+            "Art",
+            "Entertainment"
+        ],
+        "influence_score": 34,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jazz-tangcay"
+    },
+    {
+        "company": "variety",
+        "company_url": "variety.com",
+        "name": "Katcy Stephan",
+        "first_name": "Katcy",
+        "middle_name": "",
+        "last_name": "Stephan",
+        "title": "Film Reporter",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Independent Film"
+        ],
+        "influence_score": 45,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/katcy-stephan"
+    },
+    {
+        "company": "variety",
+        "company_url": "variety.com",
+        "name": "James McClain",
+        "first_name": "James",
+        "middle_name": "",
+        "last_name": "McClain",
+        "title": "Real Estate Editor",
+        "location": "United States",
+        "topics": [
+            "Real Estate"
+        ],
+        "influence_score": 32,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/james-mcclain"
+    },
+    {
+        "company": "variety",
+        "company_url": "variety.com",
+        "name": "Joe Otterson",
+        "first_name": "Joe",
+        "middle_name": "",
+        "last_name": "Otterson",
+        "title": "Senior TV Writer",
+        "location": "United States",
+        "topics": [
+            "Media"
+        ],
+        "influence_score": 25,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/joe-otterson"
+    },
+    {
+        "company": "variety",
+        "company_url": "variety.com",
+        "name": "Jordan Moreau",
+        "first_name": "Jordan",
+        "middle_name": "",
+        "last_name": "Moreau",
+        "title": "Online News Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Music",
+            "Media"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jordan-moreau-831661"
+    },
+    {
+        "company": "variety",
+        "company_url": "variety.com",
+        "name": "Meredith Woerner",
+        "first_name": "Meredith",
+        "middle_name": "",
+        "last_name": "Woerner",
+        "title": "Deputy Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Media"
+        ],
+        "influence_score": 43,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/meredith-woerner"
+    },
+    {
+        "company": "variety",
+        "company_url": "variety.com",
+        "name": "Heidi Chung",
+        "first_name": "Heidi",
+        "middle_name": "",
+        "last_name": "Chung",
+        "title": "Media Analyst & Correspondent",
+        "location": "United States",
+        "topics": [
+            "Media"
+        ],
+        "influence_score": 36,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/heidi-chung"
+    },
+    {
+        "company": "variety",
+        "company_url": "variety.com",
+        "name": "Michael Schneider",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Schneider",
+        "title": "Senior Editor,TV Awards",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Media"
+        ],
+        "influence_score": 36,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/michael-schneider"
+    },
+    {
+        "company": "variety",
+        "company_url": "variety.com",
+        "name": "Gene Maddaus",
+        "first_name": "Gene",
+        "middle_name": "",
+        "last_name": "Maddaus",
+        "title": "Senior Media Reporter",
+        "location": "United States",
+        "topics": [
+            "Music",
+            "Media"
+        ],
+        "influence_score": 40,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/gene-maddaus"
+    },
+    {
+        "company": "variety",
+        "company_url": "variety.com",
+        "name": "Chris Willman",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Willman",
+        "title": "Features Editor",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 36,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/chris-willman"
+    },
+    {
+        "company": "variety",
+        "company_url": "variety.com",
+        "name": "Andrew Barker",
+        "first_name": "Andrew",
+        "middle_name": "",
+        "last_name": "Barker",
+        "title": "Senior Features Writer",
+        "location": "United States",
+        "topics": [
+            "Music",
+            "Entertainment"
+        ],
+        "influence_score": 40,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/andrew-barker"
+    },
+    {
+        "company": "variety",
+        "company_url": "variety.com",
+        "name": "Anna Marie De La Fuente",
+        "first_name": "Anna",
+        "middle_name": "Marie",
+        "last_name": "De La Fuente",
+        "title": "Chief Latin America Writer",
+        "location": "United States",
+        "topics": [
+            "Media",
+            "Latin America"
+        ],
+        "influence_score": 40,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/anna-marie-de-la-fuente"
+    },
+    {
+        "company": "variety",
+        "company_url": "variety.com",
+        "name": "Stephen Rodrick",
+        "first_name": "Stephen",
+        "middle_name": "",
+        "last_name": "Rodrick",
+        "title": "Chief Correspondent",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Media"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/stephen-rodrick"
+    },
+    {
+        "company": "variety",
+        "company_url": "variety.com",
+        "name": "Daniel D'Addario",
+        "first_name": "Daniel",
+        "middle_name": "",
+        "last_name": "D'Addario",
+        "title": "Chief Television Critic",
+        "location": "United States",
+        "topics": [
+            "Media"
+        ],
+        "influence_score": 28,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/daniel-d-addario"
+    },
+    {
+        "company": "variety",
+        "company_url": "variety.com",
+        "name": "Angelique Jackson",
+        "first_name": "Angelique",
+        "middle_name": "",
+        "last_name": "Jackson",
+        "title": "Film & Media Reporter",
+        "location": "United States",
+        "topics": [
+            "News",
+            "Media",
+            "Entertainment"
+        ],
+        "influence_score": 25,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/angelique-jackson"
+    },
+    {
+        "company": "variety",
+        "company_url": "variety.com",
+        "name": "Joe Leydon",
+        "first_name": "Joe",
+        "middle_name": "",
+        "last_name": "Leydon",
+        "title": "Film Critic & Correspondent",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Music",
+            "Media"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/joe-leydon"
+    },
+    {
+        "company": "variety",
+        "company_url": "variety.com",
+        "name": "Sharareh Drury",
+        "first_name": "Sharareh",
+        "middle_name": "",
+        "last_name": "Drury",
+        "title": "Associate Features Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/sharareh-drury"
+    }
+]

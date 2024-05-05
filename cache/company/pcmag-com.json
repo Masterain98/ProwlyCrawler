@@ -1,0 +1,600 @@
+[
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Jason Cohen",
+        "first_name": "Jason",
+        "middle_name": "",
+        "last_name": "Cohen",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jason-cohen"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "John Dvorak",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Dvorak",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Computers & Technology",
+            "Commerce",
+            "PCs/Laptops",
+            "Technology"
+        ],
+        "influence_score": 81,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/john-dvorak"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Wayne Rash",
+        "first_name": "Wayne",
+        "middle_name": "",
+        "last_name": "Rash",
+        "title": "Freelance Writer/Reviewer/Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/wayne-rash"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Sascha Segan",
+        "first_name": "Sascha",
+        "middle_name": "",
+        "last_name": "Segan",
+        "title": "Lead Analyst",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Smartphones",
+            "Mobile"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/sascha-segan-216868"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Matthew Buzzi",
+        "first_name": "Matthew",
+        "middle_name": "",
+        "last_name": "Buzzi",
+        "title": "Hardware Analyst",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/matthew-buzzi"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Sean Carroll",
+        "first_name": "Sean",
+        "middle_name": "",
+        "last_name": "Carroll",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Internet",
+            "Computers & Technology"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/sean-carroll"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Jordan Minor",
+        "first_name": "Jordan",
+        "middle_name": "",
+        "last_name": "Minor",
+        "title": "Software Analyst",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jordan-minor"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Jeffrey Wilson",
+        "first_name": "Jeffrey",
+        "middle_name": "",
+        "last_name": "Wilson",
+        "title": "Lead Editor and Lead Analyst",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Video Games"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jeffrey-wilson"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Edward Mendelson",
+        "first_name": "Edward",
+        "middle_name": "",
+        "last_name": "Mendelson",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Construction"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/edward-mendelson"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Chris Stobing",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Stobing",
+        "title": "Hardware Analyst",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/chris-stobing"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Eric Griffith",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "Griffith",
+        "title": "Features Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Technology"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/eric-griffith"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Sascha Segan",
+        "first_name": "Sascha",
+        "middle_name": "",
+        "last_name": "Segan",
+        "title": "Lead Analyst",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Smartphones",
+            "Mobile"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/sascha-segan"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Steven Winkelman",
+        "first_name": "Steven",
+        "middle_name": "",
+        "last_name": "Winkelman",
+        "title": "Analyst",
+        "location": "Unknown",
+        "topics": [],
+        "influence_score": 0,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/steven-winkelman"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Eric Grevstad",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "Grevstad",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "PCs/Laptops",
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/eric-grevstad"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Chloe Albanesius",
+        "first_name": "Chloe",
+        "middle_name": "",
+        "last_name": "Albanesius",
+        "title": "Executive Editor, News & Features",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Technology"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/chloe-albanesius"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Max Eddy",
+        "first_name": "Max",
+        "middle_name": "",
+        "last_name": "Eddy",
+        "title": "Software Analyst / Senior Security Analyst,",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Android"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/max-eddy"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Michael Kan",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Kan",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Technology"
+        ],
+        "influence_score": 21,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/michael-kan"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Pete Haas",
+        "first_name": "Pete",
+        "middle_name": "",
+        "last_name": "Haas",
+        "title": "Social Media Manager",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/pete-haas"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Billy Kwong",
+        "first_name": "Billy",
+        "middle_name": "",
+        "last_name": "Kwong",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Technology",
+            "Commerce"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/billy-kwong"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Tony Hoffman",
+        "first_name": "Tony",
+        "middle_name": "",
+        "last_name": "Hoffman",
+        "title": "Senior Analyst",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/tony-hoffman"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Tim Gideon",
+        "first_name": "Tim",
+        "middle_name": "",
+        "last_name": "Gideon",
+        "title": "Contributing Editor, Audio",
+        "location": "United States",
+        "topics": [
+            "Engineering"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/tim-gideon"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Carol Mangis",
+        "first_name": "Carol",
+        "middle_name": "",
+        "last_name": "Mangis",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/carol-mangis"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Ben Moore",
+        "first_name": "Ben",
+        "middle_name": "",
+        "last_name": "Moore",
+        "title": "Analyst",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/ben-moore"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "John Delaney",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Delaney",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/john-delaney"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Tom Brant",
+        "first_name": "Tom",
+        "middle_name": "",
+        "last_name": "Brant",
+        "title": "Senior Analyst/Writer",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/tom-brant"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Stephanie Mlot",
+        "first_name": "Stephanie",
+        "middle_name": "",
+        "last_name": "Mlot",
+        "title": "Staff Writer/Freelance Reporter",
+        "location": "United Kingdom",
+        "topics": [
+            "Computers & Technology",
+            "Apple Products"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/stephanie-mlot"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Oliver Rist",
+        "first_name": "Oliver",
+        "middle_name": "",
+        "last_name": "Rist",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/oliver-rist"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Will Greenwald",
+        "first_name": "Will",
+        "middle_name": "",
+        "last_name": "Greenwald",
+        "title": "Home Entertainment Editor & Senior Analyst",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/will-greenwald"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Michael Kan",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Kan",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Computers & Technology",
+            "Technology",
+            "Social Media"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/michael-kan-232619"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Alex Colon",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Colon",
+        "title": "Managing Editor, Consumer Electronics",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/alex-colon"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Jim Fisher",
+        "first_name": "Jim",
+        "middle_name": "",
+        "last_name": "Fisher",
+        "title": "Lead Analyst",
+        "location": "United States",
+        "topics": [
+            "Electrical"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jim-fisher"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "John Burek",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Burek",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "PCs/Laptops"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/john-burek"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Kathy Yakal",
+        "first_name": "Kathy",
+        "middle_name": "",
+        "last_name": "Yakal",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/kathy-yakal"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Wendy Donnell",
+        "first_name": "Wendy",
+        "middle_name": "",
+        "last_name": "Donnell",
+        "title": "Editor, VP of Content",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/wendy-donnell"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Dan Costa",
+        "first_name": "Dan",
+        "middle_name": "",
+        "last_name": "Costa",
+        "title": "Editor-In-Chief & Senior Vice President of Content",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/dan-costa"
+    },
+    {
+        "company": "pcmag-com",
+        "company_url": "pcmag.com",
+        "name": "Angela Moscaritolo",
+        "first_name": "Angela",
+        "middle_name": "",
+        "last_name": "Moscaritolo",
+        "title": "Smart Home, Wearables Analyst",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/angela-moscaritolo"
+    }
+]

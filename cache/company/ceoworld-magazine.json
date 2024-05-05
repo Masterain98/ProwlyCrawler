@@ -1,0 +1,40 @@
+[
+    {
+        "company": "ceoworld-magazine",
+        "company_url": "ceoworld.biz",
+        "name": "Bettina Padurano",
+        "first_name": "Bettina",
+        "middle_name": "",
+        "last_name": "Padurano",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Apparel",
+            "Finance & Banking Services",
+            "Technology",
+            "Social Media"
+        ],
+        "influence_score": 46,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/bettina-padurano"
+    },
+    {
+        "company": "ceoworld-magazine",
+        "company_url": "ceoworld.biz",
+        "name": "Richard Trevino",
+        "first_name": "Richard",
+        "middle_name": "",
+        "last_name": "Trevino",
+        "title": "Opinion Columnist",
+        "location": "United States",
+        "topics": [
+            "Editorial Page",
+            "Business",
+            "Workplace"
+        ],
+        "influence_score": 21,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/richard-trevino-81159"
+    }
+]

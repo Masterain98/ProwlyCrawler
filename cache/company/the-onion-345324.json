@@ -1,0 +1,70 @@
+[
+    {
+        "company": "the-onion-345324",
+        "company_url": "theonion.com",
+        "name": "Jordan David",
+        "first_name": "Jordan",
+        "middle_name": "",
+        "last_name": "David",
+        "title": "Senior Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jordan-david"
+    },
+    {
+        "company": "the-onion-345324",
+        "company_url": "theonion.com",
+        "name": "Merrill Brown",
+        "first_name": "Merrill",
+        "middle_name": "",
+        "last_name": "Brown",
+        "title": "Editorial Director",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Entertainment"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/merrill-brown"
+    },
+    {
+        "company": "the-onion-345324",
+        "company_url": "theonion.com",
+        "name": "Matt Crowley",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Crowley",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Local News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/matt-crowley"
+    },
+    {
+        "company": "the-onion-345324",
+        "company_url": "theonion.com",
+        "name": "Kevin Flynn",
+        "first_name": "Kevin",
+        "middle_name": "",
+        "last_name": "Flynn",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "Art",
+            "Entertainment",
+            "Features/Lifestyle",
+            "Video Games"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/kevin-flynn"
+    }
+]

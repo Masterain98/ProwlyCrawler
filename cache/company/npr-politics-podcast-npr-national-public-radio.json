@@ -1,0 +1,68 @@
+[
+    {
+        "company": "npr-politics-podcast-npr-national-public-radio",
+        "company_url": "npr.org",
+        "name": "Tamara Keith",
+        "first_name": "Tamara",
+        "middle_name": "",
+        "last_name": "Keith",
+        "title": "Host",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Politics"
+        ],
+        "influence_score": 79,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/tamara-keith"
+    },
+    {
+        "company": "npr-politics-podcast-npr-national-public-radio",
+        "company_url": "npr.org",
+        "name": "Asma Khalid",
+        "first_name": "Asma",
+        "middle_name": "",
+        "last_name": "Khalid",
+        "title": "Host",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 78,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/asma-khalid"
+    },
+    {
+        "company": "npr-politics-podcast-npr-national-public-radio",
+        "company_url": "npr.org",
+        "name": "Eric McDaniel",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "McDaniel",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "National News",
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/eric-mcdaniel"
+    },
+    {
+        "company": "npr-politics-podcast-npr-national-public-radio",
+        "company_url": "npr.org",
+        "name": "Scott Detrow",
+        "first_name": "Scott",
+        "middle_name": "",
+        "last_name": "Detrow",
+        "title": "Co-Host",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 74,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/scott-detrow"
+    }
+]

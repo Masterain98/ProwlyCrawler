@@ -1,0 +1,294 @@
+[
+    {
+        "company": "gizmodo",
+        "company_url": "gizmodo.com",
+        "name": "Florence Ion",
+        "first_name": "Florence",
+        "middle_name": "",
+        "last_name": "Ion",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Technology",
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/florence-ion"
+    },
+    {
+        "company": "gizmodo",
+        "company_url": "gizmodo.com",
+        "name": "Tom McKay",
+        "first_name": "Tom",
+        "middle_name": "",
+        "last_name": "McKay",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Computers & Technology",
+            "Politics",
+            "Mobile"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/tom-mckay"
+    },
+    {
+        "company": "gizmodo",
+        "company_url": "gizmodo.com",
+        "name": "Isaac Schultz",
+        "first_name": "Isaac",
+        "middle_name": "",
+        "last_name": "Schultz",
+        "title": "Science Writer",
+        "location": "United States",
+        "topics": [
+            "Science"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/isaac-schultz"
+    },
+    {
+        "company": "gizmodo",
+        "company_url": "gizmodo.com",
+        "name": "Caitlin McGarry",
+        "first_name": "Caitlin",
+        "middle_name": "",
+        "last_name": "McGarry",
+        "title": "Editor, Consumer and Technology",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Commerce",
+            "Apple Products"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/caitlin-mcgarry"
+    },
+    {
+        "company": "gizmodo",
+        "company_url": "gizmodo.com",
+        "name": "David Ewalt",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Ewalt",
+        "title": "Editor In Chief",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Entertainment",
+            "Engineering",
+            "Telecommunications",
+            "Music",
+            "Publishing",
+            "Computers & Technology",
+            "Electrical",
+            "Design",
+            "Commerce",
+            "Mobile"
+        ],
+        "influence_score": 26,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/david-ewalt"
+    },
+    {
+        "company": "gizmodo",
+        "company_url": "gizmodo.com",
+        "name": "Ed Cara",
+        "first_name": "Ed",
+        "middle_name": "",
+        "last_name": "Cara",
+        "title": "Science & Health Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Science"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/ed-cara"
+    },
+    {
+        "company": "gizmodo",
+        "company_url": "gizmodo.com",
+        "name": "Victoria Song",
+        "first_name": "Victoria",
+        "middle_name": "",
+        "last_name": "Song",
+        "title": "Consumer Tech Reporter",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Technology"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/victoria-song"
+    },
+    {
+        "company": "gizmodo",
+        "company_url": "gizmodo.com",
+        "name": "Lucas Ropek",
+        "first_name": "Lucas",
+        "middle_name": "",
+        "last_name": "Ropek",
+        "title": "Staff Writer",
+        "location": "Unknown",
+        "topics": [],
+        "influence_score": 0,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/lucas-ropek"
+    },
+    {
+        "company": "gizmodo",
+        "company_url": "gizmodo.com",
+        "name": "Andrew Liszewski",
+        "first_name": "Andrew",
+        "middle_name": "",
+        "last_name": "Liszewski",
+        "title": "Contributing Editor",
+        "location": "Canada",
+        "topics": [
+            "Consumer Electronics"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/andrew-liszewski"
+    },
+    {
+        "company": "gizmodo",
+        "company_url": "gizmodo.com",
+        "name": "Dell Cameron",
+        "first_name": "Dell",
+        "middle_name": "",
+        "last_name": "Cameron",
+        "title": "Senior Reporter/Staff Writer",
+        "location": "Unknown",
+        "topics": [],
+        "influence_score": 0,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/dell-cameron"
+    },
+    {
+        "company": "gizmodo",
+        "company_url": "gizmodo.com",
+        "name": "Rose Pastore",
+        "first_name": "Rose",
+        "middle_name": "",
+        "last_name": "Pastore",
+        "title": "Science Editor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Science"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/rose-pastore"
+    },
+    {
+        "company": "gizmodo",
+        "company_url": "gizmodo.com",
+        "name": "Matt Novak",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Novak",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Social Media",
+            "News",
+            "Politics"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/matt-novak"
+    },
+    {
+        "company": "gizmodo",
+        "company_url": "gizmodo.com",
+        "name": "Blake Montgomery",
+        "first_name": "Blake",
+        "middle_name": "",
+        "last_name": "Montgomery",
+        "title": "Tech News Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/blake-montgomery-824943"
+    },
+    {
+        "company": "gizmodo",
+        "company_url": "gizmodo.com",
+        "name": "Shoshana Wodinsky",
+        "first_name": "Shoshana",
+        "middle_name": "",
+        "last_name": "Wodinsky",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "News",
+            "Computers & Technology"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/shoshana-wodinsky"
+    },
+    {
+        "company": "gizmodo",
+        "company_url": "gizmodo.com",
+        "name": "Sam Rutherford",
+        "first_name": "Sam",
+        "middle_name": "",
+        "last_name": "Rutherford",
+        "title": "Senior Reporter, Consumer Tech",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/sam-rutherford"
+    },
+    {
+        "company": "gizmodo",
+        "company_url": "gizmodo.com",
+        "name": "Germain Lussier",
+        "first_name": "Germain",
+        "middle_name": "",
+        "last_name": "Lussier",
+        "title": "Entertainment Reporter",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/germain-lussier"
+    },
+    {
+        "company": "gizmodo",
+        "company_url": "gizmodo.com",
+        "name": "Marina Galperina",
+        "first_name": "Marina",
+        "middle_name": "",
+        "last_name": "Galperina",
+        "title": "Features Editor",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Media"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/marina-galperina"
+    }
+]

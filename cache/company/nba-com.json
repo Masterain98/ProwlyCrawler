@@ -1,0 +1,83 @@
+[
+    {
+        "company": "nba-com",
+        "company_url": "nba.com",
+        "name": "Michael Doyle",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Doyle",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Basketball"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/michael-doyle"
+    },
+    {
+        "company": "nba-com",
+        "company_url": "nba.com",
+        "name": "Mike Trudell",
+        "first_name": "Mike",
+        "middle_name": "",
+        "last_name": "Trudell",
+        "title": "Beat reporter",
+        "location": "United States",
+        "topics": [
+            "Basketball"
+        ],
+        "influence_score": 81,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/mike-trudell"
+    },
+    {
+        "company": "nba-com",
+        "company_url": "nba.com",
+        "name": "Gerald Smith",
+        "first_name": "Gerald",
+        "middle_name": "",
+        "last_name": "Smith",
+        "title": "Senior Multimedia Producer",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/gerald-smith"
+    },
+    {
+        "company": "nba-com",
+        "company_url": "nba.com",
+        "name": "John Karalis",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Karalis",
+        "title": "Host",
+        "location": "United States",
+        "topics": [
+            "Music",
+            "Sports"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/john-karalis"
+    },
+    {
+        "company": "nba-com",
+        "company_url": "nba.com",
+        "name": "Albert Vertino",
+        "first_name": "Albert",
+        "middle_name": "",
+        "last_name": "Vertino",
+        "title": "SVP Content, Production and Programming NBAD",
+        "location": "United States",
+        "topics": [
+            "Basketball"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/albert-vertino"
+    }
+]

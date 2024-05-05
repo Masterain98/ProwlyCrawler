@@ -1,0 +1,34 @@
+[
+    {
+        "company": "first-take-espn",
+        "company_url": "espn.com",
+        "name": "Molly Qerim",
+        "first_name": "Molly",
+        "middle_name": "",
+        "last_name": "Qerim",
+        "title": "Host",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 77,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/molly-qerim"
+    },
+    {
+        "company": "first-take-espn",
+        "company_url": "espn.com",
+        "name": "Norby Williamson",
+        "first_name": "Norby",
+        "middle_name": "",
+        "last_name": "Williamson",
+        "title": "Executive Editor & Executive Vice President of Event and Studio Production",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/norby-williamson"
+    }
+]

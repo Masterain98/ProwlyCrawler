@@ -1,0 +1,19 @@
+[
+    {
+        "company": "the-cheapskate",
+        "company_url": "cnet.com",
+        "name": "Rick Broida",
+        "first_name": "Rick",
+        "middle_name": "",
+        "last_name": "Broida",
+        "title": "Blogger",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Commerce"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/rick-broida"
+    }
+]

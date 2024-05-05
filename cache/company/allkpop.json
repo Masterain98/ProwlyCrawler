@@ -1,0 +1,19 @@
+[
+    {
+        "company": "allkpop",
+        "company_url": "allkpop.com",
+        "name": "Johnny Noh",
+        "first_name": "Johnny",
+        "middle_name": "",
+        "last_name": "Noh",
+        "title": "Co-founder & Editor",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Music"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/johnny-noh"
+    }
+]

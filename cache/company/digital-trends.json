@@ -1,0 +1,988 @@
+[
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Brandon Widder",
+        "first_name": "Brandon",
+        "middle_name": "",
+        "last_name": "Widder",
+        "title": "Multimedia Journalist & Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Video Games"
+        ],
+        "influence_score": 25,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/brandon-widder-80024"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Mark Coppock",
+        "first_name": "Mark",
+        "middle_name": "",
+        "last_name": "Coppock",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "PCs/Laptops",
+            "Technology"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/mark-coppock"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Caleb Denison",
+        "first_name": "Caleb",
+        "middle_name": "",
+        "last_name": "Denison",
+        "title": "Senior Editor, Video",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Computers & Technology",
+            "Media"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/caleb-denison"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Mathew Katz",
+        "first_name": "Mathew",
+        "middle_name": "",
+        "last_name": "Katz",
+        "title": "Associate Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Technology",
+            "Congo, Democratic Republic of"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/mathew-katz"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Rich Shibley",
+        "first_name": "Rich",
+        "middle_name": "",
+        "last_name": "Shibley",
+        "title": "Video Director",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/rich-shibley"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Simon Hill",
+        "first_name": "Simon",
+        "middle_name": "",
+        "last_name": "Hill",
+        "title": "Freelance Technology Journalist",
+        "location": "United Kingdom",
+        "topics": [
+            "Telecommunications"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/simon-hill"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Jenny McGrath",
+        "first_name": "Jenny",
+        "middle_name": "",
+        "last_name": "McGrath",
+        "title": "Senior Writer, Home",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Commerce",
+            "Technology"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jenny-mcgrath"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Brian Sutch",
+        "first_name": "Brian",
+        "middle_name": "",
+        "last_name": "Sutch",
+        "title": "Copy Editor",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/brian-sutch"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Giovanni Colantonio",
+        "first_name": "Giovanni",
+        "middle_name": "",
+        "last_name": "Colantonio",
+        "title": "Associate Gaming Editor",
+        "location": "United States",
+        "topics": [
+            "Video Games",
+            "Online Gaming"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/giovanni-colantonio"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Jon Martindale",
+        "first_name": "Jon",
+        "middle_name": "",
+        "last_name": "Martindale",
+        "title": "News & Feature Writer",
+        "location": "United Kingdom",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jon-martindale"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Josh Levenson",
+        "first_name": "Josh",
+        "middle_name": "",
+        "last_name": "Levenson",
+        "title": "Senior Commerce Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Consumer Electronics"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/josh-levenson"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Stephen Edelstein",
+        "first_name": "Stephen",
+        "middle_name": "",
+        "last_name": "Edelstein",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/stephen-edelstein-60980"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Erika Rawes",
+        "first_name": "Erika",
+        "middle_name": "",
+        "last_name": "Rawes",
+        "title": "Home Tech Writer",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/erika-rawes"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Ted Kritsonis",
+        "first_name": "Ted",
+        "middle_name": "",
+        "last_name": "Kritsonis",
+        "title": "Contributing Writer",
+        "location": "Canada",
+        "topics": [
+            "Electrical",
+            "Computers & Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/ted-kritsonis"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Phil Hornshaw",
+        "first_name": "Phil",
+        "middle_name": "",
+        "last_name": "Hornshaw",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/phil-hornshaw"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Kelly Hodgkins",
+        "first_name": "Kelly",
+        "middle_name": "",
+        "last_name": "Hodgkins",
+        "title": "Freelance outdoors writer",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/kelly-hodgkins"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Christine Persaud",
+        "first_name": "Christine",
+        "middle_name": "",
+        "last_name": "Persaud",
+        "title": "Tech Editor & Writer",
+        "location": "Canada",
+        "topics": [
+            "Media"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/christine-persaud"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Ehab Zahriyeh",
+        "first_name": "Ehab",
+        "middle_name": "",
+        "last_name": "Zahriyeh",
+        "title": "Managing Editor , Commerce",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/ehab-zahriyeh"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Simon Cohen",
+        "first_name": "Simon",
+        "middle_name": "",
+        "last_name": "Cohen",
+        "title": "Contributing Editor",
+        "location": "Canada",
+        "topics": [
+            "Consumer Electronics"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/simon-cohen"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Chuong Nguyen",
+        "first_name": "Chuong",
+        "middle_name": "",
+        "last_name": "Nguyen",
+        "title": "Technology Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/chuong-nguyen"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Ian Bell",
+        "first_name": "Ian",
+        "middle_name": "",
+        "last_name": "Bell",
+        "title": "Founder, CEO and Publisher",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/ian-bell"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Phil Nickinson",
+        "first_name": "Phil",
+        "middle_name": "",
+        "last_name": "Nickinson",
+        "title": "Section Editor - Audio/Video",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Electrical",
+            "Entertainment"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/phil-nickinson-219075"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Stephen Edelstein",
+        "first_name": "Stephen",
+        "middle_name": "",
+        "last_name": "Edelstein",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/stephen-edelstein"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Nadeem Sarwar",
+        "first_name": "Nadeem",
+        "middle_name": "",
+        "last_name": "Sarwar",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Technology"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/nadeem-sarwar"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Luke Larsen",
+        "first_name": "Luke",
+        "middle_name": "",
+        "last_name": "Larsen",
+        "title": "Section Editor, Computing",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "PCs/Laptops"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/luke-larsen"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Lucas Coll",
+        "first_name": "Lucas",
+        "middle_name": "",
+        "last_name": "Coll",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/lucas-coll"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Phil Nickinson",
+        "first_name": "Phil",
+        "middle_name": "",
+        "last_name": "Nickinson",
+        "title": "Section Editor - Audio/Video",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Entertainment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/phil-nickinson"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Daven Mathies",
+        "first_name": "Daven",
+        "middle_name": "",
+        "last_name": "Mathies",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Electrical"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/daven-mathies"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Ronan Glon",
+        "first_name": "Ronan",
+        "middle_name": "",
+        "last_name": "Glon",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 83,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/ronan-glon"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Jenifer Calle",
+        "first_name": "Jenifer",
+        "middle_name": "",
+        "last_name": "Calle",
+        "title": "Commerce Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "House"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jenifer-calle"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Mark Jansen",
+        "first_name": "Mark",
+        "middle_name": "",
+        "last_name": "Jansen",
+        "title": "Freelance writer, Co-ordinator & Editor",
+        "location": "United States",
+        "topics": [
+            "Apple Products",
+            "Smartphones",
+            "Mobile",
+            "Android"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/mark-jansen"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Brendan Hesse",
+        "first_name": "Brendan",
+        "middle_name": "",
+        "last_name": "Hesse",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/brendan-hesse"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Drew Prindle",
+        "first_name": "Drew",
+        "middle_name": "",
+        "last_name": "Prindle",
+        "title": "Senior Features Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Electrical"
+        ],
+        "influence_score": 86,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/drew-prindle"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Dyllan Furness",
+        "first_name": "Dyllan",
+        "middle_name": "",
+        "last_name": "Furness",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Science",
+            "Technology"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/dyllan-furness"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Simon Hill",
+        "first_name": "Simon",
+        "middle_name": "",
+        "last_name": "Hill",
+        "title": "Freelance Technology Journalist",
+        "location": "Unknown",
+        "topics": [],
+        "influence_score": 0,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/simon-hill-121305"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Nate Swanner",
+        "first_name": "Nate",
+        "middle_name": "",
+        "last_name": "Swanner",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Electrical"
+        ],
+        "influence_score": 23,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/nate-swanner"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Christian de Looper",
+        "first_name": "Christian",
+        "middle_name": "de",
+        "last_name": "Looper",
+        "title": "Mobile Tech Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Mobile"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/christian-de-looper"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Scott Harris",
+        "first_name": "Scott",
+        "middle_name": "",
+        "last_name": "Harris",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/scott-harris"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Jared DiPane",
+        "first_name": "Jared",
+        "middle_name": "",
+        "last_name": "DiPane",
+        "title": "Senior Commerce Editor",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jared-dipane-33069"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "David Elrich",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Elrich",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Electrical"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/david-elrich"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Jacob Kienlen",
+        "first_name": "Jacob",
+        "middle_name": "",
+        "last_name": "Kienlen",
+        "title": "SEO & Digital Marketing Strategist",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jacob-kienlen"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Will Nicol",
+        "first_name": "Will",
+        "middle_name": "",
+        "last_name": "Nicol",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/will-nicol"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Amanda Ellis",
+        "first_name": "Amanda",
+        "middle_name": "",
+        "last_name": "Ellis",
+        "title": "Freelance Journalist",
+        "location": "United States",
+        "topics": [
+            "Commerce",
+            "Technology",
+            "Travel",
+            "House"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/amanda-ellis"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Rob Oster",
+        "first_name": "Rob",
+        "middle_name": "",
+        "last_name": "Oster",
+        "title": "Copy Chief",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/rob-oster"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Tyler Lacoma",
+        "first_name": "Tyler",
+        "middle_name": "",
+        "last_name": "Lacoma",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/tyler-lacoma"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Andrew Martonik",
+        "first_name": "Andrew",
+        "middle_name": "",
+        "last_name": "Martonik",
+        "title": "Mobile Section Editor",
+        "location": "United States",
+        "topics": [
+            "Telecommunications",
+            "Smartphones"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/andrew-martonik"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "John Velasco",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Velasco",
+        "title": "Smart Home Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/john-velasco-18499"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Andy Boxall",
+        "first_name": "Andy",
+        "middle_name": "",
+        "last_name": "Boxall",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Smartphones",
+            "Mobile"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/andy-boxall"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Brendan Hesse",
+        "first_name": "Brendan",
+        "middle_name": "",
+        "last_name": "Hesse",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/brendan-hesse-79522"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Jacob Roach",
+        "first_name": "Jacob",
+        "middle_name": "",
+        "last_name": "Roach",
+        "title": "Redaktionsleiter",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Business",
+            "Consumer Electronics",
+            "Video Games",
+            "Cloud Computing"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jacob-roach"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Bruce Brown",
+        "first_name": "Bruce",
+        "middle_name": "",
+        "last_name": "Brown",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Automobiles",
+            "House",
+            "Technology"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/bruce-brown"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Jeff Zurschmeide",
+        "first_name": "Jeff",
+        "middle_name": "",
+        "last_name": "Zurschmeide",
+        "title": "Columnist",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jeff-zurschmeide"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Nick Mokey",
+        "first_name": "Nick",
+        "middle_name": "",
+        "last_name": "Mokey",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Automobiles",
+            "Electrical"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/nick-mokey"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Rick Marshall",
+        "first_name": "Rick",
+        "middle_name": "",
+        "last_name": "Marshall",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/rick-marshall"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Greg Mombert",
+        "first_name": "Greg",
+        "middle_name": "",
+        "last_name": "Mombert",
+        "title": "Content Director",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/greg-mombert"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Phil Nickinson",
+        "first_name": "Phil",
+        "middle_name": "",
+        "last_name": "Nickinson",
+        "title": "Section Editor - Audio/Video",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Electrical",
+            "Entertainment"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/phil-nickinson-243092"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Jeremy Kaplan",
+        "first_name": "Jeremy",
+        "middle_name": "",
+        "last_name": "Kaplan",
+        "title": "Vice President & Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 83,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jeremy-kaplan"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Dan Gaul",
+        "first_name": "Dan",
+        "middle_name": "",
+        "last_name": "Gaul",
+        "title": "Co-Founder & Chief Technology Officer",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 78,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/dan-gaul"
+    },
+    {
+        "company": "digital-trends",
+        "company_url": "digitaltrends.com",
+        "name": "Luke Dormehl",
+        "first_name": "Luke",
+        "middle_name": "",
+        "last_name": "Dormehl",
+        "title": "Emerging Tech Writer",
+        "location": "United Kingdom",
+        "topics": [
+            "Artificial Intelligence",
+            "Publishing",
+            "Robotics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/luke-dormehl"
+    }
+]

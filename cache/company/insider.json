@@ -1,0 +1,359 @@
+[
+    {
+        "company": "insider",
+        "company_url": "businessinsider.com",
+        "name": "James Rodriguez",
+        "first_name": "James",
+        "middle_name": "",
+        "last_name": "Rodriguez",
+        "title": "Real Estate Reporter",
+        "location": "United States",
+        "topics": [
+            "Real Estate"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/james-rodriguez-205652"
+    },
+    {
+        "company": "insider",
+        "company_url": "businessinsider.com",
+        "name": "Mark Knapp",
+        "first_name": "Mark",
+        "middle_name": "",
+        "last_name": "Knapp",
+        "title": "Contributing Writer / Freelance Reporter",
+        "location": "United States",
+        "topics": [
+            "News",
+            "Consumer Electronics",
+            "Technology",
+            "Video Games",
+            "Smartphones"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/mark-knapp-168898"
+    },
+    {
+        "company": "insider",
+        "company_url": "businessinsider.com",
+        "name": "Ashley Lane",
+        "first_name": "Ashley",
+        "middle_name": "",
+        "last_name": "Lane",
+        "title": "Interim Head of Policies",
+        "location": "United States",
+        "topics": [
+            "Leisure",
+            "Travel"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ashley-lane-264469"
+    },
+    {
+        "company": "insider",
+        "company_url": "businessinsider.com",
+        "name": "Reed Alexander",
+        "first_name": "Reed",
+        "middle_name": "",
+        "last_name": "Alexander",
+        "title": "Correspondent",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Media"
+        ],
+        "influence_score": 81,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/reed-alexander-441198"
+    },
+    {
+        "company": "insider",
+        "company_url": "businessinsider.com",
+        "name": "Dorothy Cucci",
+        "first_name": "Dorothy",
+        "middle_name": "",
+        "last_name": "Cucci",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Careers",
+            "Real Estate",
+            "Technology",
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/dorothy-cucci"
+    },
+    {
+        "company": "insider",
+        "company_url": "businessinsider.com",
+        "name": "Alanis King",
+        "first_name": "Alanis",
+        "middle_name": "",
+        "last_name": "King",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "Transportation and Logistics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/alanis-king-805698"
+    },
+    {
+        "company": "insider",
+        "company_url": "businessinsider.com",
+        "name": "Alex Nicoll",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Nicoll",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Real Estate"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/alex-nicoll-784011"
+    },
+    {
+        "company": "insider",
+        "company_url": "businessinsider.com",
+        "name": "Mara Leighton",
+        "first_name": "Mara",
+        "middle_name": "",
+        "last_name": "Leighton",
+        "title": "Senior Education and Personal Development Reporter",
+        "location": "United States",
+        "topics": [
+            "Education",
+            "Commerce"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/mara-leighton-214797"
+    },
+    {
+        "company": "insider",
+        "company_url": "businessinsider.com",
+        "name": "Claire Atkinson",
+        "first_name": "Claire",
+        "middle_name": "",
+        "last_name": "Atkinson",
+        "title": "Chief Media Correspondent",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Media"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/claire-atkinson-440923"
+    },
+    {
+        "company": "insider",
+        "company_url": "businessinsider.com",
+        "name": "Rebecca Ungarino",
+        "first_name": "Rebecca",
+        "middle_name": "",
+        "last_name": "Ungarino",
+        "title": "Senior Finance Reporter, Wealth & Asset Management",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Business"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/rebecca-ungarino-252246"
+    },
+    {
+        "company": "insider",
+        "company_url": "businessinsider.com",
+        "name": "Kate Taylor",
+        "first_name": "Kate",
+        "middle_name": "",
+        "last_name": "Taylor",
+        "title": "Senior Features Correspondent",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Food",
+            "Commerce"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/kate-taylor-192748"
+    },
+    {
+        "company": "insider",
+        "company_url": "businessinsider.com",
+        "name": "Rebecca Torrence",
+        "first_name": "Rebecca",
+        "middle_name": "",
+        "last_name": "Torrence",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/rebecca-torrence-444844"
+    },
+    {
+        "company": "insider",
+        "company_url": "businessinsider.com",
+        "name": "James Rodriguez",
+        "first_name": "James",
+        "middle_name": "",
+        "last_name": "Rodriguez",
+        "title": "Real Estate Reporter",
+        "location": "United States",
+        "topics": [
+            "Real Estate"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/james-rodriguez-758217"
+    },
+    {
+        "company": "insider",
+        "company_url": "businessinsider.com",
+        "name": "Emily Hein",
+        "first_name": "Emily",
+        "middle_name": "",
+        "last_name": "Hein",
+        "title": "Senior Story Producer",
+        "location": "United States",
+        "topics": [
+            "Education",
+            "Entertainment",
+            "Gifts",
+            "Commerce"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/emily-hein-809566"
+    },
+    {
+        "company": "insider",
+        "company_url": "businessinsider.com",
+        "name": "Alanis King",
+        "first_name": "Alanis",
+        "middle_name": "",
+        "last_name": "King",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "Transportation and Logistics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/alanis-king-265408"
+    },
+    {
+        "company": "insider",
+        "company_url": "businessinsider.com",
+        "name": "Hugh Langley",
+        "first_name": "Hugh",
+        "middle_name": "",
+        "last_name": "Langley",
+        "title": "Senior Tech Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Technology"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/hugh-langley-209707"
+    },
+    {
+        "company": "insider",
+        "company_url": "businessinsider.com",
+        "name": "Dan Whateley",
+        "first_name": "Dan",
+        "middle_name": "",
+        "last_name": "Whateley",
+        "title": "Media Reporter",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/dan-whateley-209767"
+    },
+    {
+        "company": "insider",
+        "company_url": "businessinsider.com",
+        "name": "Monica Humphries",
+        "first_name": "Monica",
+        "middle_name": "",
+        "last_name": "Humphries",
+        "title": "Travel Reporter",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Travel"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/monica-humphries-433503"
+    },
+    {
+        "company": "insider",
+        "company_url": "businessinsider.com",
+        "name": "Nancy Luna",
+        "first_name": "Nancy",
+        "middle_name": "",
+        "last_name": "Luna",
+        "title": "Restaurants Correspondent",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Food",
+            "Commerce"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/nancy-luna-420621"
+    },
+    {
+        "company": "insider",
+        "company_url": "businessinsider.com",
+        "name": "Alex Nicoll",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Nicoll",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Real Estate"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/alex-nicoll-254580"
+    },
+    {
+        "company": "insider",
+        "company_url": "businessinsider.com",
+        "name": "Nora Naughton",
+        "first_name": "Nora",
+        "middle_name": "",
+        "last_name": "Naughton",
+        "title": "Senior Autos Reporter",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/nora-naughton-193814"
+    }
+]

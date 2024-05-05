@@ -1,0 +1,731 @@
+[
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Lee Samaha",
+        "first_name": "Lee",
+        "middle_name": "",
+        "last_name": "Samaha",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/lee-samaha-443554"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Mac Greer",
+        "first_name": "Mac",
+        "middle_name": "",
+        "last_name": "Greer",
+        "title": "Multimedia Producer",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/mac-greer"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Scott Levine",
+        "first_name": "Scott",
+        "middle_name": "",
+        "last_name": "Levine",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Energy",
+            "Finance & Banking Services",
+            "Natural Resources"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/scott-levine"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Alex Dumortier",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Dumortier",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/alex-dumortier"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Anand Chokkavelu",
+        "first_name": "Anand",
+        "middle_name": "",
+        "last_name": "Chokkavelu",
+        "title": "Editor-in-Chief / General Manager",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/anand-chokkavelu"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Asit Sharma",
+        "first_name": "Asit",
+        "middle_name": "",
+        "last_name": "Sharma",
+        "title": "Senior Consumer Goods & Industrial Specialist",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/asit-sharma"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Maurie Backman",
+        "first_name": "Maurie",
+        "middle_name": "",
+        "last_name": "Backman",
+        "title": "Personal Finance Writer",
+        "location": "United States",
+        "topics": [
+            "Accounting",
+            "Health & Medicine",
+            "Finance & Banking Services",
+            "Life"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/maurie-backman"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Christy Bieber",
+        "first_name": "Christy",
+        "middle_name": "",
+        "last_name": "Bieber",
+        "title": "Personal Finance Writer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/christy-bieber"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Adam Levy",
+        "first_name": "Adam",
+        "middle_name": "",
+        "last_name": "Levy",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Commerce",
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/adam-levy"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Les Shaver",
+        "first_name": "Les",
+        "middle_name": "",
+        "last_name": "Shaver",
+        "title": "Contributing Writer, The Blueprint",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/les-shaver"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Katie Brockman",
+        "first_name": "Katie",
+        "middle_name": "",
+        "last_name": "Brockman",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/katie-brockman"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Jason Hall",
+        "first_name": "Jason",
+        "middle_name": "",
+        "last_name": "Hall",
+        "title": "Contract Writer/Editor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/jason-hall"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Sean Williams",
+        "first_name": "Sean",
+        "middle_name": "",
+        "last_name": "Williams",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/sean-williams-5096"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Rich Duprey",
+        "first_name": "Rich",
+        "middle_name": "",
+        "last_name": "Duprey",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/rich-duprey"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Leo Sun",
+        "first_name": "Leo",
+        "middle_name": "",
+        "last_name": "Sun",
+        "title": "Technology & Consumer Goods Specialist",
+        "location": "United States",
+        "topics": [
+            "Commerce",
+            "Computers & Technology",
+            "Technology",
+            "Cloud Computing"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/leo-sun"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Daniel Miller",
+        "first_name": "Daniel",
+        "middle_name": "",
+        "last_name": "Miller",
+        "title": "Journalist",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/daniel-miller"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Selena Maranjian",
+        "first_name": "Selena",
+        "middle_name": "",
+        "last_name": "Maranjian",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/selena-maranjian"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Brian Orelli",
+        "first_name": "Brian",
+        "middle_name": "",
+        "last_name": "Orelli",
+        "title": "Author, Freelance Writer & Analyst",
+        "location": "United States",
+        "topics": [
+            "Biotechnology",
+            "Health & Medicine"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/brian-orelli"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Taylor Muckerman",
+        "first_name": "Taylor",
+        "middle_name": "",
+        "last_name": "Muckerman",
+        "title": "Head of Global Retention",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/taylor-muckerman"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Danny Vena",
+        "first_name": "Danny",
+        "middle_name": "",
+        "last_name": "Vena",
+        "title": "Financial Journalist",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/danny-vena"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Anders Bylund",
+        "first_name": "Anders",
+        "middle_name": "",
+        "last_name": "Bylund",
+        "title": "Writer, Analyst and Contributor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/anders-bylund"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Travis Hoium",
+        "first_name": "Travis",
+        "middle_name": "",
+        "last_name": "Hoium",
+        "title": "Writer & Analyst",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/travis-hoium"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Dan Caplinger",
+        "first_name": "Dan",
+        "middle_name": "",
+        "last_name": "Caplinger",
+        "title": "Bureau Chief /Writer/Editor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Life"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/dan-caplinger"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Dan Caplinger",
+        "first_name": "Dan",
+        "middle_name": "",
+        "last_name": "Caplinger",
+        "title": "Investment Planning Bureau Chief /Contract Writer/Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Finance & Banking Services",
+            "Life"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/dan-caplinger-14790"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Brian Feroldi",
+        "first_name": "Brian",
+        "middle_name": "",
+        "last_name": "Feroldi",
+        "title": "Contract/Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Computers & Technology"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/brian-feroldi"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Rich Smith",
+        "first_name": "Rich",
+        "middle_name": "",
+        "last_name": "Smith",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/rich-smith"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Todd Campbell",
+        "first_name": "Todd",
+        "middle_name": "",
+        "last_name": "Campbell",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/todd-campbell"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Matthew Frankel",
+        "first_name": "Matthew",
+        "middle_name": "",
+        "last_name": "Frankel",
+        "title": "Investment Planning Specialist & Personal Finance Writer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/matthew-frankel"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Eric Bleeker",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "Bleeker",
+        "title": "General Manager",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/eric-bleeker"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Chris Hill",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Hill",
+        "title": "Host",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/chris-hill"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Alyce Lomax",
+        "first_name": "Alyce",
+        "middle_name": "",
+        "last_name": "Lomax",
+        "title": "Writer/Analyst/Columnist",
+        "location": "United States",
+        "topics": [
+            "Environment",
+            "Society"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/alyce-lomax"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Brian Stoffel",
+        "first_name": "Brian",
+        "middle_name": "",
+        "last_name": "Stoffel",
+        "title": "Columnist/Financial Journalist",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/brian-stoffel"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Timothy Green",
+        "first_name": "Timothy",
+        "middle_name": "",
+        "last_name": "Green",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Commerce",
+            "Computers & Technology",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/timothy-green"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Ron Gross",
+        "first_name": "Ron",
+        "middle_name": "",
+        "last_name": "Gross",
+        "title": "Operations Director/Advisor",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/ron-gross"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Kristine Harjes",
+        "first_name": "Kristine",
+        "middle_name": "",
+        "last_name": "Harjes",
+        "title": "Investment Officer",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/kristine-harjes"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Corinne Jurney Cardina",
+        "first_name": "Corinne",
+        "middle_name": "Jurney",
+        "last_name": "Cardina",
+        "title": "Bureau Chief",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/corinne-jurney-cardina"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Jennifer Saibil",
+        "first_name": "Jennifer",
+        "middle_name": "",
+        "last_name": "Saibil",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/jennifer-saibil"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Demitrios Kalogeropoulos",
+        "first_name": "Demitrios",
+        "middle_name": "",
+        "last_name": "Kalogeropoulos",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Commerce",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/demitrios-kalogeropoulos"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Chuck Saletta",
+        "first_name": "Chuck",
+        "middle_name": "",
+        "last_name": "Saletta",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/chuck-saletta"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Tyler Crowe",
+        "first_name": "Tyler",
+        "middle_name": "",
+        "last_name": "Crowe",
+        "title": "Associate Editor & Contributor",
+        "location": "United States",
+        "topics": [
+            "Energy",
+            "Finance & Banking Services",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/tyler-crowe"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Selena Maranjian",
+        "first_name": "Selena",
+        "middle_name": "",
+        "last_name": "Maranjian",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/selena-maranjian-219736"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Selena Maranjian",
+        "first_name": "Selena",
+        "middle_name": "",
+        "last_name": "Maranjian",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/selena-maranjian-225150"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Lee Samaha",
+        "first_name": "Lee",
+        "middle_name": "",
+        "last_name": "Samaha",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/lee-samaha"
+    },
+    {
+        "company": "the-motley-fool",
+        "company_url": "fool.com",
+        "name": "Keith Speights",
+        "first_name": "Keith",
+        "middle_name": "",
+        "last_name": "Speights",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/keith-speights"
+    }
+]

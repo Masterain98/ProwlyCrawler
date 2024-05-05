@@ -1,0 +1,34 @@
+[
+    {
+        "company": "pgatour-com",
+        "company_url": "pgatour.com",
+        "name": "Scott Gutterman",
+        "first_name": "Scott",
+        "middle_name": "",
+        "last_name": "Gutterman",
+        "title": "Senior Vice President of Digital Operations",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/scott-gutterman"
+    },
+    {
+        "company": "pgatour-com",
+        "company_url": "pgatour.com",
+        "name": "Dave Shedloski",
+        "first_name": "Dave",
+        "middle_name": "",
+        "last_name": "Shedloski",
+        "title": "Senior Correspondent & TOUR Inside",
+        "location": "United States",
+        "topics": [
+            "Golf"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/dave-shedloski"
+    }
+]

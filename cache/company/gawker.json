@@ -1,0 +1,58 @@
+[
+    {
+        "company": "gawker",
+        "company_url": "gawker.com",
+        "name": "Brandy Jensen",
+        "first_name": "Brandy",
+        "middle_name": "",
+        "last_name": "Jensen",
+        "title": "Features Editor",
+        "location": "United States",
+        "topics": [
+            "Features/Lifestyle"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/brandy-jensen"
+    },
+    {
+        "company": "gawker",
+        "company_url": "gawker.com",
+        "name": "George Civeris",
+        "first_name": "George",
+        "middle_name": "",
+        "last_name": "Civeris",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Entertainment",
+            "News",
+            "Politics"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/george-civeris"
+    },
+    {
+        "company": "gawker",
+        "company_url": "gawker.com",
+        "name": "Leah Finnegan",
+        "first_name": "Leah",
+        "middle_name": "",
+        "last_name": "Finnegan",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Entertainment",
+            "Media",
+            "Technology",
+            "News",
+            "Politics"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/leah-finnegan"
+    }
+]

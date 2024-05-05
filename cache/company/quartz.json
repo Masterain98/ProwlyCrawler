@@ -1,0 +1,283 @@
+[
+    {
+        "company": "quartz",
+        "company_url": "qz.com",
+        "name": "John Keefe",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Keefe",
+        "title": "Investigations Editor",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/john-keefe"
+    },
+    {
+        "company": "quartz",
+        "company_url": "qz.com",
+        "name": "Tiffany Ap",
+        "first_name": "Tiffany",
+        "middle_name": "",
+        "last_name": "Ap",
+        "title": "Lead Reporter, How We Spend",
+        "location": "United States",
+        "topics": [
+            "E-Commerce",
+            "Apparel",
+            "Commerce",
+            "Transportation and Logistics",
+            "Environment"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/tiffany-ap"
+    },
+    {
+        "company": "quartz",
+        "company_url": "qz.com",
+        "name": "Morgan Chmielewski",
+        "first_name": "Morgan",
+        "middle_name": "",
+        "last_name": "Chmielewski",
+        "title": "Editor, Branded Content",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/morgan-chmielewski"
+    },
+    {
+        "company": "quartz",
+        "company_url": "qz.com",
+        "name": "Hasit Shah",
+        "first_name": "Hasit",
+        "middle_name": "",
+        "last_name": "Shah",
+        "title": "News Editor",
+        "location": "United States",
+        "topics": [
+            "International News",
+            "News"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/hasit-shah"
+    },
+    {
+        "company": "quartz",
+        "company_url": "qz.com",
+        "name": "Ashley Webster",
+        "first_name": "Ashley",
+        "middle_name": "",
+        "last_name": "Webster",
+        "title": "Audience Editor",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/ashley-webster"
+    },
+    {
+        "company": "quartz",
+        "company_url": "qz.com",
+        "name": "Katherine Bell",
+        "first_name": "Katherine",
+        "middle_name": "",
+        "last_name": "Bell",
+        "title": "Editor-in-Chief",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/katherine-bell"
+    },
+    {
+        "company": "quartz",
+        "company_url": "qz.com",
+        "name": "Anne Quito",
+        "first_name": "Anne",
+        "middle_name": "",
+        "last_name": "Quito",
+        "title": "Design Reporter",
+        "location": "United States",
+        "topics": [
+            "Design"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/anne-quito"
+    },
+    {
+        "company": "quartz",
+        "company_url": "qz.com",
+        "name": "Nicolas Rivero",
+        "first_name": "Nicolas",
+        "middle_name": "",
+        "last_name": "Rivero",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/nicolas-rivero"
+    },
+    {
+        "company": "quartz",
+        "company_url": "qz.com",
+        "name": "Zach Seward",
+        "first_name": "Zach",
+        "middle_name": "",
+        "last_name": "Seward",
+        "title": "Chief Executive Officer",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/zach-seward"
+    },
+    {
+        "company": "quartz",
+        "company_url": "qz.com",
+        "name": "Tim Fernholz",
+        "first_name": "Tim",
+        "middle_name": "",
+        "last_name": "Fernholz",
+        "title": "Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/tim-fernholz"
+    },
+    {
+        "company": "quartz",
+        "company_url": "qz.com",
+        "name": "Oliver Staley",
+        "first_name": "Oliver",
+        "middle_name": "",
+        "last_name": "Staley",
+        "title": "Culture & Lifestyle Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "House"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/oliver-staley"
+    },
+    {
+        "company": "quartz",
+        "company_url": "qz.com",
+        "name": "Heather Landy",
+        "first_name": "Heather",
+        "middle_name": "",
+        "last_name": "Landy",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Workplace"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/heather-landy"
+    },
+    {
+        "company": "quartz",
+        "company_url": "qz.com",
+        "name": "Nathan DiCamillo",
+        "first_name": "Nathan",
+        "middle_name": "",
+        "last_name": "DiCamillo",
+        "title": "Economics Reporter",
+        "location": "United States",
+        "topics": [
+            "Society"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/nathan-dicamillo"
+    },
+    {
+        "company": "quartz",
+        "company_url": "qz.com",
+        "name": "Clarisa Diaz",
+        "first_name": "Clarisa",
+        "middle_name": "",
+        "last_name": "Diaz",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/clarisa-diaz"
+    },
+    {
+        "company": "quartz",
+        "company_url": "qz.com",
+        "name": "Tim McDonnell",
+        "first_name": "Tim",
+        "middle_name": "",
+        "last_name": "McDonnell",
+        "title": "Climate & Energy Reporter",
+        "location": "United States",
+        "topics": [
+            "Energy",
+            "Environment"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/tim-mcdonnell"
+    },
+    {
+        "company": "quartz",
+        "company_url": "qz.com",
+        "name": "Marc Bain",
+        "first_name": "Marc",
+        "middle_name": "",
+        "last_name": "Bain",
+        "title": "Fashion Reporter",
+        "location": "United States",
+        "topics": [
+            "Apparel"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/marc-bain"
+    },
+    {
+        "company": "quartz",
+        "company_url": "qz.com",
+        "name": "Scott Nover",
+        "first_name": "Scott",
+        "middle_name": "",
+        "last_name": "Nover",
+        "title": "Emerging Industries Reporter",
+        "location": "United States",
+        "topics": [
+            "Industry",
+            "Technology"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/scott-nover"
+    }
+]

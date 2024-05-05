@@ -1,0 +1,309 @@
+[
+    {
+        "company": "abc-news-online",
+        "company_url": "abcnews.go.com",
+        "name": "Clayton Sandell",
+        "first_name": "Clayton",
+        "middle_name": "",
+        "last_name": "Sandell",
+        "title": "Correspondent",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/clayton-sandell"
+    },
+    {
+        "company": "abc-news-online",
+        "company_url": "abcnews.go.com",
+        "name": "Karen Travers",
+        "first_name": "Karen",
+        "middle_name": "",
+        "last_name": "Travers",
+        "title": "Correspondent",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/karen-travers"
+    },
+    {
+        "company": "abc-news-online",
+        "company_url": "abcnews.go.com",
+        "name": "Morgan Korn",
+        "first_name": "Morgan",
+        "middle_name": "",
+        "last_name": "Korn",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "Automobiles",
+            "Business",
+            "News"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/morgan-korn"
+    },
+    {
+        "company": "abc-news-online",
+        "company_url": "abcnews.go.com",
+        "name": "Lauren Meltzer",
+        "first_name": "Lauren",
+        "middle_name": "",
+        "last_name": "Meltzer",
+        "title": "Digital Reporter, Audience Development",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/lauren-meltzer"
+    },
+    {
+        "company": "abc-news-online",
+        "company_url": "abcnews.go.com",
+        "name": "Daniel Linden",
+        "first_name": "Daniel",
+        "middle_name": "",
+        "last_name": "Linden",
+        "title": "Director, Publishing Strategy",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/daniel-linden"
+    },
+    {
+        "company": "abc-news-online",
+        "company_url": "abcnews.go.com",
+        "name": "Janet Weinstein",
+        "first_name": "Janet",
+        "middle_name": "",
+        "last_name": "Weinstein",
+        "title": "Producer, Digital Video",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/janet-weinstein"
+    },
+    {
+        "company": "abc-news-online",
+        "company_url": "abcnews.go.com",
+        "name": "Rahma Ahmed",
+        "first_name": "Rahma",
+        "middle_name": "",
+        "last_name": "Ahmed",
+        "title": "Guest Booking & Production Associate, ABC News Live Prime",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Health & Medicine",
+            "Unions",
+            "News",
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/rahma-ahmed"
+    },
+    {
+        "company": "abc-news-online",
+        "company_url": "abcnews.go.com",
+        "name": "Alexander Mallin",
+        "first_name": "Alexander",
+        "middle_name": "",
+        "last_name": "Mallin",
+        "title": "Justice Department Reporter",
+        "location": "United States",
+        "topics": [
+            "International News",
+            "Politics"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/alexander-mallin"
+    },
+    {
+        "company": "abc-news-online",
+        "company_url": "abcnews.go.com",
+        "name": "Haley Yamada",
+        "first_name": "Haley",
+        "middle_name": "",
+        "last_name": "Yamada",
+        "title": "Associate Producer",
+        "location": "United States",
+        "topics": [
+            "Crime",
+            "Olympics",
+            "Sports",
+            "News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/haley-yamada"
+    },
+    {
+        "company": "abc-news-online",
+        "company_url": "abcnews.go.com",
+        "name": "Kiara Alfonseca",
+        "first_name": "Kiara",
+        "middle_name": "",
+        "last_name": "Alfonseca",
+        "title": "Digital Reporter & Producer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Society"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/kiara-alfonseca"
+    },
+    {
+        "company": "abc-news-online",
+        "company_url": "abcnews.go.com",
+        "name": "Julia Jacobo",
+        "first_name": "Julia",
+        "middle_name": "",
+        "last_name": "Jacobo",
+        "title": "Multimedia Reporter",
+        "location": "United States",
+        "topics": [
+            "Environment",
+            "News",
+            "Politics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/julia-jacobo"
+    },
+    {
+        "company": "abc-news-online",
+        "company_url": "abcnews.go.com",
+        "name": "Haley Yamada",
+        "first_name": "Haley",
+        "middle_name": "",
+        "last_name": "Yamada",
+        "title": "Associate Producer",
+        "location": "United States",
+        "topics": [
+            "Crime",
+            "Olympics",
+            "Sports",
+            "News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/haley-yamada-76597"
+    },
+    {
+        "company": "abc-news-online",
+        "company_url": "abcnews.go.com",
+        "name": "Ryan Amelio",
+        "first_name": "Ryan",
+        "middle_name": "",
+        "last_name": "Amelio",
+        "title": "Manager, Live Video",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/ryan-amelio"
+    },
+    {
+        "company": "abc-news-online",
+        "company_url": "abcnews.go.com",
+        "name": "Josh Ascher",
+        "first_name": "Josh",
+        "middle_name": "",
+        "last_name": "Ascher",
+        "title": "Senior Producer",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/josh-ascher"
+    },
+    {
+        "company": "abc-news-online",
+        "company_url": "abcnews.go.com",
+        "name": "Lesley Messer",
+        "first_name": "Lesley",
+        "middle_name": "",
+        "last_name": "Messer",
+        "title": "Senior Entertainment/StyleEditor",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/lesley-messer"
+    },
+    {
+        "company": "abc-news-online",
+        "company_url": "abcnews.go.com",
+        "name": "Dean Schabner",
+        "first_name": "Dean",
+        "middle_name": "",
+        "last_name": "Schabner",
+        "title": "Weekend Manager/Editor",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/dean-schabner"
+    },
+    {
+        "company": "abc-news-online",
+        "company_url": "abcnews.go.com",
+        "name": "Ashley LoFaso",
+        "first_name": "Ashley",
+        "middle_name": "",
+        "last_name": "LoFaso",
+        "title": "Senior Digital Video Producer",
+        "location": "United States",
+        "topics": [
+            "Environment",
+            "Travel"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/ashley-lofaso"
+    },
+    {
+        "company": "abc-news-online",
+        "company_url": "abcnews.go.com",
+        "name": "Nicole Westman",
+        "first_name": "Nicole",
+        "middle_name": "",
+        "last_name": "Westman",
+        "title": "Associate Producer",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Science"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/nicole-westman"
+    }
+]

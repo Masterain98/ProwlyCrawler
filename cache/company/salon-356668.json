@@ -1,0 +1,173 @@
+[
+    {
+        "company": "salon-356668",
+        "company_url": "salon.com",
+        "name": "Thomas Engelhardt",
+        "first_name": "Thomas",
+        "middle_name": "",
+        "last_name": "Engelhardt",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Foreign Affairs",
+            "Politics",
+            "Defense & Military"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/thomas-engelhardt"
+    },
+    {
+        "company": "salon-356668",
+        "company_url": "salon.com",
+        "name": "Chauncey DeVega",
+        "first_name": "Chauncey",
+        "middle_name": "",
+        "last_name": "DeVega",
+        "title": "Senior Politics Writer",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/chauncey-devega"
+    },
+    {
+        "company": "salon-356668",
+        "company_url": "salon.com",
+        "name": "Zachary Petrizzo",
+        "first_name": "Zachary",
+        "middle_name": "",
+        "last_name": "Petrizzo",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Politics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/zachary-petrizzo"
+    },
+    {
+        "company": "salon-356668",
+        "company_url": "salon.com",
+        "name": "Keith Spencer",
+        "first_name": "Keith",
+        "middle_name": "",
+        "last_name": "Spencer",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Health & Medicine",
+            "Science",
+            "Technology"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/keith-spencer"
+    },
+    {
+        "company": "salon-356668",
+        "company_url": "salon.com",
+        "name": "Nicole Karlis",
+        "first_name": "Nicole",
+        "middle_name": "",
+        "last_name": "Karlis",
+        "title": "Staff Writer & Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Science",
+            "Technology"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/nicole-karlis"
+    },
+    {
+        "company": "salon-356668",
+        "company_url": "salon.com",
+        "name": "Erin Keane",
+        "first_name": "Erin",
+        "middle_name": "",
+        "last_name": "Keane",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/erin-keane"
+    },
+    {
+        "company": "salon-356668",
+        "company_url": "salon.com",
+        "name": "Sophia Tesfaye",
+        "first_name": "Sophia",
+        "middle_name": "",
+        "last_name": "Tesfaye",
+        "title": "Politics Editor",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/sophia-tesfaye"
+    },
+    {
+        "company": "salon-356668",
+        "company_url": "salon.com",
+        "name": "D. Watkins",
+        "first_name": "D.",
+        "middle_name": "",
+        "last_name": "Watkins",
+        "title": "Editor at Large",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/d-watkins"
+    },
+    {
+        "company": "salon-356668",
+        "company_url": "salon.com",
+        "name": "Matthew Rozsa",
+        "first_name": "Matthew",
+        "middle_name": "",
+        "last_name": "Rozsa",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/matthew-rozsa"
+    },
+    {
+        "company": "salon-356668",
+        "company_url": "salon.com",
+        "name": "Joseph Neese",
+        "first_name": "Joseph",
+        "middle_name": "",
+        "last_name": "Neese",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "Features/Lifestyle",
+            "Food",
+            "Politics"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/joseph-neese"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "company": "android-central",
+        "company_url": "androidcentral.com",
+        "name": "Alex Dobie",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Dobie",
+        "title": "Executive Editor",
+        "location": "United Kingdom",
+        "topics": [
+            "Smartphones",
+            "Android"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/alex-dobie"
+    },
+    {
+        "company": "android-central",
+        "company_url": "androidcentral.com",
+        "name": "Chris Wedel",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Wedel",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Consumer Electronics",
+            "Android"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/chris-wedel"
+    },
+    {
+        "company": "android-central",
+        "company_url": "androidcentral.com",
+        "name": "Cory Gunther",
+        "first_name": "Cory",
+        "middle_name": "",
+        "last_name": "Gunther",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Android"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/cory-gunther"
+    },
+    {
+        "company": "android-central",
+        "company_url": "androidcentral.com",
+        "name": "Jared DiPane",
+        "first_name": "Jared",
+        "middle_name": "",
+        "last_name": "DiPane",
+        "title": "Deals Editor",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jared-dipane"
+    },
+    {
+        "company": "android-central",
+        "company_url": "androidcentral.com",
+        "name": "Michael Hicks",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Hicks",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/michael-hicks"
+    },
+    {
+        "company": "android-central",
+        "company_url": "androidcentral.com",
+        "name": "Al Sacco",
+        "first_name": "Al",
+        "middle_name": "",
+        "last_name": "Sacco",
+        "title": "Content Director",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Consumer Electronics",
+            "Telecommunications",
+            "Computers & Technology",
+            "Smartphones",
+            "Mobile",
+            "Android"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/al-sacco"
+    },
+    {
+        "company": "android-central",
+        "company_url": "androidcentral.com",
+        "name": "Russell Holly",
+        "first_name": "Russell",
+        "middle_name": "",
+        "last_name": "Holly",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Smartphones",
+            "Android"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/russell-holly"
+    },
+    {
+        "company": "android-central",
+        "company_url": "androidcentral.com",
+        "name": "Jerry Hildenbrand",
+        "first_name": "Jerry",
+        "middle_name": "",
+        "last_name": "Hildenbrand",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Smartphones",
+            "Android"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jerry-hildenbrand"
+    },
+    {
+        "company": "android-central",
+        "company_url": "androidcentral.com",
+        "name": "Ara Wagoner",
+        "first_name": "Ara",
+        "middle_name": "",
+        "last_name": "Wagoner",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Telecommunications",
+            "Android"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/ara-wagoner"
+    },
+    {
+        "company": "android-central",
+        "company_url": "androidcentral.com",
+        "name": "Jeramy Johnson",
+        "first_name": "Jeramy",
+        "middle_name": "",
+        "last_name": "Johnson",
+        "title": "Staff Writer and Help and How-to Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Telecommunications",
+            "Android"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jeramy-johnson"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "company": "towleroad",
+        "company_url": "towleroad.com",
+        "name": "Andy Towle",
+        "first_name": "Andy",
+        "middle_name": "",
+        "last_name": "Towle",
+        "title": "Founder/President/Blogger",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "LGBT",
+            "Politics"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 59,
+        "url": "https://prowly.com/profiles/journalists/andy-towle"
+    },
+    {
+        "company": "towleroad",
+        "company_url": "towleroad.com",
+        "name": "Savas Abadsidis",
+        "first_name": "Savas",
+        "middle_name": "",
+        "last_name": "Abadsidis",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Apparel",
+            "LGBT",
+            "Media",
+            "Music",
+            "Technology",
+            "Travel",
+            "Politics"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 59,
+        "url": "https://prowly.com/profiles/journalists/savas-abadsidis"
+    }
+]

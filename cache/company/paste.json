@@ -1,0 +1,240 @@
+[
+    {
+        "company": "paste",
+        "company_url": "pastemagazine.com",
+        "name": "Holly Green",
+        "first_name": "Holly",
+        "middle_name": "",
+        "last_name": "Green",
+        "title": "Assistant Games Editor",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/holly-green"
+    },
+    {
+        "company": "paste",
+        "company_url": "pastemagazine.com",
+        "name": "Amy Amatangelo",
+        "first_name": "Amy",
+        "middle_name": "",
+        "last_name": "Amatangelo",
+        "title": "Assistant TV Editor & Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Media"
+        ],
+        "influence_score": 54,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/amy-amatangelo"
+    },
+    {
+        "company": "paste",
+        "company_url": "pastemagazine.com",
+        "name": "Tom Lanham",
+        "first_name": "Tom",
+        "middle_name": "",
+        "last_name": "Lanham",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Features/Lifestyle",
+            "Music"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/tom-lanham"
+    },
+    {
+        "company": "paste",
+        "company_url": "pastemagazine.com",
+        "name": "Michael Dunaway",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Dunaway",
+        "title": "Editor at Large",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Music",
+            "Science"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/michael-dunaway-432214"
+    },
+    {
+        "company": "paste",
+        "company_url": "pastemagazine.com",
+        "name": "Keri Lumm",
+        "first_name": "Keri",
+        "middle_name": "",
+        "last_name": "Lumm",
+        "title": "Contributing Videographer",
+        "location": "United States",
+        "topics": [
+            "Media"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/keri-lumm"
+    },
+    {
+        "company": "paste",
+        "company_url": "pastemagazine.com",
+        "name": "Allison Keene",
+        "first_name": "Allison",
+        "middle_name": "",
+        "last_name": "Keene",
+        "title": "TV Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Media"
+        ],
+        "influence_score": 54,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/allison-keene"
+    },
+    {
+        "company": "paste",
+        "company_url": "pastemagazine.com",
+        "name": "Shane Ryan",
+        "first_name": "Shane",
+        "middle_name": "",
+        "last_name": "Ryan",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Media",
+            "Politics"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/shane-ryan"
+    },
+    {
+        "company": "paste",
+        "company_url": "pastemagazine.com",
+        "name": "Michael Burgin",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Burgin",
+        "title": "Movies Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/michael-burgin"
+    },
+    {
+        "company": "paste",
+        "company_url": "pastemagazine.com",
+        "name": "Lizzie Manno",
+        "first_name": "Lizzie",
+        "middle_name": "",
+        "last_name": "Manno",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/lizzie-manno"
+    },
+    {
+        "company": "paste",
+        "company_url": "pastemagazine.com",
+        "name": "Amy Glynn",
+        "first_name": "Amy",
+        "middle_name": "",
+        "last_name": "Glynn",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Wine"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/amy-glynn"
+    },
+    {
+        "company": "paste",
+        "company_url": "pastemagazine.com",
+        "name": "Jim Vorel",
+        "first_name": "Jim",
+        "middle_name": "",
+        "last_name": "Vorel",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "Entertainment"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/jim-vorel"
+    },
+    {
+        "company": "paste",
+        "company_url": "pastemagazine.com",
+        "name": "Josh Jackson",
+        "first_name": "Josh",
+        "middle_name": "",
+        "last_name": "Jackson",
+        "title": "President/Editor-in-chief",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Music",
+            "Travel"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/josh-jackson"
+    },
+    {
+        "company": "paste",
+        "company_url": "pastemagazine.com",
+        "name": "Brad Wagner",
+        "first_name": "Brad",
+        "middle_name": "",
+        "last_name": "Wagner",
+        "title": "Studio Manager/Video",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/brad-wagner"
+    },
+    {
+        "company": "paste",
+        "company_url": "pastemagazine.com",
+        "name": "Michael Dunaway",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Dunaway",
+        "title": "Editor at Large",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Music",
+            "Science"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/michael-dunaway"
+    }
+]

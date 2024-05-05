@@ -1,0 +1,234 @@
+[
+    {
+        "company": "martha-stewart-living",
+        "company_url": "marthastewart.com",
+        "name": "James Maikowski",
+        "first_name": "James",
+        "middle_name": "",
+        "last_name": "Maikowski",
+        "title": "Art Director",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/james-maikowski"
+    },
+    {
+        "company": "martha-stewart-living",
+        "company_url": "marthastewart.com",
+        "name": "Lauryn Tyrell",
+        "first_name": "Lauryn",
+        "middle_name": "",
+        "last_name": "Tyrell",
+        "title": "Senior Food Editor",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/lauryn-tyrell"
+    },
+    {
+        "company": "martha-stewart-living",
+        "company_url": "marthastewart.com",
+        "name": "Sarah Carey",
+        "first_name": "Sarah",
+        "middle_name": "",
+        "last_name": "Carey",
+        "title": "Food Director",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/sarah-carey"
+    },
+    {
+        "company": "martha-stewart-living",
+        "company_url": "marthastewart.com",
+        "name": "Greg Lofts",
+        "first_name": "Greg",
+        "middle_name": "",
+        "last_name": "Lofts",
+        "title": "Deputy Food Editor",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/greg-lofts"
+    },
+    {
+        "company": "martha-stewart-living",
+        "company_url": "marthastewart.com",
+        "name": "Tanya Graff",
+        "first_name": "Tanya",
+        "middle_name": "",
+        "last_name": "Graff",
+        "title": "Style Director",
+        "location": "United States",
+        "topics": [
+            "Apparel"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/tanya-graff"
+    },
+    {
+        "company": "martha-stewart-living",
+        "company_url": "marthastewart.com",
+        "name": "Marilyn Oliveira",
+        "first_name": "Marilyn",
+        "middle_name": "",
+        "last_name": "Oliveira",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/marilyn-oliveira"
+    },
+    {
+        "company": "martha-stewart-living",
+        "company_url": "marthastewart.com",
+        "name": "Claire Sullivan",
+        "first_name": "Claire",
+        "middle_name": "",
+        "last_name": "Sullivan",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Food"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/claire-sullivan"
+    },
+    {
+        "company": "martha-stewart-living",
+        "company_url": "marthastewart.com",
+        "name": "Naomi DeManana",
+        "first_name": "Naomi",
+        "middle_name": "",
+        "last_name": "DeManana",
+        "title": "Editor at Large",
+        "location": "United States",
+        "topics": [
+            "Leisure",
+            "House",
+            "Apparel"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/naomi-demanana"
+    },
+    {
+        "company": "martha-stewart-living",
+        "company_url": "marthastewart.com",
+        "name": "Jennifer Tung",
+        "first_name": "Jennifer",
+        "middle_name": "",
+        "last_name": "Tung",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Design",
+            "Travel"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/jennifer-tung"
+    },
+    {
+        "company": "martha-stewart-living",
+        "company_url": "marthastewart.com",
+        "name": "Melissa Ozawa",
+        "first_name": "Melissa",
+        "middle_name": "",
+        "last_name": "Ozawa",
+        "title": "Features Editor",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Gardening"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/melissa-ozawa"
+    },
+    {
+        "company": "martha-stewart-living",
+        "company_url": "marthastewart.com",
+        "name": "Melissa Ozawa",
+        "first_name": "Melissa",
+        "middle_name": "",
+        "last_name": "Ozawa",
+        "title": "Features Editor",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Gardening"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/melissa-ozawa-149901"
+    },
+    {
+        "company": "martha-stewart-living",
+        "company_url": "marthastewart.com",
+        "name": "Lorna Aragon",
+        "first_name": "Lorna",
+        "middle_name": "",
+        "last_name": "Aragon",
+        "title": "Home Editor",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Design"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/lorna-aragon"
+    },
+    {
+        "company": "martha-stewart-living",
+        "company_url": "marthastewart.com",
+        "name": "Myles McDonnell",
+        "first_name": "Myles",
+        "middle_name": "",
+        "last_name": "McDonnell",
+        "title": "Copy Chief & Articles Editor",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/myles-mcdonnell"
+    },
+    {
+        "company": "martha-stewart-living",
+        "company_url": "marthastewart.com",
+        "name": "Kavita Thirupuvanam",
+        "first_name": "Kavita",
+        "middle_name": "",
+        "last_name": "Thirupuvanam",
+        "title": "Editorial Assistant",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/kavita-thirupuvanam"
+    }
+]

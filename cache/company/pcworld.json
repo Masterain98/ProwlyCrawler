@@ -1,0 +1,189 @@
+[
+    {
+        "company": "pcworld",
+        "company_url": "pcworld.com",
+        "name": "Michael Simon",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Simon",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Smartphones"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/michael-simon"
+    },
+    {
+        "company": "pcworld",
+        "company_url": "pcworld.com",
+        "name": "Katherine Stevenson",
+        "first_name": "Katherine",
+        "middle_name": "",
+        "last_name": "Stevenson",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/katherine-stevenson"
+    },
+    {
+        "company": "pcworld",
+        "company_url": "pcworld.com",
+        "name": "Melissa Riofrio",
+        "first_name": "Melissa",
+        "middle_name": "",
+        "last_name": "Riofrio",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "PCs/Laptops"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/melissa-riofrio"
+    },
+    {
+        "company": "pcworld",
+        "company_url": "pcworld.com",
+        "name": "Alaina Yee",
+        "first_name": "Alaina",
+        "middle_name": "",
+        "last_name": "Yee",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "PCs/Laptops"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/alaina-yee"
+    },
+    {
+        "company": "pcworld",
+        "company_url": "pcworld.com",
+        "name": "Gordon Ung",
+        "first_name": "Gordon",
+        "middle_name": "",
+        "last_name": "Ung",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/gordon-ung"
+    },
+    {
+        "company": "pcworld",
+        "company_url": "pcworld.com",
+        "name": "Laura Blackwell",
+        "first_name": "Laura",
+        "middle_name": "",
+        "last_name": "Blackwell",
+        "title": "Downloads Editor & Columnist",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Consumer Electronics",
+            "Electrical",
+            "PCs/Laptops",
+            "Commerce",
+            "Technology"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/laura-blackwell"
+    },
+    {
+        "company": "pcworld",
+        "company_url": "pcworld.com",
+        "name": "Jon Phillips",
+        "first_name": "Jon",
+        "middle_name": "",
+        "last_name": "Phillips",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/jon-phillips"
+    },
+    {
+        "company": "pcworld",
+        "company_url": "pcworld.com",
+        "name": "Jon Jacobi",
+        "first_name": "Jon",
+        "middle_name": "",
+        "last_name": "Jacobi",
+        "title": "Freelance Journalist",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/jon-jacobi"
+    },
+    {
+        "company": "pcworld",
+        "company_url": "pcworld.com",
+        "name": "Mark Hachman",
+        "first_name": "Mark",
+        "middle_name": "",
+        "last_name": "Hachman",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "PCs/Laptops",
+            "Computers & Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/mark-hachman"
+    },
+    {
+        "company": "pcworld",
+        "company_url": "pcworld.com",
+        "name": "Ian Paul",
+        "first_name": "Ian",
+        "middle_name": "",
+        "last_name": "Paul",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "PCs/Laptops"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/ian-paul"
+    },
+    {
+        "company": "pcworld",
+        "company_url": "pcworld.com",
+        "name": "Brad Chacos",
+        "first_name": "Brad",
+        "middle_name": "",
+        "last_name": "Chacos",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Video Games",
+            "Publishing",
+            "Online Gaming"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/brad-chacos"
+    }
+]

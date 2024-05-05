@@ -1,0 +1,352 @@
+[
+    {
+        "company": "heavy-com",
+        "company_url": "heavy.com",
+        "name": "Jeff Smith",
+        "first_name": "Jeff",
+        "middle_name": "",
+        "last_name": "Smith",
+        "title": "Sports Editor",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 68,
+        "url": "https://prowly.com/profiles/journalists/jeff-smith"
+    },
+    {
+        "company": "heavy-com",
+        "company_url": "heavy.com",
+        "name": "Matt Gibson",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Gibson",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Agriculture",
+            "Gardening"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 68,
+        "url": "https://prowly.com/profiles/journalists/matt-gibson"
+    },
+    {
+        "company": "heavy-com",
+        "company_url": "heavy.com",
+        "name": "Ashley Wijangco",
+        "first_name": "Ashley",
+        "middle_name": "",
+        "last_name": "Wijangco",
+        "title": "Chicago Bulls Contributor",
+        "location": "United States",
+        "topics": [
+            "Basketball",
+            "Entertainment"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 68,
+        "url": "https://prowly.com/profiles/journalists/ashley-wijangco"
+    },
+    {
+        "company": "heavy-com",
+        "company_url": "heavy.com",
+        "name": "Erin Laviola",
+        "first_name": "Erin",
+        "middle_name": "",
+        "last_name": "Laviola",
+        "title": "Senior Contributor",
+        "location": "United States",
+        "topics": [
+            "Crime",
+            "News",
+            "Politics"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 68,
+        "url": "https://prowly.com/profiles/journalists/erin-laviola"
+    },
+    {
+        "company": "heavy-com",
+        "company_url": "heavy.com",
+        "name": "Elton Jones",
+        "first_name": "Elton",
+        "middle_name": "",
+        "last_name": "Jones",
+        "title": "Senior Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Video Games",
+            "Wrestling"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 68,
+        "url": "https://prowly.com/profiles/journalists/elton-jones"
+    },
+    {
+        "company": "heavy-com",
+        "company_url": "heavy.com",
+        "name": "Ryan Aston",
+        "first_name": "Ryan",
+        "middle_name": "",
+        "last_name": "Aston",
+        "title": "NBA Writer",
+        "location": "United States",
+        "topics": [
+            "Basketball"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 68,
+        "url": "https://prowly.com/profiles/journalists/ryan-aston"
+    },
+    {
+        "company": "heavy-com",
+        "company_url": "heavy.com",
+        "name": "Stephanie Dwilson",
+        "first_name": "Stephanie",
+        "middle_name": "",
+        "last_name": "Dwilson",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Science",
+            "Technology",
+            "News",
+            "Politics"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 68,
+        "url": "https://prowly.com/profiles/journalists/stephanie-dwilson"
+    },
+    {
+        "company": "heavy-com",
+        "company_url": "heavy.com",
+        "name": "Tanay Hudson",
+        "first_name": "Tanay",
+        "middle_name": "",
+        "last_name": "Hudson",
+        "title": "Breaking News Contributor",
+        "location": "United States",
+        "topics": [
+            "Media"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 68,
+        "url": "https://prowly.com/profiles/journalists/tanay-hudson-52267"
+    },
+    {
+        "company": "heavy-com",
+        "company_url": "heavy.com",
+        "name": "Sean Deveney",
+        "first_name": "Sean",
+        "middle_name": "",
+        "last_name": "Deveney",
+        "title": "NBA Editor",
+        "location": "United States",
+        "topics": [
+            "Basketball",
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 68,
+        "url": "https://prowly.com/profiles/journalists/sean-deveney"
+    },
+    {
+        "company": "heavy-com",
+        "company_url": "heavy.com",
+        "name": "Michelle Oyola",
+        "first_name": "Michelle",
+        "middle_name": "",
+        "last_name": "Oyola",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "Books",
+            "Celebrities",
+            "Entertainment",
+            "General Assignment News",
+            "Sports"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 68,
+        "url": "https://prowly.com/profiles/journalists/michelle-oyola"
+    },
+    {
+        "company": "heavy-com",
+        "company_url": "heavy.com",
+        "name": "Emily Bicks",
+        "first_name": "Emily",
+        "middle_name": "",
+        "last_name": "Bicks",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Sports",
+            "News"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 68,
+        "url": "https://prowly.com/profiles/journalists/emily-bicks"
+    },
+    {
+        "company": "heavy-com",
+        "company_url": "heavy.com",
+        "name": "Sean Deveney",
+        "first_name": "Sean",
+        "middle_name": "",
+        "last_name": "Deveney",
+        "title": "NBA Editor",
+        "location": "United States",
+        "topics": [
+            "Basketball",
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 68,
+        "url": "https://prowly.com/profiles/journalists/sean-deveney-421110"
+    },
+    {
+        "company": "heavy-com",
+        "company_url": "heavy.com",
+        "name": "Ben Doody",
+        "first_name": "Ben",
+        "middle_name": "",
+        "last_name": "Doody",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "National News",
+            "Entertainment",
+            "Sports",
+            "Politics"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 68,
+        "url": "https://prowly.com/profiles/journalists/ben-doody"
+    },
+    {
+        "company": "heavy-com",
+        "company_url": "heavy.com",
+        "name": "Eli Becht",
+        "first_name": "Eli",
+        "middle_name": "",
+        "last_name": "Becht",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 68,
+        "url": "https://prowly.com/profiles/journalists/eli-becht"
+    },
+    {
+        "company": "heavy-com",
+        "company_url": "heavy.com",
+        "name": "John Newby",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Newby",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "Automotive/Motorcycle Racing",
+            "Football"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 68,
+        "url": "https://prowly.com/profiles/journalists/john-newby"
+    },
+    {
+        "company": "heavy-com",
+        "company_url": "heavy.com",
+        "name": "Harry Spampinato",
+        "first_name": "Harry",
+        "middle_name": "",
+        "last_name": "Spampinato",
+        "title": "Outdoor Freelance Contributor",
+        "location": "United States",
+        "topics": [
+            "Nature & Wildlife"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 68,
+        "url": "https://prowly.com/profiles/journalists/harry-spampinato"
+    },
+    {
+        "company": "heavy-com",
+        "company_url": "heavy.com",
+        "name": "Tim Keeney",
+        "first_name": "Tim",
+        "middle_name": "",
+        "last_name": "Keeney",
+        "title": "Sports Contributor",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 68,
+        "url": "https://prowly.com/profiles/journalists/tim-keeney"
+    },
+    {
+        "company": "heavy-com",
+        "company_url": "heavy.com",
+        "name": "Jeanna Hofmeister",
+        "first_name": "Jeanna",
+        "middle_name": "",
+        "last_name": "Hofmeister",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Apparel",
+            "Commerce"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 68,
+        "url": "https://prowly.com/profiles/journalists/jeanna-hofmeister"
+    },
+    {
+        "company": "heavy-com",
+        "company_url": "heavy.com",
+        "name": "Kate Halse",
+        "first_name": "Kate",
+        "middle_name": "",
+        "last_name": "Halse",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 68,
+        "url": "https://prowly.com/profiles/journalists/kate-halse"
+    },
+    {
+        "company": "heavy-com",
+        "company_url": "heavy.com",
+        "name": "Brandon 'Scoop B' Robinson",
+        "first_name": "Brandon",
+        "middle_name": "'Scoop",
+        "last_name": "B' Robinson",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Basketball",
+            "House",
+            "Entertainment",
+            "Food",
+            "Music",
+            "Video Games"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 68,
+        "url": "https://prowly.com/profiles/journalists/brandon-scoop-b-robinson"
+    }
+]

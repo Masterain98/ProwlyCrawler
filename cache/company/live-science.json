@@ -1,0 +1,208 @@
+[
+    {
+        "company": "live-science",
+        "company_url": "livescience.com",
+        "name": "Laura Geggel",
+        "first_name": "Laura",
+        "middle_name": "",
+        "last_name": "Geggel",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Science"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/laura-geggel"
+    },
+    {
+        "company": "live-science",
+        "company_url": "livescience.com",
+        "name": "Charles Choi",
+        "first_name": "Charles",
+        "middle_name": "",
+        "last_name": "Choi",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Astronomy",
+            "Physics",
+            "Science"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/charles-choi"
+    },
+    {
+        "company": "live-science",
+        "company_url": "livescience.com",
+        "name": "Ben Turner",
+        "first_name": "Ben",
+        "middle_name": "",
+        "last_name": "Turner",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Science",
+            "Technology",
+            "Earth Science"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/ben-turner"
+    },
+    {
+        "company": "live-science",
+        "company_url": "livescience.com",
+        "name": "Rachael Rettner",
+        "first_name": "Rachael",
+        "middle_name": "",
+        "last_name": "Rettner",
+        "title": "Health Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Science",
+            "Technology"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/rachael-rettner"
+    },
+    {
+        "company": "live-science",
+        "company_url": "livescience.com",
+        "name": "Mindy Weisberger",
+        "first_name": "Mindy",
+        "middle_name": "",
+        "last_name": "Weisberger",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Agriculture",
+            "Biology/Microbiology",
+            "Science"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/mindy-weisberger"
+    },
+    {
+        "company": "live-science",
+        "company_url": "livescience.com",
+        "name": "Yasemin Saplakoglu",
+        "first_name": "Yasemin",
+        "middle_name": "",
+        "last_name": "Saplakoglu",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Biology/Microbiology",
+            "Science"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/yasemin-saplakoglu"
+    },
+    {
+        "company": "live-science",
+        "company_url": "livescience.com",
+        "name": "Tia Ghose",
+        "first_name": "Tia",
+        "middle_name": "",
+        "last_name": "Ghose",
+        "title": "Associate Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Science"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/tia-ghose"
+    },
+    {
+        "company": "live-science",
+        "company_url": "livescience.com",
+        "name": "Stephanie Pappas",
+        "first_name": "Stephanie",
+        "middle_name": "",
+        "last_name": "Pappas",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Science"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/stephanie-pappas"
+    },
+    {
+        "company": "live-science",
+        "company_url": "livescience.com",
+        "name": "Josh Krisch",
+        "first_name": "Josh",
+        "middle_name": "",
+        "last_name": "Krisch",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Science"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/josh-krisch"
+    },
+    {
+        "company": "live-science",
+        "company_url": "livescience.com",
+        "name": "Jeanna Bryner",
+        "first_name": "Jeanna",
+        "middle_name": "",
+        "last_name": "Bryner",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Biology/Microbiology",
+            "Science"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/jeanna-bryner"
+    },
+    {
+        "company": "live-science",
+        "company_url": "livescience.com",
+        "name": "Anna Gora",
+        "first_name": "Anna",
+        "middle_name": "",
+        "last_name": "Gora",
+        "title": "Health Writer",
+        "location": "United States",
+        "topics": [
+            "Fitness",
+            "Health & Medicine",
+            "Nutrition"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/anna-gora"
+    },
+    {
+        "company": "live-science",
+        "company_url": "livescience.com",
+        "name": "Brandon Specktor",
+        "first_name": "Brandon",
+        "middle_name": "",
+        "last_name": "Specktor",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Science",
+            "Space Exploration",
+            "Environment"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/brandon-specktor"
+    }
+]

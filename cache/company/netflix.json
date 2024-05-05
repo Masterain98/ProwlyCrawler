@@ -1,0 +1,131 @@
+[
+    {
+        "company": "netflix",
+        "company_url": "netflix.com",
+        "name": "Terri Schwartz",
+        "first_name": "Terri",
+        "middle_name": "",
+        "last_name": "Schwartz",
+        "title": "Manager, Netflix Series Social (Genre)",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/terri-schwartz-224089"
+    },
+    {
+        "company": "netflix",
+        "company_url": "netflix.com",
+        "name": "Denise Martin",
+        "first_name": "Denise",
+        "middle_name": "",
+        "last_name": "Martin",
+        "title": "Global Creative Marketing",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/denise-martin"
+    },
+    {
+        "company": "netflix",
+        "company_url": "netflix.com",
+        "name": "Alex Zaragoza",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Zaragoza",
+        "title": "Assignment Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/alex-zaragoza-122805"
+    },
+    {
+        "company": "netflix",
+        "company_url": "netflix.com",
+        "name": "Peter Friedlander",
+        "first_name": "Peter",
+        "middle_name": "",
+        "last_name": "Friedlander",
+        "title": "Vice President, Original Series",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/peter-friedlander"
+    },
+    {
+        "company": "netflix",
+        "company_url": "netflix.com",
+        "name": "Ashley Reese",
+        "first_name": "Ashley",
+        "middle_name": "",
+        "last_name": "Reese",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/ashley-reese-125358"
+    },
+    {
+        "company": "netflix",
+        "company_url": "netflix.com",
+        "name": "Emily Robinson",
+        "first_name": "Emily",
+        "middle_name": "",
+        "last_name": "Robinson",
+        "title": "Originals Series Global Publicist",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/emily-robinson-57556"
+    },
+    {
+        "company": "netflix",
+        "company_url": "netflix.com",
+        "name": "Terri Schwartz",
+        "first_name": "Terri",
+        "middle_name": "",
+        "last_name": "Schwartz",
+        "title": "Manager, Editorial & Publishing",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/terri-schwartz-24467"
+    },
+    {
+        "company": "netflix",
+        "company_url": "netflix.com",
+        "name": "Christopher Hudspeth",
+        "first_name": "Christopher",
+        "middle_name": "",
+        "last_name": "Hudspeth",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "General Assignment News"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/christopher-hudspeth"
+    }
+]

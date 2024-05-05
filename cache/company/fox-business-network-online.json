@@ -1,0 +1,186 @@
+[
+    {
+        "company": "fox-business-network-online",
+        "company_url": "foxbusiness.com",
+        "name": "Daniella Genovese",
+        "first_name": "Daniella",
+        "middle_name": "",
+        "last_name": "Genovese",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/daniella-genovese"
+    },
+    {
+        "company": "fox-business-network-online",
+        "company_url": "foxbusiness.com",
+        "name": "Cortney Moore",
+        "first_name": "Cortney",
+        "middle_name": "",
+        "last_name": "Moore",
+        "title": "Digital Associate Producer/Writer",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/cortney-moore"
+    },
+    {
+        "company": "fox-business-network-online",
+        "company_url": "foxbusiness.com",
+        "name": "Lucas Manfredi",
+        "first_name": "Lucas",
+        "middle_name": "",
+        "last_name": "Manfredi",
+        "title": "Digital Associate Producer/Writer",
+        "location": "United States",
+        "topics": [
+            "Society"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/lucas-manfredi"
+    },
+    {
+        "company": "fox-business-network-online",
+        "company_url": "foxbusiness.com",
+        "name": "Matthew Kazin",
+        "first_name": "Matthew",
+        "middle_name": "",
+        "last_name": "Kazin",
+        "title": "Digital Editor/Reporter",
+        "location": "United States",
+        "topics": [
+            "Aviation"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/matthew-kazin"
+    },
+    {
+        "company": "fox-business-network-online",
+        "company_url": "foxbusiness.com",
+        "name": "James Leggate",
+        "first_name": "James",
+        "middle_name": "",
+        "last_name": "Leggate",
+        "title": "Reporter & Home Page Editor",
+        "location": "United States",
+        "topics": [
+            "Real Estate",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/james-leggate"
+    },
+    {
+        "company": "fox-business-network-online",
+        "company_url": "foxbusiness.com",
+        "name": "Porter Berry",
+        "first_name": "Porter",
+        "middle_name": "",
+        "last_name": "Berry",
+        "title": "Vice President & Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/porter-berry"
+    },
+    {
+        "company": "fox-business-network-online",
+        "company_url": "foxbusiness.com",
+        "name": "Angelica Stabile",
+        "first_name": "Angelica",
+        "middle_name": "",
+        "last_name": "Stabile",
+        "title": "Writer, Reporter & Digital Producer",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/angelica-stabile"
+    },
+    {
+        "company": "fox-business-network-online",
+        "company_url": "foxbusiness.com",
+        "name": "Julia Limitone",
+        "first_name": "Julia",
+        "middle_name": "",
+        "last_name": "Limitone",
+        "title": "Senior Web Producer",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "House",
+            "General Assignment News"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/julia-limitone"
+    },
+    {
+        "company": "fox-business-network-online",
+        "company_url": "foxbusiness.com",
+        "name": "Blair Shiff",
+        "first_name": "Blair",
+        "middle_name": "",
+        "last_name": "Shiff",
+        "title": "Senior Video Producer",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Finance & Banking Services",
+            "Politics"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/blair-shiff"
+    },
+    {
+        "company": "fox-business-network-online",
+        "company_url": "foxbusiness.com",
+        "name": "Casey Dowd",
+        "first_name": "Casey",
+        "middle_name": "",
+        "last_name": "Dowd",
+        "title": "Writer, The Boomer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Life"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/casey-dowd"
+    },
+    {
+        "company": "fox-business-network-online",
+        "company_url": "foxbusiness.com",
+        "name": "Audrey Conklin",
+        "first_name": "Audrey",
+        "middle_name": "",
+        "last_name": "Conklin",
+        "title": "Digital Reporter",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Technology"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/audrey-conklin"
+    }
+]

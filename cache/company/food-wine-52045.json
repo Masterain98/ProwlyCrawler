@@ -1,0 +1,200 @@
+[
+    {
+        "company": "food-wine-52045",
+        "company_url": "foodandwine.com",
+        "name": "Nina Friend",
+        "first_name": "Nina",
+        "middle_name": "",
+        "last_name": "Friend",
+        "title": "Associate Features Editor",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/nina-friend"
+    },
+    {
+        "company": "food-wine-52045",
+        "company_url": "foodandwine.com",
+        "name": "Margaret Eby",
+        "first_name": "Margaret",
+        "middle_name": "",
+        "last_name": "Eby",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Food",
+            "Wine"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/margaret-eby"
+    },
+    {
+        "company": "food-wine-52045",
+        "company_url": "foodandwine.com",
+        "name": "Mike Pomranz",
+        "first_name": "Mike",
+        "middle_name": "",
+        "last_name": "Pomranz",
+        "title": "Contributing Writer",
+        "location": "United Kingdom",
+        "topics": [
+            "Food",
+            "Wine",
+            "Beer"
+        ],
+        "influence_score": 54,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/mike-pomranz"
+    },
+    {
+        "company": "food-wine-52045",
+        "company_url": "foodandwine.com",
+        "name": "Andy Wang",
+        "first_name": "Andy",
+        "middle_name": "",
+        "last_name": "Wang",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/andy-wang"
+    },
+    {
+        "company": "food-wine-52045",
+        "company_url": "foodandwine.com",
+        "name": "Ryan Grim",
+        "first_name": "Ryan",
+        "middle_name": "",
+        "last_name": "Grim",
+        "title": "Digital Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Food",
+            "Wine"
+        ],
+        "influence_score": 54,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/ryan-grim-20013"
+    },
+    {
+        "company": "food-wine-52045",
+        "company_url": "foodandwine.com",
+        "name": "Ray Isle",
+        "first_name": "Ray",
+        "middle_name": "",
+        "last_name": "Isle",
+        "title": "Executive Wine Editor / Spirits Editor",
+        "location": "Unknown",
+        "topics": [],
+        "influence_score": 0,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/ray-isle"
+    },
+    {
+        "company": "food-wine-52045",
+        "company_url": "foodandwine.com",
+        "name": "Hillary Eaton",
+        "first_name": "Hillary",
+        "middle_name": "",
+        "last_name": "Eaton",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "House",
+            "Food"
+        ],
+        "influence_score": 60,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/hillary-eaton"
+    },
+    {
+        "company": "food-wine-52045",
+        "company_url": "foodandwine.com",
+        "name": "Andrew Parks",
+        "first_name": "Andrew",
+        "middle_name": "",
+        "last_name": "Parks",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Beer"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/andrew-parks"
+    },
+    {
+        "company": "food-wine-52045",
+        "company_url": "foodandwine.com",
+        "name": "Markham Heid",
+        "first_name": "Markham",
+        "middle_name": "",
+        "last_name": "Heid",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Beverages"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/markham-heid"
+    },
+    {
+        "company": "food-wine-52045",
+        "company_url": "foodandwine.com",
+        "name": "Karen Shimizu",
+        "first_name": "Karen",
+        "middle_name": "",
+        "last_name": "Shimizu",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 60,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/karen-shimizu"
+    },
+    {
+        "company": "food-wine-52045",
+        "company_url": "foodandwine.com",
+        "name": "Justin Chapple",
+        "first_name": "Justin",
+        "middle_name": "",
+        "last_name": "Chapple",
+        "title": "Culinary Director at Large",
+        "location": "United States",
+        "topics": [
+            "Food",
+            "Wine"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/justin-chapple"
+    },
+    {
+        "company": "food-wine-52045",
+        "company_url": "foodandwine.com",
+        "name": "David Landsel",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Landsel",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "Food"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/david-landsel"
+    }
+]

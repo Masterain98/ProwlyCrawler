@@ -1,0 +1,152 @@
+[
+    {
+        "company": "cnn-international-online",
+        "company_url": "edition.cnn.com",
+        "name": "Meera Senthilingam",
+        "first_name": "Meera",
+        "middle_name": "",
+        "last_name": "Senthilingam",
+        "title": "Digital Health Editor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/meera-senthilingam"
+    },
+    {
+        "company": "cnn-international-online",
+        "company_url": "edition.cnn.com",
+        "name": "Ben Westcott",
+        "first_name": "Ben",
+        "middle_name": "",
+        "last_name": "Westcott",
+        "title": "Digital News Producer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/ben-westcott"
+    },
+    {
+        "company": "cnn-international-online",
+        "company_url": "edition.cnn.com",
+        "name": "Rachel Rodriguez",
+        "first_name": "Rachel",
+        "middle_name": "",
+        "last_name": "Rodriguez",
+        "title": "Senior Producer",
+        "location": "United Kingdom",
+        "topics": [
+            "General Assignment News",
+            "International News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/rachel-rodriguez"
+    },
+    {
+        "company": "cnn-international-online",
+        "company_url": "edition.cnn.com",
+        "name": "Mark Tutton",
+        "first_name": "Mark",
+        "middle_name": "",
+        "last_name": "Tutton",
+        "title": "Senior Digital Producer",
+        "location": "United Kingdom",
+        "topics": [
+            "Africa",
+            "Health & Medicine",
+            "Science",
+            "United Kingdom"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/mark-tutton"
+    },
+    {
+        "company": "cnn-international-online",
+        "company_url": "edition.cnn.com",
+        "name": "Monica Sarkar",
+        "first_name": "Monica",
+        "middle_name": "",
+        "last_name": "Sarkar",
+        "title": "Senior Digital Producer",
+        "location": "United Kingdom",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/monica-sarkar"
+    },
+    {
+        "company": "cnn-international-online",
+        "company_url": "edition.cnn.com",
+        "name": "Caitlin Hu",
+        "first_name": "Caitlin",
+        "middle_name": "",
+        "last_name": "Hu",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "International News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/caitlin-hu"
+    },
+    {
+        "company": "cnn-international-online",
+        "company_url": "edition.cnn.com",
+        "name": "Douglas Criss",
+        "first_name": "Douglas",
+        "middle_name": "",
+        "last_name": "Criss",
+        "title": "Digital Trending News Writer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/douglas-criss"
+    },
+    {
+        "company": "cnn-international-online",
+        "company_url": "edition.cnn.com",
+        "name": "Maureen O'Hare",
+        "first_name": "Maureen",
+        "middle_name": "",
+        "last_name": "O'Hare",
+        "title": "Senior Travel Producer and Journalist",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/maureen-o-hare"
+    },
+    {
+        "company": "cnn-international-online",
+        "company_url": "edition.cnn.com",
+        "name": "Kara Fox",
+        "first_name": "Kara",
+        "middle_name": "",
+        "last_name": "Fox",
+        "title": "Digital Producer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Society",
+            "Politics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/kara-fox"
+    }
+]

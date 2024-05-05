@@ -1,0 +1,105 @@
+[
+    {
+        "company": "buzzfeed-news",
+        "company_url": "buzzfeednews.com",
+        "name": "Tomi Obaro",
+        "first_name": "Tomi",
+        "middle_name": "",
+        "last_name": "Obaro",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Entertainment",
+            "Music"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/tomi-obaro"
+    },
+    {
+        "company": "buzzfeed-news",
+        "company_url": "buzzfeednews.com",
+        "name": "Arianna Rebolini",
+        "first_name": "Arianna",
+        "middle_name": "",
+        "last_name": "Rebolini",
+        "title": "Books Editor",
+        "location": "United States",
+        "topics": [
+            "Books"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/arianna-rebolini"
+    },
+    {
+        "company": "buzzfeed-news",
+        "company_url": "buzzfeednews.com",
+        "name": "Karolina Waclawiak",
+        "first_name": "Karolina",
+        "middle_name": "",
+        "last_name": "Waclawiak",
+        "title": "Executive Editor of Culture",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Media"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/karolina-waclawiak"
+    },
+    {
+        "company": "buzzfeed-news",
+        "company_url": "buzzfeednews.com",
+        "name": "Nora Dominick",
+        "first_name": "Nora",
+        "middle_name": "",
+        "last_name": "Dominick",
+        "title": "Television Editor",
+        "location": "United States",
+        "topics": [
+            "Media"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/nora-dominick"
+    },
+    {
+        "company": "buzzfeed-news",
+        "company_url": "buzzfeednews.com",
+        "name": "Samantha Henig",
+        "first_name": "Samantha",
+        "middle_name": "",
+        "last_name": "Henig",
+        "title": "Executive Editor, Strategy",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/samantha-henig"
+    },
+    {
+        "company": "buzzfeed-news",
+        "company_url": "buzzfeednews.com",
+        "name": "Mark Schoofs",
+        "first_name": "Mark",
+        "middle_name": "",
+        "last_name": "Schoofs",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Editorial Page",
+            "International News",
+            "Investigative Reporting",
+            "News",
+            "Politics"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/mark-schoofs"
+    }
+]

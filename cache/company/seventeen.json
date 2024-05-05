@@ -1,0 +1,109 @@
+[
+    {
+        "company": "seventeen",
+        "company_url": "seventeen.com",
+        "name": "Kristin Koch",
+        "first_name": "Kristin",
+        "middle_name": "",
+        "last_name": "Koch",
+        "title": "Executive Director & Editor",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Demographics",
+            "Apparel",
+            "Health & Medicine",
+            "Design",
+            "Travel"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/kristin-koch-430389"
+    },
+    {
+        "company": "seventeen",
+        "company_url": "seventeen.com",
+        "name": "Jillian Selzer",
+        "first_name": "Jillian",
+        "middle_name": "",
+        "last_name": "Selzer",
+        "title": "Social Media Editor",
+        "location": "United States",
+        "topics": [
+            "Apparel",
+            "Demographics"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jillian-selzer"
+    },
+    {
+        "company": "seventeen",
+        "company_url": "seventeen.com",
+        "name": "Danielle Tullo",
+        "first_name": "Danielle",
+        "middle_name": "",
+        "last_name": "Tullo",
+        "title": "Deputy Editor",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Apparel",
+            "House",
+            "Entertainment",
+            "Demographics"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/danielle-tullo"
+    },
+    {
+        "company": "seventeen",
+        "company_url": "seventeen.com",
+        "name": "Samantha Olson",
+        "first_name": "Samantha",
+        "middle_name": "",
+        "last_name": "Olson",
+        "title": "Editorial Assistant",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Media"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/samantha-olson"
+    },
+    {
+        "company": "seventeen",
+        "company_url": "seventeen.com",
+        "name": "Kelsey Stiegman",
+        "first_name": "Kelsey",
+        "middle_name": "",
+        "last_name": "Stiegman",
+        "title": "Senior Style Editor",
+        "location": "United States",
+        "topics": [
+            "Apparel"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/kelsey-stiegman"
+    },
+    {
+        "company": "seventeen",
+        "company_url": "seventeen.com",
+        "name": "Eunice Bruno",
+        "first_name": "Eunice",
+        "middle_name": "",
+        "last_name": "Bruno",
+        "title": "Accessories Assistant",
+        "location": "United States",
+        "topics": [
+            "Fashion"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/eunice-bruno"
+    }
+]

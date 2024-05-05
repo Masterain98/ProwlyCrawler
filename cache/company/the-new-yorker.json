@@ -1,0 +1,990 @@
+[
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Lizzie Widdicombe",
+        "first_name": "Lizzie",
+        "middle_name": "",
+        "last_name": "Widdicombe",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Politics",
+            "Environment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/lizzie-widdicombe"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Daniel Zalewski",
+        "first_name": "Daniel",
+        "middle_name": "",
+        "last_name": "Zalewski",
+        "title": "Features Director",
+        "location": "United States",
+        "topics": [
+            "Features/Lifestyle"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/daniel-zalewski"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Shauna Lyon",
+        "first_name": "Shauna",
+        "middle_name": "",
+        "last_name": "Lyon",
+        "title": "Editor of Goings On About Town",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "Food"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/shauna-lyon"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Mark Singer",
+        "first_name": "Mark",
+        "middle_name": "",
+        "last_name": "Singer",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Society"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/mark-singer"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Roger Angell",
+        "first_name": "Roger",
+        "middle_name": "",
+        "last_name": "Angell",
+        "title": "Senior Editor & Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/roger-angell"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Richard Brody",
+        "first_name": "Richard",
+        "middle_name": "",
+        "last_name": "Brody",
+        "title": "Movie-Listings Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/richard-brody"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Emma Green",
+        "first_name": "Emma",
+        "middle_name": "",
+        "last_name": "Green",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Education"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/emma-green-195778"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Rebecca Mead",
+        "first_name": "Rebecca",
+        "middle_name": "",
+        "last_name": "Mead",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/rebecca-mead"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Mary Pilon",
+        "first_name": "Mary",
+        "middle_name": "",
+        "last_name": "Pilon",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Fitness",
+            "Sports"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/mary-pilon"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Rachel Syme",
+        "first_name": "Rachel",
+        "middle_name": "",
+        "last_name": "Syme",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Media",
+            "Entertainment"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/rachel-syme"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Charles Bethea",
+        "first_name": "Charles",
+        "middle_name": "",
+        "last_name": "Bethea",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/charles-bethea"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "John Cassidy",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Cassidy",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Politics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/john-cassidy-24"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Paige Williams",
+        "first_name": "Paige",
+        "middle_name": "",
+        "last_name": "Williams",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Politics"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/paige-williams"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Carrie Battan",
+        "first_name": "Carrie",
+        "middle_name": "",
+        "last_name": "Battan",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Music"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/carrie-battan"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Adam Entous",
+        "first_name": "Adam",
+        "middle_name": "",
+        "last_name": "Entous",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Foreign Affairs",
+            "Politics"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/adam-entous"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Andrew Marantz",
+        "first_name": "Andrew",
+        "middle_name": "",
+        "last_name": "Marantz",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/andrew-marantz"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Malcolm Gladwell",
+        "first_name": "Malcolm",
+        "middle_name": "",
+        "last_name": "Gladwell",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Science",
+            "Society"
+        ],
+        "influence_score": 81,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/malcolm-gladwell"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Daniel Alarc\u00f3n",
+        "first_name": "Daniel",
+        "middle_name": "",
+        "last_name": "Alarc\u00f3n",
+        "title": "External Relations Project Specialist and \"An AARP Take on Today\" Producer",
+        "location": "United States",
+        "topics": [
+            "Books",
+            "Entertainment"
+        ],
+        "influence_score": 76,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/daniel-alarcon-245547"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Jennifer Gonnerman",
+        "first_name": "Jennifer",
+        "middle_name": "",
+        "last_name": "Gonnerman",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Books",
+            "Business",
+            "Entertainment",
+            "Science",
+            "Technology",
+            "News",
+            "Politics"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/jennifer-gonnerman"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Susan Orlean",
+        "first_name": "Susan",
+        "middle_name": "",
+        "last_name": "Orlean",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 76,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/susan-orlean"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Bill McKibben",
+        "first_name": "Bill",
+        "middle_name": "",
+        "last_name": "McKibben",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "Environment"
+        ],
+        "influence_score": 78,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/bill-mckibben"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Kelefa Sanneh",
+        "first_name": "Kelefa",
+        "middle_name": "",
+        "last_name": "Sanneh",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/kelefa-sanneh"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "David Denby",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Denby",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Books",
+            "Entertainment"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/david-denby"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Susanna Wolff",
+        "first_name": "Susanna",
+        "middle_name": "",
+        "last_name": "Wolff",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "House"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/susanna-wolff"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Fabrice Robinet",
+        "first_name": "Fabrice",
+        "middle_name": "",
+        "last_name": "Robinet",
+        "title": "Journalist & senior fact-checker",
+        "location": "United States",
+        "topics": [
+            "Editorial Page",
+            "Independent Film"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/fabrice-robinet"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Naomi Fry",
+        "first_name": "Naomi",
+        "middle_name": "",
+        "last_name": "Fry",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/naomi-fry"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Adam Iscoe",
+        "first_name": "Adam",
+        "middle_name": "",
+        "last_name": "Iscoe",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Art",
+            "Books"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/adam-iscoe"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Alex Ross",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Ross",
+        "title": "Music Critic",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 74,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/alex-ross"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Isaac Chotiner",
+        "first_name": "Isaac",
+        "middle_name": "",
+        "last_name": "Chotiner",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/isaac-chotiner"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Peter Schjeldahl",
+        "first_name": "Peter",
+        "middle_name": "",
+        "last_name": "Schjeldahl",
+        "title": "Staff Writer and Art Critic",
+        "location": "United States",
+        "topics": [
+            "Art"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/peter-schjeldahl"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Amanda Petrusich",
+        "first_name": "Amanda",
+        "middle_name": "",
+        "last_name": "Petrusich",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Music"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/amanda-petrusich"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Virginia Cannon",
+        "first_name": "Virginia",
+        "middle_name": "",
+        "last_name": "Cannon",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Rural"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/virginia-cannon"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Susan Glasser",
+        "first_name": "Susan",
+        "middle_name": "",
+        "last_name": "Glasser",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 76,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/susan-glasser"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Anna Wiener",
+        "first_name": "Anna",
+        "middle_name": "",
+        "last_name": "Wiener",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Regional News",
+            "Technology"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/anna-wiener"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "William Finnegan",
+        "first_name": "William",
+        "middle_name": "",
+        "last_name": "Finnegan",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Crime",
+            "Society",
+            "House",
+            "International Business",
+            "Politics"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/william-finnegan"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Hilton Als",
+        "first_name": "Hilton",
+        "middle_name": "",
+        "last_name": "Als",
+        "title": "Theatre Critic",
+        "location": "United States",
+        "topics": [
+            "Media"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/hilton-als"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Nicholas Blechman",
+        "first_name": "Nicholas",
+        "middle_name": "",
+        "last_name": "Blechman",
+        "title": "Creative Director",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/nicholas-blechman"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Michael Specter",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Specter",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/michael-specter"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Emily Nussbaum",
+        "first_name": "Emily",
+        "middle_name": "",
+        "last_name": "Nussbaum",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "House",
+            "Features/Lifestyle"
+        ],
+        "influence_score": 76,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/emily-nussbaum"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Michele Moses",
+        "first_name": "Michele",
+        "middle_name": "",
+        "last_name": "Moses",
+        "title": "Podcast Producer",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/michele-moses"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Cressida Leyshon",
+        "first_name": "Cressida",
+        "middle_name": "",
+        "last_name": "Leyshon",
+        "title": "Deputy Fiction Editor",
+        "location": "United States",
+        "topics": [
+            "Books"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/cressida-leyshon"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Amy Sorkin",
+        "first_name": "Amy",
+        "middle_name": "",
+        "last_name": "Sorkin",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/amy-sorkin"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Ben McGrath",
+        "first_name": "Ben",
+        "middle_name": "",
+        "last_name": "McGrath",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/ben-mcgrath"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Carla Blumenkranz",
+        "first_name": "Carla",
+        "middle_name": "",
+        "last_name": "Blumenkranz",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "Rural"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/carla-blumenkranz"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Susan Morrison",
+        "first_name": "Susan",
+        "middle_name": "",
+        "last_name": "Morrison",
+        "title": "Articles Editor",
+        "location": "United States",
+        "topics": [
+            "Books",
+            "Business",
+            "Entertainment",
+            "Science",
+            "Technology",
+            "News",
+            "Politics"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/susan-morrison"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Daniel Alarc\u00f3n",
+        "first_name": "Daniel",
+        "middle_name": "",
+        "last_name": "Alarc\u00f3n",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Books",
+            "Entertainment"
+        ],
+        "influence_score": 76,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/daniel-alarcon-229037"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Ronan Farrow",
+        "first_name": "Ronan",
+        "middle_name": "",
+        "last_name": "Farrow",
+        "title": "Investigative Reporter & Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Investigative Reporting"
+        ],
+        "influence_score": 81,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/ronan-farrow"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Sharan Shetty",
+        "first_name": "Sharan",
+        "middle_name": "",
+        "last_name": "Shetty",
+        "title": "Literary Editor",
+        "location": "United States",
+        "topics": [
+            "Books"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/sharan-shetty"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Doreen St. F\u00e9lix",
+        "first_name": "Doreen",
+        "middle_name": "St.",
+        "last_name": "F\u00e9lix",
+        "title": "Television Critic / Writer",
+        "location": "United States",
+        "topics": [
+            "Media"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/doreen-st-felix"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Burkhard Bilger",
+        "first_name": "Burkhard",
+        "middle_name": "",
+        "last_name": "Bilger",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/burkhard-bilger"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Evan Osnos",
+        "first_name": "Evan",
+        "middle_name": "",
+        "last_name": "Osnos",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Foreign Affairs",
+            "Politics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/evan-osnos"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Jiayang Fan",
+        "first_name": "Jiayang",
+        "middle_name": "",
+        "last_name": "Fan",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "China",
+            "Entertainment",
+            "Politics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/jiayang-fan"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Lauren Collins",
+        "first_name": "Lauren",
+        "middle_name": "",
+        "last_name": "Collins",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Society"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/lauren-collins"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Fergus McIntosh",
+        "first_name": "Fergus",
+        "middle_name": "",
+        "last_name": "McIntosh",
+        "title": "Interim Classical Editor",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/fergus-mcintosh"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Masha Gessen",
+        "first_name": "Masha",
+        "middle_name": "",
+        "last_name": "Gessen",
+        "title": "Staff writer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "News"
+        ],
+        "influence_score": 74,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/masha-gessen"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Sheldon Pearce",
+        "first_name": "Sheldon",
+        "middle_name": "",
+        "last_name": "Pearce",
+        "title": "Music Writer & Editor",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/sheldon-pearce-150748"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Jelani Cobb",
+        "first_name": "Jelani",
+        "middle_name": "",
+        "last_name": "Cobb",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Society",
+            "History",
+            "Politics"
+        ],
+        "influence_score": 76,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/jelani-cobb"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "John Seabrook",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Seabrook",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/john-seabrook"
+    },
+    {
+        "company": "the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Troy Patterson",
+        "first_name": "Troy",
+        "middle_name": "",
+        "last_name": "Patterson",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Media"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 86,
+        "url": "https://prowly.com/profiles/journalists/troy-patterson"
+    }
+]

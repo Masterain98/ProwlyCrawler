@@ -1,0 +1,72 @@
+[
+    {
+        "company": "washington-business-journal-online",
+        "company_url": "bizjournals.com",
+        "name": "Carolyn Proctor",
+        "first_name": "Carolyn",
+        "middle_name": "",
+        "last_name": "Proctor",
+        "title": "Data Editor",
+        "location": "United States",
+        "topics": [
+            "Non-Profits",
+            "Industry",
+            "Regional Business News"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 57,
+        "url": "https://prowly.com/profiles/journalists/carolyn-proctor"
+    },
+    {
+        "company": "washington-business-journal-online",
+        "company_url": "bizjournals.com",
+        "name": "Rebecca Cooper",
+        "first_name": "Rebecca",
+        "middle_name": "",
+        "last_name": "Cooper",
+        "title": "Digital Editor",
+        "location": "United States",
+        "topics": [
+            "Real Estate",
+            "Commerce",
+            "Travel"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 57,
+        "url": "https://prowly.com/profiles/journalists/rebecca-cooper"
+    },
+    {
+        "company": "washington-business-journal-online",
+        "company_url": "bizjournals.com",
+        "name": "Rebecca Cooper",
+        "first_name": "Rebecca",
+        "middle_name": "",
+        "last_name": "Cooper",
+        "title": "Digital Editor",
+        "location": "United States",
+        "topics": [
+            "Real Estate",
+            "Commerce",
+            "Travel"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 57,
+        "url": "https://prowly.com/profiles/journalists/rebecca-cooper-170277"
+    },
+    {
+        "company": "washington-business-journal-online",
+        "company_url": "bizjournals.com",
+        "name": "Vandana Sinha",
+        "first_name": "Vandana",
+        "middle_name": "",
+        "last_name": "Sinha",
+        "title": "Editor-in-Chief",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 57,
+        "url": "https://prowly.com/profiles/journalists/vandana-sinha"
+    }
+]

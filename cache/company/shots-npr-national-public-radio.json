@@ -1,0 +1,84 @@
+[
+    {
+        "company": "shots-npr-national-public-radio",
+        "company_url": "npr.org",
+        "name": "Joe Neel",
+        "first_name": "Joe",
+        "middle_name": "",
+        "last_name": "Neel",
+        "title": "Deputy Senior Supervising Editor & Correspondent, Science Desk",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Science"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 83,
+        "url": "https://prowly.com/profiles/journalists/joe-neel"
+    },
+    {
+        "company": "shots-npr-national-public-radio",
+        "company_url": "npr.org",
+        "name": "Joe Palca",
+        "first_name": "Joe",
+        "middle_name": "",
+        "last_name": "Palca",
+        "title": "Blogger",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 83,
+        "url": "https://prowly.com/profiles/journalists/joe-palca"
+    },
+    {
+        "company": "shots-npr-national-public-radio",
+        "company_url": "npr.org",
+        "name": "Nell Greenfieldboyce",
+        "first_name": "Nell",
+        "middle_name": "",
+        "last_name": "Greenfieldboyce",
+        "title": "Science Correspondent",
+        "location": "United States",
+        "topics": [
+            "Science"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 83,
+        "url": "https://prowly.com/profiles/journalists/nell-greenfieldboyce"
+    },
+    {
+        "company": "shots-npr-national-public-radio",
+        "company_url": "npr.org",
+        "name": "Rob Stein",
+        "first_name": "Rob",
+        "middle_name": "",
+        "last_name": "Stein",
+        "title": "Blogger",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 83,
+        "url": "https://prowly.com/profiles/journalists/rob-stein"
+    },
+    {
+        "company": "shots-npr-national-public-radio",
+        "company_url": "npr.org",
+        "name": "Jon Hamilton",
+        "first_name": "Jon",
+        "middle_name": "",
+        "last_name": "Hamilton",
+        "title": "Blogger",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Science"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 83,
+        "url": "https://prowly.com/profiles/journalists/jon-hamilton"
+    }
+]

@@ -1,0 +1,574 @@
+[
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Justin Davis",
+        "first_name": "Justin",
+        "middle_name": "",
+        "last_name": "Davis",
+        "title": "Director, Audience Development & Commerce",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/justin-davis"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Eric Song",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "Song",
+        "title": "Commerce Manager",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/eric-song"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Miranda Sanchez",
+        "first_name": "Miranda",
+        "middle_name": "",
+        "last_name": "Sanchez",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 78,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/miranda-sanchez"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Casey DeFreitas",
+        "first_name": "Casey",
+        "middle_name": "",
+        "last_name": "DeFreitas",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/casey-defreitas"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Jonathon Dornbush",
+        "first_name": "Jonathon",
+        "middle_name": "",
+        "last_name": "Dornbush",
+        "title": "Senior News Editor, Host and Producer",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jonathon-dornbush"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Tina Amini",
+        "first_name": "Tina",
+        "middle_name": "",
+        "last_name": "Amini",
+        "title": "Editor-in-Chief, Games",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/tina-amini"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Kevin Lee",
+        "first_name": "Kevin",
+        "middle_name": "",
+        "last_name": "Lee",
+        "title": "Editor, Hardware & Roundups",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/kevin-lee-36172"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Ryan McCaffrey",
+        "first_name": "Ryan",
+        "middle_name": "",
+        "last_name": "McCaffrey",
+        "title": "Executive Editor, Previews",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 81,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/ryan-mccaffrey"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Matt Fowler",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Fowler",
+        "title": "Freelance Critic and Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/matt-fowler"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Jon Ryan",
+        "first_name": "Jon",
+        "middle_name": "",
+        "last_name": "Ryan",
+        "title": "Senior Features Editor",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jon-ryan"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Samuel Claiborn",
+        "first_name": "Samuel",
+        "middle_name": "",
+        "last_name": "Claiborn",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/samuel-claiborn"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Jesse B. Gill",
+        "first_name": "Jesse",
+        "middle_name": "B.",
+        "last_name": "Gill",
+        "title": "Senior Video Producer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Video Games"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/jesse-b-gill"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Peer Schneider",
+        "first_name": "Peer",
+        "middle_name": "",
+        "last_name": "Schneider",
+        "title": "Executive Vice President, Chief Content Officer and Co-Founder",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/peer-schneider"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Daemon Hatfield",
+        "first_name": "Daemon",
+        "middle_name": "",
+        "last_name": "Hatfield",
+        "title": "Executive Producer and Host",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 78,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/daemon-hatfield"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Stella Chung",
+        "first_name": "Stella",
+        "middle_name": "",
+        "last_name": "Chung",
+        "title": "Host/Producer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Video Games"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/stella-chung"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Scott Collura",
+        "first_name": "Scott",
+        "middle_name": "",
+        "last_name": "Collura",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/scott-collura"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Stella Chung",
+        "first_name": "Stella",
+        "middle_name": "",
+        "last_name": "Chung",
+        "title": "Host/Producer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Video Games"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/stella-chung-773636"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Brandin Tyrrel",
+        "first_name": "Brandin",
+        "middle_name": "",
+        "last_name": "Tyrrel",
+        "title": "Manager of Editorial Events",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/brandin-tyrrel"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "James Vejvoda",
+        "first_name": "James",
+        "middle_name": "",
+        "last_name": "Vejvoda",
+        "title": "Executive Editor, Entertainment",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/james-vejvoda"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Seth Macy",
+        "first_name": "Seth",
+        "middle_name": "",
+        "last_name": "Macy",
+        "title": "Executive Editor, Commerce",
+        "location": "United States",
+        "topics": [
+            "E-Commerce",
+            "Commerce"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/seth-macy"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Rebekah Valentine",
+        "first_name": "Rebekah",
+        "middle_name": "",
+        "last_name": "Valentine",
+        "title": "News Reporter",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/rebekah-valentine"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Tom Marks",
+        "first_name": "Tom",
+        "middle_name": "",
+        "last_name": "Marks",
+        "title": "Deputy Reviews Editor",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/tom-marks"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "John Higgins",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Higgins",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Video Games",
+            "Online Gaming"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/john-higgins"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Brian Altano",
+        "first_name": "Brian",
+        "middle_name": "",
+        "last_name": "Altano",
+        "title": "Host & Producer",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 81,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/brian-altano"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Destin Legarie",
+        "first_name": "Destin",
+        "middle_name": "",
+        "last_name": "Legarie",
+        "title": "Director of Video Content Strategy",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 78,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/destin-legarie"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Stella Chung",
+        "first_name": "Stella",
+        "middle_name": "",
+        "last_name": "Chung",
+        "title": "Host/Producer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Video Games"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/stella-chung-796606"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Joshua Yehl",
+        "first_name": "Joshua",
+        "middle_name": "",
+        "last_name": "Yehl",
+        "title": "Senior Editor, Features and News",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Video Games"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/joshua-yehl-19876"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Angie Harvey",
+        "first_name": "Angie",
+        "middle_name": "",
+        "last_name": "Harvey",
+        "title": "Weekend Editor",
+        "location": "Australia",
+        "topics": [
+            "Entertainment",
+            "Video Games"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/angie-harvey"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Bo Moore",
+        "first_name": "Bo",
+        "middle_name": "",
+        "last_name": "Moore",
+        "title": "Executive Editor, Technology",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Video Games"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/bo-moore"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Brendan Graeber",
+        "first_name": "Brendan",
+        "middle_name": "",
+        "last_name": "Graeber",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/brendan-graeber"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Chris Reed",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Reed",
+        "title": "Editor, Shopping and Commerce",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/chris-reed"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Dan Stapleton",
+        "first_name": "Dan",
+        "middle_name": "",
+        "last_name": "Stapleton",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/dan-stapleton"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Matt Kim",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Kim",
+        "title": "Senior Features Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Features/Lifestyle",
+            "Video Games"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/matt-kim"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Joshua Yehl",
+        "first_name": "Joshua",
+        "middle_name": "",
+        "last_name": "Yehl",
+        "title": "Senior Editor and Producer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Video Games"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/joshua-yehl"
+    },
+    {
+        "company": "ign-com",
+        "company_url": "ign.com",
+        "name": "Terri Schwartz",
+        "first_name": "Terri",
+        "middle_name": "",
+        "last_name": "Schwartz",
+        "title": "Director of Content Strategy and Partnerships",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/terri-schwartz"
+    }
+]

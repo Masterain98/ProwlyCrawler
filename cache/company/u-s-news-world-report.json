@@ -1,0 +1,1205 @@
+[
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "John Vincent",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Vincent",
+        "title": "Senior Reporter, Automotive",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/john-vincent"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Lisa Esposito",
+        "first_name": "Lisa",
+        "middle_name": "",
+        "last_name": "Esposito",
+        "title": "Health News Reporter/Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/lisa-esposito"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Cecelia Smith-Schoenwalder",
+        "first_name": "Cecelia",
+        "middle_name": "",
+        "last_name": "Smith-Schoenwalder",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Environment",
+            "Health & Medicine",
+            "Science",
+            "Space Exploration"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/cecelia-smith-schoenwalder"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Ilana Kowarski",
+        "first_name": "Ilana",
+        "middle_name": "",
+        "last_name": "Kowarski",
+        "title": "Senior reporter",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Higher Education"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/ilana-kowarski"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Alexa Lardieri",
+        "first_name": "Alexa",
+        "middle_name": "",
+        "last_name": "Lardieri",
+        "title": "Reporter & Digital Producer",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "News",
+            "Politics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/alexa-lardieri"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Eric Brooks",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "Brooks",
+        "title": "Senior Data Analyst",
+        "location": "United States",
+        "topics": [
+            "Education",
+            "Higher Education"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/eric-brooks"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Katie Loos",
+        "first_name": "Katie",
+        "middle_name": "",
+        "last_name": "Loos",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Education"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/katie-loos"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Lauren Camera",
+        "first_name": "Lauren",
+        "middle_name": "",
+        "last_name": "Camera",
+        "title": "Senior Education Writer",
+        "location": "United States",
+        "topics": [
+            "Education"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/lauren-camera"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Carson Smith",
+        "first_name": "Carson",
+        "middle_name": "",
+        "last_name": "Smith",
+        "title": "Vice President & General Manager, Travel",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/carson-smith"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Marisa Mendez",
+        "first_name": "Marisa",
+        "middle_name": "",
+        "last_name": "Mendez",
+        "title": "Senior Travel Editor",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/marisa-mendez-788391"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Tim Smart",
+        "first_name": "Tim",
+        "middle_name": "",
+        "last_name": "Smart",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Politics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/tim-smart"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Emily Brandon",
+        "first_name": "Emily",
+        "middle_name": "",
+        "last_name": "Brandon",
+        "title": "Senior Editor for Retirement",
+        "location": "United States",
+        "topics": [
+            "Life"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/emily-brandon"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Rachel Center",
+        "first_name": "Rachel",
+        "middle_name": "",
+        "last_name": "Center",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/rachel-center"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Anne McGrath",
+        "first_name": "Anne",
+        "middle_name": "",
+        "last_name": "McGrath",
+        "title": "Managing Editor, Publications",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Higher Education"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/anne-mcgrath"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Gary Emerling",
+        "first_name": "Gary",
+        "middle_name": "",
+        "last_name": "Emerling",
+        "title": "Assistant Managing Editor, Healthiest Communities",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/gary-emerling"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Lyn Mettler",
+        "first_name": "Lyn",
+        "middle_name": "",
+        "last_name": "Mettler",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/lyn-mettler"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Maryalene LaPonsie",
+        "first_name": "Maryalene",
+        "middle_name": "",
+        "last_name": "LaPonsie",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Life"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/maryalene-laponsie"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Raychelle Lohmann",
+        "first_name": "Raychelle",
+        "middle_name": "",
+        "last_name": "Lohmann",
+        "title": "Parenting Contributor",
+        "location": "United States",
+        "topics": [
+            "Demographics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/raychelle-lohmann"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Josh Moody",
+        "first_name": "Josh",
+        "middle_name": "",
+        "last_name": "Moody",
+        "title": "Education Reporter",
+        "location": "United States",
+        "topics": [
+            "Education"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/josh-moody"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Kevin Drew",
+        "first_name": "Kevin",
+        "middle_name": "",
+        "last_name": "Drew",
+        "title": "Assistant Managing Editor, Best Countries",
+        "location": "United States",
+        "topics": [
+            "International News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/kevin-drew"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Steven Johnson",
+        "first_name": "Steven",
+        "middle_name": "",
+        "last_name": "Johnson",
+        "title": "Public Health Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/steven-johnson-88537"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Linda Brancato",
+        "first_name": "Linda",
+        "middle_name": "",
+        "last_name": "Brancato",
+        "title": "Vice President of Advertising",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/linda-brancato"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Michael Morella",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Morella",
+        "title": "Managing Editor, Events",
+        "location": "United States",
+        "topics": [
+            "News",
+            "Education",
+            "Health & Medicine"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/michael-morella"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Liana Loewus",
+        "first_name": "Liana",
+        "middle_name": "",
+        "last_name": "Loewus",
+        "title": "Managing Editor, Education",
+        "location": "United States",
+        "topics": [
+            "Education",
+            "Elementary Education",
+            "Higher Education",
+            "Primary and Pre-K Education",
+            "Secondary Education"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/liana-loewus"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Joseph Williams",
+        "first_name": "Joseph",
+        "middle_name": "",
+        "last_name": "Williams",
+        "title": "Senior News Editor",
+        "location": "United States",
+        "topics": [
+            "National News",
+            "Politics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/joseph-williams"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Rebecca Lake",
+        "first_name": "Rebecca",
+        "middle_name": "",
+        "last_name": "Lake",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/rebecca-lake"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Kevin Linder",
+        "first_name": "Kevin",
+        "middle_name": "",
+        "last_name": "Linder",
+        "title": "Research Analyst",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/kevin-linder"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Gretel Schueller",
+        "first_name": "Gretel",
+        "middle_name": "",
+        "last_name": "Schueller",
+        "title": "Managing Editor, Health",
+        "location": "United States",
+        "topics": [
+            "Fitness",
+            "Health & Medicine",
+            "Nutrition"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/gretel-schueller"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Sarah Wood",
+        "first_name": "Sarah",
+        "middle_name": "",
+        "last_name": "Wood",
+        "title": "Education Reporter",
+        "location": "United States",
+        "topics": [
+            "Education"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/sarah-wood"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Elliott Davis",
+        "first_name": "Elliott",
+        "middle_name": "",
+        "last_name": "Davis",
+        "title": "Reporter & Staff Writer",
+        "location": "United States",
+        "topics": [
+            "National News",
+            "Politics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/elliott-davis"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Lindsay Lyon",
+        "first_name": "Lindsay",
+        "middle_name": "",
+        "last_name": "Lyon",
+        "title": "Assistant Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/lindsay-lyon"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Jason R. Rich",
+        "first_name": "Jason",
+        "middle_name": "R.",
+        "last_name": "Rich",
+        "title": "Consumer Technology (Business) Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Commerce",
+            "Technology"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jason-r-rich"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Seth Cline",
+        "first_name": "Seth",
+        "middle_name": "",
+        "last_name": "Cline",
+        "title": "Newsletter Editor/Senior Producer",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/seth-cline"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "John Divine",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Divine",
+        "title": "Senior Financial Markets Editor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/john-divine"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Ali Follman",
+        "first_name": "Ali",
+        "middle_name": "",
+        "last_name": "Follman",
+        "title": "Journalist",
+        "location": "United States",
+        "topics": [
+            "Careers",
+            "Education",
+            "Higher Education",
+            "Real Estate"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/ali-follman"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Kim Heneghan",
+        "first_name": "Kim",
+        "middle_name": "",
+        "last_name": "Heneghan",
+        "title": "Vice President and General Manager, Money",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/kim-heneghan"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Anayat Durrani",
+        "first_name": "Anayat",
+        "middle_name": "",
+        "last_name": "Durrani",
+        "title": "Freelance Education Reporter",
+        "location": "United States",
+        "topics": [
+            "Education"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/anayat-durrani"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Erin Shields",
+        "first_name": "Erin",
+        "middle_name": "",
+        "last_name": "Shields",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/erin-shields"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Teresa Mears",
+        "first_name": "Teresa",
+        "middle_name": "",
+        "last_name": "Mears",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Real Estate",
+            "Life"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/teresa-mears"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Christine Smith",
+        "first_name": "Christine",
+        "middle_name": "",
+        "last_name": "Smith",
+        "title": "Senior Travel Editor",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/christine-smith"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Devon Thorsby",
+        "first_name": "Devon",
+        "middle_name": "",
+        "last_name": "Thorsby",
+        "title": "Real Estate Editor",
+        "location": "United States",
+        "topics": [
+            "Real Estate"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/devon-thorsby"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Kara Fields",
+        "first_name": "Kara",
+        "middle_name": "",
+        "last_name": "Fields",
+        "title": "Editor, Advice Products",
+        "location": "United States",
+        "topics": [
+            "Commerce",
+            "House"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/kara-fields"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Kirk Shinkle",
+        "first_name": "Kirk",
+        "middle_name": "",
+        "last_name": "Shinkle",
+        "title": "Director of Financial Services",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/kirk-shinkle"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Anita Narayan",
+        "first_name": "Anita",
+        "middle_name": "",
+        "last_name": "Narayan",
+        "title": "Managing Editor, Education",
+        "location": "United States",
+        "topics": [
+            "Education"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/anita-narayan"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Stephanie Williams",
+        "first_name": "Stephanie",
+        "middle_name": "",
+        "last_name": "Williams",
+        "title": "Audience Development Specialist, Social Media",
+        "location": "United States",
+        "topics": [
+            "News",
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/stephanie-williams"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Ben Koses",
+        "first_name": "Ben",
+        "middle_name": "",
+        "last_name": "Koses",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/ben-koses"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Nathan Hellman",
+        "first_name": "Nathan",
+        "middle_name": "",
+        "last_name": "Hellman",
+        "title": "Managing Editor of Consumer Advice",
+        "location": "United States",
+        "topics": [
+            "Education"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/nathan-hellman"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Robert Morse",
+        "first_name": "Robert",
+        "middle_name": "",
+        "last_name": "Morse",
+        "title": "Chief Data Strategist",
+        "location": "United States",
+        "topics": [
+            "Higher Education"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/robert-morse"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Jasmine Moses",
+        "first_name": "Jasmine",
+        "middle_name": "",
+        "last_name": "Moses",
+        "title": "Researcher & Writer",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jasmine-moses"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Ruben Castaneda",
+        "first_name": "Ruben",
+        "middle_name": "",
+        "last_name": "Castaneda",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/ruben-castaneda"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Chelsea Cirruzzo",
+        "first_name": "Chelsea",
+        "middle_name": "",
+        "last_name": "Cirruzzo",
+        "title": "Public Health Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/chelsea-cirruzzo"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Sarah Shelton",
+        "first_name": "Sarah",
+        "middle_name": "",
+        "last_name": "Shelton",
+        "title": "Senior Editor, 360 Reviews Team Lead",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/sarah-shelton"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Claire Hansen",
+        "first_name": "Claire",
+        "middle_name": "",
+        "last_name": "Hansen",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Immigration",
+            "National News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/claire-hansen"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Susan Milligan",
+        "first_name": "Susan",
+        "middle_name": "",
+        "last_name": "Milligan",
+        "title": "Senior Politics Writer",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Politics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/susan-milligan"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Cody Trotter",
+        "first_name": "Cody",
+        "middle_name": "",
+        "last_name": "Trotter",
+        "title": "Researcher & Writer",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/cody-trotter"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Sara Clarke",
+        "first_name": "Sara",
+        "middle_name": "",
+        "last_name": "Clarke",
+        "title": "Assistant Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Regional News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/sara-clarke"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Cherise Threewitt",
+        "first_name": "Cherise",
+        "middle_name": "",
+        "last_name": "Threewitt",
+        "title": "Features Editor, Autos",
+        "location": "United States",
+        "topics": [
+            "Automobiles",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/cherise-threewitt"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Liz Opsitnik",
+        "first_name": "Liz",
+        "middle_name": "",
+        "last_name": "Opsitnik",
+        "title": "Executive Editor, Consumer Advice",
+        "location": "United States",
+        "topics": [
+            "Education",
+            "Finance & Banking Services",
+            "Health & Medicine",
+            "Real Estate"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/liz-opsitnik"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Alex Matthews",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Matthews",
+        "title": "Health & Data Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/alex-matthews"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "John Bennett",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Bennett",
+        "title": "Defense & National Security Correspondent",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Careers",
+            "Education",
+            "Finance & Banking Services",
+            "Health & Medicine",
+            "National News",
+            "Technology",
+            "Politics"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/john-bennett"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Paulina Likos",
+        "first_name": "Paulina",
+        "middle_name": "",
+        "last_name": "Likos",
+        "title": "Investing Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/paulina-likos"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Kim Castro",
+        "first_name": "Kim",
+        "middle_name": "",
+        "last_name": "Castro",
+        "title": "Editor and Chief Content Officer",
+        "location": "United States",
+        "topics": [
+            "Education",
+            "Finance & Banking Services",
+            "General Assignment News",
+            "Real Estate"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/kim-castro"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Emma Kerr",
+        "first_name": "Emma",
+        "middle_name": "",
+        "last_name": "Kerr",
+        "title": "Personal Finance Editor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/emma-kerr"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Paul Shinkman",
+        "first_name": "Paul",
+        "middle_name": "",
+        "last_name": "Shinkman",
+        "title": "National Security Correspondent",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/paul-shinkman"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Eric Gertler",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "Gertler",
+        "title": "Executive Chairman",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/eric-gertler"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Jeff Reeves",
+        "first_name": "Jeff",
+        "middle_name": "",
+        "last_name": "Reeves",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jeff-reeves"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Ellen Chang",
+        "first_name": "Ellen",
+        "middle_name": "",
+        "last_name": "Chang",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/ellen-chang"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Elaine Howley",
+        "first_name": "Elaine",
+        "middle_name": "",
+        "last_name": "Howley",
+        "title": "Freelance Journalist",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/elaine-howley"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Susannah Snider",
+        "first_name": "Susannah",
+        "middle_name": "",
+        "last_name": "Snider",
+        "title": "Senior Editor, Financial Advisors",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/susannah-snider"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Whitney Wyckoff",
+        "first_name": "Whitney",
+        "middle_name": "",
+        "last_name": "Wyckoff",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Education",
+            "Finance & Banking Services",
+            "Health & Medicine",
+            "Real Estate"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/whitney-wyckoff"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Jamie Deaton",
+        "first_name": "Jamie",
+        "middle_name": "",
+        "last_name": "Deaton",
+        "title": "Executive Editor, Growth Opportunities",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jamie-deaton"
+    },
+    {
+        "company": "u-s-news-world-report",
+        "company_url": "usnews.com",
+        "name": "Brian Kelly",
+        "first_name": "Brian",
+        "middle_name": "",
+        "last_name": "Kelly",
+        "title": "Editor & Chief Content Officer",
+        "location": "United States",
+        "topics": [
+            "Education",
+            "Health & Medicine",
+            "Politics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/brian-kelly"
+    }
+]

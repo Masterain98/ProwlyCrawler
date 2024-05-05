@@ -1,0 +1,924 @@
+[
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Jazmin Goodwin",
+        "first_name": "Jazmin",
+        "middle_name": "",
+        "last_name": "Goodwin",
+        "title": "Associate Writer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/jazmin-goodwin"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Frank Pallotta",
+        "first_name": "Frank",
+        "middle_name": "",
+        "last_name": "Pallotta",
+        "title": "Entertainment & Media Reporter",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Media"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/frank-pallotta"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Mark Naida",
+        "first_name": "Mark",
+        "middle_name": "",
+        "last_name": "Naida",
+        "title": "Opinion Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Editorial Page",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/mark-naida"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Alexis Benveniste",
+        "first_name": "Alexis",
+        "middle_name": "",
+        "last_name": "Benveniste",
+        "title": "Writer & Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Media"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/alexis-benveniste"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Nicole Goodkind",
+        "first_name": "Nicole",
+        "middle_name": "",
+        "last_name": "Goodkind",
+        "title": "Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/nicole-goodkind-442271"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Laurie Sosson",
+        "first_name": "Laurie",
+        "middle_name": "",
+        "last_name": "Sosson",
+        "title": "Producer",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/laurie-sosson"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Paul La Monica",
+        "first_name": "Paul",
+        "middle_name": "La",
+        "last_name": "Monica",
+        "title": "Digital Correspondent",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/paul-la-monica"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Mike Tarson",
+        "first_name": "Mike",
+        "middle_name": "",
+        "last_name": "Tarson",
+        "title": "Senior Producer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/mike-tarson"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Michael Ballaban",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Ballaban",
+        "title": "Transportation Editor",
+        "location": "United States",
+        "topics": [
+            "Transportation and Logistics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/michael-ballaban"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Matt Egan",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Egan",
+        "title": "Lead Writer",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Society"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/matt-egan-347"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Penelope Patsuris",
+        "first_name": "Penelope",
+        "middle_name": "",
+        "last_name": "Patsuris",
+        "title": "Senior Producer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/penelope-patsuris"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Jordan Valinsky",
+        "first_name": "Jordan",
+        "middle_name": "",
+        "last_name": "Valinsky",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Food"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/jordan-valinsky"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Samantha Murphy Kelly",
+        "first_name": "Samantha",
+        "middle_name": "Murphy",
+        "last_name": "Kelly",
+        "title": "Senior Tech Editor & Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Smartphones"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/samantha-murphy-kelly-17786"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Jeanne Sahadi",
+        "first_name": "Jeanne",
+        "middle_name": "",
+        "last_name": "Sahadi",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/jeanne-sahadi"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Danielle Wiener-Bronner",
+        "first_name": "Danielle",
+        "middle_name": "",
+        "last_name": "Wiener-Bronner",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/danielle-wiener-bronner"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Karen McGowan",
+        "first_name": "Karen",
+        "middle_name": "",
+        "last_name": "McGowan",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Real Estate"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/karen-mcgowan-429966"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Alicia Wallace",
+        "first_name": "Alicia",
+        "middle_name": "",
+        "last_name": "Wallace",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "Commerce",
+            "Marijuana"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/alicia-wallace"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Chiamaka Ofulue",
+        "first_name": "Chiamaka",
+        "middle_name": "",
+        "last_name": "Ofulue",
+        "title": "Associate Producer, Digital",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/chiamaka-ofulue"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Anjali Robins",
+        "first_name": "Anjali",
+        "middle_name": "",
+        "last_name": "Robins",
+        "title": "Markets editor",
+        "location": "United States",
+        "topics": [
+            "Food",
+            "Commerce"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/anjali-robins-428736"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Karen McGowan",
+        "first_name": "Karen",
+        "middle_name": "",
+        "last_name": "McGowan",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Real Estate"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/karen-mcgowan"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Parija Kavilanz",
+        "first_name": "Parija",
+        "middle_name": "",
+        "last_name": "Kavilanz",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Marketing",
+            "Commerce",
+            "Business"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/parija-kavilanz"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Nicole Ridgway",
+        "first_name": "Nicole",
+        "middle_name": "",
+        "last_name": "Ridgway",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "General Assignment News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/nicole-ridgway"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Michael Ballaban",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Ballaban",
+        "title": "Transportation Editor",
+        "location": "United States",
+        "topics": [
+            "Transportation and Logistics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/michael-ballaban-794864"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Nicole Goodkind",
+        "first_name": "Nicole",
+        "middle_name": "",
+        "last_name": "Goodkind",
+        "title": "Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/nicole-goodkind-448080"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Samantha Murphy Kelly",
+        "first_name": "Samantha",
+        "middle_name": "Murphy",
+        "last_name": "Kelly",
+        "title": "Senior Tech Editor & Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Smartphones"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/samantha-murphy-kelly"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Chris Isidore",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Isidore",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Aviation",
+            "Automobiles",
+            "Business"
+        ],
+        "influence_score": 25,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/chris-isidore"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Matt McFarland",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "McFarland",
+        "title": "Tech Reporter & Writer",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/matt-mcfarland"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Bethany Cianciolo",
+        "first_name": "Bethany",
+        "middle_name": "",
+        "last_name": "Cianciolo",
+        "title": "Opinion Editor",
+        "location": "United States",
+        "topics": [
+            "Editorial Page",
+            "Food"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/bethany-cianciolo"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Clare Duffy",
+        "first_name": "Clare",
+        "middle_name": "",
+        "last_name": "Duffy",
+        "title": "Writer & Tech Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Computers & Technology",
+            "Technology"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/clare-duffy"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Charles Riley",
+        "first_name": "Charles",
+        "middle_name": "",
+        "last_name": "Riley",
+        "title": "Europe Editor",
+        "location": "India",
+        "topics": [
+            "Business",
+            "International Business"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/charles-riley"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Moss Cohen",
+        "first_name": "Moss",
+        "middle_name": "",
+        "last_name": "Cohen",
+        "title": "Associate Producer",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Smartphones"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/moss-cohen"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Michael Ballaban",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Ballaban",
+        "title": "Transportation Editor",
+        "location": "United States",
+        "topics": [
+            "Transportation and Logistics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/michael-ballaban-115788"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Jackie Wattles",
+        "first_name": "Jackie",
+        "middle_name": "",
+        "last_name": "Wattles",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Telecommunications",
+            "Space Exploration"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/jackie-wattles"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Allison Morrow",
+        "first_name": "Allison",
+        "middle_name": "",
+        "last_name": "Morrow",
+        "title": "Senior Editor, Business",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/allison-morrow"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Samantha Murphy Kelly",
+        "first_name": "Samantha",
+        "middle_name": "Murphy",
+        "last_name": "Kelly",
+        "title": "Senior Tech Editor & Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Smartphones"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/samantha-murphy-kelly-88198"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Kate Trafecante",
+        "first_name": "Kate",
+        "middle_name": "",
+        "last_name": "Trafecante",
+        "title": "Producer",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/kate-trafecante"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Nathaniel Meyersohn",
+        "first_name": "Nathaniel",
+        "middle_name": "",
+        "last_name": "Meyersohn",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/nathaniel-meyersohn"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Rob McLean",
+        "first_name": "Rob",
+        "middle_name": "",
+        "last_name": "McLean",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/rob-mclean"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Matt Quinn",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Quinn",
+        "title": "Senior Technology Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/matt-quinn"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Anna Bahney",
+        "first_name": "Anna",
+        "middle_name": "",
+        "last_name": "Bahney",
+        "title": "Reporter/Writer",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Finance & Banking Services",
+            "Real Estate"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/anna-bahney"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Sara Ashley O'Brien",
+        "first_name": "Sara",
+        "middle_name": "Ashley",
+        "last_name": "O'Brien",
+        "title": "Senior Reporter/Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Technology"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/sara-ashley-o-brien"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Rachel Metz",
+        "first_name": "Rachel",
+        "middle_name": "",
+        "last_name": "Metz",
+        "title": "Senior Tech Writer",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/rachel-metz"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Anneken Tappe",
+        "first_name": "Anneken",
+        "middle_name": "",
+        "last_name": "Tappe",
+        "title": "Senior Markets & Economy Writer",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/anneken-tappe"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Richa Naik",
+        "first_name": "Richa",
+        "middle_name": "",
+        "last_name": "Naik",
+        "title": "Digital Video Producer",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Society",
+            "Commerce",
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/richa-naik"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Kelly Bourdet",
+        "first_name": "Kelly",
+        "middle_name": "",
+        "last_name": "Bourdet",
+        "title": "Assistant Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/kelly-bourdet"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Anjali Robins",
+        "first_name": "Anjali",
+        "middle_name": "",
+        "last_name": "Robins",
+        "title": "Editor, Consumer, Food & Retail",
+        "location": "United States",
+        "topics": [
+            "Food",
+            "Commerce"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/anjali-robins"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Logan Whiteside",
+        "first_name": "Logan",
+        "middle_name": "",
+        "last_name": "Whiteside",
+        "title": "Lead Producer",
+        "location": "United States",
+        "topics": [
+            "Real Estate",
+            "Technology",
+            "Social Media"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/logan-whiteside"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Jill Disis",
+        "first_name": "Jill",
+        "middle_name": "",
+        "last_name": "Disis",
+        "title": "Asia Editor",
+        "location": "Hong Kong",
+        "topics": [
+            "Business",
+            "Finance & Banking Services",
+            "Technology"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/jill-disis"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Catherine Thorbecke",
+        "first_name": "Catherine",
+        "middle_name": "",
+        "last_name": "Thorbecke",
+        "title": "Technology Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/catherine-thorbecke-162718"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Peter Valdes-Dapena",
+        "first_name": "Peter",
+        "middle_name": "",
+        "last_name": "Valdes-Dapena",
+        "title": "Senior Automotive Reporter & Writer",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/peter-valdes-dapena"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Matt Egan",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Egan",
+        "title": "Lead Writer",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Society"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/matt-egan-7429"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Molly Shiels",
+        "first_name": "Molly",
+        "middle_name": "",
+        "last_name": "Shiels",
+        "title": "Senior Producer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/molly-shiels"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Jason Farkas",
+        "first_name": "Jason",
+        "middle_name": "",
+        "last_name": "Farkas",
+        "title": "Vice President & General Manager",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/jason-farkas"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Elana Zak",
+        "first_name": "Elana",
+        "middle_name": "",
+        "last_name": "Zak",
+        "title": "Senior Programming Editor",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/elana-zak"
+    },
+    {
+        "company": "cnn-business",
+        "company_url": "cnn.com",
+        "name": "Kathryn Vasel",
+        "first_name": "Kathryn",
+        "middle_name": "",
+        "last_name": "Vasel",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Careers",
+            "Workplace"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/kathryn-vasel"
+    }
+]

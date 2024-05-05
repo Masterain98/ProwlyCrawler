@@ -1,0 +1,269 @@
+[
+    {
+        "company": "ars-technica",
+        "company_url": "arstechnica.com",
+        "name": "Kyle Orland",
+        "first_name": "Kyle",
+        "middle_name": "",
+        "last_name": "Orland",
+        "title": "Senior Gaming Editor",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Video Games"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/kyle-orland"
+    },
+    {
+        "company": "ars-technica",
+        "company_url": "arstechnica.com",
+        "name": "John Timmer",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Timmer",
+        "title": "Senior Science Editor",
+        "location": "United States",
+        "topics": [
+            "Science"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/john-timmer"
+    },
+    {
+        "company": "ars-technica",
+        "company_url": "arstechnica.com",
+        "name": "Sam Machkovech",
+        "first_name": "Sam",
+        "middle_name": "",
+        "last_name": "Machkovech",
+        "title": "Tech Culture Editor",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Video Games"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/sam-machkovech"
+    },
+    {
+        "company": "ars-technica",
+        "company_url": "arstechnica.com",
+        "name": "Corey Gaskin",
+        "first_name": "Corey",
+        "middle_name": "",
+        "last_name": "Gaskin",
+        "title": "Senior Commerce Writer",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Commerce"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/corey-gaskin"
+    },
+    {
+        "company": "ars-technica",
+        "company_url": "arstechnica.com",
+        "name": "Jim Salter",
+        "first_name": "Jim",
+        "middle_name": "",
+        "last_name": "Salter",
+        "title": "Technology Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jim-salter"
+    },
+    {
+        "company": "ars-technica",
+        "company_url": "arstechnica.com",
+        "name": "Jonathan Gitlin",
+        "first_name": "Jonathan",
+        "middle_name": "",
+        "last_name": "Gitlin",
+        "title": "Automotive Editor",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jonathan-gitlin"
+    },
+    {
+        "company": "ars-technica",
+        "company_url": "arstechnica.com",
+        "name": "Eric Bangeman",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "Bangeman",
+        "title": "Managing Editor",
+        "location": "Unknown",
+        "topics": [],
+        "influence_score": 0,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/eric-bangeman"
+    },
+    {
+        "company": "ars-technica",
+        "company_url": "arstechnica.com",
+        "name": "Ken Fisher",
+        "first_name": "Ken",
+        "middle_name": "",
+        "last_name": "Fisher",
+        "title": "Founder & Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/ken-fisher"
+    },
+    {
+        "company": "ars-technica",
+        "company_url": "arstechnica.com",
+        "name": "Eric Berger",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "Berger",
+        "title": "Senior Space Editor",
+        "location": "United States",
+        "topics": [
+            "Astronomy",
+            "Space Exploration",
+            "NASA"
+        ],
+        "influence_score": 69,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/eric-berger"
+    },
+    {
+        "company": "ars-technica",
+        "company_url": "arstechnica.com",
+        "name": "Samuel Axon",
+        "first_name": "Samuel",
+        "middle_name": "",
+        "last_name": "Axon",
+        "title": "Senior Reviews Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Computers & Technology",
+            "Technology",
+            "Apple Products"
+        ],
+        "influence_score": 23,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/samuel-axon"
+    },
+    {
+        "company": "ars-technica",
+        "company_url": "arstechnica.com",
+        "name": "Nathan Mattise",
+        "first_name": "Nathan",
+        "middle_name": "",
+        "last_name": "Mattise",
+        "title": "Features Editor, Social Media Editor & Podcast Producer",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/nathan-mattise"
+    },
+    {
+        "company": "ars-technica",
+        "company_url": "arstechnica.com",
+        "name": "Jim Resnick",
+        "first_name": "Jim",
+        "middle_name": "",
+        "last_name": "Resnick",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jim-resnick"
+    },
+    {
+        "company": "ars-technica",
+        "company_url": "arstechnica.com",
+        "name": "Jeff Dunn",
+        "first_name": "Jeff",
+        "middle_name": "",
+        "last_name": "Dunn",
+        "title": "Senior Commerce Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Technology"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jeff-dunn"
+    },
+    {
+        "company": "ars-technica",
+        "company_url": "arstechnica.com",
+        "name": "Ron Amadeo",
+        "first_name": "Ron",
+        "middle_name": "",
+        "last_name": "Amadeo",
+        "title": "Reviews Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Commerce",
+            "Android"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/ron-amadeo"
+    },
+    {
+        "company": "ars-technica",
+        "company_url": "arstechnica.com",
+        "name": "Dan Goodin",
+        "first_name": "Dan",
+        "middle_name": "",
+        "last_name": "Goodin",
+        "title": "Security Editor & Reporter",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/dan-goodin"
+    },
+    {
+        "company": "ars-technica",
+        "company_url": "arstechnica.com",
+        "name": "Jennifer Ouellette",
+        "first_name": "Jennifer",
+        "middle_name": "",
+        "last_name": "Ouellette",
+        "title": "Senior Writer & Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Physics",
+            "Science"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jennifer-ouellette"
+    }
+]

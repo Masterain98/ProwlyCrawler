@@ -1,0 +1,4077 @@
+[
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Ben Gilbert",
+        "first_name": "Ben",
+        "middle_name": "",
+        "last_name": "Gilbert",
+        "title": "Senior Correspondent",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Video Games"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ben-gilbert-160058"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Ryan Pickrell",
+        "first_name": "Ryan",
+        "middle_name": "",
+        "last_name": "Pickrell",
+        "title": "Correspondent",
+        "location": "United States",
+        "topics": [
+            "Defense & Military"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ryan-pickrell"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Rachel Askinasi",
+        "first_name": "Rachel",
+        "middle_name": "",
+        "last_name": "Askinasi",
+        "title": "Food Reporter",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/rachel-askinasi"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Benjamin Snyder",
+        "first_name": "Benjamin",
+        "middle_name": "",
+        "last_name": "Snyder",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/benjamin-snyder"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Shana Lebowitz Gaynor",
+        "first_name": "Shana",
+        "middle_name": "Lebowitz",
+        "last_name": "Gaynor",
+        "title": "Correspondent, Strategy",
+        "location": "United States",
+        "topics": [
+            "Careers",
+            "Workplace"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/shana-lebowitz-gaynor"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Liz Knueven",
+        "first_name": "Liz",
+        "middle_name": "",
+        "last_name": "Knueven",
+        "title": "Personal Finance Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/liz-knueven"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Ryan Joe",
+        "first_name": "Ryan",
+        "middle_name": "",
+        "last_name": "Joe",
+        "title": "Advertising Editor",
+        "location": "United States",
+        "topics": [
+            "Advertising"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ryan-joe"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Hollis Johnson",
+        "first_name": "Hollis",
+        "middle_name": "",
+        "last_name": "Johnson",
+        "title": "Photo Editor",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/hollis-johnson"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Chris Snyder",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Snyder",
+        "title": "Senior Video Correspondent",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/chris-snyder"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Aylin Woodward",
+        "first_name": "Aylin",
+        "middle_name": "",
+        "last_name": "Woodward",
+        "title": "Science and Environment Reporter",
+        "location": "United States",
+        "topics": [
+            "Anthropology",
+            "Environment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/aylin-woodward"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Meredith Cash",
+        "first_name": "Meredith",
+        "middle_name": "",
+        "last_name": "Cash",
+        "title": "Sports Reporter",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/meredith-cash-76660"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Ashley Phillips",
+        "first_name": "Ashley",
+        "middle_name": "",
+        "last_name": "Phillips",
+        "title": "Style & Beauty Editor",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Apparel"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ashley-phillips"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Alyse Kalish",
+        "first_name": "Alyse",
+        "middle_name": "",
+        "last_name": "Kalish",
+        "title": "Editor, Freelancers",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Careers",
+            "Media",
+            "Commerce",
+            "Technology",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/alyse-kalish"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Chris Weller",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Weller",
+        "title": "Senior Strategy Editor",
+        "location": "United States",
+        "topics": [
+            "Careers",
+            "Workplace",
+            "Business"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/chris-weller"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Dakin Campbell",
+        "first_name": "Dakin",
+        "middle_name": "",
+        "last_name": "Campbell",
+        "title": "Chief Finance Correspondent",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/dakin-campbell-181650"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Ashley Stewart",
+        "first_name": "Ashley",
+        "middle_name": "",
+        "last_name": "Stewart",
+        "title": "Senior Tech Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Computers & Technology"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ashley-stewart-100337"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Ronda Lee",
+        "first_name": "Ronda",
+        "middle_name": "",
+        "last_name": "Lee",
+        "title": "Associate Editor, Insurance",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ronda-lee"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Travis Clark",
+        "first_name": "Travis",
+        "middle_name": "",
+        "last_name": "Clark",
+        "title": "Senior Media Reporter",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/travis-clark"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Emily Cohn",
+        "first_name": "Emily",
+        "middle_name": "",
+        "last_name": "Cohn",
+        "title": "Deputy Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Computers & Technology",
+            "Commerce",
+            "Science"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/emily-cohn"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Lindsay Rittenhouse",
+        "first_name": "Lindsay",
+        "middle_name": "",
+        "last_name": "Rittenhouse",
+        "title": "Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "Advertising"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/lindsay-rittenhouse"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Lyndsay Hemphill",
+        "first_name": "Lyndsay",
+        "middle_name": "",
+        "last_name": "Hemphill",
+        "title": "Executive Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Careers",
+            "Entertainment",
+            "Finance & Banking Services",
+            "Computers & Technology",
+            "Media",
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/lyndsay-hemphill"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Yoonji Han",
+        "first_name": "Yoonji",
+        "middle_name": "",
+        "last_name": "Han",
+        "title": "Junior Legal Reporter",
+        "location": "United States",
+        "topics": [
+            "Law"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/yoonji-han"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Sharon Feiereisen",
+        "first_name": "Sharon",
+        "middle_name": "",
+        "last_name": "Feiereisen",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Demographics",
+            "Apparel",
+            "Health & Medicine",
+            "Travel"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/sharon-feiereisen"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Mark Matousek",
+        "first_name": "Mark",
+        "middle_name": "",
+        "last_name": "Matousek",
+        "title": "Senior Transportation Reporter",
+        "location": "United States",
+        "topics": [
+            "Transportation and Logistics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/mark-matousek"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Zachary Tracer",
+        "first_name": "Zachary",
+        "middle_name": "",
+        "last_name": "Tracer",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/zachary-tracer"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Hilary Brueck",
+        "first_name": "Hilary",
+        "middle_name": "",
+        "last_name": "Brueck",
+        "title": "Health Correspondent",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/hilary-brueck"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Sally Kaplan",
+        "first_name": "Sally",
+        "middle_name": "",
+        "last_name": "Kaplan",
+        "title": "Senior Editor, Insider Reviews",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Education",
+            "Apparel",
+            "Commerce"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/sally-kaplan"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Christine Caplan",
+        "first_name": "Christine",
+        "middle_name": "",
+        "last_name": "Caplan",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Nature & Wildlife"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/christine-caplan"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Dave Smith",
+        "first_name": "Dave",
+        "middle_name": "",
+        "last_name": "Smith",
+        "title": "Front Page Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Technology"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/dave-smith"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Danielle Walker",
+        "first_name": "Danielle",
+        "middle_name": "",
+        "last_name": "Walker",
+        "title": "Finance Features Correspondent",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/danielle-walker"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Spriha Srivastava",
+        "first_name": "Spriha",
+        "middle_name": "",
+        "last_name": "Srivastava",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/spriha-srivastava"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Andrew Dunn",
+        "first_name": "Andrew",
+        "middle_name": "",
+        "last_name": "Dunn",
+        "title": "Senior Healthcare Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/andrew-dunn"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Dana Schuster",
+        "first_name": "Dana",
+        "middle_name": "",
+        "last_name": "Schuster",
+        "title": "Features Editor",
+        "location": "United States",
+        "topics": [
+            "Features/Lifestyle",
+            "Commerce"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/dana-schuster"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Andrew Meola",
+        "first_name": "Andrew",
+        "middle_name": "",
+        "last_name": "Meola",
+        "title": "Director of Subscription Marketing",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/andrew-meola"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Juliana Kaplan",
+        "first_name": "Juliana",
+        "middle_name": "",
+        "last_name": "Kaplan",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Unions"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/juliana-kaplan"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Libby Kane",
+        "first_name": "Libby",
+        "middle_name": "",
+        "last_name": "Kane",
+        "title": "Executive Editor, Personal Finance Insider",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/libby-kane"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Julie Bort",
+        "first_name": "Julie",
+        "middle_name": "",
+        "last_name": "Bort",
+        "title": "Senior Editor, Venture Capital and Startups",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Business"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/julie-bort"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Lydia Ramsey",
+        "first_name": "Lydia",
+        "middle_name": "",
+        "last_name": "Ramsey",
+        "title": "Healthcare Editor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/lydia-ramsey"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Tanya Dua",
+        "first_name": "Tanya",
+        "middle_name": "",
+        "last_name": "Dua",
+        "title": "Senior Advertising Reporter",
+        "location": "United States",
+        "topics": [
+            "Advertising",
+            "Marketing",
+            "Media"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/tanya-dua"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Eric Rosenberg",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "Rosenberg",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/eric-rosenberg-181598"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Alistair Barr",
+        "first_name": "Alistair",
+        "middle_name": "",
+        "last_name": "Barr",
+        "title": "Global Technology Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Technology"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/alistair-barr-126053"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Rachael Schultz",
+        "first_name": "Rachael",
+        "middle_name": "",
+        "last_name": "Schultz",
+        "title": "Health, Fitness & Outdoors Reviews Editor",
+        "location": "United States",
+        "topics": [
+            "Fitness",
+            "Health & Medicine"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/rachael-schultz"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "John Haltiwanger",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Haltiwanger",
+        "title": "Senior Politics Reporter",
+        "location": "United States",
+        "topics": [
+            "Foreign Affairs",
+            "Politics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/john-haltiwanger"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Danni Santana",
+        "first_name": "Danni",
+        "middle_name": "",
+        "last_name": "Santana",
+        "title": "Associate Retail Editor",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/danni-santana"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Gregory Magana",
+        "first_name": "Gregory",
+        "middle_name": "",
+        "last_name": "Magana",
+        "title": "Research Associate",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/gregory-magana"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Henry Blodget",
+        "first_name": "Henry",
+        "middle_name": "",
+        "last_name": "Blodget",
+        "title": "Founder, Chief Executive Officer and Editorial Director",
+        "location": "United States",
+        "topics": [
+            "Editorial Page",
+            "Politics"
+        ],
+        "influence_score": 79,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/henry-blodget"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Taylor Borden",
+        "first_name": "Taylor",
+        "middle_name": "",
+        "last_name": "Borden",
+        "title": "Junior Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Real Estate",
+            "Travel",
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/taylor-borden"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Shannen Balogh",
+        "first_name": "Shannen",
+        "middle_name": "",
+        "last_name": "Balogh",
+        "title": "Finance Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/shannen-balogh"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Nick Lichtenberg",
+        "first_name": "Nick",
+        "middle_name": "",
+        "last_name": "Lichtenberg",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Real Estate"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/nick-lichtenberg"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Robin Bravender",
+        "first_name": "Robin",
+        "middle_name": "",
+        "last_name": "Bravender",
+        "title": "Policy Correspondent",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/robin-bravender"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "May Teng",
+        "first_name": "May",
+        "middle_name": "",
+        "last_name": "Teng",
+        "title": "Junior Strategy Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Careers"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/may-teng"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Kaja Whitehouse",
+        "first_name": "Kaja",
+        "middle_name": "",
+        "last_name": "Whitehouse",
+        "title": "Senior Finance Editor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Law"
+        ],
+        "influence_score": 69,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/kaja-whitehouse-42474"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Olivia Muenter",
+        "first_name": "Olivia",
+        "middle_name": "",
+        "last_name": "Muenter",
+        "title": "Freelance Journalist",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/olivia-muenter"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Josh Barro",
+        "first_name": "Josh",
+        "middle_name": "",
+        "last_name": "Barro",
+        "title": "Columnist",
+        "location": "United States",
+        "topics": [
+            "Editorial Page"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/josh-barro"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Ashley Rodriguez",
+        "first_name": "Ashley",
+        "middle_name": "",
+        "last_name": "Rodriguez",
+        "title": "Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Media"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ashley-rodriguez"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Lucia Moses",
+        "first_name": "Lucia",
+        "middle_name": "",
+        "last_name": "Moses",
+        "title": "Deputy Editor",
+        "location": "United States",
+        "topics": [
+            "Advertising",
+            "Media"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/lucia-moses"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Les Shu",
+        "first_name": "Les",
+        "middle_name": "",
+        "last_name": "Shu",
+        "title": "Senior Editor, Guides",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/les-shu"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Yeji Lee",
+        "first_name": "Yeji",
+        "middle_name": "",
+        "last_name": "Lee",
+        "title": "Journalist & Writer",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Marijuana"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/yeji-lee"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Emma Cosgrove",
+        "first_name": "Emma",
+        "middle_name": "",
+        "last_name": "Cosgrove",
+        "title": "Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "E-Commerce",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/emma-cosgrove"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Dan DeFrancesco",
+        "first_name": "Dan",
+        "middle_name": "",
+        "last_name": "DeFrancesco",
+        "title": "Associate Finance Editor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/dan-defrancesco"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Natalia Lusinski",
+        "first_name": "Natalia",
+        "middle_name": "",
+        "last_name": "Lusinski",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Careers",
+            "Finance & Banking Services",
+            "Life",
+            "Travel"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/natalia-lusinski"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Victoria Giardina",
+        "first_name": "Victoria",
+        "middle_name": "",
+        "last_name": "Giardina",
+        "title": "Buying Guides Fellow",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/victoria-giardina"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Hannah Jiang",
+        "first_name": "Hannah",
+        "middle_name": "",
+        "last_name": "Jiang",
+        "title": "Video Reporter & Producer, Insider News",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Features/Lifestyle"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/hannah-jiang"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Kelly Laffey",
+        "first_name": "Kelly",
+        "middle_name": "",
+        "last_name": "Laffey",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/kelly-laffey"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Sean Czarnecki",
+        "first_name": "Sean",
+        "middle_name": "",
+        "last_name": "Czarnecki",
+        "title": "Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "Advertising",
+            "Public Relations"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/sean-czarnecki"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Lily Alig",
+        "first_name": "Lily",
+        "middle_name": "",
+        "last_name": "Alig",
+        "title": "Junior Reporter",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/lily-alig"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Emily Hein",
+        "first_name": "Emily",
+        "middle_name": "",
+        "last_name": "Hein",
+        "title": "Story Producer, Insider Reviews",
+        "location": "United States",
+        "topics": [
+            "Education",
+            "Entertainment",
+            "Commerce"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/emily-hein"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Joseph Williams",
+        "first_name": "Joseph",
+        "middle_name": "",
+        "last_name": "Williams",
+        "title": "Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/joseph-williams-18488"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Bradley Saacks",
+        "first_name": "Bradley",
+        "middle_name": "",
+        "last_name": "Saacks",
+        "title": "Senior Finance Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/bradley-saacks"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Jennifer Dawkins",
+        "first_name": "Jennifer",
+        "middle_name": "",
+        "last_name": "Dawkins",
+        "title": "Entrepreneurship and Small Business Reporter",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/jennifer-dawkins"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Madeline Stone",
+        "first_name": "Madeline",
+        "middle_name": "",
+        "last_name": "Stone",
+        "title": "Correspondent",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/madeline-stone"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Lisa Eadicicco",
+        "first_name": "Lisa",
+        "middle_name": "",
+        "last_name": "Eadicicco",
+        "title": "Senior Tech Correspondent",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Technology",
+            "Apple Products"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/lisa-eadicicco"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Connie Chen",
+        "first_name": "Connie",
+        "middle_name": "",
+        "last_name": "Chen",
+        "title": "Senior Reporter, Reviews",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/connie-chen"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Steven Tweedie",
+        "first_name": "Steven",
+        "middle_name": "",
+        "last_name": "Tweedie",
+        "title": "Deputy Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Computers & Technology",
+            "Commerce",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/steven-tweedie"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Brittany Romano",
+        "first_name": "Brittany",
+        "middle_name": "",
+        "last_name": "Romano",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Apparel"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/brittany-romano-27293"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Rachel Premack",
+        "first_name": "Rachel",
+        "middle_name": "",
+        "last_name": "Premack",
+        "title": "Senior Investigative Reporter",
+        "location": "United States",
+        "topics": [
+            "Investigative Reporting",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/rachel-premack"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Casey Sullivan",
+        "first_name": "Casey",
+        "middle_name": "",
+        "last_name": "Sullivan",
+        "title": "Private Equity Correspondent",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/casey-sullivan"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Sonam Sheth",
+        "first_name": "Sonam",
+        "middle_name": "",
+        "last_name": "Sheth",
+        "title": "Political Correspondent",
+        "location": "United States",
+        "topics": [
+            "Security",
+            "Politics"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/sonam-sheth"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Cammy Pedroja",
+        "first_name": "Cammy",
+        "middle_name": "",
+        "last_name": "Pedroja",
+        "title": "Freelance Journalist",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/cammy-pedroja"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Mark Matousek",
+        "first_name": "Mark",
+        "middle_name": "",
+        "last_name": "Matousek",
+        "title": "Senior Transportation Reporter",
+        "location": "United States",
+        "topics": [
+            "Transportation and Logistics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/mark-matousek-90968"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Ashley Lane",
+        "first_name": "Ashley",
+        "middle_name": "",
+        "last_name": "Lane",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ashley-lane"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Sin\u00e9ad Baker",
+        "first_name": "Sin\u00e9ad",
+        "middle_name": "",
+        "last_name": "Baker",
+        "title": "Senior News Reporter",
+        "location": "United Kingdom",
+        "topics": [
+            "Science",
+            "News",
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/sinead-baker"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Julia Hood",
+        "first_name": "Julia",
+        "middle_name": "",
+        "last_name": "Hood",
+        "title": "Head of Special Editorial Projects",
+        "location": "United States",
+        "topics": [
+            "Society"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/julia-hood"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Ben Winck",
+        "first_name": "Ben",
+        "middle_name": "",
+        "last_name": "Winck",
+        "title": "Markets Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ben-winck"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Leah Rosenbaum",
+        "first_name": "Leah",
+        "middle_name": "",
+        "last_name": "Rosenbaum",
+        "title": "Healthcare Editor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/leah-rosenbaum"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Caroline Lupini",
+        "first_name": "Caroline",
+        "middle_name": "",
+        "last_name": "Lupini",
+        "title": "Freelance Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Travel"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/caroline-lupini"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Hayley Hudson",
+        "first_name": "Hayley",
+        "middle_name": "",
+        "last_name": "Hudson",
+        "title": "International Managing Editor",
+        "location": "United States",
+        "topics": [
+            "International News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/hayley-hudson"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Debbie Strong",
+        "first_name": "Debbie",
+        "middle_name": "",
+        "last_name": "Strong",
+        "title": "Deputy Editor, Contributors & Freelance",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Entertainment",
+            "Finance & Banking Services",
+            "Computers & Technology",
+            "Media",
+            "Environment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/debbie-strong"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Cadie Thompson",
+        "first_name": "Cadie",
+        "middle_name": "",
+        "last_name": "Thompson",
+        "title": "Deputy Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Commerce",
+            "Technology",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/cadie-thompson"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Bethany Biron",
+        "first_name": "Bethany",
+        "middle_name": "",
+        "last_name": "Biron",
+        "title": "Retail Reporter",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/bethany-biron"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Karen Ho",
+        "first_name": "Karen",
+        "middle_name": "",
+        "last_name": "Ho",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Environment"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/karen-ho"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Clint Proctor",
+        "first_name": "Clint",
+        "middle_name": "",
+        "last_name": "Proctor",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/clint-proctor"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Linette Lopez",
+        "first_name": "Linette",
+        "middle_name": "",
+        "last_name": "Lopez",
+        "title": "Columnist",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Finance & Banking Services",
+            "Technology",
+            "Politics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/linette-lopez-842326"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Alcynna Lloyd",
+        "first_name": "Alcynna",
+        "middle_name": "",
+        "last_name": "Lloyd",
+        "title": "Economic Reporter",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Real Estate"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/alcynna-lloyd-115706"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Jason Guerrasio",
+        "first_name": "Jason",
+        "middle_name": "",
+        "last_name": "Guerrasio",
+        "title": "Senior Entertainment Reporter",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/jason-guerrasio"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Martin Coulter",
+        "first_name": "Martin",
+        "middle_name": "",
+        "last_name": "Coulter",
+        "title": "Technology Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Finance & Banking Services",
+            "Business"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/martin-coulter"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Ben Gilbert",
+        "first_name": "Ben",
+        "middle_name": "",
+        "last_name": "Gilbert",
+        "title": "Senior Correspondent",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Video Games"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ben-gilbert-115166"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Rebecca Harrington",
+        "first_name": "Rebecca",
+        "middle_name": "",
+        "last_name": "Harrington",
+        "title": "Deputy Editor",
+        "location": "United States",
+        "topics": [
+            "News",
+            "Politics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/rebecca-harrington"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Graham Starr",
+        "first_name": "Graham",
+        "middle_name": "",
+        "last_name": "Starr",
+        "title": "Senior Tech Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/graham-starr"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "John Dorman",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Dorman",
+        "title": "Senior Politics Reporter",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/john-dorman"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Graham Flanagan",
+        "first_name": "Graham",
+        "middle_name": "",
+        "last_name": "Flanagan",
+        "title": "Senior Video Correspondent",
+        "location": "United States",
+        "topics": [
+            "House"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/graham-flanagan"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Rebecca Ungarino",
+        "first_name": "Rebecca",
+        "middle_name": "",
+        "last_name": "Ungarino",
+        "title": "Wealth & Asset Management Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Business"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/rebecca-ungarino"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Brittany Chang",
+        "first_name": "Brittany",
+        "middle_name": "",
+        "last_name": "Chang",
+        "title": "Visual Features Reporter",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/brittany-chang"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Isabelle Lee",
+        "first_name": "Isabelle",
+        "middle_name": "",
+        "last_name": "Lee",
+        "title": "Markets Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/isabelle-lee"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Anna Miller",
+        "first_name": "Anna",
+        "middle_name": "",
+        "last_name": "Miller",
+        "title": "Senior Health Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Fitness"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/anna-miller-100768"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Kimberly Leonard",
+        "first_name": "Kimberly",
+        "middle_name": "",
+        "last_name": "Leonard",
+        "title": "Policy and Politics Correspondent",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/kimberly-leonard"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Nancy Luna",
+        "first_name": "Nancy",
+        "middle_name": "",
+        "last_name": "Luna",
+        "title": "Restaurants Correspondent",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/nancy-luna"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Joseph Zeballos-Roig",
+        "first_name": "Joseph",
+        "middle_name": "",
+        "last_name": "Zeballos-Roig",
+        "title": "Economics / Policy Reporter",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Recruiting",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/joseph-zeballos-roig"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Jessica Liebman",
+        "first_name": "Jessica",
+        "middle_name": "",
+        "last_name": "Liebman",
+        "title": "Global Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/jessica-liebman"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Emma Cosgrove",
+        "first_name": "Emma",
+        "middle_name": "",
+        "last_name": "Cosgrove",
+        "title": "Senior Reporter, Logistics",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/emma-cosgrove-844899"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Yelena Dzhanova",
+        "first_name": "Yelena",
+        "middle_name": "",
+        "last_name": "Dzhanova",
+        "title": "News Reporter",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "White House",
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/yelena-dzhanova"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Fritzie Andrade",
+        "first_name": "Fritzie",
+        "middle_name": "",
+        "last_name": "Andrade",
+        "title": "Managing Editor, Diversity, Equity and Inclusion",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Entertainment",
+            "Computers & Technology",
+            "Media"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/fritzie-andrade"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Laila Maidan",
+        "first_name": "Laila",
+        "middle_name": "",
+        "last_name": "Maidan",
+        "title": "Investing Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/laila-maidan"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Adrian LaTrace",
+        "first_name": "Adrian",
+        "middle_name": "",
+        "last_name": "LaTrace",
+        "title": "Real Estate Investing Editor",
+        "location": "United States",
+        "topics": [
+            "Real Estate"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/adrian-latrace-126525"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Madeline Berg",
+        "first_name": "Madeline",
+        "middle_name": "",
+        "last_name": "Berg",
+        "title": "Media Editor",
+        "location": "United States",
+        "topics": [
+            "Media"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/madeline-berg"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Kevin Reilly",
+        "first_name": "Kevin",
+        "middle_name": "",
+        "last_name": "Reilly",
+        "title": "Senior Video Producer",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/kevin-reilly"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Hana Alberts",
+        "first_name": "Hana",
+        "middle_name": "",
+        "last_name": "Alberts",
+        "title": "Senior Editor, Real Estate",
+        "location": "United States",
+        "topics": [
+            "Real Estate"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/hana-alberts"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Sarah Al-Arshani",
+        "first_name": "Sarah",
+        "middle_name": "",
+        "last_name": "Al-Arshani",
+        "title": "Breaking News Reporter",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/sarah-al-arshani"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Mark Knapp",
+        "first_name": "Mark",
+        "middle_name": "",
+        "last_name": "Knapp",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "News",
+            "Consumer Electronics",
+            "Commerce",
+            "Technology",
+            "Video Games",
+            "Smartphones"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/mark-knapp-1753"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Ben Gilbert",
+        "first_name": "Ben",
+        "middle_name": "",
+        "last_name": "Gilbert",
+        "title": "Senior Tech Correspondent",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Video Games"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ben-gilbert"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Natasha Solo-Lyons",
+        "first_name": "Natasha",
+        "middle_name": "",
+        "last_name": "Solo-Lyons",
+        "title": "Junior Wealth Reporter",
+        "location": "United States",
+        "topics": [
+            "Life",
+            "Finance & Banking Services",
+            "Real Estate"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/natasha-solo-lyons"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Marley Jay",
+        "first_name": "Marley",
+        "middle_name": "",
+        "last_name": "Jay",
+        "title": "Senior Investing Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/marley-jay"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Haven Egresitz",
+        "first_name": "Haven",
+        "middle_name": "",
+        "last_name": "Egresitz",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/haven-egresitz"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Leena Rao",
+        "first_name": "Leena",
+        "middle_name": "",
+        "last_name": "Rao",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Business"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/leena-rao"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Bryan Logan",
+        "first_name": "Bryan",
+        "middle_name": "",
+        "last_name": "Logan",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Transportation and Logistics",
+            "Politics"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/bryan-logan"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Corey Protin",
+        "first_name": "Corey",
+        "middle_name": "",
+        "last_name": "Protin",
+        "title": "Media Studios Operation Manager",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/corey-protin"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Emily Stewart",
+        "first_name": "Emily",
+        "middle_name": "",
+        "last_name": "Stewart",
+        "title": "Journalist",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Society",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/emily-stewart-833202"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Blake Dodge",
+        "first_name": "Blake",
+        "middle_name": "",
+        "last_name": "Dodge",
+        "title": "Senior Healthcare Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/blake-dodge"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Ariel Schwartz",
+        "first_name": "Ariel",
+        "middle_name": "",
+        "last_name": "Schwartz",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Demographics",
+            "Health & Medicine"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ariel-schwartz"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Kim Renfro",
+        "first_name": "Kim",
+        "middle_name": "",
+        "last_name": "Renfro",
+        "title": "Correspondent",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Media"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/kim-renfro-835004"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Joe Ciolli",
+        "first_name": "Joe",
+        "middle_name": "",
+        "last_name": "Ciolli",
+        "title": "Deputy Executive Editor, Business",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/joe-ciolli"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Grace Panetta",
+        "first_name": "Grace",
+        "middle_name": "",
+        "last_name": "Panetta",
+        "title": "Senior Politics Reporter",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/grace-panetta"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Aaron Holmes",
+        "first_name": "Aaron",
+        "middle_name": "",
+        "last_name": "Holmes",
+        "title": "Enterprise Technology Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Technology"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/aaron-holmes-135498"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Rick Stella",
+        "first_name": "Rick",
+        "middle_name": "",
+        "last_name": "Stella",
+        "title": "Health & Fitness Editor",
+        "location": "United States",
+        "topics": [
+            "Fitness",
+            "Health & Medicine",
+            "Technology",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/rick-stella-146617"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Gloria Dawson",
+        "first_name": "Gloria",
+        "middle_name": "",
+        "last_name": "Dawson",
+        "title": "Senior Editor, Retail",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/gloria-dawson"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Leah Goldman",
+        "first_name": "Leah",
+        "middle_name": "",
+        "last_name": "Goldman",
+        "title": "Executive Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/leah-goldman"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Owen Burke",
+        "first_name": "Owen",
+        "middle_name": "",
+        "last_name": "Burke",
+        "title": "Senior Home & Kitchen Reporter",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/owen-burke"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Michelle Abrego",
+        "first_name": "Michelle",
+        "middle_name": "",
+        "last_name": "Abrego",
+        "title": "Finance Editor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Real Estate"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/michelle-abrego"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Alex Nicoll",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Nicoll",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Real Estate"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/alex-nicoll"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Sam Fellman",
+        "first_name": "Sam",
+        "middle_name": "",
+        "last_name": "Fellman",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Defense & Military",
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/sam-fellman"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Jennifer Eum",
+        "first_name": "Jennifer",
+        "middle_name": "",
+        "last_name": "Eum",
+        "title": "Senior Editor, Contributors",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/jennifer-eum"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Eliza Relman",
+        "first_name": "Eliza",
+        "middle_name": "",
+        "last_name": "Relman",
+        "title": "Senior Politics Reporter",
+        "location": "United States",
+        "topics": [
+            "White House",
+            "Politics"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/eliza-relman"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Hannah Freedman",
+        "first_name": "Hannah",
+        "middle_name": "",
+        "last_name": "Freedman",
+        "title": "Associate Travel Editor",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/hannah-freedman"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Hillary Hoffower",
+        "first_name": "Hillary",
+        "middle_name": "",
+        "last_name": "Hoffower",
+        "title": "Correspondent, Millennial Wealth",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Society",
+            "Commerce",
+            "Business"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/hillary-hoffower"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Michelle Mark",
+        "first_name": "Michelle",
+        "middle_name": "",
+        "last_name": "Mark",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Politics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/michelle-mark"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Lauren Johnson",
+        "first_name": "Lauren",
+        "middle_name": "",
+        "last_name": "Johnson",
+        "title": "Senior Advertising Reporter",
+        "location": "United States",
+        "topics": [
+            "Advertising"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/lauren-johnson"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Vicky Ge Huang",
+        "first_name": "Vicky",
+        "middle_name": "Ge",
+        "last_name": "Huang",
+        "title": "Senior Investing Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/vicky-ge-huang"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Kate Taylor",
+        "first_name": "Kate",
+        "middle_name": "",
+        "last_name": "Taylor",
+        "title": "Senior Correspondent",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "Food",
+            "Commerce"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/kate-taylor"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Madison Hoff",
+        "first_name": "Madison",
+        "middle_name": "",
+        "last_name": "Hoff",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Society"
+        ],
+        "influence_score": 60,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/madison-hoff"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Alexa St. John",
+        "first_name": "Alexa",
+        "middle_name": "St.",
+        "last_name": "John",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Transportation and Logistics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/alexa-st-john-77475"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Justin Gmoser",
+        "first_name": "Justin",
+        "middle_name": "",
+        "last_name": "Gmoser",
+        "title": "Senior Video Producer",
+        "location": "United States",
+        "topics": [
+            "Science",
+            "Technology",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/justin-gmoser"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "\u00c1ine Cain",
+        "first_name": "\u00c1ine",
+        "middle_name": "",
+        "last_name": "Cain",
+        "title": "Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/aine-cain"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Lauryn Haas",
+        "first_name": "Lauryn",
+        "middle_name": "",
+        "last_name": "Haas",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/lauryn-haas"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Palmer Haasch",
+        "first_name": "Palmer",
+        "middle_name": "",
+        "last_name": "Haasch",
+        "title": "Junior Digital Culture Reporter",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Social Media"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/palmer-haasch"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Cork Gaines",
+        "first_name": "Cork",
+        "middle_name": "",
+        "last_name": "Gaines",
+        "title": "Sports Editor",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/cork-gaines"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Tanza Loudenback",
+        "first_name": "Tanza",
+        "middle_name": "",
+        "last_name": "Loudenback",
+        "title": "Personal Finance Correspondent",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/tanza-loudenback"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Carla Moz\u00e9e",
+        "first_name": "Carla",
+        "middle_name": "",
+        "last_name": "Moz\u00e9e",
+        "title": "Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/carla-mozee"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Morgan McFall-Johnsen",
+        "first_name": "Morgan",
+        "middle_name": "",
+        "last_name": "McFall-Johnsen",
+        "title": "Science & Space Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Science",
+            "Space Exploration",
+            "Environment"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/morgan-mcfall-johnsen"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Monica Humphries",
+        "first_name": "Monica",
+        "middle_name": "",
+        "last_name": "Humphries",
+        "title": "Travel Reporter/ Junior Lifestyle Reporter",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Travel"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/monica-humphries"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Lauren Frias",
+        "first_name": "Lauren",
+        "middle_name": "",
+        "last_name": "Frias",
+        "title": "Breaking News Reporter",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/lauren-frias"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Hugh Langley",
+        "first_name": "Hugh",
+        "middle_name": "",
+        "last_name": "Langley",
+        "title": "Senior Tech Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Technology"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/hugh-langley"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Katie Canales",
+        "first_name": "Katie",
+        "middle_name": "",
+        "last_name": "Canales",
+        "title": "Silicon Valley Culture Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/katie-canales"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Avery Hartmans",
+        "first_name": "Avery",
+        "middle_name": "",
+        "last_name": "Hartmans",
+        "title": "Senior Tech Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/avery-hartmans"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Scott Davis",
+        "first_name": "Scott",
+        "middle_name": "",
+        "last_name": "Davis",
+        "title": "Senior Sports Reporter",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/scott-davis"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Graham Rapier",
+        "first_name": "Graham",
+        "middle_name": "",
+        "last_name": "Rapier",
+        "title": "Senior Transportation Reporter",
+        "location": "United States",
+        "topics": [
+            "Transportation and Logistics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/graham-rapier"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Dennis Green",
+        "first_name": "Dennis",
+        "middle_name": "",
+        "last_name": "Green",
+        "title": "Senior Business Editor",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/dennis-green"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Will Daniel",
+        "first_name": "Will",
+        "middle_name": "",
+        "last_name": "Daniel",
+        "title": "Junior Investing Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/will-daniel"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Nora Naughton",
+        "first_name": "Nora",
+        "middle_name": "",
+        "last_name": "Naughton",
+        "title": "Senior Autos Reporter",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/nora-naughton-114397"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Ellen Hoffman",
+        "first_name": "Ellen",
+        "middle_name": "",
+        "last_name": "Hoffman",
+        "title": "Executive Editor, Reviews",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ellen-hoffman"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Daniel McMahon",
+        "first_name": "Daniel",
+        "middle_name": "",
+        "last_name": "McMahon",
+        "title": "Copy Chief",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/daniel-mcmahon-57387"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Reed Alexander",
+        "first_name": "Reed",
+        "middle_name": "",
+        "last_name": "Alexander",
+        "title": "Finance Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 79,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/reed-alexander"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Ellen Cranley",
+        "first_name": "Ellen",
+        "middle_name": "",
+        "last_name": "Cranley",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "News",
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ellen-cranley"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Nathan McAlone",
+        "first_name": "Nathan",
+        "middle_name": "",
+        "last_name": "McAlone",
+        "title": "Senior Media Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/nathan-mcalone"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Dakin Campbell",
+        "first_name": "Dakin",
+        "middle_name": "",
+        "last_name": "Campbell",
+        "title": "Chief Finance Correspondent",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/dakin-campbell"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Rick Stella",
+        "first_name": "Rick",
+        "middle_name": "",
+        "last_name": "Stella",
+        "title": "Health & Fitness Editor",
+        "location": "United States",
+        "topics": [
+            "Fitness",
+            "Health & Medicine",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/rick-stella"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Michael Domanico",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Domanico",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/michael-domanico"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Will Wei",
+        "first_name": "Will",
+        "middle_name": "",
+        "last_name": "Wei",
+        "title": "Executive Producer",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/will-wei"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Olivia Oran",
+        "first_name": "Olivia",
+        "middle_name": "",
+        "last_name": "Oran",
+        "title": "Head, Editorial Subscription Strategy & Growth",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/olivia-oran"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Rebecca Torrence",
+        "first_name": "Rebecca",
+        "middle_name": "",
+        "last_name": "Torrence",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/rebecca-torrence"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Ashley Stewart",
+        "first_name": "Ashley",
+        "middle_name": "",
+        "last_name": "Stewart",
+        "title": "Senior Tech Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Computers & Technology"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ashley-stewart"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Carl Leibowitz",
+        "first_name": "Carl",
+        "middle_name": "",
+        "last_name": "Leibowitz",
+        "title": "Director of Booking",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/carl-leibowitz"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Tyler Lauletta",
+        "first_name": "Tyler",
+        "middle_name": "",
+        "last_name": "Lauletta",
+        "title": "Sports Reporter",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/tyler-lauletta"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Allana Akhtar",
+        "first_name": "Allana",
+        "middle_name": "",
+        "last_name": "Akhtar",
+        "title": "Breaking Business News Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Health & Medicine",
+            "Computers & Technology"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/allana-akhtar"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Breton Fischetti",
+        "first_name": "Breton",
+        "middle_name": "",
+        "last_name": "Fischetti",
+        "title": "Vice President, Commerce",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/breton-fischetti"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "James Brains",
+        "first_name": "James",
+        "middle_name": "",
+        "last_name": "Brains",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/james-brains"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Joel Marino",
+        "first_name": "Joel",
+        "middle_name": "",
+        "last_name": "Marino",
+        "title": "Careers & Strategy Editor",
+        "location": "United States",
+        "topics": [
+            "Careers",
+            "Workplace"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/joel-marino"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Allison DeAngelis",
+        "first_name": "Allison",
+        "middle_name": "",
+        "last_name": "DeAngelis",
+        "title": "Senior Healthcare Reporter",
+        "location": "United States",
+        "topics": [
+            "Biotechnology",
+            "Health & Medicine"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/allison-deangelis"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Lina Batarags",
+        "first_name": "Lina",
+        "middle_name": "",
+        "last_name": "Batarags",
+        "title": "Senior Editor",
+        "location": "Unknown",
+        "topics": [],
+        "influence_score": 0,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/lina-batarags"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Alexander Bitter",
+        "first_name": "Alexander",
+        "middle_name": "",
+        "last_name": "Bitter",
+        "title": "Senior Retail Reporter",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/alexander-bitter"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Bradley Hasemeyer",
+        "first_name": "Bradley",
+        "middle_name": "",
+        "last_name": "Hasemeyer",
+        "title": "On-Camera Host & Freelance Contributor",
+        "location": "United States",
+        "topics": [
+            "Automobiles",
+            "House",
+            "Nature & Wildlife",
+            "Commerce"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/bradley-hasemeyer"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Claire Atkinson",
+        "first_name": "Claire",
+        "middle_name": "",
+        "last_name": "Atkinson",
+        "title": "Chief Media Correspondent",
+        "location": "United States",
+        "topics": [
+            "Media"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/claire-atkinson"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Mary Hanbury",
+        "first_name": "Mary",
+        "middle_name": "",
+        "last_name": "Hanbury",
+        "title": "Retail Reporter",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/mary-hanbury"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Aaron Holmes",
+        "first_name": "Aaron",
+        "middle_name": "",
+        "last_name": "Holmes",
+        "title": "Technology Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/aaron-holmes"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Eric Rosenberg",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "Rosenberg",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/eric-rosenberg"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Jessica Orwig",
+        "first_name": "Jessica",
+        "middle_name": "",
+        "last_name": "Orwig",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Science"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/jessica-orwig"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Joe Osborne",
+        "first_name": "Joe",
+        "middle_name": "",
+        "last_name": "Osborne",
+        "title": "Senior Technology Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/joe-osborne"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Dominic-Madori Davis",
+        "first_name": "Dominic-Madori",
+        "middle_name": "",
+        "last_name": "Davis",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Media",
+            "Business"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/dominic-madori-davis"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Paayal Zaveri",
+        "first_name": "Paayal",
+        "middle_name": "",
+        "last_name": "Zaveri",
+        "title": "Senior Tech Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/paayal-zaveri"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Andy Kiersz",
+        "first_name": "Andy",
+        "middle_name": "",
+        "last_name": "Kiersz",
+        "title": "Quantitative Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Careers",
+            "Society",
+            "Workplace"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/andy-kiersz"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Candy Cheng",
+        "first_name": "Candy",
+        "middle_name": "",
+        "last_name": "Cheng",
+        "title": "Senior Correspondent",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Business"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/candy-cheng"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Tyler Sonnemaker",
+        "first_name": "Tyler",
+        "middle_name": "",
+        "last_name": "Sonnemaker",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/tyler-sonnemaker"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Alanis King",
+        "first_name": "Alanis",
+        "middle_name": "",
+        "last_name": "King",
+        "title": "Associate Editor,  Transportation",
+        "location": "United States",
+        "topics": [
+            "Transportation and Logistics"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/alanis-king"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Laura Casado",
+        "first_name": "Laura",
+        "middle_name": "",
+        "last_name": "Casado",
+        "title": "Associate Editor, Contributors & Freelancers",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/laura-casado"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Julie Gerstein",
+        "first_name": "Julie",
+        "middle_name": "",
+        "last_name": "Gerstein",
+        "title": "Singapore Bureau Chief & Senior Editor",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Health & Medicine",
+            "Real Estate",
+            "Technology",
+            "Politics"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/julie-gerstein"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Melia Russell",
+        "first_name": "Melia",
+        "middle_name": "",
+        "last_name": "Russell",
+        "title": "Senior Tech Reporter",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Finance & Banking Services",
+            "Business"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/melia-russell"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Meredith Mazzilli",
+        "first_name": "Meredith",
+        "middle_name": "",
+        "last_name": "Mazzilli",
+        "title": "Deputy Editor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Law"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/meredith-mazzilli"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Melia Russell",
+        "first_name": "Melia",
+        "middle_name": "",
+        "last_name": "Russell",
+        "title": "Senior Tech Reporter",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Finance & Banking Services",
+            "Business"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/melia-russell-100316"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Hayley Peterson",
+        "first_name": "Hayley",
+        "middle_name": "",
+        "last_name": "Peterson",
+        "title": "Director of Business News",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Commerce"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/hayley-peterson"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Madeline Berg",
+        "first_name": "Madeline",
+        "middle_name": "",
+        "last_name": "Berg",
+        "title": "Media Editor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/madeline-berg-855915"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Drake Baer",
+        "first_name": "Drake",
+        "middle_name": "",
+        "last_name": "Baer",
+        "title": "Deputy Editor, Strategy",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/drake-baer"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Alexandra Samet",
+        "first_name": "Alexandra",
+        "middle_name": "",
+        "last_name": "Samet",
+        "title": "Content Marketing Strategist",
+        "location": "United States",
+        "topics": [
+            "Advertising",
+            "Marketing"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/alexandra-samet"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Rachel Gillett",
+        "first_name": "Rachel",
+        "middle_name": "",
+        "last_name": "Gillett",
+        "title": "Senior Visual Features Editor",
+        "location": "United States",
+        "topics": [
+            "Features/Lifestyle"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/rachel-gillett"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Hayley Cuccinello",
+        "first_name": "Hayley",
+        "middle_name": "",
+        "last_name": "Cuccinello",
+        "title": "Senior Finance Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/hayley-cuccinello"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Andrew Amelinckx",
+        "first_name": "Andrew",
+        "middle_name": "",
+        "last_name": "Amelinckx",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Clocks and Watches",
+            "House",
+            "Apparel Men"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/andrew-amelinckx-27472"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Kayla Epstein",
+        "first_name": "Kayla",
+        "middle_name": "",
+        "last_name": "Epstein",
+        "title": "Politics Reporter",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/kayla-epstein"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Akin Oyedele",
+        "first_name": "Akin",
+        "middle_name": "",
+        "last_name": "Oyedele",
+        "title": "Senior Editor, Investing",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/akin-oyedele"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Bob Bryan",
+        "first_name": "Bob",
+        "middle_name": "",
+        "last_name": "Bryan",
+        "title": "Commentary Editor",
+        "location": "United States",
+        "topics": [
+            "Editorial Page"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/bob-bryan"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Max Adams",
+        "first_name": "Max",
+        "middle_name": "",
+        "last_name": "Adams",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/max-adams"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Henry Blodget",
+        "first_name": "Henry",
+        "middle_name": "",
+        "last_name": "Blodget",
+        "title": "Founder, Chief Executive Officer and Editorial Director",
+        "location": "United States",
+        "topics": [
+            "Editorial Page",
+            "Politics"
+        ],
+        "influence_score": 79,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/henry-blodget-9190"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Mara Leighton",
+        "first_name": "Mara",
+        "middle_name": "",
+        "last_name": "Leighton",
+        "title": "Senior E-learning Reporter",
+        "location": "United States",
+        "topics": [
+            "Education",
+            "Commerce"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/mara-leighton"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Alex Davies",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Davies",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Transportation and Logistics"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/alex-davies"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Jillian D'Onfro",
+        "first_name": "Jillian",
+        "middle_name": "",
+        "last_name": "D'Onfro",
+        "title": "Enterprise Technology Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/jillian-d-onfro"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Steven Cohen",
+        "first_name": "Steven",
+        "middle_name": "",
+        "last_name": "Cohen",
+        "title": "Technology Editor, Reviews",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/steven-cohen"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Shelby Livingston",
+        "first_name": "Shelby",
+        "middle_name": "",
+        "last_name": "Livingston",
+        "title": "Senior Healthcare Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/shelby-livingston"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Peter Coutu",
+        "first_name": "Peter",
+        "middle_name": "",
+        "last_name": "Coutu",
+        "title": "Legal Reporting Fellow",
+        "location": "United States",
+        "topics": [
+            "Law"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/peter-coutu"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Nicole Einbinder",
+        "first_name": "Nicole",
+        "middle_name": "",
+        "last_name": "Einbinder",
+        "title": "Senior Investigations Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Politics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/nicole-einbinder"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Amanda Cantrell",
+        "first_name": "Amanda",
+        "middle_name": "",
+        "last_name": "Cantrell",
+        "title": "Finance Features Editor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/amanda-cantrell"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Daniel McMahon",
+        "first_name": "Daniel",
+        "middle_name": "",
+        "last_name": "McMahon",
+        "title": "Copy Chief",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/daniel-mcmahon"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "David Cenciotti",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Cenciotti",
+        "title": "Freelance Journalist",
+        "location": "Italy",
+        "topics": [
+            "Aviation",
+            "Politics"
+        ],
+        "influence_score": 60,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/david-cenciotti"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Alexa St. John",
+        "first_name": "Alexa",
+        "middle_name": "St.",
+        "last_name": "John",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Transportation and Logistics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/alexa-st-john"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Alistair Barr",
+        "first_name": "Alistair",
+        "middle_name": "",
+        "last_name": "Barr",
+        "title": "Big Tech Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 69,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/alistair-barr"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Tim Levin",
+        "first_name": "Tim",
+        "middle_name": "",
+        "last_name": "Levin",
+        "title": "Junior Reporter",
+        "location": "United States",
+        "topics": [
+            "Automobiles",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/tim-levin"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Jeremy Berke",
+        "first_name": "Jeremy",
+        "middle_name": "",
+        "last_name": "Berke",
+        "title": "Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Finance & Banking Services",
+            "Marijuana"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/jeremy-berke"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Caroline Hroncich",
+        "first_name": "Caroline",
+        "middle_name": "",
+        "last_name": "Hroncich",
+        "title": "Careers Editor",
+        "location": "United States",
+        "topics": [
+            "Careers",
+            "Workplace"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/caroline-hroncich"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Alyson Shontell",
+        "first_name": "Alyson",
+        "middle_name": "",
+        "last_name": "Shontell",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Finance & Banking Services",
+            "Computers & Technology",
+            "Science"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/alyson-shontell"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Andrew Amelinckx",
+        "first_name": "Andrew",
+        "middle_name": "",
+        "last_name": "Amelinckx",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Apparel Men"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/andrew-amelinckx"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "John Lynch",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Lynch",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Careers",
+            "Entertainment",
+            "Media",
+            "Sports"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/john-lynch-7515"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Amanda Perelli",
+        "first_name": "Amanda",
+        "middle_name": "",
+        "last_name": "Perelli",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Social Media"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/amanda-perelli"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Steven Perlberg",
+        "first_name": "Steven",
+        "middle_name": "",
+        "last_name": "Perlberg",
+        "title": "Senior Media Correspondent",
+        "location": "United States",
+        "topics": [
+            "Media"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/steven-perlberg"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Linette Lopez",
+        "first_name": "Linette",
+        "middle_name": "",
+        "last_name": "Lopez",
+        "title": "Columnist",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Editorial Page",
+            "Finance & Banking Services",
+            "Politics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/linette-lopez"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Dan Whateley",
+        "first_name": "Dan",
+        "middle_name": "",
+        "last_name": "Whateley",
+        "title": "Media Reporter",
+        "location": "United States",
+        "topics": [
+            "Social Media"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/dan-whateley"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Katie Warren",
+        "first_name": "Katie",
+        "middle_name": "",
+        "last_name": "Warren",
+        "title": "Senior Lifestyle Reporter",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Travel"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/katie-warren"
+    },
+    {
+        "company": "business-insider-81841",
+        "company_url": "businessinsider.com",
+        "name": "Frank Olito",
+        "first_name": "Frank",
+        "middle_name": "",
+        "last_name": "Olito",
+        "title": "Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Entertainment",
+            "LGBT",
+            "Travel"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/frank-olito"
+    }
+]

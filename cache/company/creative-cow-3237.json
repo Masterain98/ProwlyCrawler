@@ -1,0 +1,35 @@
+[
+    {
+        "company": "creative-cow-3237",
+        "company_url": "creativecow.net",
+        "name": "Aanarav Sareen",
+        "first_name": "Aanarav",
+        "middle_name": "",
+        "last_name": "Sareen",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/aanarav-sareen"
+    },
+    {
+        "company": "creative-cow-3237",
+        "company_url": "creativecow.net",
+        "name": "Tim Wilson",
+        "first_name": "Tim",
+        "middle_name": "",
+        "last_name": "Wilson",
+        "title": "Vice President & Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Computers & Technology"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/tim-wilson"
+    }
+]

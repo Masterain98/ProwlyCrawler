@@ -1,0 +1,149 @@
+[
+    {
+        "company": "popular-science",
+        "company_url": "popsci.com",
+        "name": "Sandra Gutierrez",
+        "first_name": "Sandra",
+        "middle_name": "",
+        "last_name": "Gutierrez",
+        "title": "DIY Assistant Editor",
+        "location": "United States",
+        "topics": [
+            "House"
+        ],
+        "influence_score": 60,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/sandra-gutierrez"
+    },
+    {
+        "company": "popular-science",
+        "company_url": "popsci.com",
+        "name": "Rob Verger",
+        "first_name": "Rob",
+        "middle_name": "",
+        "last_name": "Verger",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Aviation",
+            "Technology"
+        ],
+        "influence_score": 60,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/rob-verger"
+    },
+    {
+        "company": "popular-science",
+        "company_url": "popsci.com",
+        "name": "Purbita Saha",
+        "first_name": "Purbita",
+        "middle_name": "",
+        "last_name": "Saha",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Science"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/purbita-saha"
+    },
+    {
+        "company": "popular-science",
+        "company_url": "popsci.com",
+        "name": "Jessica Boddy",
+        "first_name": "Jessica",
+        "middle_name": "",
+        "last_name": "Boddy",
+        "title": "Associate Editor for Special Projects",
+        "location": "United States",
+        "topics": [
+            "Science",
+            "News"
+        ],
+        "influence_score": 60,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/jessica-boddy"
+    },
+    {
+        "company": "popular-science",
+        "company_url": "popsci.com",
+        "name": "Stan Horaczek",
+        "first_name": "Stan",
+        "middle_name": "",
+        "last_name": "Horaczek",
+        "title": "Technology Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 60,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/stan-horaczek"
+    },
+    {
+        "company": "popular-science",
+        "company_url": "popsci.com",
+        "name": "Corinne Iozzio",
+        "first_name": "Corinne",
+        "middle_name": "",
+        "last_name": "Iozzio",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Science"
+        ],
+        "influence_score": 60,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/corinne-iozzio"
+    },
+    {
+        "company": "popular-science",
+        "company_url": "popsci.com",
+        "name": "Carsen Joenk",
+        "first_name": "Carsen",
+        "middle_name": "",
+        "last_name": "Joenk",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Electrical"
+        ],
+        "influence_score": 54,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/carsen-joenk"
+    },
+    {
+        "company": "popular-science",
+        "company_url": "popsci.com",
+        "name": "Michael Epstein",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Epstein",
+        "title": "Reviews Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/michael-epstein"
+    },
+    {
+        "company": "popular-science",
+        "company_url": "popsci.com",
+        "name": "Rachel Feltman",
+        "first_name": "Rachel",
+        "middle_name": "",
+        "last_name": "Feltman",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/rachel-feltman"
+    }
+]

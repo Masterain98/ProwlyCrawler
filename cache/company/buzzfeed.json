@@ -1,0 +1,1487 @@
+[
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Asia Mclain",
+        "first_name": "Asia",
+        "middle_name": "",
+        "last_name": "Mclain",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "House"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/asia-mclain"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Genevieve Scarano",
+        "first_name": "Genevieve",
+        "middle_name": "",
+        "last_name": "Scarano",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/genevieve-scarano"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Rosie Gray",
+        "first_name": "Rosie",
+        "middle_name": "",
+        "last_name": "Gray",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Media",
+            "Politics"
+        ],
+        "influence_score": 81,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/rosie-gray"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Scaachi Koul",
+        "first_name": "Scaachi",
+        "middle_name": "",
+        "last_name": "Koul",
+        "title": "Senior Culture Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 76,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/scaachi-koul"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Adam Davis",
+        "first_name": "Adam",
+        "middle_name": "",
+        "last_name": "Davis",
+        "title": "Audience Development Strategist & Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Commerce",
+            "Travel"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/adam-davis"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Tanya Bustos",
+        "first_name": "Tanya",
+        "middle_name": "",
+        "last_name": "Bustos",
+        "title": "Senior Producer",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Entertainment",
+            "Technology",
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/tanya-bustos"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Whitney Jefferson",
+        "first_name": "Whitney",
+        "middle_name": "",
+        "last_name": "Jefferson",
+        "title": "Deputy Editorial Director",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/whitney-jefferson"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "John Templon",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Templon",
+        "title": "Investigative Data Reporter",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Investigative Reporting",
+            "Politics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/john-templon"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Michael Blackmon",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Blackmon",
+        "title": "Culture Reporter/Writer",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Entertainment"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/michael-blackmon"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Rachel Zarrell",
+        "first_name": "Rachel",
+        "middle_name": "",
+        "last_name": "Zarrell",
+        "title": "Executive Producer, Affiliate",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Entertainment"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/rachel-zarrell"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Kevin McShane",
+        "first_name": "Kevin",
+        "middle_name": "",
+        "last_name": "McShane",
+        "title": "Executive Producer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/kevin-mcshane"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Lauren Yapalater",
+        "first_name": "Lauren",
+        "middle_name": "",
+        "last_name": "Yapalater",
+        "title": "Celebrity Editor",
+        "location": "United States",
+        "topics": [
+            "Celebrities"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/lauren-yapalater"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Hannah Loewentheil",
+        "first_name": "Hannah",
+        "middle_name": "",
+        "last_name": "Loewentheil",
+        "title": "Lifestyle Writer",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Food"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/hannah-loewentheil"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Chelsea Stuart",
+        "first_name": "Chelsea",
+        "middle_name": "",
+        "last_name": "Stuart",
+        "title": "Market Editor",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/chelsea-stuart"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Whitney Jefferson",
+        "first_name": "Whitney",
+        "middle_name": "",
+        "last_name": "Jefferson",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Food",
+            "Entertainment",
+            "Environment"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/whitney-jefferson-250034"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Jam\u00e9 Jackson",
+        "first_name": "Jam\u00e9",
+        "middle_name": "",
+        "last_name": "Jackson",
+        "title": "Style & Beauty Writer",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Apparel"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/jame-jackson"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Zahra Hirji",
+        "first_name": "Zahra",
+        "middle_name": "",
+        "last_name": "Hirji",
+        "title": "Science Reporter",
+        "location": "United States",
+        "topics": [
+            "Energy",
+            "Environment",
+            "News"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/zahra-hirji"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Jennifer Tonti",
+        "first_name": "Jennifer",
+        "middle_name": "",
+        "last_name": "Tonti",
+        "title": "Commerce Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/jennifer-tonti"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Sara Yasin",
+        "first_name": "Sara",
+        "middle_name": "",
+        "last_name": "Yasin",
+        "title": "Managing Editor",
+        "location": "Unknown",
+        "topics": [],
+        "influence_score": 0,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/sara-yasin"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Erin Phraner",
+        "first_name": "Erin",
+        "middle_name": "",
+        "last_name": "Phraner",
+        "title": "Supervising Video Producer",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/erin-phraner"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Natalie Brown",
+        "first_name": "Natalie",
+        "middle_name": "",
+        "last_name": "Brown",
+        "title": "Shopping Editor",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/natalie-brown"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Tasneem Nashrulla",
+        "first_name": "Tasneem",
+        "middle_name": "",
+        "last_name": "Nashrulla",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Crime",
+            "News"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/tasneem-nashrulla"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Sahil Rizwan",
+        "first_name": "Sahil",
+        "middle_name": "",
+        "last_name": "Rizwan",
+        "title": "Senior Editor / Social News Reporter",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Commerce"
+        ],
+        "influence_score": 78,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/sahil-rizwan"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Mallory McInnis",
+        "first_name": "Mallory",
+        "middle_name": "",
+        "last_name": "McInnis",
+        "title": "Senior Editor, Shopping and Products",
+        "location": "United States",
+        "topics": [
+            "Gifts",
+            "Commerce"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/mallory-mcinnis"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Emma McAnaw",
+        "first_name": "Emma",
+        "middle_name": "",
+        "last_name": "McAnaw",
+        "title": "Market Editor",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "House",
+            "Apparel"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/emma-mcanaw"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Victoria Chen",
+        "first_name": "Victoria",
+        "middle_name": "",
+        "last_name": "Chen",
+        "title": "Editorial Project Manager, Talent Relations",
+        "location": "United States",
+        "topics": [
+            "Celebrities"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/victoria-chen"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Tom Namako",
+        "first_name": "Tom",
+        "middle_name": "",
+        "last_name": "Namako",
+        "title": "News Director",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/tom-namako"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Jen Abidor",
+        "first_name": "Jen",
+        "middle_name": "",
+        "last_name": "Abidor",
+        "title": "Senior Editor, Celebrity and Pop Culture",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Entertainment"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/jen-abidor"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Kayla Yandoli",
+        "first_name": "Kayla",
+        "middle_name": "",
+        "last_name": "Yandoli",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/kayla-yandoli"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Aman Sethi",
+        "first_name": "Aman",
+        "middle_name": "",
+        "last_name": "Sethi",
+        "title": "Technology Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/aman-sethi"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Kayla Suazo",
+        "first_name": "Kayla",
+        "middle_name": "",
+        "last_name": "Suazo",
+        "title": "Senior Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/kayla-suazo"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Kayla Boyd",
+        "first_name": "Kayla",
+        "middle_name": "",
+        "last_name": "Boyd",
+        "title": "Shopping Editor",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/kayla-boyd"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Andrew Kaczynski",
+        "first_name": "Andrew",
+        "middle_name": "",
+        "last_name": "Kaczynski",
+        "title": "Politics Reporter",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 79,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/andrew-kaczynski"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Kelly Martinez",
+        "first_name": "Kelly",
+        "middle_name": "",
+        "last_name": "Martinez",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Food",
+            "Entertainment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/kelly-martinez"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Emily Rothschild",
+        "first_name": "Emily",
+        "middle_name": "",
+        "last_name": "Rothschild",
+        "title": "Executive Producer",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Entertainment",
+            "News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/emily-rothschild"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Ruby Cramer",
+        "first_name": "Ruby",
+        "middle_name": "",
+        "last_name": "Cramer",
+        "title": "Senior Politics Reporter",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 78,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/ruby-cramer"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Pranav Dixit",
+        "first_name": "Pranav",
+        "middle_name": "",
+        "last_name": "Dixit",
+        "title": "Technology Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/pranav-dixit"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Henry Gomez",
+        "first_name": "Henry",
+        "middle_name": "",
+        "last_name": "Gomez",
+        "title": "National Political Reporter",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/henry-gomez"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Peggy Wang",
+        "first_name": "Peggy",
+        "middle_name": "",
+        "last_name": "Wang",
+        "title": "Executive Director, Growth & Trends",
+        "location": "United States",
+        "topics": [
+            "House"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/peggy-wang"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Matt Berman",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Berman",
+        "title": "Politics Editor",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/matt-berman"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Megan Liscomb",
+        "first_name": "Megan",
+        "middle_name": "",
+        "last_name": "Liscomb",
+        "title": "Personal Finance Editor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/megan-liscomb"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Elena Garcia",
+        "first_name": "Elena",
+        "middle_name": "",
+        "last_name": "Garcia",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/elena-garcia"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "David Mack",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Mack",
+        "title": "Deputy Director",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 78,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/david-mack"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Kelsey Weekman",
+        "first_name": "Kelsey",
+        "middle_name": "",
+        "last_name": "Weekman",
+        "title": "Social News Reporter",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/kelsey-weekman"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Elizabeth Lilly",
+        "first_name": "Elizabeth",
+        "middle_name": "",
+        "last_name": "Lilly",
+        "title": "Deputy Editorial Director, Market",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Food",
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/elizabeth-lilly"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Shannon Keating",
+        "first_name": "Shannon",
+        "middle_name": "",
+        "last_name": "Keating",
+        "title": "Senior Culture Writer and Editor",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "LGBT"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/shannon-keating"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Joseph Bernstein",
+        "first_name": "Joseph",
+        "middle_name": "",
+        "last_name": "Bernstein",
+        "title": "Senior Technology Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/joseph-bernstein"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "John Hudson",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Hudson",
+        "title": "Foreign Affairs Correspondent",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Europe",
+            "International News",
+            "National News",
+            "White House",
+            "Politics",
+            "Asia"
+        ],
+        "influence_score": 76,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/john-hudson"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Jen Adams",
+        "first_name": "Jen",
+        "middle_name": "",
+        "last_name": "Adams",
+        "title": "Resident Writer",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "Celebrities",
+            "Entertainment",
+            "Food"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/jen-adams"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Stephanie Hernandez",
+        "first_name": "Stephanie",
+        "middle_name": "",
+        "last_name": "Hernandez",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Commerce",
+            "Apparel"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/stephanie-hernandez"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Rebecca O\u2019Connell",
+        "first_name": "Rebecca",
+        "middle_name": "",
+        "last_name": "O\u2019Connell",
+        "title": "Shopping & Commerce Senior Editor",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Life",
+            "Commerce"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/rebecca-o-connell"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Anne Felicitas",
+        "first_name": "Anne",
+        "middle_name": "",
+        "last_name": "Felicitas",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Art",
+            "House"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/anne-felicitas"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Melissa Jameson",
+        "first_name": "Melissa",
+        "middle_name": "",
+        "last_name": "Jameson",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Food"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/melissa-jameson"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Hannah Dobrogosz",
+        "first_name": "Hannah",
+        "middle_name": "",
+        "last_name": "Dobrogosz",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/hannah-dobrogosz"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Katie Notopoulos",
+        "first_name": "Katie",
+        "middle_name": "",
+        "last_name": "Notopoulos",
+        "title": "Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "Internet",
+            "Technology"
+        ],
+        "influence_score": 78,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/katie-notopoulos"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Katherine Miller",
+        "first_name": "Katherine",
+        "middle_name": "",
+        "last_name": "Miller",
+        "title": "Political Editor",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 78,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/katherine-miller"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Taylor Steele",
+        "first_name": "Taylor",
+        "middle_name": "",
+        "last_name": "Steele",
+        "title": "Jr. Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Demographics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/taylor-steele"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Heather Braga",
+        "first_name": "Heather",
+        "middle_name": "",
+        "last_name": "Braga",
+        "title": "Shopping & Products Editor",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/heather-braga"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Austin Williams",
+        "first_name": "Austin",
+        "middle_name": "",
+        "last_name": "Williams",
+        "title": "Market Editor",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/austin-williams"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Samantha Wieder",
+        "first_name": "Samantha",
+        "middle_name": "",
+        "last_name": "Wieder",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/samantha-wieder"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Casey Rackham",
+        "first_name": "Casey",
+        "middle_name": "",
+        "last_name": "Rackham",
+        "title": "Senior Editor, TV & Film",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Media"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/casey-rackham"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Hannah Marder",
+        "first_name": "Hannah",
+        "middle_name": "",
+        "last_name": "Marder",
+        "title": "Staff Writer / Editorial Fellow",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Entertainment",
+            "Food"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/hannah-marder"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Joseph Bernstein",
+        "first_name": "Joseph",
+        "middle_name": "",
+        "last_name": "Bernstein",
+        "title": "Senior Technology Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/joseph-bernstein-162676"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Anne Helen Petersen",
+        "first_name": "Anne",
+        "middle_name": "Helen",
+        "last_name": "Petersen",
+        "title": "Senior Culture Writer / Western Correspondent",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 81,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/anne-helen-petersen"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Daniel Boan",
+        "first_name": "Daniel",
+        "middle_name": "",
+        "last_name": "Boan",
+        "title": "Market Writer",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Commerce",
+            "Gifts"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/daniel-boan"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Marquaysa Battle",
+        "first_name": "Marquaysa",
+        "middle_name": "",
+        "last_name": "Battle",
+        "title": "Small Business Strategy Lead & Commerce Editor",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/marquaysa-battle"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Azeen Ghorayshi",
+        "first_name": "Azeen",
+        "middle_name": "",
+        "last_name": "Ghorayshi",
+        "title": "Science Editor",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Science"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/azeen-ghorayshi"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Lauren Keary",
+        "first_name": "Lauren",
+        "middle_name": "",
+        "last_name": "Keary",
+        "title": "Contributing Travel Writer, Bring Me!",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/lauren-keary"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Essence Gant",
+        "first_name": "Essence",
+        "middle_name": "",
+        "last_name": "Gant",
+        "title": "Beauty Director",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Apparel"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/essence-gant"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Melanie Aman",
+        "first_name": "Melanie",
+        "middle_name": "",
+        "last_name": "Aman",
+        "title": "SEO Strategy Lead & Market Editor",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Commerce"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/melanie-aman"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Rachel Dunkel",
+        "first_name": "Rachel",
+        "middle_name": "",
+        "last_name": "Dunkel",
+        "title": "Product Review Manager / Editor",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/rachel-dunkel"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Terry Carter",
+        "first_name": "Terry",
+        "middle_name": "",
+        "last_name": "Carter",
+        "title": "Senior Editor & Celebrity Strategy Manager",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Entertainment"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/terry-carter"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Kate Bubacz",
+        "first_name": "Kate",
+        "middle_name": "",
+        "last_name": "Bubacz",
+        "title": "Photo Director",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/kate-bubacz"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Maitland Quitmeyer",
+        "first_name": "Maitland",
+        "middle_name": "",
+        "last_name": "Quitmeyer",
+        "title": "Deputy Editorial Director, Market",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/maitland-quitmeyer"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Ryan Brooks",
+        "first_name": "Ryan",
+        "middle_name": "",
+        "last_name": "Brooks",
+        "title": "Political Reporter",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/ryan-brooks"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "John Mihaly",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Mihaly",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "House"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/john-mihaly"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Amber Jamieson",
+        "first_name": "Amber",
+        "middle_name": "",
+        "last_name": "Jamieson",
+        "title": "Breaking News Reporter",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/amber-jamieson"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "AnaMaria Glavan",
+        "first_name": "AnaMaria",
+        "middle_name": "",
+        "last_name": "Glavan",
+        "title": "Market Editor",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/anamaria-glavan"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Mallory Mower",
+        "first_name": "Mallory",
+        "middle_name": "",
+        "last_name": "Mower",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "House"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/mallory-mower"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Marissa Muller",
+        "first_name": "Marissa",
+        "middle_name": "",
+        "last_name": "Muller",
+        "title": "Senior Pop Culture Editor",
+        "location": "United States",
+        "topics": [
+            "Celebrities"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/marissa-muller"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Tommy Wesely",
+        "first_name": "Tommy",
+        "middle_name": "",
+        "last_name": "Wesely",
+        "title": "SVP, Content & Operations",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/tommy-wesely"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Gabriel Sanchez",
+        "first_name": "Gabriel",
+        "middle_name": "",
+        "last_name": "Sanchez",
+        "title": "Photo Essay Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/gabriel-sanchez"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Emma Lord",
+        "first_name": "Emma",
+        "middle_name": "",
+        "last_name": "Lord",
+        "title": "Market Editor",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/emma-lord"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Katie Camero",
+        "first_name": "Katie",
+        "middle_name": "",
+        "last_name": "Camero",
+        "title": "Health Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/katie-camero"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Kathleen Shea-Porter",
+        "first_name": "Kathleen",
+        "middle_name": "",
+        "last_name": "Shea-Porter",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "News",
+            "House",
+            "Food"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/kathleen-shea-porter"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Megha Rajagopalan",
+        "first_name": "Megha",
+        "middle_name": "",
+        "last_name": "Rajagopalan",
+        "title": "International Correspondent",
+        "location": "United Kingdom",
+        "topics": [
+            "Middle East",
+            "Entertainment",
+            "Technology",
+            "News"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/megha-rajagopalan"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Melissa Harrison Jameson",
+        "first_name": "Melissa",
+        "middle_name": "Harrison",
+        "last_name": "Jameson",
+        "title": "Deputy Editorial Director",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/melissa-harrison-jameson"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Michelle No",
+        "first_name": "Michelle",
+        "middle_name": "",
+        "last_name": "No",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Food",
+            "Entertainment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/michelle-no"
+    },
+    {
+        "company": "buzzfeed",
+        "company_url": "buzzfeed.com",
+        "name": "Courtney Lynch",
+        "first_name": "Courtney",
+        "middle_name": "",
+        "last_name": "Lynch",
+        "title": "Market Writer",
+        "location": "United States",
+        "topics": [
+            "House",
+            "E-Commerce",
+            "Apparel",
+            "Home Decorating"
+        ],
+        "influence_score": 60,
+        "company_influence_score": 91,
+        "url": "https://prowly.com/profiles/journalists/courtney-lynch"
+    }
+]

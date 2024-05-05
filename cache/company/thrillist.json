@@ -1,0 +1,642 @@
+[
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Tony Merevick",
+        "first_name": "Tony",
+        "middle_name": "",
+        "last_name": "Merevick",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "Food"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/tony-merevick"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Dutch Godshalk",
+        "first_name": "Dutch",
+        "middle_name": "",
+        "last_name": "Godshalk",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Art",
+            "Food"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/dutch-godshalk"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Meredith Heil",
+        "first_name": "Meredith",
+        "middle_name": "",
+        "last_name": "Heil",
+        "title": "Senior Cities Editor",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "Entertainment",
+            "House",
+            "Food",
+            "Travel"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/meredith-heil"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Pete Cottell",
+        "first_name": "Pete",
+        "middle_name": "",
+        "last_name": "Cottell",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "Food",
+            "Travel"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/pete-cottell-7049"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Kat Thompson",
+        "first_name": "Kat",
+        "middle_name": "",
+        "last_name": "Thompson",
+        "title": "Staff Food Writer",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/kat-thompson"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Opheli Garcia Lawler",
+        "first_name": "Opheli",
+        "middle_name": "Garcia",
+        "last_name": "Lawler",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "General Assignment News",
+            "Travel"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/opheli-garcia-lawler"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Stacey Greenberg",
+        "first_name": "Stacey",
+        "middle_name": "",
+        "last_name": "Greenberg",
+        "title": "Author",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/stacey-greenberg"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Wil Fulton",
+        "first_name": "Wil",
+        "middle_name": "",
+        "last_name": "Fulton",
+        "title": "Senior Development Producer/Host/Writer",
+        "location": "United States",
+        "topics": [
+            "Food",
+            "Travel"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/wil-fulton"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Lee Breslouer",
+        "first_name": "Lee",
+        "middle_name": "",
+        "last_name": "Breslouer",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/lee-breslouer"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Melissa Kravitz",
+        "first_name": "Melissa",
+        "middle_name": "",
+        "last_name": "Kravitz",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "Food"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/melissa-kravitz"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Daisy Barringer",
+        "first_name": "Daisy",
+        "middle_name": "",
+        "last_name": "Barringer",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "House",
+            "Food",
+            "Travel"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/daisy-barringer"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Jess Mayhugh",
+        "first_name": "Jess",
+        "middle_name": "",
+        "last_name": "Mayhugh",
+        "title": "Editorial Director, Food & Drink",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "Food"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/jess-mayhugh"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Lindsay Schrupp",
+        "first_name": "Lindsay",
+        "middle_name": "",
+        "last_name": "Schrupp",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Travel"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/lindsay-schrupp"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Alex Frane",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Frane",
+        "title": "Content Writer",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "Food"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/alex-frane"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Pete Cottell",
+        "first_name": "Pete",
+        "middle_name": "",
+        "last_name": "Cottell",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "Food",
+            "Travel"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/pete-cottell"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Joe McGauley",
+        "first_name": "Joe",
+        "middle_name": "",
+        "last_name": "McGauley",
+        "title": "Senior Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/joe-mcgauley"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Lauren Yoshiko",
+        "first_name": "Lauren",
+        "middle_name": "",
+        "last_name": "Yoshiko",
+        "title": "Cannabis Editor",
+        "location": "United States",
+        "topics": [
+            "Marijuana"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/lauren-yoshiko"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Sydney Gallimore",
+        "first_name": "Sydney",
+        "middle_name": "",
+        "last_name": "Gallimore",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "Food",
+            "Travel"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/sydney-gallimore"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Helen Hollyman",
+        "first_name": "Helen",
+        "middle_name": "",
+        "last_name": "Hollyman",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Food",
+            "Travel"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/helen-hollyman"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Serena Tara",
+        "first_name": "Serena",
+        "middle_name": "",
+        "last_name": "Tara",
+        "title": "Staff Writer, News",
+        "location": "United States",
+        "topics": [
+            "Aviation",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/serena-tara"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Megan Schaltegger",
+        "first_name": "Megan",
+        "middle_name": "",
+        "last_name": "Schaltegger",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Food",
+            "Technology",
+            "Travel"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/megan-schaltegger"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Alex Robinson",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Robinson",
+        "title": "Writer And Commerce Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Commerce"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/alex-robinson"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Matt Meltzer",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Meltzer",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/matt-meltzer"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Dustin Nelson",
+        "first_name": "Dustin",
+        "middle_name": "",
+        "last_name": "Nelson",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Food",
+            "Local News"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/dustin-nelson"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Abby Maddigan",
+        "first_name": "Abby",
+        "middle_name": "",
+        "last_name": "Maddigan",
+        "title": "Head of Partnerships & Social Media Editor",
+        "location": "United States",
+        "topics": [
+            "Art",
+            "Entertainment",
+            "Music",
+            "Food"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/abby-maddigan"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Meghan Kirsch",
+        "first_name": "Meghan",
+        "middle_name": "",
+        "last_name": "Kirsch",
+        "title": "Chief Content Officer",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/meghan-kirsch"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Danielle Dorsey",
+        "first_name": "Danielle",
+        "middle_name": "",
+        "last_name": "Dorsey",
+        "title": "Local Editor",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "Food",
+            "Travel"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/danielle-dorsey"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Emma Stefansky",
+        "first_name": "Emma",
+        "middle_name": "",
+        "last_name": "Stefansky",
+        "title": "Staff Writer, Entertainment Journalist & Freelance Contributor",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/emma-stefansky"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Tae Yoon",
+        "first_name": "Tae",
+        "middle_name": "",
+        "last_name": "Yoon",
+        "title": "New York Editor",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "House",
+            "Food"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/tae-yoon"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Mary Abate",
+        "first_name": "Mary",
+        "middle_name": "",
+        "last_name": "Abate",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "House",
+            "Food",
+            "Travel"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/mary-abate"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Anastacia Uriegas",
+        "first_name": "Anastacia",
+        "middle_name": "",
+        "last_name": "Uriegas",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "Entertainment",
+            "Food"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/anastacia-uriegas"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Brooke Viggiano",
+        "first_name": "Brooke",
+        "middle_name": "",
+        "last_name": "Viggiano",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Food"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/brooke-viggiano"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Zach Mack",
+        "first_name": "Zach",
+        "middle_name": "",
+        "last_name": "Mack",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Travel",
+            "Beer"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/zach-mack"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Sean Cooley",
+        "first_name": "Sean",
+        "middle_name": "",
+        "last_name": "Cooley",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "House",
+            "Food"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/sean-cooley"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "John Sellers",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Sellers",
+        "title": "Entertainment Director",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Media"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/john-sellers"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "James Chrisman",
+        "first_name": "James",
+        "middle_name": "",
+        "last_name": "Chrisman",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "Food"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/james-chrisman"
+    },
+    {
+        "company": "thrillist",
+        "company_url": "thrillist.com",
+        "name": "Kailley Lindman",
+        "first_name": "Kailley",
+        "middle_name": "",
+        "last_name": "Lindman",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 74,
+        "url": "https://prowly.com/profiles/journalists/kailley-lindman"
+    }
+]

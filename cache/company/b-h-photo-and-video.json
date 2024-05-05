@@ -1,0 +1,19 @@
+[
+    {
+        "company": "b-h-photo-and-video",
+        "company_url": "bhphotovideo.com",
+        "name": "Allan Weitz",
+        "first_name": "Allan",
+        "middle_name": "",
+        "last_name": "Weitz",
+        "title": "Host / Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Art"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/allan-weitz"
+    }
+]

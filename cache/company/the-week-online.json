@@ -1,0 +1,67 @@
+[
+    {
+        "company": "the-week-online",
+        "company_url": "theweek.com",
+        "name": "Harold Maass",
+        "first_name": "Harold",
+        "middle_name": "",
+        "last_name": "Maass",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 57,
+        "url": "https://prowly.com/profiles/journalists/harold-maass"
+    },
+    {
+        "company": "the-week-online",
+        "company_url": "theweek.com",
+        "name": "Brad DeLong",
+        "first_name": "Brad",
+        "middle_name": "",
+        "last_name": "DeLong",
+        "title": "Bullpen Columnist",
+        "location": "United States",
+        "topics": [
+            "Editorial Page"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 57,
+        "url": "https://prowly.com/profiles/journalists/brad-delong"
+    },
+    {
+        "company": "the-week-online",
+        "company_url": "theweek.com",
+        "name": "Summer Meza",
+        "first_name": "Summer",
+        "middle_name": "",
+        "last_name": "Meza",
+        "title": "News Editor",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 57,
+        "url": "https://prowly.com/profiles/journalists/summer-meza"
+    },
+    {
+        "company": "the-week-online",
+        "company_url": "theweek.com",
+        "name": "William Wilkinson",
+        "first_name": "William",
+        "middle_name": "",
+        "last_name": "Wilkinson",
+        "title": "Bullpen Columnist",
+        "location": "United States",
+        "topics": [
+            "Editorial Page"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 57,
+        "url": "https://prowly.com/profiles/journalists/william-wilkinson"
+    }
+]

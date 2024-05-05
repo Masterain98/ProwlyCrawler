@@ -1,0 +1,67 @@
+[
+    {
+        "company": "boston-business-journal-online",
+        "company_url": "bizjournals.com",
+        "name": "Jess Aloe",
+        "first_name": "Jess",
+        "middle_name": "",
+        "last_name": "Aloe",
+        "title": "Digital Editor",
+        "location": "United States",
+        "topics": [
+            "Real Estate"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/jess-aloe-230135"
+    },
+    {
+        "company": "boston-business-journal-online",
+        "company_url": "bizjournals.com",
+        "name": "Gintautas Dumcius",
+        "first_name": "Gintautas",
+        "middle_name": "",
+        "last_name": "Dumcius",
+        "title": "Digital Editor",
+        "location": "United States",
+        "topics": [
+            "Regional Business News"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/gintautas-dumcius"
+    },
+    {
+        "company": "boston-business-journal-online",
+        "company_url": "bizjournals.com",
+        "name": "Steph Solis",
+        "first_name": "Steph",
+        "middle_name": "",
+        "last_name": "Solis",
+        "title": "Digital Editor",
+        "location": "United States",
+        "topics": [
+            "Immigration",
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/steph-solis"
+    },
+    {
+        "company": "boston-business-journal-online",
+        "company_url": "bizjournals.com",
+        "name": "Jess Aloe",
+        "first_name": "Jess",
+        "middle_name": "",
+        "last_name": "Aloe",
+        "title": "Digital Editor",
+        "location": "United States",
+        "topics": [
+            "Real Estate"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/jess-aloe"
+    }
+]

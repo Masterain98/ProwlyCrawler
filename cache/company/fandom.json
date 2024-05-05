@@ -1,0 +1,51 @@
+[
+    {
+        "company": "fandom",
+        "company_url": "fandom.com",
+        "name": "Brian Linder",
+        "first_name": "Brian",
+        "middle_name": "",
+        "last_name": "Linder",
+        "title": "Director of Partnerships",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/brian-linder"
+    },
+    {
+        "company": "fandom",
+        "company_url": "fandom.com",
+        "name": "Eric Goldman",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "Goldman",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Media"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/eric-goldman"
+    },
+    {
+        "company": "fandom",
+        "company_url": "fandom.com",
+        "name": "Roth Cornet",
+        "first_name": "Roth",
+        "middle_name": "",
+        "last_name": "Cornet",
+        "title": "Head of Creative Development",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/roth-cornet"
+    }
+]

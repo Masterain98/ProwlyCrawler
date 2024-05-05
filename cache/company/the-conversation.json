@@ -1,0 +1,204 @@
+[
+    {
+        "company": "the-conversation",
+        "company_url": "theconversation.com",
+        "name": "Jamaal Abdul-Alim",
+        "first_name": "Jamaal",
+        "middle_name": "",
+        "last_name": "Abdul-Alim",
+        "title": "Education Editor",
+        "location": "United States",
+        "topics": [
+            "Education"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/jamaal-abdul-alim"
+    },
+    {
+        "company": "the-conversation",
+        "company_url": "theconversation.com",
+        "name": "Beth Daley",
+        "first_name": "Beth",
+        "middle_name": "",
+        "last_name": "Daley",
+        "title": "Editor & General Manager",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Entertainment",
+            "General Assignment News",
+            "Technology",
+            "Internet"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/beth-daley"
+    },
+    {
+        "company": "the-conversation",
+        "company_url": "theconversation.com",
+        "name": "Nick Lehr",
+        "first_name": "Nick",
+        "middle_name": "",
+        "last_name": "Lehr",
+        "title": "Arts & Culture Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/nick-lehr"
+    },
+    {
+        "company": "the-conversation",
+        "company_url": "theconversation.com",
+        "name": "Alvin Buyinza",
+        "first_name": "Alvin",
+        "middle_name": "",
+        "last_name": "Buyinza",
+        "title": "Editorial & Outreach Assistant",
+        "location": "United States",
+        "topics": [
+            "Higher Education"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/alvin-buyinza"
+    },
+    {
+        "company": "the-conversation",
+        "company_url": "theconversation.com",
+        "name": "Bryan Keogh",
+        "first_name": "Bryan",
+        "middle_name": "",
+        "last_name": "Keogh",
+        "title": "Senior Editor, Economy & Business",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Society"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/bryan-keogh"
+    },
+    {
+        "company": "the-conversation",
+        "company_url": "theconversation.com",
+        "name": "Emily Costello",
+        "first_name": "Emily",
+        "middle_name": "",
+        "last_name": "Costello",
+        "title": "Deputy Editor",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/emily-costello"
+    },
+    {
+        "company": "the-conversation",
+        "company_url": "theconversation.com",
+        "name": "Molly Jackson",
+        "first_name": "Molly",
+        "middle_name": "",
+        "last_name": "Jackson",
+        "title": "Religion and Ethics Editor",
+        "location": "United States",
+        "topics": [
+            "Religion",
+            "Society"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/molly-jackson"
+    },
+    {
+        "company": "the-conversation",
+        "company_url": "theconversation.com",
+        "name": "Lynne Anderson",
+        "first_name": "Lynne",
+        "middle_name": "",
+        "last_name": "Anderson",
+        "title": "Senior Health & Medical Editor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/lynne-anderson"
+    },
+    {
+        "company": "the-conversation",
+        "company_url": "theconversation.com",
+        "name": "Maggie Villiger",
+        "first_name": "Maggie",
+        "middle_name": "",
+        "last_name": "Villiger",
+        "title": "Senior Science & Technology Editor",
+        "location": "United States",
+        "topics": [
+            "Science",
+            "Technology"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/maggie-villiger"
+    },
+    {
+        "company": "the-conversation",
+        "company_url": "theconversation.com",
+        "name": "Matt Williams",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Williams",
+        "title": "Inequalities Editor, Religions & Ethics Editor",
+        "location": "United States",
+        "topics": [
+            "Religion",
+            "Society"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/matt-williams"
+    },
+    {
+        "company": "the-conversation",
+        "company_url": "theconversation.com",
+        "name": "Catesby Holmes",
+        "first_name": "Catesby",
+        "middle_name": "",
+        "last_name": "Holmes",
+        "title": "International Editor & Politics Editor",
+        "location": "United States",
+        "topics": [
+            "International News",
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/catesby-holmes"
+    },
+    {
+        "company": "the-conversation",
+        "company_url": "theconversation.com",
+        "name": "Martin LaMonica",
+        "first_name": "Martin",
+        "middle_name": "",
+        "last_name": "LaMonica",
+        "title": "Deputy Managing Editor and Environment & Energy Editor",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Internet"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/martin-lamonica"
+    }
+]

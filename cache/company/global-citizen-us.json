@@ -1,0 +1,55 @@
+[
+    {
+        "company": "global-citizen-us",
+        "company_url": "globalcitizen.org",
+        "name": "Matt Petronzio",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Petronzio",
+        "title": "Editorial Director",
+        "location": "United States",
+        "topics": [
+            "Education",
+            "Environment",
+            "Health & Medicine",
+            "Natural Resources"
+        ],
+        "influence_score": 49,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/matt-petronzio"
+    },
+    {
+        "company": "global-citizen-us",
+        "company_url": "globalcitizen.org",
+        "name": "Joe McCarthy",
+        "first_name": "Joe",
+        "middle_name": "",
+        "last_name": "McCarthy",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Environment",
+            "International News",
+            "Local News"
+        ],
+        "influence_score": 51,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/joe-mccarthy"
+    },
+    {
+        "company": "global-citizen-us",
+        "company_url": "globalcitizen.org",
+        "name": "Lamar Salter",
+        "first_name": "Lamar",
+        "middle_name": "",
+        "last_name": "Salter",
+        "title": "Senior Video Producer",
+        "location": "United States",
+        "topics": [
+            "Society"
+        ],
+        "influence_score": 51,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/lamar-salter"
+    }
+]

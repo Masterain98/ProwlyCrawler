@@ -1,0 +1,52 @@
+[
+    {
+        "company": "tvguide-com",
+        "company_url": "tvguide.com",
+        "name": "Kelly Connolly",
+        "first_name": "Kelly",
+        "middle_name": "",
+        "last_name": "Connolly",
+        "title": "TV Features Editor",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Media"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/kelly-connolly"
+    },
+    {
+        "company": "tvguide-com",
+        "company_url": "tvguide.com",
+        "name": "Noelene Clark",
+        "first_name": "Noelene",
+        "middle_name": "",
+        "last_name": "Clark",
+        "title": "Senior Manager, Editorial",
+        "location": "United States",
+        "topics": [
+            "Media",
+            "Television/Cable Programs"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/noelene-clark"
+    },
+    {
+        "company": "tvguide-com",
+        "company_url": "tvguide.com",
+        "name": "Krutika Mallikarjuna",
+        "first_name": "Krutika",
+        "middle_name": "",
+        "last_name": "Mallikarjuna",
+        "title": "Features Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/krutika-mallikarjuna"
+    }
+]

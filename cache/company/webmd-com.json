@@ -1,0 +1,83 @@
+[
+    {
+        "company": "webmd-com",
+        "company_url": "webmd.com",
+        "name": "Jennifer Fields",
+        "first_name": "Jennifer",
+        "middle_name": "",
+        "last_name": "Fields",
+        "title": "Director, Editorial Development",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/jennifer-fields"
+    },
+    {
+        "company": "webmd-com",
+        "company_url": "webmd.com",
+        "name": "Aaron Sheinin",
+        "first_name": "Aaron",
+        "middle_name": "",
+        "last_name": "Sheinin",
+        "title": "Senior News Editor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/aaron-sheinin"
+    },
+    {
+        "company": "webmd-com",
+        "company_url": "webmd.com",
+        "name": "Saundra Young",
+        "first_name": "Saundra",
+        "middle_name": "",
+        "last_name": "Young",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/saundra-young"
+    },
+    {
+        "company": "webmd-com",
+        "company_url": "webmd.com",
+        "name": "Kim Richardson",
+        "first_name": "Kim",
+        "middle_name": "",
+        "last_name": "Richardson",
+        "title": "Editorial Manager, Blogs and Special Projects",
+        "location": "United States",
+        "topics": [
+            "Features/Lifestyle",
+            "Health & Medicine"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/kim-richardson"
+    },
+    {
+        "company": "webmd-com",
+        "company_url": "webmd.com",
+        "name": "Valarie Basheda",
+        "first_name": "Valarie",
+        "middle_name": "",
+        "last_name": "Basheda",
+        "title": "Director of News & Special Reports",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/valarie-basheda"
+    }
+]

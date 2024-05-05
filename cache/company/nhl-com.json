@@ -1,0 +1,70 @@
+[
+    {
+        "company": "nhl-com",
+        "company_url": "nhl.com",
+        "name": "Tracey Myers",
+        "first_name": "Tracey",
+        "middle_name": "",
+        "last_name": "Myers",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Hockey"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/tracey-myers"
+    },
+    {
+        "company": "nhl-com",
+        "company_url": "nhl.com",
+        "name": "David Satriano",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Satriano",
+        "title": "Senior Rewrite Editor",
+        "location": "United States",
+        "topics": [
+            "Hockey",
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/david-satriano"
+    },
+    {
+        "company": "nhl-com",
+        "company_url": "nhl.com",
+        "name": "Amalie Benjamin",
+        "first_name": "Amalie",
+        "middle_name": "",
+        "last_name": "Benjamin",
+        "title": "Features Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Hockey",
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/amalie-benjamin"
+    },
+    {
+        "company": "nhl-com",
+        "company_url": "nhl.com",
+        "name": "E.J. Hradek",
+        "first_name": "E.J.",
+        "middle_name": "",
+        "last_name": "Hradek",
+        "title": "Senior Reporter & Host",
+        "location": "United States",
+        "topics": [
+            "Hockey",
+            "Sports"
+        ],
+        "influence_score": 74,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/e-j-hradek"
+    }
+]

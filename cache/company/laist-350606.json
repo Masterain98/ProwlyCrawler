@@ -1,0 +1,169 @@
+[
+    {
+        "company": "laist-350606",
+        "company_url": "laist.com",
+        "name": "Kyle Stokes",
+        "first_name": "Kyle",
+        "middle_name": "",
+        "last_name": "Stokes",
+        "title": "Education Reporter",
+        "location": "United States",
+        "topics": [
+            "Elementary Education",
+            "Primary and Pre-K Education",
+            "Secondary Education"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 66,
+        "url": "https://prowly.com/profiles/journalists/kyle-stokes"
+    },
+    {
+        "company": "laist-350606",
+        "company_url": "laist.com",
+        "name": "Ryan Fonseca",
+        "first_name": "Ryan",
+        "middle_name": "",
+        "last_name": "Fonseca",
+        "title": "Writer & Editor",
+        "location": "United States",
+        "topics": [
+            "Local News",
+            "News"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 66,
+        "url": "https://prowly.com/profiles/journalists/ryan-fonseca"
+    },
+    {
+        "company": "laist-350606",
+        "company_url": "laist.com",
+        "name": "Jacob Margolis",
+        "first_name": "Jacob",
+        "middle_name": "",
+        "last_name": "Margolis",
+        "title": "Science Reporter",
+        "location": "United States",
+        "topics": [
+            "Environment"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 66,
+        "url": "https://prowly.com/profiles/journalists/jacob-margolis"
+    },
+    {
+        "company": "laist-350606",
+        "company_url": "laist.com",
+        "name": "Megan Garvey",
+        "first_name": "Megan",
+        "middle_name": "",
+        "last_name": "Garvey",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Local News"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 66,
+        "url": "https://prowly.com/profiles/journalists/megan-garvey"
+    },
+    {
+        "company": "laist-350606",
+        "company_url": "laist.com",
+        "name": "Jill Replogle",
+        "first_name": "Jill",
+        "middle_name": "",
+        "last_name": "Replogle",
+        "title": "Reporter, College Pathways",
+        "location": "United States",
+        "topics": [
+            "Education"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 66,
+        "url": "https://prowly.com/profiles/journalists/jill-replogle"
+    },
+    {
+        "company": "laist-350606",
+        "company_url": "laist.com",
+        "name": "David Wagner",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Wagner",
+        "title": "Business and Economy Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Society"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 66,
+        "url": "https://prowly.com/profiles/journalists/david-wagner"
+    },
+    {
+        "company": "laist-350606",
+        "company_url": "laist.com",
+        "name": "Mariana Dale",
+        "first_name": "Mariana",
+        "middle_name": "",
+        "last_name": "Dale",
+        "title": "Early Childhood Education Reporter",
+        "location": "United States",
+        "topics": [
+            "Education"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 66,
+        "url": "https://prowly.com/profiles/journalists/mariana-dale"
+    },
+    {
+        "company": "laist-350606",
+        "company_url": "laist.com",
+        "name": "Julia Barajas",
+        "first_name": "Julia",
+        "middle_name": "",
+        "last_name": "Barajas",
+        "title": "Community Engagement Reporter",
+        "location": "United States",
+        "topics": [
+            "Education",
+            "Real Estate",
+            "Environment",
+            "Community News"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 66,
+        "url": "https://prowly.com/profiles/journalists/julia-barajas-761698"
+    },
+    {
+        "company": "laist-350606",
+        "company_url": "laist.com",
+        "name": "Elina Shatkin",
+        "first_name": "Elina",
+        "middle_name": "",
+        "last_name": "Shatkin",
+        "title": "Food Editor",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 66,
+        "url": "https://prowly.com/profiles/journalists/elina-shatkin"
+    },
+    {
+        "company": "laist-350606",
+        "company_url": "laist.com",
+        "name": "Emily Dugdale",
+        "first_name": "Emily",
+        "middle_name": "",
+        "last_name": "Dugdale",
+        "title": "Criminal Justice and Veterans Reporter",
+        "location": "United States",
+        "topics": [
+            "Crime"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 66,
+        "url": "https://prowly.com/profiles/journalists/emily-dugdale"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "company": "the-the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Sarah Larson",
+        "first_name": "Sarah",
+        "middle_name": "",
+        "last_name": "Larson",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/sarah-larson"
+    },
+    {
+        "company": "the-the-new-yorker",
+        "company_url": "newyorker.com",
+        "name": "Jia Tolentino",
+        "first_name": "Jia",
+        "middle_name": "",
+        "last_name": "Tolentino",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 76,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/jia-tolentino"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "company": "mad-money-with-jim-cramer-online-cnbc-cable-network",
+        "company_url": "cnbc.com",
+        "name": "Tyler Clifford",
+        "first_name": "Tyler",
+        "middle_name": "",
+        "last_name": "Clifford",
+        "title": "Digital Content Writer, Producer & Associate Reporter",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/tyler-clifford"
+    },
+    {
+        "company": "mad-money-with-jim-cramer-online-cnbc-cable-network",
+        "company_url": "cnbc.com",
+        "name": "Regina Gilgan",
+        "first_name": "Regina",
+        "middle_name": "",
+        "last_name": "Gilgan",
+        "title": "Executive Producer",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/regina-gilgan"
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "company": "bgr-111111",
+        "company_url": "bgr.com",
+        "name": "Zach Epstein",
+        "first_name": "Zach",
+        "middle_name": "",
+        "last_name": "Epstein",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Entertainment",
+            "Technology"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 72,
+        "url": "https://prowly.com/profiles/journalists/zach-epstein"
+    },
+    {
+        "company": "bgr-111111",
+        "company_url": "bgr.com",
+        "name": "Jacob Siegal",
+        "first_name": "Jacob",
+        "middle_name": "",
+        "last_name": "Siegal",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Technology"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 72,
+        "url": "https://prowly.com/profiles/journalists/jacob-siegal"
+    },
+    {
+        "company": "bgr-111111",
+        "company_url": "bgr.com",
+        "name": "Jonathan Geller",
+        "first_name": "Jonathan",
+        "middle_name": "",
+        "last_name": "Geller",
+        "title": "Founder, General Manager, President & Editor-in-chief",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Telecommunications",
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 72,
+        "url": "https://prowly.com/profiles/journalists/jonathan-geller"
+    },
+    {
+        "company": "bgr-111111",
+        "company_url": "bgr.com",
+        "name": "Yoni Heisler",
+        "first_name": "Yoni",
+        "middle_name": "",
+        "last_name": "Heisler",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Science",
+            "Technology"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 72,
+        "url": "https://prowly.com/profiles/journalists/yoni-heisler"
+    },
+    {
+        "company": "bgr-111111",
+        "company_url": "bgr.com",
+        "name": "Zach Epstein",
+        "first_name": "Zach",
+        "middle_name": "",
+        "last_name": "Epstein",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Environment",
+            "Technology"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 72,
+        "url": "https://prowly.com/profiles/journalists/zach-epstein-812257"
+    }
+]

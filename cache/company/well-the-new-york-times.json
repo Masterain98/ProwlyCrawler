@@ -1,0 +1,69 @@
+[
+    {
+        "company": "well-the-new-york-times",
+        "company_url": "nytimes.com",
+        "name": "Tara Parker-Pope",
+        "first_name": "Tara",
+        "middle_name": "",
+        "last_name": "Parker-Pope",
+        "title": "Columnist / Founding Editor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/tara-parker-pope"
+    },
+    {
+        "company": "well-the-new-york-times",
+        "company_url": "nytimes.com",
+        "name": "Anahad O'Connor",
+        "first_name": "Anahad",
+        "middle_name": "",
+        "last_name": "O'Connor",
+        "title": "Blogger",
+        "location": "United States",
+        "topics": [
+            "Nutrition"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/anahad-o-connor"
+    },
+    {
+        "company": "well-the-new-york-times",
+        "company_url": "nytimes.com",
+        "name": "Jane Brody",
+        "first_name": "Jane",
+        "middle_name": "",
+        "last_name": "Brody",
+        "title": "Personal Health Columnist",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/jane-brody"
+    },
+    {
+        "company": "well-the-new-york-times",
+        "company_url": "nytimes.com",
+        "name": "Lori Leibovich",
+        "first_name": "Lori",
+        "middle_name": "",
+        "last_name": "Leibovich",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "Fitness",
+            "Health & Medicine",
+            "Life",
+            "Nutrition"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/lori-leibovich"
+    }
+]

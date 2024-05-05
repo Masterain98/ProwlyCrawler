@@ -1,0 +1,148 @@
+[
+    {
+        "company": "gamesradar",
+        "company_url": "gamesradar.com",
+        "name": "Andy Hartup",
+        "first_name": "Andy",
+        "middle_name": "",
+        "last_name": "Hartup",
+        "title": "Managing Editor",
+        "location": "United Kingdom",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/andy-hartup"
+    },
+    {
+        "company": "gamesradar",
+        "company_url": "gamesradar.com",
+        "name": "Daniel Dawkins",
+        "first_name": "Daniel",
+        "middle_name": "",
+        "last_name": "Dawkins",
+        "title": "Content Director",
+        "location": "United Kingdom",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 69,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/daniel-dawkins"
+    },
+    {
+        "company": "gamesradar",
+        "company_url": "gamesradar.com",
+        "name": "Lauren Milici",
+        "first_name": "Lauren",
+        "middle_name": "",
+        "last_name": "Milici",
+        "title": "Senior Entertainment Writer",
+        "location": "United States",
+        "topics": [
+            "Media",
+            "Independent Film"
+        ],
+        "influence_score": 69,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/lauren-milici"
+    },
+    {
+        "company": "gamesradar",
+        "company_url": "gamesradar.com",
+        "name": "Leon Hurley",
+        "first_name": "Leon",
+        "middle_name": "",
+        "last_name": "Hurley",
+        "title": "Guides Coordinator / Executive News Editor",
+        "location": "United Kingdom",
+        "topics": [
+            "Media",
+            "Video Games"
+        ],
+        "influence_score": 69,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/leon-hurley"
+    },
+    {
+        "company": "gamesradar",
+        "company_url": "gamesradar.com",
+        "name": "Austin Wood",
+        "first_name": "Austin",
+        "middle_name": "",
+        "last_name": "Wood",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/austin-wood"
+    },
+    {
+        "company": "gamesradar",
+        "company_url": "gamesradar.com",
+        "name": "Ben Wilson",
+        "first_name": "Ben",
+        "middle_name": "",
+        "last_name": "Wilson",
+        "title": "Sports Editor",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ben-wilson"
+    },
+    {
+        "company": "gamesradar",
+        "company_url": "gamesradar.com",
+        "name": "Chris Arrant",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Arrant",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 21,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/chris-arrant"
+    },
+    {
+        "company": "gamesradar",
+        "company_url": "gamesradar.com",
+        "name": "Lorenzo Veloria",
+        "first_name": "Lorenzo",
+        "middle_name": "",
+        "last_name": "Veloria",
+        "title": "Senior Marketing Manager, Content Strategy",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/lorenzo-veloria"
+    },
+    {
+        "company": "gamesradar",
+        "company_url": "gamesradar.com",
+        "name": "Rachel Weber",
+        "first_name": "Rachel",
+        "middle_name": "",
+        "last_name": "Weber",
+        "title": "Senior News Editor",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/rachel-weber-19889"
+    }
+]

@@ -1,0 +1,529 @@
+[
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Michael Pina",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Pina",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Basketball"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/michael-pina"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Jason Jordan",
+        "first_name": "Jason",
+        "middle_name": "",
+        "last_name": "Jordan",
+        "title": "Director, Basketball Recruiting",
+        "location": "United States",
+        "topics": [
+            "Basketball"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jason-jordan"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Ryan Kostecka",
+        "first_name": "Ryan",
+        "middle_name": "",
+        "last_name": "Kostecka",
+        "title": "Editor & Publisher",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/ryan-kostecka"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Pat Forde",
+        "first_name": "Pat",
+        "middle_name": "",
+        "last_name": "Forde",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "College Sports"
+        ],
+        "influence_score": 78,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/pat-forde"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Avi Creditor",
+        "first_name": "Avi",
+        "middle_name": "",
+        "last_name": "Creditor",
+        "title": "Soccer Producer / Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Soccer"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/avi-creditor"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Chris Mannix",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Mannix",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 76,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/chris-mannix"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Conor Orr",
+        "first_name": "Conor",
+        "middle_name": "",
+        "last_name": "Orr",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Football",
+            "Sports"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/conor-orr"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Robin Lundberg",
+        "first_name": "Robin",
+        "middle_name": "",
+        "last_name": "Lundberg",
+        "title": "Senior Host and Writer",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/robin-lundberg"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Margot Zamet",
+        "first_name": "Margot",
+        "middle_name": "",
+        "last_name": "Zamet",
+        "title": "Editorial Assistant & Writer",
+        "location": "United States",
+        "topics": [
+            "Apparel"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/margot-zamet"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Darcie Baum",
+        "first_name": "Darcie",
+        "middle_name": "",
+        "last_name": "Baum",
+        "title": "Senior Editor, Swimsuit",
+        "location": "United States",
+        "topics": [
+            "Apparel"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/darcie-baum"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Chris Chavez",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Chavez",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/chris-chavez-113510"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Chris Chavez",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Chavez",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/chris-chavez-18217"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Eric Rutter",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "Rutter",
+        "title": "Recruiting Reporter",
+        "location": "United States",
+        "topics": [
+            "Recruiting"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/eric-rutter"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Andy Benoit",
+        "first_name": "Andy",
+        "middle_name": "",
+        "last_name": "Benoit",
+        "title": "NFL Analyst",
+        "location": "United States",
+        "topics": [
+            "Football",
+            "Sports"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/andy-benoit"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Steve Cannella",
+        "first_name": "Steve",
+        "middle_name": "",
+        "last_name": "Cannella",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/steve-cannella"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Richie Whitt",
+        "first_name": "Richie",
+        "middle_name": "",
+        "last_name": "Whitt",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/richie-whitt"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Jennifer Piacenti",
+        "first_name": "Jennifer",
+        "middle_name": "",
+        "last_name": "Piacenti",
+        "title": "Fantasy and Sports Betting Analyst/Journalist",
+        "location": "United States",
+        "topics": [
+            "Gaming and Casinos",
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jennifer-piacenti"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Madeline Coleman",
+        "first_name": "Madeline",
+        "middle_name": "",
+        "last_name": "Coleman",
+        "title": "Trending News Writer",
+        "location": "United States",
+        "topics": [
+            "College Sports",
+            "Sports"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/madeline-coleman-76698"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "MJ Day",
+        "first_name": "MJ",
+        "middle_name": "",
+        "last_name": "Day",
+        "title": "Editor In Chief, Swimsuit",
+        "location": "United States",
+        "topics": [
+            "Apparel"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/mj-day"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Jenny Vrentas",
+        "first_name": "Jenny",
+        "middle_name": "",
+        "last_name": "Vrentas",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Football",
+            "Sports"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jenny-vrentas"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Adam Duerson",
+        "first_name": "Adam",
+        "middle_name": "",
+        "last_name": "Duerson",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/adam-duerson"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Jeremy Woo",
+        "first_name": "Jeremy",
+        "middle_name": "",
+        "last_name": "Woo",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Basketball"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jeremy-woo"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Chris Herring",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Herring",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/chris-herring"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Crissy Froyd",
+        "first_name": "Crissy",
+        "middle_name": "",
+        "last_name": "Froyd",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Baseball",
+            "Football",
+            "Sports",
+            "Rugby"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/crissy-froyd"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "David Boclair",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Boclair",
+        "title": "Publisher / Producer",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/david-boclair"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Brian Straus",
+        "first_name": "Brian",
+        "middle_name": "",
+        "last_name": "Straus",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Soccer"
+        ],
+        "influence_score": 31,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/brian-straus"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Crissy Froyd",
+        "first_name": "Crissy",
+        "middle_name": "",
+        "last_name": "Froyd",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Baseball",
+            "Football",
+            "Sports",
+            "Rugby"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/crissy-froyd-784860"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Lawrence Mondi",
+        "first_name": "Lawrence",
+        "middle_name": "",
+        "last_name": "Mondi",
+        "title": "Deputy Chief of Reporters",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/lawrence-mondi"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Crissy Froyd",
+        "first_name": "Crissy",
+        "middle_name": "",
+        "last_name": "Froyd",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Baseball",
+            "Football",
+            "Sports",
+            "Rugby"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/crissy-froyd-798035"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Howard Beck",
+        "first_name": "Howard",
+        "middle_name": "",
+        "last_name": "Beck",
+        "title": "Senior Writer, NBA",
+        "location": "United States",
+        "topics": [
+            "Basketball",
+            "Sports"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/howard-beck-21936"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Jimmy Traina",
+        "first_name": "Jimmy",
+        "middle_name": "",
+        "last_name": "Traina",
+        "title": "Writer / Producer",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jimmy-traina"
+    },
+    {
+        "company": "sports-illustrated",
+        "company_url": "si.com",
+        "name": "Pat Forde",
+        "first_name": "Pat",
+        "middle_name": "",
+        "last_name": "Forde",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "College Sports"
+        ],
+        "influence_score": 78,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/pat-forde-90829"
+    }
+]

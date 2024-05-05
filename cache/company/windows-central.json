@@ -1,0 +1,173 @@
+[
+    {
+        "company": "windows-central",
+        "company_url": "windowscentral.com",
+        "name": "Daniel Rubino",
+        "first_name": "Daniel",
+        "middle_name": "",
+        "last_name": "Rubino",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Windows"
+        ],
+        "influence_score": 78,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/daniel-rubino"
+    },
+    {
+        "company": "windows-central",
+        "company_url": "windowscentral.com",
+        "name": "Robert Carnevale",
+        "first_name": "Robert",
+        "middle_name": "",
+        "last_name": "Carnevale",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Consumer Electronics"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/robert-carnevale"
+    },
+    {
+        "company": "windows-central",
+        "company_url": "windowscentral.com",
+        "name": "Jennifer Locke",
+        "first_name": "Jennifer",
+        "middle_name": "",
+        "last_name": "Locke",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jennifer-locke"
+    },
+    {
+        "company": "windows-central",
+        "company_url": "windowscentral.com",
+        "name": "Matt Brown",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Brown",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Online Gaming"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/matt-brown"
+    },
+    {
+        "company": "windows-central",
+        "company_url": "windowscentral.com",
+        "name": "Sean Endicott",
+        "first_name": "Sean",
+        "middle_name": "",
+        "last_name": "Endicott",
+        "title": "News Writer & Journalist",
+        "location": "United Kingdom",
+        "topics": [
+            "Business",
+            "Windows"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/sean-endicott"
+    },
+    {
+        "company": "windows-central",
+        "company_url": "windowscentral.com",
+        "name": "Cale Hunt",
+        "first_name": "Cale",
+        "middle_name": "",
+        "last_name": "Hunt",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Telecommunications",
+            "PCs/Laptops",
+            "Windows"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/cale-hunt"
+    },
+    {
+        "company": "windows-central",
+        "company_url": "windowscentral.com",
+        "name": "Carli Velocci",
+        "first_name": "Carli",
+        "middle_name": "",
+        "last_name": "Velocci",
+        "title": "Senior Staff Editor",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/carli-velocci"
+    },
+    {
+        "company": "windows-central",
+        "company_url": "windowscentral.com",
+        "name": "Zac Bowden",
+        "first_name": "Zac",
+        "middle_name": "",
+        "last_name": "Bowden",
+        "title": "Senior Editor",
+        "location": "United Kingdom",
+        "topics": [
+            "Technology",
+            "Windows"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/zac-bowden"
+    },
+    {
+        "company": "windows-central",
+        "company_url": "windowscentral.com",
+        "name": "Rich Edmonds",
+        "first_name": "Rich",
+        "middle_name": "",
+        "last_name": "Edmonds",
+        "title": "Reviews Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Commerce",
+            "Online Gaming",
+            "Windows"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/rich-edmonds"
+    },
+    {
+        "company": "windows-central",
+        "company_url": "windowscentral.com",
+        "name": "Jez Corden",
+        "first_name": "Jez",
+        "middle_name": "",
+        "last_name": "Corden",
+        "title": "Senior Editor & Tech Blogger",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Video Games"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jez-corden"
+    }
+]

@@ -1,0 +1,300 @@
+[
+    {
+        "company": "insidehook",
+        "company_url": "insidehook.com",
+        "name": "Bonnie Stiernberg",
+        "first_name": "Bonnie",
+        "middle_name": "",
+        "last_name": "Stiernberg",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Music",
+            "Media",
+            "Politics"
+        ],
+        "influence_score": 54,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/bonnie-stiernberg"
+    },
+    {
+        "company": "insidehook",
+        "company_url": "insidehook.com",
+        "name": "Kirk Miller",
+        "first_name": "Kirk",
+        "middle_name": "",
+        "last_name": "Miller",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Apparel Men",
+            "Demographics",
+            "Men's Health"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/kirk-miller"
+    },
+    {
+        "company": "insidehook",
+        "company_url": "insidehook.com",
+        "name": "Lee Cutlip",
+        "first_name": "Lee",
+        "middle_name": "",
+        "last_name": "Cutlip",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Fashion",
+            "Apparel Men"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/lee-cutlip-419122"
+    },
+    {
+        "company": "insidehook",
+        "company_url": "insidehook.com",
+        "name": "Mike Conklin",
+        "first_name": "Mike",
+        "middle_name": "",
+        "last_name": "Conklin",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Apparel Men",
+            "Demographics",
+            "Men's Health"
+        ],
+        "influence_score": 54,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/mike-conklin"
+    },
+    {
+        "company": "insidehook",
+        "company_url": "insidehook.com",
+        "name": "Kayla Kibbe",
+        "first_name": "Kayla",
+        "middle_name": "",
+        "last_name": "Kibbe",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Apparel Men",
+            "Demographics",
+            "Men's Health"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/kayla-kibbe"
+    },
+    {
+        "company": "insidehook",
+        "company_url": "insidehook.com",
+        "name": "Walker Loetscher",
+        "first_name": "Walker",
+        "middle_name": "",
+        "last_name": "Loetscher",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Apparel Men",
+            "Demographics",
+            "Sports",
+            "Travel"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/walker-loetscher-27496"
+    },
+    {
+        "company": "insidehook",
+        "company_url": "insidehook.com",
+        "name": "Logan Mahan",
+        "first_name": "Logan",
+        "middle_name": "",
+        "last_name": "Mahan",
+        "title": "Associate Commerce Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Food",
+            "House",
+            "Apparel",
+            "Fitness",
+            "Health & Medicine",
+            "Home Decorating",
+            "Internet",
+            "Commerce",
+            "Travel"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/logan-mahan-400401"
+    },
+    {
+        "company": "insidehook",
+        "company_url": "insidehook.com",
+        "name": "Tanner Garrity",
+        "first_name": "Tanner",
+        "middle_name": "",
+        "last_name": "Garrity",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Fitness",
+            "Health & Medicine",
+            "Men's Health"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/tanner-garrity-221131"
+    },
+    {
+        "company": "insidehook",
+        "company_url": "insidehook.com",
+        "name": "Alex Lauer",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Lauer",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Apparel Men",
+            "Demographics",
+            "Men's Health"
+        ],
+        "influence_score": 54,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/alex-lauer"
+    },
+    {
+        "company": "insidehook",
+        "company_url": "insidehook.com",
+        "name": "Logan Mahan",
+        "first_name": "Logan",
+        "middle_name": "",
+        "last_name": "Mahan",
+        "title": "Assistant Editor",
+        "location": "United States",
+        "topics": [
+            "Internet",
+            "Apparel Men",
+            "Technology",
+            "Commerce"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/logan-mahan"
+    },
+    {
+        "company": "insidehook",
+        "company_url": "insidehook.com",
+        "name": "Jason Diamond",
+        "first_name": "Jason",
+        "middle_name": "",
+        "last_name": "Diamond",
+        "title": "Features Editor",
+        "location": "United States",
+        "topics": [
+            "Apparel Men",
+            "Demographics",
+            "Men's Health"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/jason-diamond"
+    },
+    {
+        "company": "insidehook",
+        "company_url": "insidehook.com",
+        "name": "Tanner Garrity",
+        "first_name": "Tanner",
+        "middle_name": "",
+        "last_name": "Garrity",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Fitness",
+            "Health & Medicine",
+            "Men's Health"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/tanner-garrity-139384"
+    },
+    {
+        "company": "insidehook",
+        "company_url": "insidehook.com",
+        "name": "Shari Gab",
+        "first_name": "Shari",
+        "middle_name": "",
+        "last_name": "Gab",
+        "title": "Senior Producer",
+        "location": "United States",
+        "topics": [
+            "Gifts",
+            "Apparel Men",
+            "Demographics",
+            "Men's Health"
+        ],
+        "influence_score": 54,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/shari-gab"
+    },
+    {
+        "company": "insidehook",
+        "company_url": "insidehook.com",
+        "name": "Lee Cutlip",
+        "first_name": "Lee",
+        "middle_name": "",
+        "last_name": "Cutlip",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Fashion",
+            "Apparel Men"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/lee-cutlip"
+    },
+    {
+        "company": "insidehook",
+        "company_url": "insidehook.com",
+        "name": "Walker Loetscher",
+        "first_name": "Walker",
+        "middle_name": "",
+        "last_name": "Loetscher",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Apparel Men",
+            "Demographics",
+            "Men's Health"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/walker-loetscher"
+    },
+    {
+        "company": "insidehook",
+        "company_url": "insidehook.com",
+        "name": "Tanner Garrity",
+        "first_name": "Tanner",
+        "middle_name": "",
+        "last_name": "Garrity",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Apparel Men",
+            "Demographics",
+            "Men's Health"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/tanner-garrity"
+    }
+]

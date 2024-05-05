@@ -1,0 +1,498 @@
+[
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Abel Shifferaw",
+        "first_name": "Abel",
+        "middle_name": "",
+        "last_name": "Shifferaw",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Music"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/abel-shifferaw"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Joshua Espinoza",
+        "first_name": "Joshua",
+        "middle_name": "",
+        "last_name": "Espinoza",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Music",
+            "Entertainment"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/joshua-espinoza"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Brandon Richard",
+        "first_name": "Brandon",
+        "middle_name": "",
+        "last_name": "Richard",
+        "title": "Senior Writer / Social Media",
+        "location": "United States",
+        "topics": [
+            "Apparel"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/brandon-richard"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Karizza Sanchez",
+        "first_name": "Karizza",
+        "middle_name": "",
+        "last_name": "Sanchez",
+        "title": "Director of Content Strategy",
+        "location": "United States",
+        "topics": [
+            "House"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/karizza-sanchez"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Chris Morman",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Morman",
+        "title": "Host / Editorial Producer",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/chris-morman"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Isis Briones",
+        "first_name": "Isis",
+        "middle_name": "",
+        "last_name": "Briones",
+        "title": "Style Editor, Branded Content",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Apparel",
+            "Music",
+            "Entertainment"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/isis-briones"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Shawn Setaro",
+        "first_name": "Shawn",
+        "middle_name": "",
+        "last_name": "Setaro",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/shawn-setaro"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Jacob Moore",
+        "first_name": "Jacob",
+        "middle_name": "",
+        "last_name": "Moore",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Features/Lifestyle",
+            "Music"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jacob-moore"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Eric Skelton",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "Skelton",
+        "title": "Journalist",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/eric-skelton"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Sean Evans",
+        "first_name": "Sean",
+        "middle_name": "",
+        "last_name": "Evans",
+        "title": "Editorial Producer",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 78,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/sean-evans"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Jordan Rose",
+        "first_name": "Jordan",
+        "middle_name": "",
+        "last_name": "Rose",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jordan-rose"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Adam Caparell",
+        "first_name": "Adam",
+        "middle_name": "",
+        "last_name": "Caparell",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/adam-caparell"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Nadeska Alexis",
+        "first_name": "Nadeska",
+        "middle_name": "",
+        "last_name": "Alexis",
+        "title": "Executive Producer & Host",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/nadeska-alexis"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Aria Hughes",
+        "first_name": "Aria",
+        "middle_name": "",
+        "last_name": "Hughes",
+        "title": "Deputy Style Editor",
+        "location": "United States",
+        "topics": [
+            "Apparel"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/aria-hughes"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Maurice Peebles",
+        "first_name": "Maurice",
+        "middle_name": "",
+        "last_name": "Peebles",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Demographics"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/maurice-peebles"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Anslem Rocque",
+        "first_name": "Anslem",
+        "middle_name": "",
+        "last_name": "Rocque",
+        "title": "Managing Director, Branded Content",
+        "location": "United States",
+        "topics": [
+            "Music",
+            "Entertainment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/anslem-rocque"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Kameron Hay",
+        "first_name": "Kameron",
+        "middle_name": "",
+        "last_name": "Hay",
+        "title": "Journalist",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/kameron-hay"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Joe La Puma",
+        "first_name": "Joe",
+        "middle_name": "La",
+        "last_name": "Puma",
+        "title": "SVP of Content Strategy",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/joe-la-puma"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Kiana Fitzgerald",
+        "first_name": "Kiana",
+        "middle_name": "",
+        "last_name": "Fitzgerald",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/kiana-fitzgerald"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Jacob Moore",
+        "first_name": "Jacob",
+        "middle_name": "",
+        "last_name": "Moore",
+        "title": "Founder/General Manager/Editor-in-Chief",
+        "location": "United States",
+        "topics": [
+            "Features/Lifestyle",
+            "Music"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jacob-moore-421368"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Trace William Cowen",
+        "first_name": "Trace",
+        "middle_name": "William",
+        "last_name": "Cowen",
+        "title": "Senior Writer, News",
+        "location": "United States",
+        "topics": [
+            "Music",
+            "Entertainment"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/trace-william-cowen"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Matthew Welty",
+        "first_name": "Matthew",
+        "middle_name": "",
+        "last_name": "Welty",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Apparel"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/matthew-welty"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Joshua Espinoza",
+        "first_name": "Joshua",
+        "middle_name": "",
+        "last_name": "Espinoza",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Music",
+            "Entertainment"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/joshua-espinoza-53601"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Victoria Johnson",
+        "first_name": "Victoria",
+        "middle_name": "",
+        "last_name": "Johnson",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Music"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/victoria-johnson"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Christopher Turner",
+        "first_name": "Christopher",
+        "middle_name": "",
+        "last_name": "Turner",
+        "title": "Editor In Chief",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "House",
+            "Apparel",
+            "General Assignment News",
+            "Demographics"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/christopher-turner"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Frazier Tharpe",
+        "first_name": "Frazier",
+        "middle_name": "",
+        "last_name": "Tharpe",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/frazier-tharpe"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Brandon Constantine",
+        "first_name": "Brandon",
+        "middle_name": "",
+        "last_name": "Constantine",
+        "title": "Writer/Editor",
+        "location": "United States",
+        "topics": [
+            "Demographics",
+            "Entertainment"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/brandon-constantine"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Edwin Ortiz",
+        "first_name": "Edwin",
+        "middle_name": "",
+        "last_name": "Ortiz",
+        "title": "News Director",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/edwin-ortiz"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Andre Gee",
+        "first_name": "Andre",
+        "middle_name": "",
+        "last_name": "Gee",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/andre-gee"
+    },
+    {
+        "company": "complex",
+        "company_url": "complex.com",
+        "name": "Joseph Patterson",
+        "first_name": "Joseph",
+        "middle_name": "",
+        "last_name": "Patterson",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/joseph-patterson"
+    }
+]

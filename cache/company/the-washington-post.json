@@ -1,0 +1,4226 @@
+[
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Trish Wilson",
+        "first_name": "Trish",
+        "middle_name": "",
+        "last_name": "Wilson",
+        "title": "Climate & Environment Editor",
+        "location": "United States",
+        "topics": [
+            "Environment"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/trish-wilson"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Katie Shepherd",
+        "first_name": "Katie",
+        "middle_name": "",
+        "last_name": "Shepherd",
+        "title": "Morning Mix Reporter",
+        "location": "United States",
+        "topics": [
+            "Higher Education",
+            "National News",
+            "Politics"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/katie-shepherd"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Douglas Jehl",
+        "first_name": "Douglas",
+        "middle_name": "",
+        "last_name": "Jehl",
+        "title": "Foreign Editor",
+        "location": "United States",
+        "topics": [
+            "Foreign Affairs",
+            "International News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/douglas-jehl"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Marisa Iati",
+        "first_name": "Marisa",
+        "middle_name": "",
+        "last_name": "Iati",
+        "title": "General Assignment Reporter",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/marisa-iati"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Drew Harwell",
+        "first_name": "Drew",
+        "middle_name": "",
+        "last_name": "Harwell",
+        "title": "Technology Reporter",
+        "location": "United States",
+        "topics": [
+            "Artificial Intelligence"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/drew-harwell"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Jura Koncius",
+        "first_name": "Jura",
+        "middle_name": "",
+        "last_name": "Koncius",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Home Decorating",
+            "Design"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/jura-koncius"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Maura Judkis",
+        "first_name": "Maura",
+        "middle_name": "",
+        "last_name": "Judkis",
+        "title": "Features Reporter",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Apparel",
+            "Food"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/maura-judkis"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Adrian Higgins",
+        "first_name": "Adrian",
+        "middle_name": "",
+        "last_name": "Higgins",
+        "title": "Gardening Columnist",
+        "location": "United States",
+        "topics": [
+            "Gardening"
+        ],
+        "influence_score": 48,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/adrian-higgins"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Mark Selig",
+        "first_name": "Mark",
+        "middle_name": "",
+        "last_name": "Selig",
+        "title": "Multiplatform Editor",
+        "location": "United States",
+        "topics": [
+            "Basketball",
+            "College Sports"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/mark-selig"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Jennifer Liberto",
+        "first_name": "Jennifer",
+        "middle_name": "",
+        "last_name": "Liberto",
+        "title": "Deputy Editor, Economics",
+        "location": "United States",
+        "topics": [
+            "Society"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/jennifer-liberto"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Arelis Hernandez",
+        "first_name": "Arelis",
+        "middle_name": "",
+        "last_name": "Hernandez",
+        "title": "National Reporter & Correspondent",
+        "location": "United States",
+        "topics": [
+            "Immigration",
+            "National News"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/arelis-hernandez"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "David Bruns",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Bruns",
+        "title": "Executive Producer, Original Video",
+        "location": "United States",
+        "topics": [
+            "International News",
+            "News"
+        ],
+        "influence_score": 48,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/david-bruns"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Mitch Rubin",
+        "first_name": "Mitch",
+        "middle_name": "",
+        "last_name": "Rubin",
+        "title": "Deputy Features Editor",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Features/Lifestyle"
+        ],
+        "influence_score": 44,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/mitch-rubin"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Frances Sellers",
+        "first_name": "Frances",
+        "middle_name": "",
+        "last_name": "Sellers",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "National News",
+            "Politics",
+            "Health & Medicine"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/frances-sellers"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Joel Achenbach",
+        "first_name": "Joel",
+        "middle_name": "",
+        "last_name": "Achenbach",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Science"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/joel-achenbach"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Stephanie McCrummen",
+        "first_name": "Stephanie",
+        "middle_name": "",
+        "last_name": "McCrummen",
+        "title": "National Enterprise Reporter",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/stephanie-mccrummen"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Griff Witte",
+        "first_name": "Griff",
+        "middle_name": "",
+        "last_name": "Witte",
+        "title": "National Correspondent",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/griff-witte"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "William Wan",
+        "first_name": "William",
+        "middle_name": "",
+        "last_name": "Wan",
+        "title": "Enterprise & Narrative Reporter",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/william-wan"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Jennifer Oldham",
+        "first_name": "Jennifer",
+        "middle_name": "",
+        "last_name": "Oldham",
+        "title": "Freelance Journalist",
+        "location": "United States",
+        "topics": [
+            "Aviation",
+            "Society",
+            "Energy",
+            "Environment",
+            "General Assignment News",
+            "Real Estate",
+            "Politics",
+            "Education"
+        ],
+        "influence_score": 46,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/jennifer-oldham"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Mark Seibel",
+        "first_name": "Mark",
+        "middle_name": "",
+        "last_name": "Seibel",
+        "title": "Technology Policy Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/mark-seibel"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Cindy Boren",
+        "first_name": "Cindy",
+        "middle_name": "",
+        "last_name": "Boren",
+        "title": "Deputy Sports Editor / Staff Writer / Reporter",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/cindy-boren"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Paulina Vargas",
+        "first_name": "Paulina",
+        "middle_name": "",
+        "last_name": "Vargas",
+        "title": "General Assignment Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "General Assignment News",
+            "News"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/paulina-vargas"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Amanda Finnegan",
+        "first_name": "Amanda",
+        "middle_name": "",
+        "last_name": "Finnegan",
+        "title": "Editor, By The Way",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/amanda-finnegan"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Fenit Nirappil",
+        "first_name": "Fenit",
+        "middle_name": "",
+        "last_name": "Nirappil",
+        "title": "Staff Writer & Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Science"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/fenit-nirappil"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Nathan Grayson",
+        "first_name": "Nathan",
+        "middle_name": "",
+        "last_name": "Grayson",
+        "title": "Video Game Reporter",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/nathan-grayson"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Dave Jorgenson",
+        "first_name": "Dave",
+        "middle_name": "",
+        "last_name": "Jorgenson",
+        "title": "Editor, Writer & Video Producer",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Politics"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/dave-jorgenson"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Nicole Anzia",
+        "first_name": "Nicole",
+        "middle_name": "",
+        "last_name": "Anzia",
+        "title": "Freelance Columnist",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Home Decorating"
+        ],
+        "influence_score": 48,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/nicole-anzia"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Mikhail Klimentov",
+        "first_name": "Mikhail",
+        "middle_name": "",
+        "last_name": "Klimentov",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "Video Games",
+            "Online Gaming"
+        ],
+        "influence_score": 46,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/mikhail-klimentov"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Ishaan Tharoor",
+        "first_name": "Ishaan",
+        "middle_name": "",
+        "last_name": "Tharoor",
+        "title": "Columnist",
+        "location": "United States",
+        "topics": [
+            "Foreign Affairs",
+            "History"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/ishaan-tharoor"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Monica Rodman",
+        "first_name": "Monica",
+        "middle_name": "",
+        "last_name": "Rodman",
+        "title": "Video Editor",
+        "location": "United States",
+        "topics": [
+            "Local News",
+            "Computers & Technology"
+        ],
+        "influence_score": 46,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/monica-rodman"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Juliet Eilperin",
+        "first_name": "Juliet",
+        "middle_name": "",
+        "last_name": "Eilperin",
+        "title": "Deputy Climate and Environment Editor",
+        "location": "United States",
+        "topics": [
+            "Environment"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/juliet-eilperin"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Ariana Cha",
+        "first_name": "Ariana",
+        "middle_name": "",
+        "last_name": "Cha",
+        "title": "National Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "National News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/ariana-cha"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Robert Gebelhoff",
+        "first_name": "Robert",
+        "middle_name": "",
+        "last_name": "Gebelhoff",
+        "title": "Assistant Editor, Opinions",
+        "location": "United States",
+        "topics": [
+            "Editorial Page",
+            "Health & Medicine",
+            "Science"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/robert-gebelhoff"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Shibani Shah",
+        "first_name": "Shibani",
+        "middle_name": "",
+        "last_name": "Shah",
+        "title": "Foreign Desk Editor",
+        "location": "United States",
+        "topics": [
+            "International News"
+        ],
+        "influence_score": 46,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/shibani-shah"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Suzette Moyer",
+        "first_name": "Suzette",
+        "middle_name": "",
+        "last_name": "Moyer",
+        "title": "Senior Design Editor",
+        "location": "United States",
+        "topics": [
+            "Publishing"
+        ],
+        "influence_score": 48,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/suzette-moyer"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Marissa Lang",
+        "first_name": "Marissa",
+        "middle_name": "",
+        "last_name": "Lang",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Real Estate"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/marissa-lang"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Steven Levingston",
+        "first_name": "Steven",
+        "middle_name": "",
+        "last_name": "Levingston",
+        "title": "Non-Fiction Books Editor",
+        "location": "United States",
+        "topics": [
+            "Books"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/steven-levingston"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Steven Ginsberg",
+        "first_name": "Steven",
+        "middle_name": "",
+        "last_name": "Ginsberg",
+        "title": "National Editor",
+        "location": "United States",
+        "topics": [
+            "National News",
+            "Politics"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/steven-ginsberg"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Meryl Kornfield",
+        "first_name": "Meryl",
+        "middle_name": "",
+        "last_name": "Kornfield",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "National News",
+            "Politics"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/meryl-kornfield"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Ben Guarino",
+        "first_name": "Ben",
+        "middle_name": "",
+        "last_name": "Guarino",
+        "title": "Science Reporter & Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Science"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/ben-guarino"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Drew Goins",
+        "first_name": "Drew",
+        "middle_name": "",
+        "last_name": "Goins",
+        "title": "Assistant Editor, Op-Eds",
+        "location": "United States",
+        "topics": [
+            "Editorial Page"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/drew-goins"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Jerry Brewer",
+        "first_name": "Jerry",
+        "middle_name": "",
+        "last_name": "Brewer",
+        "title": "National Sports Columnist",
+        "location": "United States",
+        "topics": [
+            "Basketball",
+            "College Sports",
+            "Football"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/jerry-brewer"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Steven Rich",
+        "first_name": "Steven",
+        "middle_name": "",
+        "last_name": "Rich",
+        "title": "Database Editor for Investigations",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/steven-rich"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Adam Kilgore",
+        "first_name": "Adam",
+        "middle_name": "",
+        "last_name": "Kilgore",
+        "title": "General Assignment Reporter",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Sports"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/adam-kilgore"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Alexandra Pannoni",
+        "first_name": "Alexandra",
+        "middle_name": "",
+        "last_name": "Pannoni",
+        "title": "Multiplatform Editor, Emerging News Products",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Commerce"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/alexandra-pannoni"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Perry Stein",
+        "first_name": "Perry",
+        "middle_name": "",
+        "last_name": "Stein",
+        "title": "Staff Reporter",
+        "location": "United States",
+        "topics": [
+            "Education"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/perry-stein"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Douglas MacMillan",
+        "first_name": "Douglas",
+        "middle_name": "",
+        "last_name": "MacMillan",
+        "title": "Business Reporter",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/douglas-macmillan"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Yeganeh Torbati",
+        "first_name": "Yeganeh",
+        "middle_name": "",
+        "last_name": "Torbati",
+        "title": "Economic Policy Investigations Reporter",
+        "location": "United States",
+        "topics": [
+            "Society"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/yeganeh-torbati"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Robbie DiMesio",
+        "first_name": "Robbie",
+        "middle_name": "",
+        "last_name": "DiMesio",
+        "title": "Breaking News Editor, Business",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/robbie-dimesio"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Michael Laris",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Laris",
+        "title": "Transportation Reporter",
+        "location": "United States",
+        "topics": [
+            "Transportation and Logistics"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/michael-laris"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Kareem Copeland",
+        "first_name": "Kareem",
+        "middle_name": "",
+        "last_name": "Copeland",
+        "title": "Sports Reporter",
+        "location": "United States",
+        "topics": [
+            "Basketball",
+            "Football"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/kareem-copeland"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Rachel Siegel",
+        "first_name": "Rachel",
+        "middle_name": "",
+        "last_name": "Siegel",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Politics"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/rachel-siegel"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Luz Lazo",
+        "first_name": "Luz",
+        "middle_name": "",
+        "last_name": "Lazo",
+        "title": "Transportation Reporter",
+        "location": "United States",
+        "topics": [
+            "Transportation and Logistics"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/luz-lazo"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Lizzie Johnson",
+        "first_name": "Lizzie",
+        "middle_name": "",
+        "last_name": "Johnson",
+        "title": "Enterprise Reporter",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/lizzie-johnson"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Michele Lerner",
+        "first_name": "Michele",
+        "middle_name": "",
+        "last_name": "Lerner",
+        "title": "Freelance Real Estate and Personal Finance Journalist",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Real Estate"
+        ],
+        "influence_score": 46,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/michele-lerner"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Sophia Solano",
+        "first_name": "Sophia",
+        "middle_name": "",
+        "last_name": "Solano",
+        "title": "Features Editorial Aide",
+        "location": "United States",
+        "topics": [
+            "Art",
+            "Entertainment",
+            "Real Estate"
+        ],
+        "influence_score": 48,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/sophia-solano"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Aaron Gregg",
+        "first_name": "Aaron",
+        "middle_name": "",
+        "last_name": "Gregg",
+        "title": "Business Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "National News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/aaron-gregg"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Chris Velazco",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Velazco",
+        "title": "Technology Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/chris-velazco"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Fredrick Kunkle",
+        "first_name": "Fredrick",
+        "middle_name": "",
+        "last_name": "Kunkle",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Politics",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/fredrick-kunkle"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Paul Schwartzman",
+        "first_name": "Paul",
+        "middle_name": "",
+        "last_name": "Schwartzman",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Local News"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/paul-schwartzman"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Christopher Ingraham",
+        "first_name": "Christopher",
+        "middle_name": "",
+        "last_name": "Ingraham",
+        "title": "Data Reporter",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Politics"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/christopher-ingraham"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Rick Maese",
+        "first_name": "Rick",
+        "middle_name": "",
+        "last_name": "Maese",
+        "title": "Sports Features Writer",
+        "location": "United States",
+        "topics": [
+            "Olympics",
+            "Sports"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/rick-maese"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Lee Hockstader",
+        "first_name": "Lee",
+        "middle_name": "",
+        "last_name": "Hockstader",
+        "title": "Editorial Page Writer",
+        "location": "United States",
+        "topics": [
+            "Editorial Page",
+            "Immigration",
+            "Middle East",
+            "Regional News",
+            "Russia",
+            "Politics"
+        ],
+        "influence_score": 44,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/lee-hockstader"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Zoann Murphy",
+        "first_name": "Zoann",
+        "middle_name": "",
+        "last_name": "Murphy",
+        "title": "Video Journalist",
+        "location": "United States",
+        "topics": [
+            "Environment"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/zoann-murphy"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Thomas Boswell",
+        "first_name": "Thomas",
+        "middle_name": "",
+        "last_name": "Boswell",
+        "title": "Sports Columnist",
+        "location": "United States",
+        "topics": [
+            "Baseball",
+            "Golf",
+            "Sports",
+            "Tennis"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/thomas-boswell"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Gillian Brockell",
+        "first_name": "Gillian",
+        "middle_name": "",
+        "last_name": "Brockell",
+        "title": "Staff Writer, Retropolis",
+        "location": "United States",
+        "topics": [
+            "History"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/gillian-brockell"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Monica Norton",
+        "first_name": "Monica",
+        "middle_name": "",
+        "last_name": "Norton",
+        "title": "Deputy Local Editor, Planning & Enterprise",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "General Assignment News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/monica-norton"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Stephen Smith",
+        "first_name": "Stephen",
+        "middle_name": "",
+        "last_name": "Smith",
+        "title": "Health and Science Editor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Science"
+        ],
+        "influence_score": 48,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/stephen-smith-74324"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Roger Lewis",
+        "first_name": "Roger",
+        "middle_name": "",
+        "last_name": "Lewis",
+        "title": "Columnist",
+        "location": "United States",
+        "topics": [
+            "Real Estate"
+        ],
+        "influence_score": 44,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/roger-lewis"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Lisa Bonos",
+        "first_name": "Lisa",
+        "middle_name": "",
+        "last_name": "Bonos",
+        "title": "Writer & Editor, Solo-ish",
+        "location": "United States",
+        "topics": [
+            "Life"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/lisa-bonos"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Eva Rodriguez",
+        "first_name": "Eva",
+        "middle_name": "",
+        "last_name": "Rodriguez",
+        "title": "Deputy Foreign Editor",
+        "location": "United States",
+        "topics": [
+            "Foreign Affairs",
+            "General Assignment News",
+            "International News"
+        ],
+        "influence_score": 48,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/eva-rodriguez"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Kent Babb",
+        "first_name": "Kent",
+        "middle_name": "",
+        "last_name": "Babb",
+        "title": "Sports Features Reporter & Writer",
+        "location": "United States",
+        "topics": [
+            "Basketball",
+            "College Sports",
+            "Football",
+            "Sports"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/kent-babb"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Bethonie Butler",
+        "first_name": "Bethonie",
+        "middle_name": "",
+        "last_name": "Butler",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Media"
+        ],
+        "influence_score": 25,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/bethonie-butler"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Ann Marimow",
+        "first_name": "Ann",
+        "middle_name": "",
+        "last_name": "Marimow",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Law"
+        ],
+        "influence_score": 51,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/ann-marimow"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "V. Dion Haynes",
+        "first_name": "V.",
+        "middle_name": "Dion",
+        "last_name": "Haynes",
+        "title": "Real Estate Editor",
+        "location": "United States",
+        "topics": [
+            "Real Estate"
+        ],
+        "influence_score": 44,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/v-dion-haynes"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Julie Vitkovskaya",
+        "first_name": "Julie",
+        "middle_name": "",
+        "last_name": "Vitkovskaya",
+        "title": "Projects Editor",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/julie-vitkovskaya"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Brian Murphy",
+        "first_name": "Brian",
+        "middle_name": "",
+        "last_name": "Murphy",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "International News"
+        ],
+        "influence_score": 46,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/brian-murphy"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Marc Fisher",
+        "first_name": "Marc",
+        "middle_name": "",
+        "last_name": "Fisher",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Local News",
+            "Politics"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/marc-fisher"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Julian Mark",
+        "first_name": "Julian",
+        "middle_name": "",
+        "last_name": "Mark",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Local News"
+        ],
+        "influence_score": 48,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/julian-mark"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Felicia Sonmez",
+        "first_name": "Felicia",
+        "middle_name": "",
+        "last_name": "Sonmez",
+        "title": "National Political Reporter",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/felicia-sonmez"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Ava Wallace",
+        "first_name": "Ava",
+        "middle_name": "",
+        "last_name": "Wallace",
+        "title": "Sports Reporter",
+        "location": "United States",
+        "topics": [
+            "Basketball",
+            "Tennis"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/ava-wallace"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Jason Murray",
+        "first_name": "Jason",
+        "middle_name": "",
+        "last_name": "Murray",
+        "title": "Assignment Editor, Sports",
+        "location": "United States",
+        "topics": [
+            "Basketball",
+            "College Sports"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/jason-murray"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Margaret Sullivan",
+        "first_name": "Margaret",
+        "middle_name": "",
+        "last_name": "Sullivan",
+        "title": "Media Columnist",
+        "location": "United States",
+        "topics": [
+            "Media"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/margaret-sullivan"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Natalie Compton",
+        "first_name": "Natalie",
+        "middle_name": "",
+        "last_name": "Compton",
+        "title": "Reporter & Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 46,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/natalie-compton"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Jacob Bogage",
+        "first_name": "Jacob",
+        "middle_name": "",
+        "last_name": "Bogage",
+        "title": "Business Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Society"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/jacob-bogage"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Vanessa Williams",
+        "first_name": "Vanessa",
+        "middle_name": "",
+        "last_name": "Williams",
+        "title": "Reporter, National Desk",
+        "location": "United States",
+        "topics": [
+            "National News",
+            "Politics"
+        ],
+        "influence_score": 48,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/vanessa-williams"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Emily Rauhala",
+        "first_name": "Emily",
+        "middle_name": "",
+        "last_name": "Rauhala",
+        "title": "Staff Writer, Foreign News",
+        "location": "United States",
+        "topics": [
+            "Canada",
+            "Europe",
+            "Foreign Affairs",
+            "Health & Medicine",
+            "International News",
+            "North America",
+            "South America",
+            "Politics"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/emily-rauhala"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Reem Akkad",
+        "first_name": "Reem",
+        "middle_name": "",
+        "last_name": "Akkad",
+        "title": "Visual Enterprise Editor, Foreign",
+        "location": "United States",
+        "topics": [
+            "International News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/reem-akkad"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Susan Svrluga",
+        "first_name": "Susan",
+        "middle_name": "",
+        "last_name": "Svrluga",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Higher Education"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/susan-svrluga"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Ellen McCarthy",
+        "first_name": "Ellen",
+        "middle_name": "",
+        "last_name": "McCarthy",
+        "title": "Feature/Style Reporter & Staff Writer",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Technology"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/ellen-mccarthy"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Paul Schemm",
+        "first_name": "Paul",
+        "middle_name": "",
+        "last_name": "Schemm",
+        "title": "Overnight Foreign Editor",
+        "location": "United States",
+        "topics": [
+            "International News"
+        ],
+        "influence_score": 48,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/paul-schemm"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Todd Frankel",
+        "first_name": "Todd",
+        "middle_name": "",
+        "last_name": "Frankel",
+        "title": "Enterprise Reporter",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/todd-frankel"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Tracy Jan",
+        "first_name": "Tracy",
+        "middle_name": "",
+        "last_name": "Jan",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Society"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/tracy-jan"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Damian Paletta",
+        "first_name": "Damian",
+        "middle_name": "",
+        "last_name": "Paletta",
+        "title": "Economics Editor",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Politics"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/damian-paletta"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Maria Glod",
+        "first_name": "Maria",
+        "middle_name": "",
+        "last_name": "Glod",
+        "title": "Editor, Crime & Courts",
+        "location": "United States",
+        "topics": [
+            "Law",
+            "Crime",
+            "Security"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/maria-glod"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Cat Zakrzewski",
+        "first_name": "Cat",
+        "middle_name": "",
+        "last_name": "Zakrzewski",
+        "title": "Policy Reporter",
+        "location": "United States",
+        "topics": [
+            "Law"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/cat-zakrzewski"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Ashley Halsey",
+        "first_name": "Ashley",
+        "middle_name": "",
+        "last_name": "Halsey",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Aviation",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/ashley-halsey"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Derek Hawkins",
+        "first_name": "Derek",
+        "middle_name": "",
+        "last_name": "Hawkins",
+        "title": "National and Breaking News Reporter",
+        "location": "United States",
+        "topics": [
+            "National News",
+            "News"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/derek-hawkins"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Theresa Vargas",
+        "first_name": "Theresa",
+        "middle_name": "",
+        "last_name": "Vargas",
+        "title": "Columnist",
+        "location": "United States",
+        "topics": [
+            "Local News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/theresa-vargas"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Dalvin Brown",
+        "first_name": "Dalvin",
+        "middle_name": "",
+        "last_name": "Brown",
+        "title": "Innovations Reporter",
+        "location": "United States",
+        "topics": [
+            "Commerce",
+            "Technology"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/dalvin-brown"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Peter Jamison",
+        "first_name": "Peter",
+        "middle_name": "",
+        "last_name": "Jamison",
+        "title": "Local Enterprise Reporter/Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Local News",
+            "Society",
+            "Health & Medicine"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/peter-jamison"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Katie Zezima",
+        "first_name": "Katie",
+        "middle_name": "",
+        "last_name": "Zezima",
+        "title": "Assignment Editor, Health & Science",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Science"
+        ],
+        "influence_score": 31,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/katie-zezima"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Alyssa Fowers",
+        "first_name": "Alyssa",
+        "middle_name": "",
+        "last_name": "Fowers",
+        "title": "Graphics Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Society",
+            "Politics"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/alyssa-fowers"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Thomas Heath",
+        "first_name": "Thomas",
+        "middle_name": "",
+        "last_name": "Heath",
+        "title": "Local Business Reporter & Columnist",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/thomas-heath"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Carolyn Hax",
+        "first_name": "Carolyn",
+        "middle_name": "",
+        "last_name": "Hax",
+        "title": "Advice Columnist",
+        "location": "United States",
+        "topics": [
+            "Life"
+        ],
+        "influence_score": 46,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/carolyn-hax"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Ashley Parker",
+        "first_name": "Ashley",
+        "middle_name": "",
+        "last_name": "Parker",
+        "title": "White House Bureau Chief",
+        "location": "United States",
+        "topics": [
+            "White House"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/ashley-parker"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Ben Strauss",
+        "first_name": "Ben",
+        "middle_name": "",
+        "last_name": "Strauss",
+        "title": "Sports & Media Reporter",
+        "location": "United States",
+        "topics": [
+            "Media",
+            "Sports"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/ben-strauss"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Will Englund",
+        "first_name": "Will",
+        "middle_name": "",
+        "last_name": "Englund",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Energy"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/will-englund"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Tim Richardson",
+        "first_name": "Tim",
+        "middle_name": "",
+        "last_name": "Richardson",
+        "title": "Transportation Editor",
+        "location": "United States",
+        "topics": [
+            "Local News",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 48,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/tim-richardson-813979"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "David Lynch",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Lynch",
+        "title": "Global Economics Correspondent",
+        "location": "United States",
+        "topics": [
+            "Society"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/david-lynch"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Kim Bellware",
+        "first_name": "Kim",
+        "middle_name": "",
+        "last_name": "Bellware",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "National News",
+            "News"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/kim-bellware"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Tonya Riley",
+        "first_name": "Tonya",
+        "middle_name": "",
+        "last_name": "Riley",
+        "title": "Reporter & Researcher",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Computers & Technology"
+        ],
+        "influence_score": 46,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/tonya-riley"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Tatum Hunter",
+        "first_name": "Tatum",
+        "middle_name": "",
+        "last_name": "Hunter",
+        "title": "Help Desk Writer",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 46,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/tatum-hunter"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Fred Hiatt",
+        "first_name": "Fred",
+        "middle_name": "",
+        "last_name": "Hiatt",
+        "title": "Editorial Page Editor/Columnist",
+        "location": "United States",
+        "topics": [
+            "Editorial Page"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/fred-hiatt"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Michael Gerson",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Gerson",
+        "title": "Columnist",
+        "location": "United States",
+        "topics": [
+            "Editorial Page"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/michael-gerson"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Barry Svrluga",
+        "first_name": "Barry",
+        "middle_name": "",
+        "last_name": "Svrluga",
+        "title": "Sports Columnist & Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/barry-svrluga"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Autumn Brewington",
+        "first_name": "Autumn",
+        "middle_name": "",
+        "last_name": "Brewington",
+        "title": "Associate Opinions Editor",
+        "location": "United States",
+        "topics": [
+            "Editorial Page"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/autumn-brewington"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Michael Brodeur",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Brodeur",
+        "title": "Classical Music Critic",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/michael-brodeur"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Jeanne Whalen",
+        "first_name": "Jeanne",
+        "middle_name": "",
+        "last_name": "Whalen",
+        "title": "Global Business Reporter",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/jeanne-whalen"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Taylor Telford",
+        "first_name": "Taylor",
+        "middle_name": "",
+        "last_name": "Telford",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "National News",
+            "News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/taylor-telford"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Keith McMillan",
+        "first_name": "Keith",
+        "middle_name": "",
+        "last_name": "McMillan",
+        "title": "General Assignment Editor",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "National News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/keith-mcmillan"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Martin Weil",
+        "first_name": "Martin",
+        "middle_name": "",
+        "last_name": "Weil",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Local News"
+        ],
+        "influence_score": 51,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/martin-weil"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "DeNeen Brown",
+        "first_name": "DeNeen",
+        "middle_name": "",
+        "last_name": "Brown",
+        "title": "Features Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Local News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/deneen-brown"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Suzanne Goldenberg",
+        "first_name": "Suzanne",
+        "middle_name": "",
+        "last_name": "Goldenberg",
+        "title": "Editor, Sunday Business",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/suzanne-goldenberg"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Hannah Natanson",
+        "first_name": "Hannah",
+        "middle_name": "",
+        "last_name": "Natanson",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Education",
+            "Elementary Education",
+            "Primary and Pre-K Education",
+            "Secondary Education"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/hannah-natanson"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Jason Rezaian",
+        "first_name": "Jason",
+        "middle_name": "",
+        "last_name": "Rezaian",
+        "title": "Global Opinions Writer",
+        "location": "United States",
+        "topics": [
+            "Editorial Page"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/jason-rezaian"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Chris Kelly",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Kelly",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/chris-kelly"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Mike Semel",
+        "first_name": "Mike",
+        "middle_name": "",
+        "last_name": "Semel",
+        "title": "Local Editor",
+        "location": "United States",
+        "topics": [
+            "Education",
+            "Local News",
+            "Regional News",
+            "Religion",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/mike-semel-151076"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Katie Mettler",
+        "first_name": "Katie",
+        "middle_name": "",
+        "last_name": "Mettler",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Crime",
+            "Security"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/katie-mettler"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Ellie Silverman",
+        "first_name": "Ellie",
+        "middle_name": "",
+        "last_name": "Silverman",
+        "title": "General Assignment Reporter",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Local News"
+        ],
+        "influence_score": 48,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/ellie-silverman"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Emmanuel Felton",
+        "first_name": "Emmanuel",
+        "middle_name": "",
+        "last_name": "Felton",
+        "title": "Race and Ethnicity Reporter",
+        "location": "United States",
+        "topics": [
+            "Society"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/emmanuel-felton"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Inkoo Kang",
+        "first_name": "Inkoo",
+        "middle_name": "",
+        "last_name": "Kang",
+        "title": "TV Critic",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Media"
+        ],
+        "influence_score": 51,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/inkoo-kang"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Carlos Lozada",
+        "first_name": "Carlos",
+        "middle_name": "",
+        "last_name": "Lozada",
+        "title": "Book Critic",
+        "location": "United States",
+        "topics": [
+            "Books"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/carlos-lozada"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Erica Werner",
+        "first_name": "Erica",
+        "middle_name": "",
+        "last_name": "Werner",
+        "title": "Congressional Reporter",
+        "location": "United States",
+        "topics": [
+            "Society"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/erica-werner"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Sarah Bailey",
+        "first_name": "Sarah",
+        "middle_name": "",
+        "last_name": "Bailey",
+        "title": "Religion Reporter",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Religion",
+            "Politics"
+        ],
+        "influence_score": 33,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/sarah-bailey"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Silvia Foster-Frau",
+        "first_name": "Silvia",
+        "middle_name": "",
+        "last_name": "Foster-Frau",
+        "title": "Multiculturalism Reporter",
+        "location": "United States",
+        "topics": [
+            "Demographics",
+            "Society",
+            "Politics"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/silvia-foster-frau"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Adrian Blanco",
+        "first_name": "Adrian",
+        "middle_name": "",
+        "last_name": "Blanco",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Publishing"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/adrian-blanco"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Brianna Tucker",
+        "first_name": "Brianna",
+        "middle_name": "",
+        "last_name": "Tucker",
+        "title": "Deputy Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/brianna-tucker"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Paulina Firozi",
+        "first_name": "Paulina",
+        "middle_name": "",
+        "last_name": "Firozi",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "National News",
+            "News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/paulina-firozi"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Paul Farhi",
+        "first_name": "Paul",
+        "middle_name": "",
+        "last_name": "Farhi",
+        "title": "Media Reporter",
+        "location": "United States",
+        "topics": [
+            "Media"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/paul-farhi"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Lisa Lednicer",
+        "first_name": "Lisa",
+        "middle_name": "",
+        "last_name": "Lednicer",
+        "title": "Metro Night Editor",
+        "location": "United States",
+        "topics": [
+            "Crime",
+            "Education",
+            "Transportation and Logistics",
+            "News",
+            "Politics"
+        ],
+        "influence_score": 48,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/lisa-lednicer"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Ziva Branstetter",
+        "first_name": "Ziva",
+        "middle_name": "",
+        "last_name": "Branstetter",
+        "title": "Corporate Accountability Team Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "National News"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/ziva-branstetter"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Karen Heller",
+        "first_name": "Karen",
+        "middle_name": "",
+        "last_name": "Heller",
+        "title": "National General Features Writer",
+        "location": "United States",
+        "topics": [
+            "Features/Lifestyle"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/karen-heller"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Rachel Lerman",
+        "first_name": "Rachel",
+        "middle_name": "",
+        "last_name": "Lerman",
+        "title": "Technology Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/rachel-lerman"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "David Weigel",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Weigel",
+        "title": "National Political Reporter",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/david-weigel"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Heather Long",
+        "first_name": "Heather",
+        "middle_name": "",
+        "last_name": "Long",
+        "title": "Economics Correspondent",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Society",
+            "Politics"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/heather-long"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Samantha Schmidt",
+        "first_name": "Samantha",
+        "middle_name": "",
+        "last_name": "Schmidt",
+        "title": "Bogot\u00e1 Bureau Chief",
+        "location": "United States",
+        "topics": [
+            "Society"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/samantha-schmidt"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Arthur Brooks",
+        "first_name": "Arthur",
+        "middle_name": "",
+        "last_name": "Brooks",
+        "title": "Contributing Columnist",
+        "location": "United States",
+        "topics": [
+            "Editorial Page"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/arthur-brooks"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Dave Sheinin",
+        "first_name": "Dave",
+        "middle_name": "",
+        "last_name": "Sheinin",
+        "title": "Sports Reporter",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Sports"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/dave-sheinin"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Jake Russell",
+        "first_name": "Jake",
+        "middle_name": "",
+        "last_name": "Russell",
+        "title": "Sports News Aide & Writer",
+        "location": "United States",
+        "topics": [
+            "College Sports",
+            "Sports"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/jake-russell"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Artur Galocha",
+        "first_name": "Artur",
+        "middle_name": "",
+        "last_name": "Galocha",
+        "title": "Graphics Reporter",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/artur-galocha"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Gene Wang",
+        "first_name": "Gene",
+        "middle_name": "",
+        "last_name": "Wang",
+        "title": "Sports Reporter",
+        "location": "United States",
+        "topics": [
+            "College Sports",
+            "Sports"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/gene-wang"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Tim Craig",
+        "first_name": "Tim",
+        "middle_name": "",
+        "last_name": "Craig",
+        "title": "National Reporter & Correspondent",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/tim-craig"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Jay Greene",
+        "first_name": "Jay",
+        "middle_name": "",
+        "last_name": "Greene",
+        "title": "Technology Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/jay-greene-18942"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Eli Rosenberg",
+        "first_name": "Eli",
+        "middle_name": "",
+        "last_name": "Rosenberg",
+        "title": "Economics Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Society"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/eli-rosenberg"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Gerrit De Vynck",
+        "first_name": "Gerrit",
+        "middle_name": "De",
+        "last_name": "Vynck",
+        "title": "AI & Algorithms Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Technology"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/gerrit-de-vynck"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Armand Emamdjomeh",
+        "first_name": "Armand",
+        "middle_name": "",
+        "last_name": "Emamdjomeh",
+        "title": "Graphics Assignment Editor",
+        "location": "United States",
+        "topics": [
+            "Publishing"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/armand-emamdjomeh"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "John Taylor",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Taylor",
+        "title": "Stories Team Editor",
+        "location": "United States",
+        "topics": [
+            "Mobile"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/john-taylor"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Ian Duncan",
+        "first_name": "Ian",
+        "middle_name": "",
+        "last_name": "Duncan",
+        "title": "Transportation Reporter",
+        "location": "United States",
+        "topics": [
+            "Transportation and Logistics"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/ian-duncan"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Brian Gross",
+        "first_name": "Brian",
+        "middle_name": "",
+        "last_name": "Gross",
+        "title": "Deputy Design Director",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/brian-gross"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Missy Ryan",
+        "first_name": "Missy",
+        "middle_name": "",
+        "last_name": "Ryan",
+        "title": "Reporter, Staff Writer & Correspondent",
+        "location": "United States",
+        "topics": [
+            "Defense & Military",
+            "Politics"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/missy-ryan"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Carolyn Johnson",
+        "first_name": "Carolyn",
+        "middle_name": "",
+        "last_name": "Johnson",
+        "title": "Science Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Science"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/carolyn-johnson"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Faiz Siddiqui",
+        "first_name": "Faiz",
+        "middle_name": "",
+        "last_name": "Siddiqui",
+        "title": "Technology Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/faiz-siddiqui"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Reed Albergotti",
+        "first_name": "Reed",
+        "middle_name": "",
+        "last_name": "Albergotti",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/reed-albergotti"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Candace Buckner",
+        "first_name": "Candace",
+        "middle_name": "",
+        "last_name": "Buckner",
+        "title": "Sports Reporter",
+        "location": "United States",
+        "topics": [
+            "Basketball",
+            "Society"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/candace-buckner"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "James Pace-Cornsilk",
+        "first_name": "James",
+        "middle_name": "",
+        "last_name": "Pace-Cornsilk",
+        "title": "Video Editor & Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Politics"
+        ],
+        "influence_score": 48,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/james-pace-cornsilk"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Tara Bahrampour",
+        "first_name": "Tara",
+        "middle_name": "",
+        "last_name": "Bahrampour",
+        "title": "Reporter & Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Society"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/tara-bahrampour"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Reis Thebault",
+        "first_name": "Reis",
+        "middle_name": "",
+        "last_name": "Thebault",
+        "title": "Reporter & Staff Writer",
+        "location": "United States",
+        "topics": [
+            "National News",
+            "Science",
+            "Politics"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/reis-thebault"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Helen Carefoot",
+        "first_name": "Helen",
+        "middle_name": "",
+        "last_name": "Carefoot",
+        "title": "Features Editorial Assistant & Writer",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 48,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/helen-carefoot"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Shannon McMahon",
+        "first_name": "Shannon",
+        "middle_name": "",
+        "last_name": "McMahon",
+        "title": "Travel Reporter",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 46,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/shannon-mcmahon"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Erik Wemple",
+        "first_name": "Erik",
+        "middle_name": "",
+        "last_name": "Wemple",
+        "title": "Media Critic",
+        "location": "United States",
+        "topics": [
+            "Editorial Page"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/erik-wemple"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Victoria Benning",
+        "first_name": "Victoria",
+        "middle_name": "",
+        "last_name": "Benning",
+        "title": "Deputy America Editor",
+        "location": "United States",
+        "topics": [
+            "National News",
+            "News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/victoria-benning"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Harriet Edleson",
+        "first_name": "Harriet",
+        "middle_name": "",
+        "last_name": "Edleson",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Design",
+            "Real Estate",
+            "Travel"
+        ],
+        "influence_score": 46,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/harriet-edleson"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Ruth Marcus",
+        "first_name": "Ruth",
+        "middle_name": "",
+        "last_name": "Marcus",
+        "title": "Deputy Editorial Page Editor & Columnist",
+        "location": "United States",
+        "topics": [
+            "Editorial Page",
+            "General Assignment News",
+            "Politics"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/ruth-marcus"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Joanna Slater",
+        "first_name": "Joanna",
+        "middle_name": "",
+        "last_name": "Slater",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "International News"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/joanna-slater"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Jessica Contrera",
+        "first_name": "Jessica",
+        "middle_name": "",
+        "last_name": "Contrera",
+        "title": "Enterprise Reporter",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Local News"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/jessica-contrera"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Abha Bhattarai",
+        "first_name": "Abha",
+        "middle_name": "",
+        "last_name": "Bhattarai",
+        "title": "National Retail Reporter",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/abha-bhattarai"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Lori Montgomery",
+        "first_name": "Lori",
+        "middle_name": "",
+        "last_name": "Montgomery",
+        "title": "Business Editor",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/lori-montgomery"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Peter Hermann",
+        "first_name": "Peter",
+        "middle_name": "",
+        "last_name": "Hermann",
+        "title": "Crime Reporter",
+        "location": "United States",
+        "topics": [
+            "Crime"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/peter-hermann"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Kanyakrit Vongkiatkajorn",
+        "first_name": "Kanyakrit",
+        "middle_name": "",
+        "last_name": "Vongkiatkajorn",
+        "title": "Community Editor",
+        "location": "United States",
+        "topics": [
+            "Community News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/kanyakrit-vongkiatkajorn"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Shayna Jacobs",
+        "first_name": "Shayna",
+        "middle_name": "",
+        "last_name": "Jacobs",
+        "title": "Federal Courts and Law Enforcement Reporter",
+        "location": "United States",
+        "topics": [
+            "Law",
+            "Security"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/shayna-jacobs"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Hannah Sampson",
+        "first_name": "Hannah",
+        "middle_name": "",
+        "last_name": "Sampson",
+        "title": "Staff Writer/Reporter",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/hannah-sampson"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "David Fahrenthold",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Fahrenthold",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/david-fahrenthold"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Cristiano Lima",
+        "first_name": "Cristiano",
+        "middle_name": "",
+        "last_name": "Lima",
+        "title": "Author, Technology 202",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 51,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/cristiano-lima"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Sydney Trent",
+        "first_name": "Sydney",
+        "middle_name": "",
+        "last_name": "Trent",
+        "title": "Reporter & Staff writer, Local Enterprise",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "History"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/sydney-trent"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Christopher Rowland",
+        "first_name": "Christopher",
+        "middle_name": "",
+        "last_name": "Rowland",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Health & Medicine"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/christopher-rowland"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Philip Kennicott",
+        "first_name": "Philip",
+        "middle_name": "",
+        "last_name": "Kennicott",
+        "title": "Senior Art and Architecture Critic",
+        "location": "United States",
+        "topics": [
+            "Design",
+            "Entertainment"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/philip-kennicott"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Philip Rucker",
+        "first_name": "Philip",
+        "middle_name": "",
+        "last_name": "Rucker",
+        "title": "Senior Washington Correspondent",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/philip-rucker"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Karen Tumulty",
+        "first_name": "Karen",
+        "middle_name": "",
+        "last_name": "Tumulty",
+        "title": "Deputy Editorial Page Editor and National Political Columnist",
+        "location": "United States",
+        "topics": [
+            "Editorial Page",
+            "Politics"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/karen-tumulty"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Janice Schuster",
+        "first_name": "Janice",
+        "middle_name": "",
+        "last_name": "Schuster",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Editorial Page"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/janice-schuster"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Zachary Goldfarb",
+        "first_name": "Zachary",
+        "middle_name": "",
+        "last_name": "Goldfarb",
+        "title": "Deputy Business Editor",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/zachary-goldfarb"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Jayne Orenstein",
+        "first_name": "Jayne",
+        "middle_name": "",
+        "last_name": "Orenstein",
+        "title": "Senior Video Producer & Editor",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/jayne-orenstein"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Nicole Arthur",
+        "first_name": "Nicole",
+        "middle_name": "",
+        "last_name": "Arthur",
+        "title": "Travel Editor",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 48,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/nicole-arthur"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Sebastian Smee",
+        "first_name": "Sebastian",
+        "middle_name": "",
+        "last_name": "Smee",
+        "title": "Art Critic",
+        "location": "United States",
+        "topics": [
+            "Art"
+        ],
+        "influence_score": 51,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/sebastian-smee"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Steven Mufson",
+        "first_name": "Steven",
+        "middle_name": "",
+        "last_name": "Mufson",
+        "title": "Reporter & Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Environment"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/steven-mufson"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Jeremy Barr",
+        "first_name": "Jeremy",
+        "middle_name": "",
+        "last_name": "Barr",
+        "title": "Breaking Media News Reporter",
+        "location": "United States",
+        "topics": [
+            "Media"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/jeremy-barr"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "John Harden",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Harden",
+        "title": "Metro Data & Database Reporter",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Local News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/john-harden"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Mark Berman",
+        "first_name": "Mark",
+        "middle_name": "",
+        "last_name": "Berman",
+        "title": "National Reporter",
+        "location": "United States",
+        "topics": [
+            "Security",
+            "News"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/mark-berman"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Christian Davenport",
+        "first_name": "Christian",
+        "middle_name": "",
+        "last_name": "Davenport",
+        "title": "Reporter & Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Aviation",
+            "Politics"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/christian-davenport"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Lola Fadulu",
+        "first_name": "Lola",
+        "middle_name": "",
+        "last_name": "Fadulu",
+        "title": "Reporting Fellow",
+        "location": "United States",
+        "topics": [
+            "Local News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/lola-fadulu"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Elahe Izadi",
+        "first_name": "Elahe",
+        "middle_name": "",
+        "last_name": "Izadi",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Media"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/elahe-izadi"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Brittany Shammas",
+        "first_name": "Brittany",
+        "middle_name": "",
+        "last_name": "Shammas",
+        "title": "General Assignment Reporter",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "National News"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/brittany-shammas"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Holly Bailey",
+        "first_name": "Holly",
+        "middle_name": "",
+        "last_name": "Bailey",
+        "title": "National Political Reporter",
+        "location": "United States",
+        "topics": [
+            "Crime",
+            "National News",
+            "Politics"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/holly-bailey"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Rachel Weiner",
+        "first_name": "Rachel",
+        "middle_name": "",
+        "last_name": "Weiner",
+        "title": "Local Reporter",
+        "location": "United States",
+        "topics": [
+            "Law",
+            "Local News"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/rachel-weiner"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Scott Wilson",
+        "first_name": "Scott",
+        "middle_name": "",
+        "last_name": "Wilson",
+        "title": "Senior National Correspondent",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/scott-wilson"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Justin George",
+        "first_name": "Justin",
+        "middle_name": "",
+        "last_name": "George",
+        "title": "Transportation Reporter",
+        "location": "United States",
+        "topics": [
+            "Transportation and Logistics"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/justin-george"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Michael Ruane",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Ruane",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "History",
+            "Local News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/michael-ruane"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Amy Argetsinger",
+        "first_name": "Amy",
+        "middle_name": "",
+        "last_name": "Argetsinger",
+        "title": "Editor and staff writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Apparel",
+            "Features/Lifestyle"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/amy-argetsinger"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Richard Leiby",
+        "first_name": "Richard",
+        "middle_name": "",
+        "last_name": "Leiby",
+        "title": "Writer / Assignment Editor",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Media",
+            "Politics"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/richard-leiby"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Meagan Flynn",
+        "first_name": "Meagan",
+        "middle_name": "",
+        "last_name": "Flynn",
+        "title": "Reporter & Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Local News",
+            "Politics"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/meagan-flynn"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Kate Rabinowitz",
+        "first_name": "Kate",
+        "middle_name": "",
+        "last_name": "Rabinowitz",
+        "title": "Graphics Reporter",
+        "location": "United States",
+        "topics": [
+            "Transportation and Logistics"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/kate-rabinowitz"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Joe Heim",
+        "first_name": "Joe",
+        "middle_name": "",
+        "last_name": "Heim",
+        "title": "Editor & Reporter",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Education",
+            "Demographics"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/joe-heim"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Steve Kolowich",
+        "first_name": "Steve",
+        "middle_name": "",
+        "last_name": "Kolowich",
+        "title": "Assignment Editor, Style",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Apparel",
+            "General Assignment News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/steve-kolowich"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Danielle Douglas-Gabriel",
+        "first_name": "Danielle",
+        "middle_name": "",
+        "last_name": "Douglas-Gabriel",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Higher Education"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/danielle-douglas-gabriel"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Geoff Edgers",
+        "first_name": "Geoff",
+        "middle_name": "",
+        "last_name": "Edgers",
+        "title": "National Arts Reporter",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Music"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/geoff-edgers"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Benjamin Golliver",
+        "first_name": "Benjamin",
+        "middle_name": "",
+        "last_name": "Golliver",
+        "title": "National NBA Writer",
+        "location": "United States",
+        "topics": [
+            "Basketball"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/benjamin-golliver"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Dayana Sarkisova",
+        "first_name": "Dayana",
+        "middle_name": "",
+        "last_name": "Sarkisova",
+        "title": "Climate Solutions Editor",
+        "location": "United States",
+        "topics": [
+            "Environment"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/dayana-sarkisova"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "David Finkel",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Finkel",
+        "title": "National Enterprise Editor",
+        "location": "United States",
+        "topics": [
+            "Investigative Reporting",
+            "National News"
+        ],
+        "influence_score": 42,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/david-finkel"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Courtland Milloy",
+        "first_name": "Courtland",
+        "middle_name": "",
+        "last_name": "Milloy",
+        "title": "Local Columnist",
+        "location": "United States",
+        "topics": [
+            "Local News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/courtland-milloy"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Souad Mekhennet",
+        "first_name": "Souad",
+        "middle_name": "",
+        "last_name": "Mekhennet",
+        "title": "Reporter & Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Europe",
+            "Middle East",
+            "Defense & Military",
+            "Politics",
+            "Northern Africa"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/souad-mekhennet"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Mike Semel",
+        "first_name": "Mike",
+        "middle_name": "",
+        "last_name": "Semel",
+        "title": "Local Editor",
+        "location": "United States",
+        "topics": [
+            "Local News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/mike-semel"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Petula Dvorak",
+        "first_name": "Petula",
+        "middle_name": "",
+        "last_name": "Dvorak",
+        "title": "Columnist & Reporter",
+        "location": "United States",
+        "topics": [
+            "Local News"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/petula-dvorak"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Jesse Dougherty",
+        "first_name": "Jesse",
+        "middle_name": "",
+        "last_name": "Dougherty",
+        "title": "Sports Staff Writer & Reporter",
+        "location": "United States",
+        "topics": [
+            "High School Sports",
+            "Sports"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/jesse-dougherty"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Darryl Fears",
+        "first_name": "Darryl",
+        "middle_name": "",
+        "last_name": "Fears",
+        "title": "Reporter & Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Environment",
+            "Nature & Wildlife"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/darryl-fears"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Tim Richardson",
+        "first_name": "Tim",
+        "middle_name": "",
+        "last_name": "Richardson",
+        "title": "Transportation and Development Editor",
+        "location": "United States",
+        "topics": [
+            "Transportation and Logistics",
+            "Economic Development"
+        ],
+        "influence_score": 46,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/tim-richardson"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Chris Richards",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Richards",
+        "title": "Pop Music Critic",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/chris-richards-53744"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Yun-Hee Kim",
+        "first_name": "Yun-Hee",
+        "middle_name": "",
+        "last_name": "Kim",
+        "title": "Personal Technology Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 51,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/yun-hee-kim"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Michelle Jaconi",
+        "first_name": "Michelle",
+        "middle_name": "",
+        "last_name": "Jaconi",
+        "title": "Executive Producer, Creative Video",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 46,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/michelle-jaconi"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Michelle Boorstein",
+        "first_name": "Michelle",
+        "middle_name": "",
+        "last_name": "Boorstein",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Religion"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/michelle-boorstein"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Lauren Lumpkin",
+        "first_name": "Lauren",
+        "middle_name": "",
+        "last_name": "Lumpkin",
+        "title": "Higher Education Reporter",
+        "location": "United States",
+        "topics": [
+            "Education",
+            "Higher Education"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/lauren-lumpkin"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Devlin Barrett",
+        "first_name": "Devlin",
+        "middle_name": "",
+        "last_name": "Barrett",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Security",
+            "Politics"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/devlin-barrett"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Aaron Schaffer",
+        "first_name": "Aaron",
+        "middle_name": "",
+        "last_name": "Schaffer",
+        "title": "Researcher",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/aaron-schaffer"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Laura Stevens",
+        "first_name": "Laura",
+        "middle_name": "",
+        "last_name": "Stevens",
+        "title": "Deputy Technology Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/laura-stevens"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Sarah Kaplan",
+        "first_name": "Sarah",
+        "middle_name": "",
+        "last_name": "Kaplan",
+        "title": "Climate & Science Reporter",
+        "location": "United States",
+        "topics": [
+            "Science",
+            "Environment"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/sarah-kaplan"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Robert Klemko",
+        "first_name": "Robert",
+        "middle_name": "",
+        "last_name": "Klemko",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Crime",
+            "Football",
+            "Investigative Reporting",
+            "Politics",
+            "Law"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/robert-klemko"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Danielle Abril",
+        "first_name": "Danielle",
+        "middle_name": "",
+        "last_name": "Abril",
+        "title": "Tech at Work Writer",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 51,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/danielle-abril-18952"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Sarah Ellison",
+        "first_name": "Sarah",
+        "middle_name": "",
+        "last_name": "Ellison",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Media",
+            "Technology",
+            "Politics"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/sarah-ellison"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Lori Aratani",
+        "first_name": "Lori",
+        "middle_name": "",
+        "last_name": "Aratani",
+        "title": "Reporter & Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Aviation",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/lori-aratani"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Joby Warrick",
+        "first_name": "Joby",
+        "middle_name": "",
+        "last_name": "Warrick",
+        "title": "National Security Reporter",
+        "location": "United States",
+        "topics": [
+            "Defense & Military",
+            "Politics"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/joby-warrick"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Geoffrey Fowler",
+        "first_name": "Geoffrey",
+        "middle_name": "",
+        "last_name": "Fowler",
+        "title": "Technology Columnist",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/geoffrey-fowler"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Chris Mooney",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Mooney",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Energy",
+            "Environment"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/chris-mooney"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Dan Lamothe",
+        "first_name": "Dan",
+        "middle_name": "",
+        "last_name": "Lamothe",
+        "title": "Reporter & Writer",
+        "location": "United States",
+        "topics": [
+            "Politics",
+            "Defense & Military"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/dan-lamothe"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Keith Alexander",
+        "first_name": "Keith",
+        "middle_name": "",
+        "last_name": "Alexander",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Law",
+            "Crime"
+        ],
+        "influence_score": 48,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/keith-alexander"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Christina Passariello",
+        "first_name": "Christina",
+        "middle_name": "",
+        "last_name": "Passariello",
+        "title": "Technology Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/christina-passariello"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Elizabeth Dwoskin",
+        "first_name": "Elizabeth",
+        "middle_name": "",
+        "last_name": "Dwoskin",
+        "title": "Silicon Valley Correspondent",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Social Media"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/elizabeth-dwoskin"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Craig Timberg",
+        "first_name": "Craig",
+        "middle_name": "",
+        "last_name": "Timberg",
+        "title": "National Technology Reporter & Editor",
+        "location": "United States",
+        "topics": [
+            "Security",
+            "Computers & Technology",
+            "Technology"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/craig-timberg"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Tom Sietsema",
+        "first_name": "Tom",
+        "middle_name": "",
+        "last_name": "Sietsema",
+        "title": "Food Critic",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/tom-sietsema"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Moriah Balingit",
+        "first_name": "Moriah",
+        "middle_name": "",
+        "last_name": "Balingit",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Education",
+            "Society"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/moriah-balingit"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Laura Meckler",
+        "first_name": "Laura",
+        "middle_name": "",
+        "last_name": "Meckler",
+        "title": "National Education Writer",
+        "location": "United States",
+        "topics": [
+            "Education"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/laura-meckler"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Sergio Pe\u00e7anha",
+        "first_name": "Sergio",
+        "middle_name": "",
+        "last_name": "Pe\u00e7anha",
+        "title": "Visual/Opinion Graphics Columnist",
+        "location": "United States",
+        "topics": [
+            "Editorial Page"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/sergio-pecanha"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Alex Horton",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Horton",
+        "title": "General Assignment Reporter",
+        "location": "United States",
+        "topics": [
+            "National News",
+            "News"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/alex-horton"
+    },
+    {
+        "company": "the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Katty Huertas",
+        "first_name": "Katty",
+        "middle_name": "",
+        "last_name": "Huertas",
+        "title": "Senior Designer / Art Director / Host",
+        "location": "United States",
+        "topics": [
+            "Agriculture",
+            "Gardening",
+            "Nature & Wildlife"
+        ],
+        "influence_score": 48,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/katty-huertas"
+    }
+]

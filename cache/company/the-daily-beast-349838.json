@@ -1,0 +1,843 @@
+[
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Kate Briquelet",
+        "first_name": "Kate",
+        "middle_name": "",
+        "last_name": "Briquelet",
+        "title": "Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "Crime"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/kate-briquelet"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Blake Montgomery",
+        "first_name": "Blake",
+        "middle_name": "",
+        "last_name": "Montgomery",
+        "title": "Breaking News Editor/Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/blake-montgomery"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "James Joiner",
+        "first_name": "James",
+        "middle_name": "",
+        "last_name": "Joiner",
+        "title": "Senior Correspondent",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Entertainment",
+            "General Assignment News",
+            "Politics",
+            "Food"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/james-joiner"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Harry Siegel",
+        "first_name": "Harry",
+        "middle_name": "",
+        "last_name": "Siegel",
+        "title": "Senior Editor, Opinion",
+        "location": "United States",
+        "topics": [
+            "Editorial Page",
+            "Politics"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/harry-siegel"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Rachel Olding",
+        "first_name": "Rachel",
+        "middle_name": "",
+        "last_name": "Olding",
+        "title": "Breaking News Editor",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/rachel-olding"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Marlow Stern",
+        "first_name": "Marlow",
+        "middle_name": "",
+        "last_name": "Stern",
+        "title": "Senior Entertainment Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/marlow-stern"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Noah Shachtman",
+        "first_name": "Noah",
+        "middle_name": "",
+        "last_name": "Shachtman",
+        "title": "Editor In Chief",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 81,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/noah-shachtman"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Maxwell Tani",
+        "first_name": "Maxwell",
+        "middle_name": "",
+        "last_name": "Tani",
+        "title": "Media Reporter",
+        "location": "United States",
+        "topics": [
+            "News",
+            "Politics"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/maxwell-tani"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Jay Michaelson",
+        "first_name": "Jay",
+        "middle_name": "",
+        "last_name": "Michaelson",
+        "title": "Columnist",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Law"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/jay-michaelson"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Dean Obeidallah",
+        "first_name": "Dean",
+        "middle_name": "",
+        "last_name": "Obeidallah",
+        "title": "Columnist",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 81,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/dean-obeidallah"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Jillian Lucas",
+        "first_name": "Jillian",
+        "middle_name": "",
+        "last_name": "Lucas",
+        "title": "Commerce Editorial Manager",
+        "location": "United States",
+        "topics": [
+            "E-Commerce"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/jillian-lucas"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Will Sommer",
+        "first_name": "Will",
+        "middle_name": "",
+        "last_name": "Sommer",
+        "title": "Politics Reporter",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 81,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/will-sommer-267177"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Tirhakah Love",
+        "first_name": "Tirhakah",
+        "middle_name": "",
+        "last_name": "Love",
+        "title": "Entertainment Reporter",
+        "location": "United States",
+        "topics": [
+            "Art",
+            "Entertainment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/tirhakah-love"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Erin Ryan",
+        "first_name": "Erin",
+        "middle_name": "",
+        "last_name": "Ryan",
+        "title": "Columnist",
+        "location": "United States",
+        "topics": [
+            "Editorial Page",
+            "Politics"
+        ],
+        "influence_score": 81,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/erin-ryan"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Mandy Velez",
+        "first_name": "Mandy",
+        "middle_name": "",
+        "last_name": "Velez",
+        "title": "Assistant Managing Editor",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Society"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/mandy-velez"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Laura Bradley",
+        "first_name": "Laura",
+        "middle_name": "",
+        "last_name": "Bradley",
+        "title": "Entertainment Reporter",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Music"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/laura-bradley"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Roger Sollenberger",
+        "first_name": "Roger",
+        "middle_name": "",
+        "last_name": "Sollenberger",
+        "title": "Political Reporter",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/roger-sollenberger"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Tony Tran",
+        "first_name": "Tony",
+        "middle_name": "",
+        "last_name": "Tran",
+        "title": "Deputy Editor, Innovation & Tech",
+        "location": "United States",
+        "topics": [
+            "Science",
+            "Technology"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/tony-tran"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Blake Montgomery",
+        "first_name": "Blake",
+        "middle_name": "",
+        "last_name": "Montgomery",
+        "title": "Breaking News Reporter and Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/blake-montgomery-244167"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Michael Daly",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Daly",
+        "title": "Special Correspondent",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/michael-daly"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Neel Patel",
+        "first_name": "Neel",
+        "middle_name": "",
+        "last_name": "Patel",
+        "title": "Senior Editor, Science and Innovation",
+        "location": "United States",
+        "topics": [
+            "Science"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/neel-patel"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Emily Shugerman",
+        "first_name": "Emily",
+        "middle_name": "",
+        "last_name": "Shugerman",
+        "title": "Gender Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/emily-shugerman"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "John Avlon",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Avlon",
+        "title": "Managing Director & Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 78,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/john-avlon"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Eleanor Clift",
+        "first_name": "Eleanor",
+        "middle_name": "",
+        "last_name": "Clift",
+        "title": "Columnist",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/eleanor-clift"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Matt Lewis",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Lewis",
+        "title": "Senior Columnist",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 78,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/matt-lewis"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Tirhakah Love",
+        "first_name": "Tirhakah",
+        "middle_name": "",
+        "last_name": "Love",
+        "title": "Entertainment Reporter",
+        "location": "United States",
+        "topics": [
+            "Art",
+            "Entertainment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/tirhakah-love-28099"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Melissa Leon",
+        "first_name": "Melissa",
+        "middle_name": "",
+        "last_name": "Leon",
+        "title": "Entertainment Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/melissa-leon"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Ronald Radosh",
+        "first_name": "Ronald",
+        "middle_name": "",
+        "last_name": "Radosh",
+        "title": "Columnist",
+        "location": "United States",
+        "topics": [
+            "Editorial Page",
+            "Politics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/ronald-radosh"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Madeline Roth",
+        "first_name": "Madeline",
+        "middle_name": "",
+        "last_name": "Roth",
+        "title": "Entertainment Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Music"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/madeline-roth"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "William O'Connor",
+        "first_name": "William",
+        "middle_name": "",
+        "last_name": "O'Connor",
+        "title": "Travel Editor",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/william-o-connor"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Helen Holmes",
+        "first_name": "Helen",
+        "middle_name": "",
+        "last_name": "Holmes",
+        "title": "Culture Reporter",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/helen-holmes-144636"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Noah Rothbaum",
+        "first_name": "Noah",
+        "middle_name": "",
+        "last_name": "Rothbaum",
+        "title": "Editor, Half Full & Chief Cocktail Correspondent",
+        "location": "United States",
+        "topics": [
+            "Beverages"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/noah-rothbaum"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Caroline Phinney",
+        "first_name": "Caroline",
+        "middle_name": "",
+        "last_name": "Phinney",
+        "title": "Newsletter Product Manager",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/caroline-phinney"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Shannon O'Connor",
+        "first_name": "Shannon",
+        "middle_name": "",
+        "last_name": "O'Connor",
+        "title": "Social Media Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "LGBT"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/shannon-o-connor"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Clive Irving",
+        "first_name": "Clive",
+        "middle_name": "",
+        "last_name": "Irving",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "Aviation"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/clive-irving"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Katie Baker",
+        "first_name": "Katie",
+        "middle_name": "",
+        "last_name": "Baker",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/katie-baker"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Danika Fears",
+        "first_name": "Danika",
+        "middle_name": "",
+        "last_name": "Fears",
+        "title": "Breaking News Editor",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/danika-fears"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Daniel Modlin",
+        "first_name": "Daniel",
+        "middle_name": "",
+        "last_name": "Modlin",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/daniel-modlin"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Noor Ibrahim",
+        "first_name": "Noor",
+        "middle_name": "",
+        "last_name": "Ibrahim",
+        "title": "Deputy World Editor",
+        "location": "United States",
+        "topics": [
+            "International News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/noor-ibrahim"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Matt Wilstein",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Wilstein",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Politics"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/matt-wilstein"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Barbie Nadeau",
+        "first_name": "Barbie",
+        "middle_name": "",
+        "last_name": "Nadeau",
+        "title": "Correspondent-At-Large & Rome Bureau Chief",
+        "location": "Italy",
+        "topics": [
+            "Crime"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/barbie-nadeau"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Diana Falzone",
+        "first_name": "Diana",
+        "middle_name": "",
+        "last_name": "Falzone",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/diana-falzone"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Will Sommer",
+        "first_name": "Will",
+        "middle_name": "",
+        "last_name": "Sommer",
+        "title": "Politics Reporter",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 81,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/will-sommer"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Gil Troy",
+        "first_name": "Gil",
+        "middle_name": "",
+        "last_name": "Troy",
+        "title": "Columnist",
+        "location": "United States",
+        "topics": [
+            "Defense & Military",
+            "News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/gil-troy"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Tarpley Hitt",
+        "first_name": "Tarpley",
+        "middle_name": "",
+        "last_name": "Hitt",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services",
+            "Unions"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/tarpley-hitt"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Spencer Ackerman",
+        "first_name": "Spencer",
+        "middle_name": "",
+        "last_name": "Ackerman",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 81,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/spencer-ackerman"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Noah Kirsch",
+        "first_name": "Noah",
+        "middle_name": "",
+        "last_name": "Kirsch",
+        "title": "Wealth & Power Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/noah-kirsch"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Lloyd Grove",
+        "first_name": "Lloyd",
+        "middle_name": "",
+        "last_name": "Grove",
+        "title": "Editor at Large",
+        "location": "United States",
+        "topics": [
+            "News",
+            "Politics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/lloyd-grove"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Alaina Demopoulos",
+        "first_name": "Alaina",
+        "middle_name": "",
+        "last_name": "Demopoulos",
+        "title": "Style Writer",
+        "location": "United States",
+        "topics": [
+            "Apparel"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/alaina-demopoulos"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Kevin Fallon",
+        "first_name": "Kevin",
+        "middle_name": "",
+        "last_name": "Fallon",
+        "title": "Senior Entertainment Reporter and Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Music",
+            "Media"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/kevin-fallon"
+    },
+    {
+        "company": "the-daily-beast-349838",
+        "company_url": "thedailybeast.com",
+        "name": "Andrew Kirell",
+        "first_name": "Andrew",
+        "middle_name": "",
+        "last_name": "Kirell",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 84,
+        "url": "https://prowly.com/profiles/journalists/andrew-kirell"
+    }
+]

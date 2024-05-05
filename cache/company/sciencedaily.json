@@ -1,0 +1,35 @@
+[
+    {
+        "company": "sciencedaily",
+        "company_url": "sciencedaily.com",
+        "name": "Dan Hogan",
+        "first_name": "Dan",
+        "middle_name": "",
+        "last_name": "Hogan",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "Science",
+            "Scientific Research"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 78,
+        "url": "https://prowly.com/profiles/journalists/dan-hogan"
+    },
+    {
+        "company": "sciencedaily",
+        "company_url": "sciencedaily.com",
+        "name": "Michele Hogan",
+        "first_name": "Michele",
+        "middle_name": "",
+        "last_name": "Hogan",
+        "title": "Sales Manager",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 78,
+        "url": "https://prowly.com/profiles/journalists/michele-hogan"
+    }
+]

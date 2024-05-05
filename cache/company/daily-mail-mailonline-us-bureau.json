@@ -1,0 +1,598 @@
+[
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Khaleda Rahman",
+        "first_name": "Khaleda",
+        "middle_name": "",
+        "last_name": "Rahman",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "National News",
+            "Regional News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/khaleda-rahman"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "James Gordon",
+        "first_name": "James",
+        "middle_name": "",
+        "last_name": "Gordon",
+        "title": "North America Reporter",
+        "location": "United States",
+        "topics": [
+            "Crime",
+            "National News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/james-gordon"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Keith Griffith",
+        "first_name": "Keith",
+        "middle_name": "",
+        "last_name": "Griffith",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/keith-griffith"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Valerie Edwards",
+        "first_name": "Valerie",
+        "middle_name": "",
+        "last_name": "Edwards",
+        "title": "US Trainee Online Reporter",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/valerie-edwards"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Heidi Parker",
+        "first_name": "Heidi",
+        "middle_name": "",
+        "last_name": "Parker",
+        "title": "Journalist",
+        "location": "United States",
+        "topics": [
+            "Celebrities"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/heidi-parker"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Chris Ciaccia",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Ciaccia",
+        "title": "Science and Technology Editor",
+        "location": "United States",
+        "topics": [
+            "Science"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/chris-ciaccia"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Charlie Lankston",
+        "first_name": "Charlie",
+        "middle_name": "",
+        "last_name": "Lankston",
+        "title": "US Femail Editor",
+        "location": "United States",
+        "topics": [
+            "Art",
+            "Beauty",
+            "Books",
+            "Apparel",
+            "Demographics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/charlie-lankston"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Robert Lang",
+        "first_name": "Robert",
+        "middle_name": "",
+        "last_name": "Lang",
+        "title": "LA Showbiz and News Photo Editor",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/robert-lang"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Paul Chavez",
+        "first_name": "Paul",
+        "middle_name": "",
+        "last_name": "Chavez",
+        "title": "US Showbusiness Reporter",
+        "location": "United States",
+        "topics": [
+            "Celebrities"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/paul-chavez"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Snejana Farberov",
+        "first_name": "Snejana",
+        "middle_name": "",
+        "last_name": "Farberov",
+        "title": "Online Reporter",
+        "location": "United States",
+        "topics": [
+            "International News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/snejana-farberov"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Mary Kekatos",
+        "first_name": "Mary",
+        "middle_name": "",
+        "last_name": "Kekatos",
+        "title": "Deputy Health Editor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/mary-kekatos"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Alex Ringsell",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Ringsell",
+        "title": "Head of NY Video",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/alex-ringsell"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "James Nye",
+        "first_name": "James",
+        "middle_name": "",
+        "last_name": "Nye",
+        "title": "Assistant Editor",
+        "location": "United States",
+        "topics": [
+            "International News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/james-nye"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Louise Thomas",
+        "first_name": "Louise",
+        "middle_name": "",
+        "last_name": "Thomas",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "International News"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/louise-thomas"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Wills Robinson",
+        "first_name": "Wills",
+        "middle_name": "",
+        "last_name": "Robinson",
+        "title": "US Assistant Editor",
+        "location": "United States",
+        "topics": [
+            "International News",
+            "National News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/wills-robinson"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Sarah Sotoodeh",
+        "first_name": "Sarah",
+        "middle_name": "",
+        "last_name": "Sotoodeh",
+        "title": "Showbiz Reporter",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Entertainment"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/sarah-sotoodeh"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Morgan Phillips",
+        "first_name": "Morgan",
+        "middle_name": "",
+        "last_name": "Phillips",
+        "title": "U.S. Politics Reporter",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/morgan-phillips-70104"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Lisa Potter",
+        "first_name": "Lisa",
+        "middle_name": "",
+        "last_name": "Potter",
+        "title": "US Fashion Editor",
+        "location": "United States",
+        "topics": [
+            "Apparel"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/lisa-potter"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Ariel Zilber",
+        "first_name": "Ariel",
+        "middle_name": "",
+        "last_name": "Zilber",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Society"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/ariel-zilber"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Amy Maas",
+        "first_name": "Amy",
+        "middle_name": "",
+        "last_name": "Maas",
+        "title": "US Assistant News Editor",
+        "location": "United States",
+        "topics": [
+            "International News",
+            "National News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/amy-maas"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Clemence Michallon",
+        "first_name": "Clemence",
+        "middle_name": "",
+        "last_name": "Michallon",
+        "title": "US Trainee Online Reporter",
+        "location": "United States",
+        "topics": [
+            "International News",
+            "National News",
+            "Regional News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/clemence-michallon"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Elizabeth Elkind",
+        "first_name": "Elizabeth",
+        "middle_name": "",
+        "last_name": "Elkind",
+        "title": "Politics Reporter",
+        "location": "United States",
+        "topics": [
+            "International News",
+            "United States",
+            "Politics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/elizabeth-elkind"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Ashley Collman",
+        "first_name": "Ashley",
+        "middle_name": "",
+        "last_name": "Collman",
+        "title": "News Reporter",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/ashley-collman"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Andrea D'Ambrosio",
+        "first_name": "Andrea",
+        "middle_name": "",
+        "last_name": "D'Ambrosio",
+        "title": "Senior Supervising Producer / Co Executive Producer",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Crime",
+            "Science",
+            "Politics"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/andrea-d-ambrosio"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Alex Raskin",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Raskin",
+        "title": "US Sports News Editor",
+        "location": "United States",
+        "topics": [
+            "Boxing",
+            "Hockey",
+            "Soccer",
+            "Sports",
+            "Tennis"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/alex-raskin"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Carly Stern",
+        "first_name": "Carly",
+        "middle_name": "",
+        "last_name": "Stern",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Apparel"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/carly-stern"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Alex Mead",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Mead",
+        "title": "Deputy Photo Editor",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/alex-mead"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Ryan Parry",
+        "first_name": "Ryan",
+        "middle_name": "",
+        "last_name": "Parry",
+        "title": "West Coast Editor",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/ryan-parry"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Michael O'Brien",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "O'Brien",
+        "title": "Senior Web Editor",
+        "location": "United States",
+        "topics": [
+            "Art",
+            "Celebrities",
+            "Entertainment",
+            "House",
+            "International News",
+            "Demographics",
+            "National News",
+            "Rural",
+            "Regional News",
+            "Society",
+            "Travel"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/michael-o-brien"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Mia de Graaf",
+        "first_name": "Mia",
+        "middle_name": "de",
+        "last_name": "Graaf",
+        "title": "Health Reporter",
+        "location": "United States",
+        "topics": [
+            "International News",
+            "National News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/mia-de-graaf"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Natalie Trombetta",
+        "first_name": "Natalie",
+        "middle_name": "",
+        "last_name": "Trombetta",
+        "title": "US Showbusiness Editor-in-Chief / TV Correspondent",
+        "location": "United States",
+        "topics": [
+            "Celebrities"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/natalie-trombetta"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Hannah Jennings Parry",
+        "first_name": "Hannah",
+        "middle_name": "Jennings",
+        "last_name": "Parry",
+        "title": "Assistant News Editor",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/hannah-jennings-parry"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Erica Tempesta",
+        "first_name": "Erica",
+        "middle_name": "",
+        "last_name": "Tempesta",
+        "title": "Senior Femail Reporter",
+        "location": "United States",
+        "topics": [
+            "Apparel",
+            "Beauty",
+            "Demographics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/erica-tempesta"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "Pandora Amoratis",
+        "first_name": "Pandora",
+        "middle_name": "",
+        "last_name": "Amoratis",
+        "title": "US Style Director",
+        "location": "United States",
+        "topics": [
+            "Apparel"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/pandora-amoratis"
+    },
+    {
+        "company": "daily-mail-mailonline-us-bureau",
+        "company_url": "dailymail.co.uk",
+        "name": "David Martosko",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Martosko",
+        "title": "US Political Editor",
+        "location": "United States",
+        "topics": [
+            "Food",
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/david-martosko"
+    }
+]

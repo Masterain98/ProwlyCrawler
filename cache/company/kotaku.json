@@ -1,0 +1,194 @@
+[
+    {
+        "company": "kotaku",
+        "company_url": "kotaku.com",
+        "name": "Ash Parrish",
+        "first_name": "Ash",
+        "middle_name": "",
+        "last_name": "Parrish",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/ash-parrish"
+    },
+    {
+        "company": "kotaku",
+        "company_url": "kotaku.com",
+        "name": "Luke Plunkett",
+        "first_name": "Luke",
+        "middle_name": "",
+        "last_name": "Plunkett",
+        "title": "Senior Editor",
+        "location": "Australia",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/luke-plunkett"
+    },
+    {
+        "company": "kotaku",
+        "company_url": "kotaku.com",
+        "name": "Brian Ashcraft",
+        "first_name": "Brian",
+        "middle_name": "",
+        "last_name": "Ashcraft",
+        "title": "Senior Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "House"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/brian-ashcraft"
+    },
+    {
+        "company": "kotaku",
+        "company_url": "kotaku.com",
+        "name": "Carolyn Petit",
+        "first_name": "Carolyn",
+        "middle_name": "",
+        "last_name": "Petit",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/carolyn-petit"
+    },
+    {
+        "company": "kotaku",
+        "company_url": "kotaku.com",
+        "name": "Jim Rich",
+        "first_name": "Jim",
+        "middle_name": "",
+        "last_name": "Rich",
+        "title": "Editorial Director",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jim-rich-79658"
+    },
+    {
+        "company": "kotaku",
+        "company_url": "kotaku.com",
+        "name": "Michael Fahey",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Fahey",
+        "title": "Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/michael-fahey"
+    },
+    {
+        "company": "kotaku",
+        "company_url": "kotaku.com",
+        "name": "Patricia Hernandez",
+        "first_name": "Patricia",
+        "middle_name": "",
+        "last_name": "Hernandez",
+        "title": "Editor-in-Chief",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/patricia-hernandez"
+    },
+    {
+        "company": "kotaku",
+        "company_url": "kotaku.com",
+        "name": "Ari Notis",
+        "first_name": "Ari",
+        "middle_name": "",
+        "last_name": "Notis",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/ari-notis"
+    },
+    {
+        "company": "kotaku",
+        "company_url": "kotaku.com",
+        "name": "Lisa Marie Segarra",
+        "first_name": "Lisa",
+        "middle_name": "Marie",
+        "last_name": "Segarra",
+        "title": "Staff Editor",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/lisa-marie-segarra"
+    },
+    {
+        "company": "kotaku",
+        "company_url": "kotaku.com",
+        "name": "Ethan Gach",
+        "first_name": "Ethan",
+        "middle_name": "",
+        "last_name": "Gach",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/ethan-gach"
+    },
+    {
+        "company": "kotaku",
+        "company_url": "kotaku.com",
+        "name": "Zack Zwiezen",
+        "first_name": "Zack",
+        "middle_name": "",
+        "last_name": "Zwiezen",
+        "title": "Weekend Editor",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/zack-zwiezen"
+    },
+    {
+        "company": "kotaku",
+        "company_url": "kotaku.com",
+        "name": "Ian Walker",
+        "first_name": "Ian",
+        "middle_name": "",
+        "last_name": "Walker",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/ian-walker"
+    }
+]

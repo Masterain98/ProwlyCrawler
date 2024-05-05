@@ -1,0 +1,53 @@
+[
+    {
+        "company": "the-real-deal-by-retailmenot",
+        "company_url": "retailmenot.com",
+        "name": "Shannon Dwyer",
+        "first_name": "Shannon",
+        "middle_name": "",
+        "last_name": "Dwyer",
+        "title": "Content Writer",
+        "location": "United States",
+        "topics": [
+            "Commerce",
+            "E-Commerce"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/shannon-dwyer"
+    },
+    {
+        "company": "the-real-deal-by-retailmenot",
+        "company_url": "retailmenot.com",
+        "name": "Sara Skirboll",
+        "first_name": "Sara",
+        "middle_name": "",
+        "last_name": "Skirboll",
+        "title": "Senior Director Marketing Communications/Writer",
+        "location": "United States",
+        "topics": [
+            "Accounting",
+            "Gifts"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/sara-skirboll"
+    },
+    {
+        "company": "the-real-deal-by-retailmenot",
+        "company_url": "retailmenot.com",
+        "name": "Tazi Phillips",
+        "first_name": "Tazi",
+        "middle_name": "",
+        "last_name": "Phillips",
+        "title": "Content Marketing Specialist/Writer",
+        "location": "United States",
+        "topics": [
+            "Apparel",
+            "Health & Medicine"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/tazi-phillips"
+    }
+]

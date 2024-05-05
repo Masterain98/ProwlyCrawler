@@ -1,0 +1,311 @@
+[
+    {
+        "company": "cbssports-com",
+        "company_url": "cbssports.com",
+        "name": "Michael Fabiano",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Fabiano",
+        "title": "Sports Columnist",
+        "location": "United States",
+        "topics": [
+            "College Sports",
+            "Sports"
+        ],
+        "influence_score": 77,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/michael-fabiano"
+    },
+    {
+        "company": "cbssports-com",
+        "company_url": "cbssports.com",
+        "name": "Randy Brickley",
+        "first_name": "Randy",
+        "middle_name": "",
+        "last_name": "Brickley",
+        "title": "News/Assignment Desk Director",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/randy-brickley"
+    },
+    {
+        "company": "cbssports-com",
+        "company_url": "cbssports.com",
+        "name": "Hakem Dermish",
+        "first_name": "Hakem",
+        "middle_name": "",
+        "last_name": "Dermish",
+        "title": "Anchor",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/hakem-dermish"
+    },
+    {
+        "company": "cbssports-com",
+        "company_url": "cbssports.com",
+        "name": "Kyle Boone",
+        "first_name": "Kyle",
+        "middle_name": "",
+        "last_name": "Boone",
+        "title": "College Basketball and NBA Writer",
+        "location": "United States",
+        "topics": [
+            "Basketball",
+            "College Sports"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/kyle-boone"
+    },
+    {
+        "company": "cbssports-com",
+        "company_url": "cbssports.com",
+        "name": "Matt Norlander",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Norlander",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "College Sports",
+            "Sports"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/matt-norlander"
+    },
+    {
+        "company": "cbssports-com",
+        "company_url": "cbssports.com",
+        "name": "Cody Benjamin",
+        "first_name": "Cody",
+        "middle_name": "",
+        "last_name": "Benjamin",
+        "title": "Sports Writer",
+        "location": "United States",
+        "topics": [
+            "Rugby"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/cody-benjamin"
+    },
+    {
+        "company": "cbssports-com",
+        "company_url": "cbssports.com",
+        "name": "Jack Maloney",
+        "first_name": "Jack",
+        "middle_name": "",
+        "last_name": "Maloney",
+        "title": "NBA Writer",
+        "location": "United States",
+        "topics": [
+            "Basketball"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jack-maloney"
+    },
+    {
+        "company": "cbssports-com",
+        "company_url": "cbssports.com",
+        "name": "Robert Elliott",
+        "first_name": "Robert",
+        "middle_name": "",
+        "last_name": "Elliott",
+        "title": "Home Page Editor",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/robert-elliott"
+    },
+    {
+        "company": "cbssports-com",
+        "company_url": "cbssports.com",
+        "name": "Tom Fornelli",
+        "first_name": "Tom",
+        "middle_name": "",
+        "last_name": "Fornelli",
+        "title": "Sports Writer",
+        "location": "United States",
+        "topics": [
+            "College Sports",
+            "Sports"
+        ],
+        "influence_score": 78,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/tom-fornelli"
+    },
+    {
+        "company": "cbssports-com",
+        "company_url": "cbssports.com",
+        "name": "Roger Gonzalez",
+        "first_name": "Roger",
+        "middle_name": "",
+        "last_name": "Gonzalez",
+        "title": "Soccer Writer",
+        "location": "United States",
+        "topics": [
+            "Soccer"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/roger-gonzalez"
+    },
+    {
+        "company": "cbssports-com",
+        "company_url": "cbssports.com",
+        "name": "Will Brinson",
+        "first_name": "Will",
+        "middle_name": "",
+        "last_name": "Brinson",
+        "title": "Senior NFL Writer",
+        "location": "United States",
+        "topics": [
+            "Rugby"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/will-brinson"
+    },
+    {
+        "company": "cbssports-com",
+        "company_url": "cbssports.com",
+        "name": "Mack Browning",
+        "first_name": "Mack",
+        "middle_name": "",
+        "last_name": "Browning",
+        "title": "Assistant Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/mack-browning"
+    },
+    {
+        "company": "cbssports-com",
+        "company_url": "cbssports.com",
+        "name": "Kyle Porter",
+        "first_name": "Kyle",
+        "middle_name": "",
+        "last_name": "Porter",
+        "title": "Golf Writer",
+        "location": "United States",
+        "topics": [
+            "Golf"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/kyle-porter"
+    },
+    {
+        "company": "cbssports-com",
+        "company_url": "cbssports.com",
+        "name": "Dennis Dodd",
+        "first_name": "Dennis",
+        "middle_name": "",
+        "last_name": "Dodd",
+        "title": "Senior Writer / Columnist",
+        "location": "United States",
+        "topics": [
+            "College Sports"
+        ],
+        "influence_score": 76,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/dennis-dodd"
+    },
+    {
+        "company": "cbssports-com",
+        "company_url": "cbssports.com",
+        "name": "Matt Snyder",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Snyder",
+        "title": "Sports Writer",
+        "location": "United States",
+        "topics": [
+            "Baseball"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/matt-snyder"
+    },
+    {
+        "company": "cbssports-com",
+        "company_url": "cbssports.com",
+        "name": "Bill Reiter",
+        "first_name": "Bill",
+        "middle_name": "",
+        "last_name": "Reiter",
+        "title": "National Columnist",
+        "location": "United States",
+        "topics": [
+            "Basketball"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/bill-reiter"
+    },
+    {
+        "company": "cbssports-com",
+        "company_url": "cbssports.com",
+        "name": "Jared Dubin",
+        "first_name": "Jared",
+        "middle_name": "",
+        "last_name": "Dubin",
+        "title": "Sports Writer",
+        "location": "United States",
+        "topics": [
+            "Football",
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jared-dubin"
+    },
+    {
+        "company": "cbssports-com",
+        "company_url": "cbssports.com",
+        "name": "Heath Cummings",
+        "first_name": "Heath",
+        "middle_name": "",
+        "last_name": "Cummings",
+        "title": "Senior Fantasy Sports Writer",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/heath-cummings"
+    },
+    {
+        "company": "cbssports-com",
+        "company_url": "cbssports.com",
+        "name": "Colin Ward-Henninger",
+        "first_name": "Colin",
+        "middle_name": "",
+        "last_name": "Ward-Henninger",
+        "title": "NBA Writer/Editor",
+        "location": "United States",
+        "topics": [
+            "Basketball"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/colin-ward-henninger"
+    }
+]

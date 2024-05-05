@@ -1,0 +1,19 @@
+[
+    {
+        "company": "kdnuggets",
+        "company_url": "kdnuggets.com",
+        "name": "Matthew Mayo",
+        "first_name": "Matthew",
+        "middle_name": "",
+        "last_name": "Mayo",
+        "title": "Machine Learning Researcher & Editor",
+        "location": "United States",
+        "topics": [
+            "Artificial Intelligence",
+            "Technology"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 47,
+        "url": "https://prowly.com/profiles/journalists/matthew-mayo"
+    }
+]

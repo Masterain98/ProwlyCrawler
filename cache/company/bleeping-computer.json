@@ -1,0 +1,35 @@
+[
+    {
+        "company": "bleeping-computer",
+        "company_url": "bleepingcomputer.com",
+        "name": "Sergiu Gatlan",
+        "first_name": "Sergiu",
+        "middle_name": "",
+        "last_name": "Gatlan",
+        "title": "Security & Tech Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Computers & Technology"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/sergiu-gatlan"
+    },
+    {
+        "company": "bleeping-computer",
+        "company_url": "bleepingcomputer.com",
+        "name": "Candice Lanier",
+        "first_name": "Candice",
+        "middle_name": "",
+        "last_name": "Lanier",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 69,
+        "company_influence_score": 67,
+        "url": "https://prowly.com/profiles/journalists/candice-lanier"
+    }
+]

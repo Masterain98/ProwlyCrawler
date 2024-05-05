@@ -1,0 +1,120 @@
+[
+    {
+        "company": "digital-trends-espanol",
+        "company_url": "es.digitaltrends.com",
+        "name": "Daniel Matus",
+        "first_name": "Daniel",
+        "middle_name": "",
+        "last_name": "Matus",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Commerce",
+            "Technology"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 72,
+        "url": "https://prowly.com/profiles/journalists/daniel-matus"
+    },
+    {
+        "company": "digital-trends-espanol",
+        "company_url": "es.digitaltrends.com",
+        "name": "Felipe Sasso",
+        "first_name": "Felipe",
+        "middle_name": "",
+        "last_name": "Sasso",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 72,
+        "url": "https://prowly.com/profiles/journalists/felipe-sasso"
+    },
+    {
+        "company": "digital-trends-espanol",
+        "company_url": "es.digitaltrends.com",
+        "name": "\u00c9rika Garc\u00eda Gomez",
+        "first_name": "\u00c9rika",
+        "middle_name": "Garc\u00eda",
+        "last_name": "Gomez",
+        "title": "Editor & Correspondent",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 72,
+        "url": "https://prowly.com/profiles/journalists/erika-garcia-gomez"
+    },
+    {
+        "company": "digital-trends-espanol",
+        "company_url": "es.digitaltrends.com",
+        "name": "Juliana Jara",
+        "first_name": "Juliana",
+        "middle_name": "",
+        "last_name": "Jara",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 72,
+        "url": "https://prowly.com/profiles/journalists/juliana-jara"
+    },
+    {
+        "company": "digital-trends-espanol",
+        "company_url": "es.digitaltrends.com",
+        "name": "Juan Garc\u00eda",
+        "first_name": "Juan",
+        "middle_name": "",
+        "last_name": "Garc\u00eda",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Automobiles",
+            "Computers & Technology",
+            "Consumer Electronics",
+            "Internet",
+            "Technology"
+        ],
+        "influence_score": 33,
+        "company_influence_score": 72,
+        "url": "https://prowly.com/profiles/journalists/juan-garcia"
+    },
+    {
+        "company": "digital-trends-espanol",
+        "company_url": "es.digitaltrends.com",
+        "name": "Daniel Matus",
+        "first_name": "Daniel",
+        "middle_name": "",
+        "last_name": "Matus",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Commerce"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 72,
+        "url": "https://prowly.com/profiles/journalists/daniel-matus-35305"
+    },
+    {
+        "company": "digital-trends-espanol",
+        "company_url": "es.digitaltrends.com",
+        "name": "Diego Bastarrica",
+        "first_name": "Diego",
+        "middle_name": "",
+        "last_name": "Bastarrica",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "House"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 72,
+        "url": "https://prowly.com/profiles/journalists/diego-bastarrica"
+    }
+]

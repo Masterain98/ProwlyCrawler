@@ -1,0 +1,18 @@
+[
+    {
+        "company": "pinterest",
+        "company_url": "pinterest.com",
+        "name": "Enid Hwang",
+        "first_name": "Enid",
+        "middle_name": "",
+        "last_name": "Hwang",
+        "title": "Community Manager",
+        "location": "United States",
+        "topics": [
+            "House"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/enid-hwang"
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "company": "the-mac-observer",
+        "company_url": "macobserver.com",
+        "name": "John Braun",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Braun",
+        "title": "Columnist & Podcaster",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 58,
+        "url": "https://prowly.com/profiles/journalists/john-braun"
+    },
+    {
+        "company": "the-mac-observer",
+        "company_url": "macobserver.com",
+        "name": "Andrew Orr",
+        "first_name": "Andrew",
+        "middle_name": "",
+        "last_name": "Orr",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Technology"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 58,
+        "url": "https://prowly.com/profiles/journalists/andrew-orr"
+    },
+    {
+        "company": "the-mac-observer",
+        "company_url": "macobserver.com",
+        "name": "John Martellaro",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Martellaro",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 58,
+        "url": "https://prowly.com/profiles/journalists/john-martellaro"
+    },
+    {
+        "company": "the-mac-observer",
+        "company_url": "macobserver.com",
+        "name": "Dave Hamilton",
+        "first_name": "Dave",
+        "middle_name": "",
+        "last_name": "Hamilton",
+        "title": "President, Co-Founder & Publisher",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 58,
+        "url": "https://prowly.com/profiles/journalists/dave-hamilton"
+    },
+    {
+        "company": "the-mac-observer",
+        "company_url": "macobserver.com",
+        "name": "Bob LeVitus",
+        "first_name": "Bob",
+        "middle_name": "",
+        "last_name": "LeVitus",
+        "title": "Columnist",
+        "location": "United States",
+        "topics": [
+            "Apple Products"
+        ],
+        "influence_score": 51,
+        "company_influence_score": 58,
+        "url": "https://prowly.com/profiles/journalists/bob-levitus"
+    },
+    {
+        "company": "the-mac-observer",
+        "company_url": "macobserver.com",
+        "name": "Bryan Chaffin",
+        "first_name": "Bryan",
+        "middle_name": "",
+        "last_name": "Chaffin",
+        "title": "Co-Founder & Afternoon Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 51,
+        "company_influence_score": 58,
+        "url": "https://prowly.com/profiles/journalists/bryan-chaffin"
+    }
+]

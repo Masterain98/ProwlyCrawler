@@ -1,0 +1,230 @@
+[
+    {
+        "company": "newsweek",
+        "company_url": "newsweek.com",
+        "name": "David Freedman",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Freedman",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Science",
+            "Technology",
+            "Politics"
+        ],
+        "influence_score": 44,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/david-freedman"
+    },
+    {
+        "company": "newsweek",
+        "company_url": "newsweek.com",
+        "name": "Jeffery Martin",
+        "first_name": "Jeffery",
+        "middle_name": "",
+        "last_name": "Martin",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "International News",
+            "National News",
+            "Politics"
+        ],
+        "influence_score": 46,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/jeffery-martin"
+    },
+    {
+        "company": "newsweek",
+        "company_url": "newsweek.com",
+        "name": "Julia Duin",
+        "first_name": "Julia",
+        "middle_name": "",
+        "last_name": "Duin",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Religion"
+        ],
+        "influence_score": 44,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/julia-duin"
+    },
+    {
+        "company": "newsweek",
+        "company_url": "newsweek.com",
+        "name": "Josh Smith",
+        "first_name": "Josh",
+        "middle_name": "",
+        "last_name": "Smith",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Commerce"
+        ],
+        "influence_score": 44,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/josh-smith-37823"
+    },
+    {
+        "company": "newsweek",
+        "company_url": "newsweek.com",
+        "name": "Eileen Falkenberg-Hull",
+        "first_name": "Eileen",
+        "middle_name": "",
+        "last_name": "Falkenberg-Hull",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 44,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/eileen-falkenberg-hull"
+    },
+    {
+        "company": "newsweek",
+        "company_url": "newsweek.com",
+        "name": "Fred Guterl",
+        "first_name": "Fred",
+        "middle_name": "",
+        "last_name": "Guterl",
+        "title": "Special Projects Editor",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "International News",
+            "Science",
+            "Technology"
+        ],
+        "influence_score": 48,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/fred-guterl"
+    },
+    {
+        "company": "newsweek",
+        "company_url": "newsweek.com",
+        "name": "Bill Powell",
+        "first_name": "Bill",
+        "middle_name": "",
+        "last_name": "Powell",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "International News",
+            "Politics"
+        ],
+        "influence_score": 42,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/bill-powell"
+    },
+    {
+        "company": "newsweek",
+        "company_url": "newsweek.com",
+        "name": "Mary Ellen Cagnassola",
+        "first_name": "Mary",
+        "middle_name": "Ellen",
+        "last_name": "Cagnassola",
+        "title": "Fact Checking Reporter & Writer",
+        "location": "United States",
+        "topics": [
+            "International News",
+            "National News"
+        ],
+        "influence_score": 46,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/mary-ellen-cagnassola"
+    },
+    {
+        "company": "newsweek",
+        "company_url": "newsweek.com",
+        "name": "Daniel Villarreal",
+        "first_name": "Daniel",
+        "middle_name": "",
+        "last_name": "Villarreal",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 48,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/daniel-villarreal"
+    },
+    {
+        "company": "newsweek",
+        "company_url": "newsweek.com",
+        "name": "Tom O'Connor",
+        "first_name": "Tom",
+        "middle_name": "",
+        "last_name": "O'Connor",
+        "title": "Senior Writer, Foreign Policy",
+        "location": "United States",
+        "topics": [
+            "Foreign Affairs",
+            "Defense & Military"
+        ],
+        "influence_score": 53,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/tom-o-connor"
+    },
+    {
+        "company": "newsweek",
+        "company_url": "newsweek.com",
+        "name": "Josh Hammer",
+        "first_name": "Josh",
+        "middle_name": "",
+        "last_name": "Hammer",
+        "title": "Opinion Editor",
+        "location": "United States",
+        "topics": [
+            "Editorial Page"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/josh-hammer"
+    },
+    {
+        "company": "newsweek",
+        "company_url": "newsweek.com",
+        "name": "Nancy Cooper",
+        "first_name": "Nancy",
+        "middle_name": "",
+        "last_name": "Cooper",
+        "title": "Global Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "International News"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/nancy-cooper"
+    },
+    {
+        "company": "newsweek",
+        "company_url": "newsweek.com",
+        "name": "Alice Chase",
+        "first_name": "Alice",
+        "middle_name": "",
+        "last_name": "Chase",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Beverages",
+            "Automobiles",
+            "Beauty",
+            "House",
+            "Apparel",
+            "Food",
+            "Home Decorating",
+            "Travel",
+            "Wine"
+        ],
+        "influence_score": 55,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/alice-chase"
+    }
+]

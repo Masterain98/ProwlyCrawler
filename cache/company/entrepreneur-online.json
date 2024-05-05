@@ -1,0 +1,160 @@
+[
+    {
+        "company": "entrepreneur-online",
+        "company_url": "entrepreneur.com",
+        "name": "Kenny Herzog",
+        "first_name": "Kenny",
+        "middle_name": "",
+        "last_name": "Herzog",
+        "title": "Digital Content Director",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 59,
+        "url": "https://prowly.com/profiles/journalists/kenny-herzog"
+    },
+    {
+        "company": "entrepreneur-online",
+        "company_url": "entrepreneur.com",
+        "name": "David Meltzer",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Meltzer",
+        "title": "VIP Contributor",
+        "location": "Unknown",
+        "topics": [],
+        "influence_score": 0,
+        "company_influence_score": 59,
+        "url": "https://prowly.com/profiles/journalists/david-meltzer"
+    },
+    {
+        "company": "entrepreneur-online",
+        "company_url": "entrepreneur.com",
+        "name": "Andrew Medal",
+        "first_name": "Andrew",
+        "middle_name": "",
+        "last_name": "Medal",
+        "title": "Content Contributor & Host",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "House",
+            "Education",
+            "Entertainment",
+            "Finance & Banking Services",
+            "Fitness",
+            "Food",
+            "General Assignment News",
+            "Marketing",
+            "Sports",
+            "Technology",
+            "Politics"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 59,
+        "url": "https://prowly.com/profiles/journalists/andrew-medal"
+    },
+    {
+        "company": "entrepreneur-online",
+        "company_url": "entrepreneur.com",
+        "name": "Jessica Thomas",
+        "first_name": "Jessica",
+        "middle_name": "",
+        "last_name": "Thomas",
+        "title": "Digital Content Director",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Travel"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 59,
+        "url": "https://prowly.com/profiles/journalists/jessica-thomas-46849"
+    },
+    {
+        "company": "entrepreneur-online",
+        "company_url": "entrepreneur.com",
+        "name": "Yoav Vilner",
+        "first_name": "Yoav",
+        "middle_name": "",
+        "last_name": "Vilner",
+        "title": "Guest Writer/Columnist",
+        "location": "United States",
+        "topics": [
+            "Marketing",
+            "Business"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 59,
+        "url": "https://prowly.com/profiles/journalists/yoav-vilner"
+    },
+    {
+        "company": "entrepreneur-online",
+        "company_url": "entrepreneur.com",
+        "name": "Brian Hughes",
+        "first_name": "Brian",
+        "middle_name": "",
+        "last_name": "Hughes",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Marketing",
+            "Social Media"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 59,
+        "url": "https://prowly.com/profiles/journalists/brian-hughes"
+    },
+    {
+        "company": "entrepreneur-online",
+        "company_url": "entrepreneur.com",
+        "name": "David Partain",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Partain",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Workplace"
+        ],
+        "influence_score": 19,
+        "company_influence_score": 59,
+        "url": "https://prowly.com/profiles/journalists/david-partain"
+    },
+    {
+        "company": "entrepreneur-online",
+        "company_url": "entrepreneur.com",
+        "name": "Mark Kohler",
+        "first_name": "Mark",
+        "middle_name": "",
+        "last_name": "Kohler",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 59,
+        "url": "https://prowly.com/profiles/journalists/mark-kohler"
+    },
+    {
+        "company": "entrepreneur-online",
+        "company_url": "entrepreneur.com",
+        "name": "Tim Ferriss",
+        "first_name": "Tim",
+        "middle_name": "",
+        "last_name": "Ferriss",
+        "title": "Blogger",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 81,
+        "company_influence_score": 59,
+        "url": "https://prowly.com/profiles/journalists/tim-ferriss"
+    }
+]

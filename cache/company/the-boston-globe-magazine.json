@@ -1,0 +1,94 @@
+[
+    {
+        "company": "the-boston-globe-magazine",
+        "company_url": "bostonglobe.com",
+        "name": "Neil Swidey",
+        "first_name": "Neil",
+        "middle_name": "",
+        "last_name": "Swidey",
+        "title": "Editor at Large",
+        "location": "United States",
+        "topics": [
+            "House",
+            "General Assignment News",
+            "Rural"
+        ],
+        "influence_score": 60,
+        "company_influence_score": 63,
+        "url": "https://prowly.com/profiles/journalists/neil-swidey"
+    },
+    {
+        "company": "the-boston-globe-magazine",
+        "company_url": "bostonglobe.com",
+        "name": "Veronica Chao",
+        "first_name": "Veronica",
+        "middle_name": "",
+        "last_name": "Chao",
+        "title": "Deputy Managing Editor",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Rural"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 63,
+        "url": "https://prowly.com/profiles/journalists/veronica-chao"
+    },
+    {
+        "company": "the-boston-globe-magazine",
+        "company_url": "bostonglobe.com",
+        "name": "Robin Abrahams",
+        "first_name": "Robin",
+        "middle_name": "",
+        "last_name": "Abrahams",
+        "title": "Contributing Columnist",
+        "location": "United States",
+        "topics": [
+            "Life"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 63,
+        "url": "https://prowly.com/profiles/journalists/robin-abrahams"
+    },
+    {
+        "company": "the-boston-globe-magazine",
+        "company_url": "bostonglobe.com",
+        "name": "Marni Katz",
+        "first_name": "Marni",
+        "middle_name": "",
+        "last_name": "Katz",
+        "title": "Correspondent",
+        "location": "United States",
+        "topics": [
+            "Apparel",
+            "Home Decorating",
+            "Design"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 63,
+        "url": "https://prowly.com/profiles/journalists/marni-katz"
+    },
+    {
+        "company": "the-boston-globe-magazine",
+        "company_url": "bostonglobe.com",
+        "name": "Marni Katz",
+        "first_name": "Marni",
+        "middle_name": "",
+        "last_name": "Katz",
+        "title": "Freelance design journalist",
+        "location": "United States",
+        "topics": [
+            "Art",
+            "House",
+            "Apparel",
+            "Home Decorating",
+            "Design",
+            "Life",
+            "Real Estate",
+            "Travel"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 63,
+        "url": "https://prowly.com/profiles/journalists/marni-katz-195309"
+    }
+]

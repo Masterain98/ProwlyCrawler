@@ -1,0 +1,20 @@
+[
+    {
+        "company": "sara-dietschy",
+        "company_url": "youtube.com",
+        "name": "Sara Dietschy",
+        "first_name": "Sara",
+        "middle_name": "",
+        "last_name": "Dietschy",
+        "title": "Blogger",
+        "location": "United States",
+        "topics": [
+            "Commerce",
+            "Technology",
+            "Business"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/sara-dietschy"
+    }
+]

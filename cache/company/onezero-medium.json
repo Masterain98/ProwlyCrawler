@@ -1,0 +1,71 @@
+[
+    {
+        "company": "onezero-medium",
+        "company_url": "onezero.medium.com",
+        "name": "Sarah Emerson",
+        "first_name": "Sarah",
+        "middle_name": "",
+        "last_name": "Emerson",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Science"
+        ],
+        "influence_score": 29,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/sarah-emerson"
+    },
+    {
+        "company": "onezero-medium",
+        "company_url": "onezero.medium.com",
+        "name": "Drew Costley",
+        "first_name": "Drew",
+        "middle_name": "",
+        "last_name": "Costley",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Environment",
+            "Health & Medicine",
+            "Science",
+            "Technology"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/drew-costley"
+    },
+    {
+        "company": "onezero-medium",
+        "company_url": "onezero.medium.com",
+        "name": "Megan Morrone",
+        "first_name": "Megan",
+        "middle_name": "",
+        "last_name": "Morrone",
+        "title": "Senior Platform Editor",
+        "location": "United States",
+        "topics": [
+            "Science",
+            "Technology"
+        ],
+        "influence_score": 54,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/megan-morrone"
+    },
+    {
+        "company": "onezero-medium",
+        "company_url": "onezero.medium.com",
+        "name": "Will Oremus",
+        "first_name": "Will",
+        "middle_name": "",
+        "last_name": "Oremus",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Social Media"
+        ],
+        "influence_score": 54,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/will-oremus"
+    }
+]

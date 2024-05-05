@@ -1,0 +1,228 @@
+[
+    {
+        "company": "jalopnik",
+        "company_url": "jalopnik.com",
+        "name": "Justin Westbrook",
+        "first_name": "Justin",
+        "middle_name": "",
+        "last_name": "Westbrook",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/justin-westbrook"
+    },
+    {
+        "company": "jalopnik",
+        "company_url": "jalopnik.com",
+        "name": "Jim Rich",
+        "first_name": "Jim",
+        "middle_name": "",
+        "last_name": "Rich",
+        "title": "Editorial Director",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/jim-rich"
+    },
+    {
+        "company": "jalopnik",
+        "company_url": "jalopnik.com",
+        "name": "Elizabeth Blackstock",
+        "first_name": "Elizabeth",
+        "middle_name": "",
+        "last_name": "Blackstock",
+        "title": "Breaking News Editor",
+        "location": "United States",
+        "topics": [
+            "Automobiles",
+            "Automotive/Motorcycle Racing"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/elizabeth-blackstock"
+    },
+    {
+        "company": "jalopnik",
+        "company_url": "jalopnik.com",
+        "name": "Rory Carroll",
+        "first_name": "Rory",
+        "middle_name": "",
+        "last_name": "Carroll",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/rory-carroll-28955"
+    },
+    {
+        "company": "jalopnik",
+        "company_url": "jalopnik.com",
+        "name": "Lalita Chemello",
+        "first_name": "Lalita",
+        "middle_name": "",
+        "last_name": "Chemello",
+        "title": "Acting Editor in Chief & Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/lalita-chemello"
+    },
+    {
+        "company": "jalopnik",
+        "company_url": "jalopnik.com",
+        "name": "David Tracy",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Tracy",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/david-tracy"
+    },
+    {
+        "company": "jalopnik",
+        "company_url": "jalopnik.com",
+        "name": "Bob Sorokanich",
+        "first_name": "Bob",
+        "middle_name": "",
+        "last_name": "Sorokanich",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/bob-sorokanich-261691"
+    },
+    {
+        "company": "jalopnik",
+        "company_url": "jalopnik.com",
+        "name": "Mercedes Streeter",
+        "first_name": "Mercedes",
+        "middle_name": "",
+        "last_name": "Streeter",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Automobiles",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/mercedes-streeter"
+    },
+    {
+        "company": "jalopnik",
+        "company_url": "jalopnik.com",
+        "name": "Bob Sorokanich",
+        "first_name": "Bob",
+        "middle_name": "",
+        "last_name": "Sorokanich",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/bob-sorokanich"
+    },
+    {
+        "company": "jalopnik",
+        "company_url": "jalopnik.com",
+        "name": "Jason Torchinsky",
+        "first_name": "Jason",
+        "middle_name": "",
+        "last_name": "Torchinsky",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/jason-torchinsky"
+    },
+    {
+        "company": "jalopnik",
+        "company_url": "jalopnik.com",
+        "name": "Raphael Orlove",
+        "first_name": "Raphael",
+        "middle_name": "",
+        "last_name": "Orlove",
+        "title": "Features Editor",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/raphael-orlove"
+    },
+    {
+        "company": "jalopnik",
+        "company_url": "jalopnik.com",
+        "name": "Erik Shilling",
+        "first_name": "Erik",
+        "middle_name": "",
+        "last_name": "Shilling",
+        "title": "News Editor",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/erik-shilling"
+    },
+    {
+        "company": "jalopnik",
+        "company_url": "jalopnik.com",
+        "name": "Steve DaSilva",
+        "first_name": "Steve",
+        "middle_name": "",
+        "last_name": "DaSilva",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/steve-dasilva"
+    },
+    {
+        "company": "jalopnik",
+        "company_url": "jalopnik.com",
+        "name": "Erin Marquis",
+        "first_name": "Erin",
+        "middle_name": "",
+        "last_name": "Marquis",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Automobiles"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 76,
+        "url": "https://prowly.com/profiles/journalists/erin-marquis"
+    }
+]

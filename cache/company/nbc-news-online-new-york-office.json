@@ -1,0 +1,504 @@
+[
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Alana Satlin",
+        "first_name": "Alana",
+        "middle_name": "",
+        "last_name": "Satlin",
+        "title": "Politics Editor",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/alana-satlin"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Joe Murphy",
+        "first_name": "Joe",
+        "middle_name": "",
+        "last_name": "Murphy",
+        "title": "Data Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/joe-murphy"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Corky Siemaszko",
+        "first_name": "Corky",
+        "middle_name": "",
+        "last_name": "Siemaszko",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/corky-siemaszko"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "David Li",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Li",
+        "title": "Breaking News Reporter",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/david-li"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Dartunorro Clark",
+        "first_name": "Dartunorro",
+        "middle_name": "",
+        "last_name": "Clark",
+        "title": "National Political Reporter",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/dartunorro-clark"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Joy Wang",
+        "first_name": "Joy",
+        "middle_name": "",
+        "last_name": "Wang",
+        "title": "Senior Editorial Director",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "General Assignment News",
+            "Technology",
+            "News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/joy-wang"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Wilson Wong",
+        "first_name": "Wilson",
+        "middle_name": "",
+        "last_name": "Wong",
+        "title": "Staff Reporter",
+        "location": "United States",
+        "topics": [
+            "Crime",
+            "Politics",
+            "News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/wilson-wong"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Danielle Murphy",
+        "first_name": "Danielle",
+        "middle_name": "",
+        "last_name": "Murphy",
+        "title": "Associate Commerce Editor",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/danielle-murphy"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Kalhan Rosenblatt",
+        "first_name": "Kalhan",
+        "middle_name": "",
+        "last_name": "Rosenblatt",
+        "title": "Youth & Internet Culture Reporter",
+        "location": "United States",
+        "topics": [
+            "Demographics",
+            "Internet"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/kalhan-rosenblatt"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Elizabeth Johnstone",
+        "first_name": "Elizabeth",
+        "middle_name": "",
+        "last_name": "Johnstone",
+        "title": "Senior Digital Politics Editor",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/elizabeth-johnstone"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Alison Morris",
+        "first_name": "Alison",
+        "middle_name": "",
+        "last_name": "Morris",
+        "title": "Anchor & Host, NBC News NOW",
+        "location": "United States",
+        "topics": [
+            "News",
+            "Politics"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/alison-morris"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Gavon Laessig",
+        "first_name": "Gavon",
+        "middle_name": "",
+        "last_name": "Laessig",
+        "title": "Breaking News Editor",
+        "location": "United States",
+        "topics": [
+            "News"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/gavon-laessig"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Allan Smith",
+        "first_name": "Allan",
+        "middle_name": "",
+        "last_name": "Smith",
+        "title": "Political Reporter",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/allan-smith"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Jason Abbruzzese",
+        "first_name": "Jason",
+        "middle_name": "",
+        "last_name": "Abbruzzese",
+        "title": "Senior Technology Editor",
+        "location": "United States",
+        "topics": [
+            "Science",
+            "Technology"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/jason-abbruzzese"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Adam Edelman",
+        "first_name": "Adam",
+        "middle_name": "",
+        "last_name": "Edelman",
+        "title": "Political Reporter",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/adam-edelman"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Erik Ortiz",
+        "first_name": "Erik",
+        "middle_name": "",
+        "last_name": "Ortiz",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "National News",
+            "Politics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/erik-ortiz"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Aliyah Frumin",
+        "first_name": "Aliyah",
+        "middle_name": "",
+        "last_name": "Frumin",
+        "title": "National Reporter",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/aliyah-frumin"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Linda Carroll",
+        "first_name": "Linda",
+        "middle_name": "",
+        "last_name": "Carroll",
+        "title": "Contributor / Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Science"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/linda-carroll"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Chris Berend",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Berend",
+        "title": "Executive Vice President, Digital",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/chris-berend"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Jen Brown",
+        "first_name": "Jen",
+        "middle_name": "",
+        "last_name": "Brown",
+        "title": "SVP, Strategic Integration and Portfolio Marketing, Digital Enterprises",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/jen-brown"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Ben Kesslen",
+        "first_name": "Ben",
+        "middle_name": "",
+        "last_name": "Kesslen",
+        "title": "Digital News Reporter",
+        "location": "United States",
+        "topics": [
+            "National News"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/ben-kesslen"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Elizabeth Chuck",
+        "first_name": "Elizabeth",
+        "middle_name": "",
+        "last_name": "Chuck",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Health & Medicine"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/elizabeth-chuck"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Phil McCausland",
+        "first_name": "Phil",
+        "middle_name": "",
+        "last_name": "McCausland",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "National News",
+            "Politics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/phil-mccausland"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Matthew Lee",
+        "first_name": "Matthew",
+        "middle_name": "",
+        "last_name": "Lee",
+        "title": "Platforms Associate, Late Night",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/matthew-lee"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Nicole Acevedo",
+        "first_name": "Nicole",
+        "middle_name": "",
+        "last_name": "Acevedo",
+        "title": "Staff Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "General Assignment News",
+            "Health & Medicine",
+            "Politics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/nicole-acevedo"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Sarah Glover",
+        "first_name": "Sarah",
+        "middle_name": "",
+        "last_name": "Glover",
+        "title": "Manager, Social Media Strategy",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/sarah-glover"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Marshall Crook",
+        "first_name": "Marshall",
+        "middle_name": "",
+        "last_name": "Crook",
+        "title": "Senior Video Producer, Original Video",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/marshall-crook"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Brooke Sopelsa",
+        "first_name": "Brooke",
+        "middle_name": "",
+        "last_name": "Sopelsa",
+        "title": "Editorial Director, NBC Out",
+        "location": "United States",
+        "topics": [
+            "LGBT",
+            "General Assignment News",
+            "Entertainment",
+            "Politics"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/brooke-sopelsa"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Melissa Noel",
+        "first_name": "Melissa",
+        "middle_name": "",
+        "last_name": "Noel",
+        "title": "Freelance Multimedia Reporter/TV Correspondent",
+        "location": "United States",
+        "topics": [
+            "Demographics",
+            "Entertainment",
+            "Immigration",
+            "Health & Medicine"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/melissa-noel"
+    },
+    {
+        "company": "nbc-news-online-new-york-office",
+        "company_url": "nbcnewyork.com",
+        "name": "Doha Madani",
+        "first_name": "Doha",
+        "middle_name": "",
+        "last_name": "Madani",
+        "title": "Breaking News Reporter",
+        "location": "United States",
+        "topics": [
+            "News",
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/doha-madani"
+    }
+]

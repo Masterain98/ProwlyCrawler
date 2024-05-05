@@ -1,0 +1,561 @@
+[
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Jeffrey Van Camp",
+        "first_name": "Jeffrey",
+        "middle_name": "Van",
+        "last_name": "Camp",
+        "title": "Senior Editor of Commerce & Reviews",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Electrical",
+            "Commerce"
+        ],
+        "influence_score": 54,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jeffrey-van-camp"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Sidney Fussell",
+        "first_name": "Sidney",
+        "middle_name": "",
+        "last_name": "Fussell",
+        "title": "Senior Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Technology"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/sidney-fussell"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Zachary Karabell",
+        "first_name": "Zachary",
+        "middle_name": "",
+        "last_name": "Karabell",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Society",
+            "Finance & Banking Services"
+        ],
+        "influence_score": 54,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/zachary-karabell"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Sandra Upson",
+        "first_name": "Sandra",
+        "middle_name": "",
+        "last_name": "Upson",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Internet",
+            "Computers & Technology",
+            "Science",
+            "Technology"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/sandra-upson"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Hemal Jhaveri",
+        "first_name": "Hemal",
+        "middle_name": "",
+        "last_name": "Jhaveri",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "House"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/hemal-jhaveri-46910"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Angela Chen",
+        "first_name": "Angela",
+        "middle_name": "",
+        "last_name": "Chen",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Technology",
+            "Computers & Technology"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/angela-chen"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Peter Rubin",
+        "first_name": "Peter",
+        "middle_name": "",
+        "last_name": "Rubin",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Video Games"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/peter-rubin"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Medea Giordano",
+        "first_name": "Medea",
+        "middle_name": "",
+        "last_name": "Giordano",
+        "title": "Product Writer & Reviewer",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Commerce"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/medea-giordano"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Eric Niiler",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "Niiler",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Environment",
+            "Science",
+            "Technology"
+        ],
+        "influence_score": 54,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/eric-niiler"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Jon Eilenberg",
+        "first_name": "Jon",
+        "middle_name": "",
+        "last_name": "Eilenberg",
+        "title": "Articles Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jon-eilenberg"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Philip Napoli",
+        "first_name": "Philip",
+        "middle_name": "",
+        "last_name": "Napoli",
+        "title": "Op-ed Contributor",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/philip-napoli"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Adrienne So",
+        "first_name": "Adrienne",
+        "middle_name": "",
+        "last_name": "So",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Technology"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/adrienne-so"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Joe Ray",
+        "first_name": "Joe",
+        "middle_name": "",
+        "last_name": "Ray",
+        "title": "Contributing Reviewer",
+        "location": "United States",
+        "topics": [
+            "Food"
+        ],
+        "influence_score": 60,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/joe-ray"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Lisa Niver",
+        "first_name": "Lisa",
+        "middle_name": "",
+        "last_name": "Niver",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/lisa-niver"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Julie Muncy",
+        "first_name": "Julie",
+        "middle_name": "",
+        "last_name": "Muncy",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/julie-muncy"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Aarian Marshall",
+        "first_name": "Aarian",
+        "middle_name": "",
+        "last_name": "Marshall",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Transportation and Logistics"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/aarian-marshall"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Brent Rose",
+        "first_name": "Brent",
+        "middle_name": "",
+        "last_name": "Rose",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Commerce"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/brent-rose"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Parker Hall",
+        "first_name": "Parker",
+        "middle_name": "",
+        "last_name": "Hall",
+        "title": "Product Reviewer / Writer",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Commerce",
+            "Technology"
+        ],
+        "influence_score": 54,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/parker-hall"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Kate Knibbs",
+        "first_name": "Kate",
+        "middle_name": "",
+        "last_name": "Knibbs",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Technology"
+        ],
+        "influence_score": 54,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/kate-knibbs"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Gregory Barber",
+        "first_name": "Gregory",
+        "middle_name": "",
+        "last_name": "Barber",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/gregory-barber"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Lee Simmons",
+        "first_name": "Lee",
+        "middle_name": "",
+        "last_name": "Simmons",
+        "title": "Writer and Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Society",
+            "Science",
+            "Technology"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/lee-simmons"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Scott Gilbertson",
+        "first_name": "Scott",
+        "middle_name": "",
+        "last_name": "Gilbertson",
+        "title": "Product Reviewer",
+        "location": "United States",
+        "topics": [
+            "Commerce",
+            "Technology",
+            "Computers & Technology"
+        ],
+        "influence_score": 52,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/scott-gilbertson"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Alan Henry",
+        "first_name": "Alan",
+        "middle_name": "",
+        "last_name": "Henry",
+        "title": "Service Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 54,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/alan-henry"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Cecilia D'Anastasio",
+        "first_name": "Cecilia",
+        "middle_name": "",
+        "last_name": "D'Anastasio",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Video Games",
+            "Online Gaming"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/cecilia-d-anastasio"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Kara Platoni",
+        "first_name": "Kara",
+        "middle_name": "",
+        "last_name": "Platoni",
+        "title": "Science Editor",
+        "location": "Unknown",
+        "topics": [],
+        "influence_score": 0,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/kara-platoni"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Scott Thurm",
+        "first_name": "Scott",
+        "middle_name": "",
+        "last_name": "Thurm",
+        "title": "Business Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/scott-thurm"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Alicia Cocchi",
+        "first_name": "Alicia",
+        "middle_name": "",
+        "last_name": "Cocchi",
+        "title": "Multimedia Producer",
+        "location": "United States",
+        "topics": [
+            "Commerce"
+        ],
+        "influence_score": 54,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/alicia-cocchi"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Lily Hay Newman",
+        "first_name": "Lily",
+        "middle_name": "Hay",
+        "last_name": "Newman",
+        "title": "Security Reporter",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Politics"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/lily-hay-newman"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Arielle Pardes",
+        "first_name": "Arielle",
+        "middle_name": "",
+        "last_name": "Pardes",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Business"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/arielle-pardes"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Jason Kehe",
+        "first_name": "Jason",
+        "middle_name": "",
+        "last_name": "Kehe",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Books",
+            "Entertainment"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jason-kehe"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Matt Simon",
+        "first_name": "Matt",
+        "middle_name": "",
+        "last_name": "Simon",
+        "title": "Science Journalist",
+        "location": "United States",
+        "topics": [
+            "Biology/Microbiology",
+            "Environment",
+            "Robotics"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/matt-simon"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Steven Levy",
+        "first_name": "Steven",
+        "middle_name": "",
+        "last_name": "Levy",
+        "title": "Editor at Large",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 69,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/steven-levy"
+    },
+    {
+        "company": "wired-349321",
+        "company_url": "wired.com",
+        "name": "Garrett M. Graff",
+        "first_name": "Garrett",
+        "middle_name": "M.",
+        "last_name": "Graff",
+        "title": "Journalist",
+        "location": "United States",
+        "topics": [
+            "Security",
+            "Computers & Technology",
+            "Technology",
+            "Politics"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/garrett-m-graff"
+    }
+]

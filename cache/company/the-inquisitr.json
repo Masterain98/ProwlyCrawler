@@ -1,0 +1,20 @@
+[
+    {
+        "company": "the-inquisitr",
+        "company_url": "inquisitr.com",
+        "name": "Kevin Tall",
+        "first_name": "Kevin",
+        "middle_name": "",
+        "last_name": "Tall",
+        "title": "Editor In Chief",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "General Assignment News",
+            "Sports"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/kevin-tall"
+    }
+]

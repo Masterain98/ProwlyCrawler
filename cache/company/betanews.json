@@ -1,0 +1,67 @@
+[
+    {
+        "company": "betanews",
+        "company_url": "betanews.com",
+        "name": "Wayne Williams",
+        "first_name": "Wayne",
+        "middle_name": "",
+        "last_name": "Williams",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Technology"
+        ],
+        "influence_score": 56,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/wayne-williams"
+    },
+    {
+        "company": "betanews",
+        "company_url": "betanews.com",
+        "name": "Brian Fagioli",
+        "first_name": "Brian",
+        "middle_name": "",
+        "last_name": "Fagioli",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/brian-fagioli"
+    },
+    {
+        "company": "betanews",
+        "company_url": "betanews.com",
+        "name": "Alan Buckingham",
+        "first_name": "Alan",
+        "middle_name": "",
+        "last_name": "Buckingham",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 54,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/alan-buckingham"
+    },
+    {
+        "company": "betanews",
+        "company_url": "betanews.com",
+        "name": "Joe Wilcox",
+        "first_name": "Joe",
+        "middle_name": "",
+        "last_name": "Wilcox",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 58,
+        "company_influence_score": 62,
+        "url": "https://prowly.com/profiles/journalists/joe-wilcox"
+    }
+]

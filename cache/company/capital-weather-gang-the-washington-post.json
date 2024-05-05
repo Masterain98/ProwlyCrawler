@@ -1,0 +1,99 @@
+[
+    {
+        "company": "capital-weather-gang-the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Ian Livingston",
+        "first_name": "Ian",
+        "middle_name": "",
+        "last_name": "Livingston",
+        "title": "Information Lead and Forecaster",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Meteorology"
+        ],
+        "influence_score": 83,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ian-livingston-419701"
+    },
+    {
+        "company": "capital-weather-gang-the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Jason Samenow",
+        "first_name": "Jason",
+        "middle_name": "",
+        "last_name": "Samenow",
+        "title": "Editor & Writer/Chief Meteorologist",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/jason-samenow"
+    },
+    {
+        "company": "capital-weather-gang-the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Matthew Cappucci",
+        "first_name": "Matthew",
+        "middle_name": "",
+        "last_name": "Cappucci",
+        "title": "Meteorologist",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/matthew-cappucci"
+    },
+    {
+        "company": "capital-weather-gang-the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Dan Stillman",
+        "first_name": "Dan",
+        "middle_name": "",
+        "last_name": "Stillman",
+        "title": "Co-Founder/Meteorologist and Editor",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/dan-stillman"
+    },
+    {
+        "company": "capital-weather-gang-the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Ian Livingston",
+        "first_name": "Ian",
+        "middle_name": "",
+        "last_name": "Livingston",
+        "title": "Information Lead and Forecaster",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 83,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ian-livingston-210200"
+    },
+    {
+        "company": "capital-weather-gang-the-washington-post",
+        "company_url": "washingtonpost.com",
+        "name": "Ian Livingston",
+        "first_name": "Ian",
+        "middle_name": "",
+        "last_name": "Livingston",
+        "title": "Photographer & Forecaster, Information Lead",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 83,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ian-livingston"
+    }
+]

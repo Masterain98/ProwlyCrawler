@@ -1,0 +1,66 @@
+[
+    {
+        "company": "wsj-pro-private-equity-group",
+        "company_url": "wsj.com",
+        "name": "Laura Kreutzer",
+        "first_name": "Laura",
+        "middle_name": "",
+        "last_name": "Kreutzer",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 71,
+        "url": "https://prowly.com/profiles/journalists/laura-kreutzer"
+    },
+    {
+        "company": "wsj-pro-private-equity-group",
+        "company_url": "wsj.com",
+        "name": "Ted Bunker",
+        "first_name": "Ted",
+        "middle_name": "",
+        "last_name": "Bunker",
+        "title": "Deputy Editor",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 71,
+        "url": "https://prowly.com/profiles/journalists/ted-bunker"
+    },
+    {
+        "company": "wsj-pro-private-equity-group",
+        "company_url": "wsj.com",
+        "name": "Laura Cooper",
+        "first_name": "Laura",
+        "middle_name": "",
+        "last_name": "Cooper",
+        "title": "Private Equity Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 71,
+        "url": "https://prowly.com/profiles/journalists/laura-cooper"
+    },
+    {
+        "company": "wsj-pro-private-equity-group",
+        "company_url": "wsj.com",
+        "name": "Luis Garcia",
+        "first_name": "Luis",
+        "middle_name": "",
+        "last_name": "Garcia",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Finance & Banking Services"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 71,
+        "url": "https://prowly.com/profiles/journalists/luis-garcia"
+    }
+]

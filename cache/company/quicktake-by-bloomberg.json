@@ -1,0 +1,122 @@
+[
+    {
+        "company": "quicktake-by-bloomberg",
+        "company_url": "bloomberg.com",
+        "name": "Claire Obusan",
+        "first_name": "Claire",
+        "middle_name": "",
+        "last_name": "Obusan",
+        "title": "Global Planning Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/claire-obusan"
+    },
+    {
+        "company": "quicktake-by-bloomberg",
+        "company_url": "bloomberg.com",
+        "name": "Martine Paris",
+        "first_name": "Martine",
+        "middle_name": "",
+        "last_name": "Paris",
+        "title": "Trending Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Apparel",
+            "Food",
+            "Commerce"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/martine-paris-227964"
+    },
+    {
+        "company": "quicktake-by-bloomberg",
+        "company_url": "bloomberg.com",
+        "name": "David Meyers",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Meyers",
+        "title": "Executive Producer",
+        "location": "United States",
+        "topics": [
+            "International News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/david-meyers"
+    },
+    {
+        "company": "quicktake-by-bloomberg",
+        "company_url": "bloomberg.com",
+        "name": "Martine Paris",
+        "first_name": "Martine",
+        "middle_name": "",
+        "last_name": "Paris",
+        "title": "Trending Reporter",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Apparel",
+            "Food",
+            "Commerce"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/martine-paris"
+    },
+    {
+        "company": "quicktake-by-bloomberg",
+        "company_url": "bloomberg.com",
+        "name": "Mindy Massucci",
+        "first_name": "Mindy",
+        "middle_name": "",
+        "last_name": "Massucci",
+        "title": "Head of Global Content",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/mindy-massucci"
+    },
+    {
+        "company": "quicktake-by-bloomberg",
+        "company_url": "bloomberg.com",
+        "name": "Andrew Barden",
+        "first_name": "Andrew",
+        "middle_name": "",
+        "last_name": "Barden",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Technology",
+            "Politics"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/andrew-barden"
+    },
+    {
+        "company": "quicktake-by-bloomberg",
+        "company_url": "bloomberg.com",
+        "name": "Virginia Lau",
+        "first_name": "Virginia",
+        "middle_name": "",
+        "last_name": "Lau",
+        "title": "Social Curator",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/virginia-lau"
+    }
+]

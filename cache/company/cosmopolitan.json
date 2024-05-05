@@ -1,0 +1,331 @@
+[
+    {
+        "company": "cosmopolitan",
+        "company_url": "cosmopolitan.com",
+        "name": "Jessica Goodman",
+        "first_name": "Jessica",
+        "middle_name": "",
+        "last_name": "Goodman",
+        "title": "Editor, Op-Ed",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Celebrities",
+            "House",
+            "Entertainment",
+            "Apparel",
+            "Life",
+            "Society",
+            "Demographics",
+            "Women's Health"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/jessica-goodman"
+    },
+    {
+        "company": "cosmopolitan",
+        "company_url": "cosmopolitan.com",
+        "name": "John Searles",
+        "first_name": "John",
+        "middle_name": "",
+        "last_name": "Searles",
+        "title": "Editor at Large",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "House",
+            "Entertainment",
+            "Apparel",
+            "Demographics"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/john-searles"
+    },
+    {
+        "company": "cosmopolitan",
+        "company_url": "cosmopolitan.com",
+        "name": "Patricia Camerota",
+        "first_name": "Patricia",
+        "middle_name": "",
+        "last_name": "Camerota",
+        "title": "Social Media Editor",
+        "location": "United States",
+        "topics": [
+            "Social Media"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/patricia-camerota"
+    },
+    {
+        "company": "cosmopolitan",
+        "company_url": "cosmopolitan.com",
+        "name": "Ama Kwarteng",
+        "first_name": "Ama",
+        "middle_name": "",
+        "last_name": "Kwarteng",
+        "title": "Beauty Assistant",
+        "location": "United States",
+        "topics": [
+            "Beauty"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/ama-kwarteng"
+    },
+    {
+        "company": "cosmopolitan",
+        "company_url": "cosmopolitan.com",
+        "name": "Sarah Weldon",
+        "first_name": "Sarah",
+        "middle_name": "",
+        "last_name": "Weldon",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "House"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/sarah-weldon"
+    },
+    {
+        "company": "cosmopolitan",
+        "company_url": "cosmopolitan.com",
+        "name": "Cassie Anderson",
+        "first_name": "Cassie",
+        "middle_name": "",
+        "last_name": "Anderson",
+        "title": "Fashion Director",
+        "location": "United States",
+        "topics": [
+            "Apparel"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/cassie-anderson"
+    },
+    {
+        "company": "cosmopolitan",
+        "company_url": "cosmopolitan.com",
+        "name": "Kim Duong",
+        "first_name": "Kim",
+        "middle_name": "",
+        "last_name": "Duong",
+        "title": "Shopping Editor",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Apparel",
+            "Commerce"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/kim-duong"
+    },
+    {
+        "company": "cosmopolitan",
+        "company_url": "cosmopolitan.com",
+        "name": "Jennifer Ortiz",
+        "first_name": "Jennifer",
+        "middle_name": "",
+        "last_name": "Ortiz",
+        "title": "Deputy Editor",
+        "location": "United States",
+        "topics": [
+            "House"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/jennifer-ortiz-46949"
+    },
+    {
+        "company": "cosmopolitan",
+        "company_url": "cosmopolitan.com",
+        "name": "Julee Wilson",
+        "first_name": "Julee",
+        "middle_name": "",
+        "last_name": "Wilson",
+        "title": "Beauty Director",
+        "location": "United States",
+        "topics": [
+            "Beauty"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/julee-wilson"
+    },
+    {
+        "company": "cosmopolitan",
+        "company_url": "cosmopolitan.com",
+        "name": "Lauren Adhav",
+        "first_name": "Lauren",
+        "middle_name": "",
+        "last_name": "Adhav",
+        "title": "Associate Fashion Editor",
+        "location": "United States",
+        "topics": [
+            "Apparel"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/lauren-adhav"
+    },
+    {
+        "company": "cosmopolitan",
+        "company_url": "cosmopolitan.com",
+        "name": "Emma Baty",
+        "first_name": "Emma",
+        "middle_name": "",
+        "last_name": "Baty",
+        "title": "Associate Entertainment Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Media"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/emma-baty"
+    },
+    {
+        "company": "cosmopolitan",
+        "company_url": "cosmopolitan.com",
+        "name": "Taylor Andrews",
+        "first_name": "Taylor",
+        "middle_name": "",
+        "last_name": "Andrews",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Life"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/taylor-andrews"
+    },
+    {
+        "company": "cosmopolitan",
+        "company_url": "cosmopolitan.com",
+        "name": "Rachel Torgerson",
+        "first_name": "Rachel",
+        "middle_name": "",
+        "last_name": "Torgerson",
+        "title": "Fashion Features Director",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Apparel"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/rachel-torgerson"
+    },
+    {
+        "company": "cosmopolitan",
+        "company_url": "cosmopolitan.com",
+        "name": "Megan Uy",
+        "first_name": "Megan",
+        "middle_name": "",
+        "last_name": "Uy",
+        "title": "Editorial Fellow",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Apparel",
+            "Entertainment"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/megan-uy"
+    },
+    {
+        "company": "cosmopolitan",
+        "company_url": "cosmopolitan.com",
+        "name": "Sascha de Gersdorff",
+        "first_name": "Sascha",
+        "middle_name": "de",
+        "last_name": "Gersdorff",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Entertainment"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/sascha-de-gersdorff"
+    },
+    {
+        "company": "cosmopolitan",
+        "company_url": "cosmopolitan.com",
+        "name": "Madeleine Reeves",
+        "first_name": "Madeleine",
+        "middle_name": "",
+        "last_name": "Reeves",
+        "title": "Deputy Articles Director",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Life"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/madeleine-reeves"
+    },
+    {
+        "company": "cosmopolitan",
+        "company_url": "cosmopolitan.com",
+        "name": "Ashley Oerman",
+        "first_name": "Ashley",
+        "middle_name": "",
+        "last_name": "Oerman",
+        "title": "Deputy Lifestyle Director",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Fitness",
+            "Food",
+            "Health & Medicine"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/ashley-oerman"
+    },
+    {
+        "company": "cosmopolitan",
+        "company_url": "cosmopolitan.com",
+        "name": "Milagros Godio",
+        "first_name": "Milagros",
+        "middle_name": "",
+        "last_name": "Godio",
+        "title": "Freelance Writer",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Apparel",
+            "Entertainment"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/milagros-godio"
+    },
+    {
+        "company": "cosmopolitan",
+        "company_url": "cosmopolitan.com",
+        "name": "Lauren Balsamo",
+        "first_name": "Lauren",
+        "middle_name": "",
+        "last_name": "Balsamo",
+        "title": "Deputy Beauty Director",
+        "location": "United States",
+        "topics": [
+            "Beauty"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/lauren-balsamo"
+    }
+]

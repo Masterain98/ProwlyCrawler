@@ -1,0 +1,716 @@
+[
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Monica Chin",
+        "first_name": "Monica",
+        "middle_name": "",
+        "last_name": "Chin",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "PCs/Laptops"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/monica-chin"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Julia Alexander",
+        "first_name": "Julia",
+        "middle_name": "",
+        "last_name": "Alexander",
+        "title": "Reporter",
+        "location": "Canada",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/julia-alexander"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Makena Kelly",
+        "first_name": "Makena",
+        "middle_name": "",
+        "last_name": "Kelly",
+        "title": "Policy Reporter",
+        "location": "United States",
+        "topics": [
+            "Internet",
+            "Computers & Technology",
+            "Politics"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/makena-kelly"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Thomas Ricker",
+        "first_name": "Thomas",
+        "middle_name": "",
+        "last_name": "Ricker",
+        "title": "Deputy Editor",
+        "location": "Netherlands",
+        "topics": [
+            "Consumer Electronics",
+            "Technology"
+        ],
+        "influence_score": 69,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/thomas-ricker"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Charles Pulliam-Moore",
+        "first_name": "Charles",
+        "middle_name": "",
+        "last_name": "Pulliam-Moore",
+        "title": "Film & TV Writer",
+        "location": "United States",
+        "topics": [
+            "Media",
+            "Entertainment"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/charles-pulliam-moore-114486"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "David Pierce",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Pierce",
+        "title": "Editor At Large/Co-Host",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Technology"
+        ],
+        "influence_score": 78,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/david-pierce-433907"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Andrew Webster",
+        "first_name": "Andrew",
+        "middle_name": "",
+        "last_name": "Webster",
+        "title": "Games Editor",
+        "location": "Canada",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 69,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/andrew-webster"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Sean O'Kane",
+        "first_name": "Sean",
+        "middle_name": "",
+        "last_name": "O'Kane",
+        "title": "Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/sean-o-kane"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Tom Warren",
+        "first_name": "Tom",
+        "middle_name": "",
+        "last_name": "Warren",
+        "title": "Senior Editor",
+        "location": "United Kingdom",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 77,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/tom-warren"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Ashley Carman",
+        "first_name": "Ashley",
+        "middle_name": "",
+        "last_name": "Carman",
+        "title": "Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "Social Media"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ashley-carman"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Alex Cranz",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Cranz",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/alex-cranz-786849"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Josh Dzieza",
+        "first_name": "Josh",
+        "middle_name": "",
+        "last_name": "Dzieza",
+        "title": "Investigations Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/josh-dzieza"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Sean O'Kane",
+        "first_name": "Sean",
+        "middle_name": "",
+        "last_name": "O'Kane",
+        "title": "Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/sean-o-kane-99470"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Jennifer Tuohy",
+        "first_name": "Jennifer",
+        "middle_name": "",
+        "last_name": "Tuohy",
+        "title": "Reviewer/Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/jennifer-tuohy"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Brandon Widder",
+        "first_name": "Brandon",
+        "middle_name": "",
+        "last_name": "Widder",
+        "title": "Senior Commerce Editor",
+        "location": "United States",
+        "topics": [
+            "Business"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/brandon-widder"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "David Pierce",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Pierce",
+        "title": "Editor At Large/Co-Host",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Technology"
+        ],
+        "influence_score": 78,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/david-pierce-252372"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Nicole Wetsman",
+        "first_name": "Nicole",
+        "middle_name": "",
+        "last_name": "Wetsman",
+        "title": "Health Tech Reporter",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/nicole-wetsman"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Richard Lawler",
+        "first_name": "Richard",
+        "middle_name": "",
+        "last_name": "Lawler",
+        "title": "Senior News Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/richard-lawler"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Alex Cranz",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Cranz",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/alex-cranz"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Victoria Song",
+        "first_name": "Victoria",
+        "middle_name": "",
+        "last_name": "Song",
+        "title": "Reviewer , Wearables",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/victoria-song-235342"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Victoria Song",
+        "first_name": "Victoria",
+        "middle_name": "",
+        "last_name": "Song",
+        "title": "Reviewer , Wearables",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Technology"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/victoria-song-89290"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Sean Hollister",
+        "first_name": "Sean",
+        "middle_name": "",
+        "last_name": "Hollister",
+        "title": "Senior Reports Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Commerce"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/sean-hollister-431186"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Catie Keck",
+        "first_name": "Catie",
+        "middle_name": "",
+        "last_name": "Keck",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/catie-keck"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Sean Hollister",
+        "first_name": "Sean",
+        "middle_name": "",
+        "last_name": "Hollister",
+        "title": "Senior News Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Technology",
+            "Business",
+            "Commerce",
+            "Mobile"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/sean-hollister"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Sarah Jeong",
+        "first_name": "Sarah",
+        "middle_name": "",
+        "last_name": "Jeong",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "Social Media",
+            "Law"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/sarah-jeong"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Ruben Salvadori",
+        "first_name": "Ruben",
+        "middle_name": "",
+        "last_name": "Salvadori",
+        "title": "Director of Audience Development",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ruben-salvadori"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "David Pierce",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Pierce",
+        "title": "Editor At Large/Co-Host",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Technology"
+        ],
+        "influence_score": 74,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/david-pierce-147474"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Alex Heath",
+        "first_name": "Alex",
+        "middle_name": "",
+        "last_name": "Heath",
+        "title": "Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "Social Media"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/alex-heath-75603"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Chris Welch",
+        "first_name": "Chris",
+        "middle_name": "",
+        "last_name": "Welch",
+        "title": "News Edtior",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 75,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/chris-welch"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Eleanor Donovan",
+        "first_name": "Eleanor",
+        "middle_name": "",
+        "last_name": "Donovan",
+        "title": "Executive Producer",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/eleanor-donovan"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Adi Robertson",
+        "first_name": "Adi",
+        "middle_name": "",
+        "last_name": "Robertson",
+        "title": "Senior Reporter",
+        "location": "United States",
+        "topics": [
+            "Video Games"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/adi-robertson"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Andrew Hawkins",
+        "first_name": "Andrew",
+        "middle_name": "",
+        "last_name": "Hawkins",
+        "title": "Senior Transportation Reporter",
+        "location": "United States",
+        "topics": [
+            "Public Transportation",
+            "Transportation and Logistics"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/andrew-hawkins"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Loren Grush",
+        "first_name": "Loren",
+        "middle_name": "",
+        "last_name": "Grush",
+        "title": "Senior Science Reporter",
+        "location": "United States",
+        "topics": [
+            "Science",
+            "Space Exploration"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/loren-grush"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Sarah Jeong",
+        "first_name": "Sarah",
+        "middle_name": "",
+        "last_name": "Jeong",
+        "title": "Deputy Features Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 77,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/sarah-jeong-197893"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Nathan Edwards",
+        "first_name": "Nathan",
+        "middle_name": "",
+        "last_name": "Edwards",
+        "title": "Senior Reviews Editor",
+        "location": "United States",
+        "topics": [
+            "Commerce",
+            "Technology"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/nathan-edwards"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Justine Calma",
+        "first_name": "Justine",
+        "middle_name": "",
+        "last_name": "Calma",
+        "title": "Reporter",
+        "location": "United States",
+        "topics": [
+            "Environment",
+            "Science"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/justine-calma"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Allison Johnson",
+        "first_name": "Allison",
+        "middle_name": "",
+        "last_name": "Johnson",
+        "title": "Reviews Writer",
+        "location": "United States",
+        "topics": [
+            "Smartphones"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/allison-johnson"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Taylor Lyles",
+        "first_name": "Taylor",
+        "middle_name": "",
+        "last_name": "Lyles",
+        "title": "News Writer",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/taylor-lyles"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Russell Brandom",
+        "first_name": "Russell",
+        "middle_name": "",
+        "last_name": "Brandom",
+        "title": "Policy Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Internet",
+            "Law"
+        ],
+        "influence_score": 73,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/russell-brandom"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Barbara Krasnoff",
+        "first_name": "Barbara",
+        "middle_name": "",
+        "last_name": "Krasnoff",
+        "title": "Reviews Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/barbara-krasnoff"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Mary Beth Griggs",
+        "first_name": "Mary",
+        "middle_name": "Beth",
+        "last_name": "Griggs",
+        "title": "Science Editor",
+        "location": "United States",
+        "topics": [
+            "Science"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/mary-beth-griggs"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Monica Chin",
+        "first_name": "Monica",
+        "middle_name": "",
+        "last_name": "Chin",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Education",
+            "PCs/Laptops"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/monica-chin-239252"
+    },
+    {
+        "company": "the-verge",
+        "company_url": "theverge.com",
+        "name": "Nilay Patel",
+        "first_name": "Nilay",
+        "middle_name": "",
+        "last_name": "Patel",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 79,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/nilay-patel"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "company": "detroitborg",
+        "company_url": "youtube.com",
+        "name": "Michael Kukielka",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Kukielka",
+        "title": "Vlogger",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Technology",
+            "Commerce"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 77,
+        "url": "https://prowly.com/profiles/journalists/michael-kukielka"
+    }
+]

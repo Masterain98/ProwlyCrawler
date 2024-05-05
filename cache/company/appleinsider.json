@@ -1,0 +1,66 @@
+[
+    {
+        "company": "appleinsider",
+        "company_url": "appleinsider.com",
+        "name": "Lester Marks",
+        "first_name": "Lester",
+        "middle_name": "",
+        "last_name": "Marks",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Apple Products"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 77,
+        "url": "https://prowly.com/profiles/journalists/lester-marks"
+    },
+    {
+        "company": "appleinsider",
+        "company_url": "appleinsider.com",
+        "name": "Daniel Eran Dilger",
+        "first_name": "Daniel",
+        "middle_name": "Eran",
+        "last_name": "Dilger",
+        "title": "Blogger",
+        "location": "United States",
+        "topics": [
+            "Apple Products"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 77,
+        "url": "https://prowly.com/profiles/journalists/daniel-eran-dilger"
+    },
+    {
+        "company": "appleinsider",
+        "company_url": "appleinsider.com",
+        "name": "Mikey Campbell",
+        "first_name": "Mikey",
+        "middle_name": "",
+        "last_name": "Campbell",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Apple Products"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 77,
+        "url": "https://prowly.com/profiles/journalists/mikey-campbell"
+    },
+    {
+        "company": "appleinsider",
+        "company_url": "appleinsider.com",
+        "name": "Andrew O'Hara",
+        "first_name": "Andrew",
+        "middle_name": "",
+        "last_name": "O'Hara",
+        "title": "Editor & Video Producer",
+        "location": "United States",
+        "topics": [
+            "Apple Products"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 77,
+        "url": "https://prowly.com/profiles/journalists/andrew-o-hara"
+    }
+]

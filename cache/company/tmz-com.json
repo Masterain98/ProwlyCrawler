@@ -1,0 +1,68 @@
+[
+    {
+        "company": "tmz-com",
+        "company_url": "tmz.com",
+        "name": "Olivia Heinle",
+        "first_name": "Olivia",
+        "middle_name": "",
+        "last_name": "Heinle",
+        "title": "News Desk",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Entertainment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/olivia-heinle"
+    },
+    {
+        "company": "tmz-com",
+        "company_url": "tmz.com",
+        "name": "Harvey Levin",
+        "first_name": "Harvey",
+        "middle_name": "",
+        "last_name": "Levin",
+        "title": "Founder",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 84,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/harvey-levin"
+    },
+    {
+        "company": "tmz-com",
+        "company_url": "tmz.com",
+        "name": "Gary Dudak",
+        "first_name": "Gary",
+        "middle_name": "",
+        "last_name": "Dudak",
+        "title": "Web Producer",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Entertainment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/gary-dudak"
+    },
+    {
+        "company": "tmz-com",
+        "company_url": "tmz.com",
+        "name": "Casey Carver",
+        "first_name": "Casey",
+        "middle_name": "",
+        "last_name": "Carver",
+        "title": "Entertainment Producer & Publicist",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 89,
+        "url": "https://prowly.com/profiles/journalists/casey-carver"
+    }
+]

@@ -1,0 +1,442 @@
+[
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Nina Corcoran",
+        "first_name": "Nina",
+        "middle_name": "",
+        "last_name": "Corcoran",
+        "title": "Associate Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Music"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/nina-corcoran"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Sam Sodomsky",
+        "first_name": "Sam",
+        "middle_name": "",
+        "last_name": "Sodomsky",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Music"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/sam-sodomsky"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Marc Masters",
+        "first_name": "Marc",
+        "middle_name": "",
+        "last_name": "Masters",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/marc-masters"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Grayson Currin",
+        "first_name": "Grayson",
+        "middle_name": "",
+        "last_name": "Currin",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/grayson-currin"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Matthew Strauss",
+        "first_name": "Matthew",
+        "middle_name": "",
+        "last_name": "Strauss",
+        "title": "News Editor",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/matthew-strauss"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Cat Zhang",
+        "first_name": "Cat",
+        "middle_name": "",
+        "last_name": "Zhang",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Music"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/cat-zhang"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Jeremy Larson",
+        "first_name": "Jeremy",
+        "middle_name": "",
+        "last_name": "Larson",
+        "title": "Reviews Editor",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/jeremy-larson"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Marc Hogan",
+        "first_name": "Marc",
+        "middle_name": "",
+        "last_name": "Hogan",
+        "title": "Senior Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/marc-hogan"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Sheldon Pearce",
+        "first_name": "Sheldon",
+        "middle_name": "",
+        "last_name": "Pearce",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/sheldon-pearce"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Quinn Moreland",
+        "first_name": "Quinn",
+        "middle_name": "",
+        "last_name": "Moreland",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Music"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/quinn-moreland"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Andy Beta",
+        "first_name": "Andy",
+        "middle_name": "",
+        "last_name": "Beta",
+        "title": "Contributing Music Writer",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/andy-beta"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Brian Howe",
+        "first_name": "Brian",
+        "middle_name": "",
+        "last_name": "Howe",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/brian-howe"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Jillian Mapes",
+        "first_name": "Jillian",
+        "middle_name": "",
+        "last_name": "Mapes",
+        "title": "Features Editor",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/jillian-mapes"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Jillian Mapes",
+        "first_name": "Jillian",
+        "middle_name": "",
+        "last_name": "Mapes",
+        "title": "Features Editor",
+        "location": "United States",
+        "topics": [
+            "Features/Lifestyle",
+            "Music"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/jillian-mapes-831596"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Noah Yoo",
+        "first_name": "Noah",
+        "middle_name": "",
+        "last_name": "Yoo",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/noah-yoo"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Evan Minsker",
+        "first_name": "Evan",
+        "middle_name": "",
+        "last_name": "Minsker",
+        "title": "News Editor",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/evan-minsker"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Brad Nelson",
+        "first_name": "Brad",
+        "middle_name": "",
+        "last_name": "Nelson",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/brad-nelson"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Braudie Blais-Billie",
+        "first_name": "Braudie",
+        "middle_name": "",
+        "last_name": "Blais-Billie",
+        "title": "Contributor",
+        "location": "United States",
+        "topics": [
+            "Celebrities"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/braudie-blais-billie"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Jayson Greene",
+        "first_name": "Jayson",
+        "middle_name": "",
+        "last_name": "Greene",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Music"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/jayson-greene"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Philip Sherburne",
+        "first_name": "Philip",
+        "middle_name": "",
+        "last_name": "Sherburne",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/philip-sherburne"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Ryan Dombal",
+        "first_name": "Ryan",
+        "middle_name": "",
+        "last_name": "Dombal",
+        "title": "Features Editor",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/ryan-dombal"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Jenn Pelly",
+        "first_name": "Jenn",
+        "middle_name": "",
+        "last_name": "Pelly",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Music"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/jenn-pelly"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Ian Cohen",
+        "first_name": "Ian",
+        "middle_name": "",
+        "last_name": "Cohen",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/ian-cohen"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Amy Phillips",
+        "first_name": "Amy",
+        "middle_name": "",
+        "last_name": "Phillips",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/amy-phillips"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Vrinda Jagota",
+        "first_name": "Vrinda",
+        "middle_name": "",
+        "last_name": "Jagota",
+        "title": "Associate Social Media Manager & Contributor",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/vrinda-jagota"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Alphonse Pierre",
+        "first_name": "Alphonse",
+        "middle_name": "",
+        "last_name": "Pierre",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Music"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/alphonse-pierre"
+    },
+    {
+        "company": "pitchfork",
+        "company_url": "pitchfork.com",
+        "name": "Andy Cush",
+        "first_name": "Andy",
+        "middle_name": "",
+        "last_name": "Cush",
+        "title": "Contributing Editor",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 79,
+        "url": "https://prowly.com/profiles/journalists/andy-cush"
+    }
+]

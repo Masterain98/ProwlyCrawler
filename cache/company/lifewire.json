@@ -1,0 +1,265 @@
+[
+    {
+        "company": "lifewire",
+        "company_url": "lifewire.com",
+        "name": "Taylor Clemons",
+        "first_name": "Taylor",
+        "middle_name": "",
+        "last_name": "Clemons",
+        "title": "Contributing Editor",
+        "location": "Unknown",
+        "topics": [],
+        "influence_score": 0,
+        "company_influence_score": 69,
+        "url": "https://prowly.com/profiles/journalists/taylor-clemons-61339"
+    },
+    {
+        "company": "lifewire",
+        "company_url": "lifewire.com",
+        "name": "Sam Costello",
+        "first_name": "Sam",
+        "middle_name": "",
+        "last_name": "Costello",
+        "title": "iPhone and iPod Expert",
+        "location": "United States",
+        "topics": [
+            "Apple Products",
+            "Smartphones",
+            "Android"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 69,
+        "url": "https://prowly.com/profiles/journalists/sam-costello"
+    },
+    {
+        "company": "lifewire",
+        "company_url": "lifewire.com",
+        "name": "Robert Silva",
+        "first_name": "Robert",
+        "middle_name": "",
+        "last_name": "Silva",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Media"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 69,
+        "url": "https://prowly.com/profiles/journalists/robert-silva"
+    },
+    {
+        "company": "lifewire",
+        "company_url": "lifewire.com",
+        "name": "Jerri Ledford",
+        "first_name": "Jerri",
+        "middle_name": "",
+        "last_name": "Ledford",
+        "title": "Writer, Editor",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Computers & Technology",
+            "Consumer Electronics",
+            "Technology",
+            "Social Media",
+            "Windows",
+            "Mobile"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 69,
+        "url": "https://prowly.com/profiles/journalists/jerri-ledford"
+    },
+    {
+        "company": "lifewire",
+        "company_url": "lifewire.com",
+        "name": "Marziah Karch",
+        "first_name": "Marziah",
+        "middle_name": "",
+        "last_name": "Karch",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Mobile",
+            "Android"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 69,
+        "url": "https://prowly.com/profiles/journalists/marziah-karch"
+    },
+    {
+        "company": "lifewire",
+        "company_url": "lifewire.com",
+        "name": "Alan Bradley",
+        "first_name": "Alan",
+        "middle_name": "",
+        "last_name": "Bradley",
+        "title": "Senior Tech Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Commerce",
+            "Technology"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 69,
+        "url": "https://prowly.com/profiles/journalists/alan-bradley"
+    },
+    {
+        "company": "lifewire",
+        "company_url": "lifewire.com",
+        "name": "Ajay Kumar",
+        "first_name": "Ajay",
+        "middle_name": "",
+        "last_name": "Kumar",
+        "title": "Tech Editor, Commerce",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Smartphones",
+            "Mobile"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 69,
+        "url": "https://prowly.com/profiles/journalists/ajay-kumar"
+    },
+    {
+        "company": "lifewire",
+        "company_url": "lifewire.com",
+        "name": "Tim Fisher",
+        "first_name": "Tim",
+        "middle_name": "",
+        "last_name": "Fisher",
+        "title": "General Manager/Vice President/Writer",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 69,
+        "url": "https://prowly.com/profiles/journalists/tim-fisher"
+    },
+    {
+        "company": "lifewire",
+        "company_url": "lifewire.com",
+        "name": "Rob LeFebvre",
+        "first_name": "Rob",
+        "middle_name": "",
+        "last_name": "LeFebvre",
+        "title": "Senior News Editor",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "News"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 69,
+        "url": "https://prowly.com/profiles/journalists/rob-lefebvre"
+    },
+    {
+        "company": "lifewire",
+        "company_url": "lifewire.com",
+        "name": "Rob LeFebvre",
+        "first_name": "Rob",
+        "middle_name": "",
+        "last_name": "LeFebvre",
+        "title": "Senior News Editor",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "MacOS",
+            "Apple Products"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 69,
+        "url": "https://prowly.com/profiles/journalists/rob-lefebvre-227740"
+    },
+    {
+        "company": "lifewire",
+        "company_url": "lifewire.com",
+        "name": "Jerri Ledford",
+        "first_name": "Jerri",
+        "middle_name": "",
+        "last_name": "Ledford",
+        "title": "News Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Technology",
+            "Social Media",
+            "Mobile"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 69,
+        "url": "https://prowly.com/profiles/journalists/jerri-ledford-166678"
+    },
+    {
+        "company": "lifewire",
+        "company_url": "lifewire.com",
+        "name": "Ajay Kumar",
+        "first_name": "Ajay",
+        "middle_name": "",
+        "last_name": "Kumar",
+        "title": "Tech Editor, Commerce",
+        "location": "United States",
+        "topics": [
+            "Technology",
+            "Smartphones",
+            "Mobile"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 69,
+        "url": "https://prowly.com/profiles/journalists/ajay-kumar-15288"
+    },
+    {
+        "company": "lifewire",
+        "company_url": "lifewire.com",
+        "name": "David Beren",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Beren",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Commerce"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 69,
+        "url": "https://prowly.com/profiles/journalists/david-beren"
+    },
+    {
+        "company": "lifewire",
+        "company_url": "lifewire.com",
+        "name": "Jerri Ledford",
+        "first_name": "Jerri",
+        "middle_name": "",
+        "last_name": "Ledford",
+        "title": "Writer / News Editor / Fact Checker",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Technology",
+            "Social Media",
+            "Mobile"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 69,
+        "url": "https://prowly.com/profiles/journalists/jerri-ledford-153076"
+    },
+    {
+        "company": "lifewire",
+        "company_url": "lifewire.com",
+        "name": "Taylor Clemons",
+        "first_name": "Taylor",
+        "middle_name": "",
+        "last_name": "Clemons",
+        "title": "Contributing Editor",
+        "location": "Unknown",
+        "topics": [],
+        "influence_score": 0,
+        "company_influence_score": 69,
+        "url": "https://prowly.com/profiles/journalists/taylor-clemons"
+    }
+]

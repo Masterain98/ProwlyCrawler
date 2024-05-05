@@ -1,0 +1,55 @@
+[
+    {
+        "company": "hulu-356673",
+        "company_url": "hulu.com",
+        "name": "David Baron",
+        "first_name": "David",
+        "middle_name": "",
+        "last_name": "Baron",
+        "title": "Vice President, Content",
+        "location": "United States",
+        "topics": [
+            "Internet",
+            "Entertainment",
+            "Media",
+            "Video Games"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/david-baron"
+    },
+    {
+        "company": "hulu-356673",
+        "company_url": "hulu.com",
+        "name": "Lacey Donohue",
+        "first_name": "Lacey",
+        "middle_name": "",
+        "last_name": "Donohue",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "Internet",
+            "Entertainment",
+            "Media"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/lacey-donohue"
+    },
+    {
+        "company": "hulu-356673",
+        "company_url": "hulu.com",
+        "name": "Perry Seaman",
+        "first_name": "Perry",
+        "middle_name": "",
+        "last_name": "Seaman",
+        "title": "Senior Team Lead, Originals Publicity",
+        "location": "United States",
+        "topics": [
+            "Public Relations"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 87,
+        "url": "https://prowly.com/profiles/journalists/perry-seaman"
+    }
+]

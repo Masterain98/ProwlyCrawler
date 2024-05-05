@@ -1,0 +1,451 @@
+[
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Daise Bedolla",
+        "first_name": "Daise",
+        "middle_name": "",
+        "last_name": "Bedolla",
+        "title": "Social Media Editor",
+        "location": "United States",
+        "topics": [
+            "Beauty"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/daise-bedolla"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Heather Havrilesky",
+        "first_name": "Heather",
+        "middle_name": "",
+        "last_name": "Havrilesky",
+        "title": "Columnist",
+        "location": "Unknown",
+        "topics": [],
+        "influence_score": 0,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/heather-havrilesky"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Jennifer Ortiz",
+        "first_name": "Jennifer",
+        "middle_name": "",
+        "last_name": "Ortiz",
+        "title": "Deputy Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Apparel"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jennifer-ortiz"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Asia Ware",
+        "first_name": "Asia",
+        "middle_name": "",
+        "last_name": "Ware",
+        "title": "Fashion & Beauty Junior Writer",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Apparel"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/asia-ware"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Rachel Bashein",
+        "first_name": "Rachel",
+        "middle_name": "",
+        "last_name": "Bashein",
+        "title": "Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Apparel"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/rachel-bashein"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Matthew Schneier",
+        "first_name": "Matthew",
+        "middle_name": "",
+        "last_name": "Schneier",
+        "title": "Features Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Apparel",
+            "Features/Lifestyle"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/matthew-schneier"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Kathleen Hou",
+        "first_name": "Kathleen",
+        "middle_name": "",
+        "last_name": "Hou",
+        "title": "Beauty Director",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Apparel"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/kathleen-hou"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Melissa Dahl",
+        "first_name": "Melissa",
+        "middle_name": "",
+        "last_name": "Dahl",
+        "title": "Deputy Editor",
+        "location": "United States",
+        "topics": [
+            "House"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/melissa-dahl"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Kerensa Cadenas",
+        "first_name": "Kerensa",
+        "middle_name": "",
+        "last_name": "Cadenas",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Books",
+            "Celebrities",
+            "Entertainment",
+            "Music",
+            "Media"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/kerensa-cadenas"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Bridget Read",
+        "first_name": "Bridget",
+        "middle_name": "",
+        "last_name": "Read",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Entertainment"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/bridget-read"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Jessica Willis",
+        "first_name": "Jessica",
+        "middle_name": "",
+        "last_name": "Willis",
+        "title": "Style Director",
+        "location": "United States",
+        "topics": [
+            "Apparel"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jessica-willis"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Asia Ware",
+        "first_name": "Asia",
+        "middle_name": "",
+        "last_name": "Ware",
+        "title": "Fashion & Beauty Junior Writer",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Apparel"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/asia-ware-27332"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Allison Davis",
+        "first_name": "Allison",
+        "middle_name": "",
+        "last_name": "Davis",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/allison-davis"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Brock Colyar",
+        "first_name": "Brock",
+        "middle_name": "",
+        "last_name": "Colyar",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Apparel"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/brock-colyar"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Erica Smith",
+        "first_name": "Erica",
+        "middle_name": "",
+        "last_name": "Smith",
+        "title": "Beauty Writer",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Apparel"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/erica-smith"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Cathy Horyn",
+        "first_name": "Cathy",
+        "middle_name": "",
+        "last_name": "Horyn",
+        "title": "Fashion Critic-at-Large",
+        "location": "United States",
+        "topics": [
+            "Apparel",
+            "Fashion"
+        ],
+        "influence_score": 76,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/cathy-horyn-228914"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Izzy Grinspan",
+        "first_name": "Izzy",
+        "middle_name": "",
+        "last_name": "Grinspan",
+        "title": "Deputy Style Editor",
+        "location": "United States",
+        "topics": [
+            "Apparel"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/izzy-grinspan"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Callie Beusman",
+        "first_name": "Callie",
+        "middle_name": "",
+        "last_name": "Beusman",
+        "title": "News Editor",
+        "location": "United States",
+        "topics": [
+            "Editorial Page"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/callie-beusman"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Rebecca Traister",
+        "first_name": "Rebecca",
+        "middle_name": "",
+        "last_name": "Traister",
+        "title": "Columnist",
+        "location": "United States",
+        "topics": [
+            "Society"
+        ],
+        "influence_score": 74,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/rebecca-traister"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Hannah Gold",
+        "first_name": "Hannah",
+        "middle_name": "",
+        "last_name": "Gold",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Celebrities"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/hannah-gold"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Rhonda Garelick",
+        "first_name": "Rhonda",
+        "middle_name": "",
+        "last_name": "Garelick",
+        "title": "Critic & Columnist",
+        "location": "United States",
+        "topics": [
+            "Apparel",
+            "Politics"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/rhonda-garelick"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Sangeeta Singh-Kurtz",
+        "first_name": "Sangeeta",
+        "middle_name": "",
+        "last_name": "Singh-Kurtz",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Society"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/sangeeta-singh-kurtz"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Madeleine Aggeler",
+        "first_name": "Madeleine",
+        "middle_name": "",
+        "last_name": "Aggeler",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Celebrities"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/madeleine-aggeler"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Andrea Gonz\u00e1lez-Ram\u00edrez",
+        "first_name": "Andrea",
+        "middle_name": "",
+        "last_name": "Gonz\u00e1lez-Ram\u00edrez",
+        "title": "Senior Writer",
+        "location": "United States",
+        "topics": [
+            "Society"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/andrea-gonzalez-ramirez"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Cathy Horyn",
+        "first_name": "Cathy",
+        "middle_name": "",
+        "last_name": "Horyn",
+        "title": "Critic-at-Large",
+        "location": "United States",
+        "topics": [
+            "Apparel",
+            "Fashion"
+        ],
+        "influence_score": 36,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/cathy-horyn"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Jane Larkworthy",
+        "first_name": "Jane",
+        "middle_name": "",
+        "last_name": "Larkworthy",
+        "title": "Beauty Editor-at-Large",
+        "location": "United States",
+        "topics": [
+            "Beauty",
+            "Apparel"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/jane-larkworthy"
+    },
+    {
+        "company": "the-cut-new-york",
+        "company_url": "thecut.com",
+        "name": "Emilia Petrarca",
+        "first_name": "Emilia",
+        "middle_name": "",
+        "last_name": "Petrarca",
+        "title": "Fashion News Writer",
+        "location": "United States",
+        "topics": [
+            "Apparel"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 81,
+        "url": "https://prowly.com/profiles/journalists/emilia-petrarca"
+    }
+]

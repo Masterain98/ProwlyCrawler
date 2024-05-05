@@ -1,0 +1,50 @@
+[
+    {
+        "company": "architect",
+        "company_url": "architectmagazine.com",
+        "name": "Wanda Lau",
+        "first_name": "Wanda",
+        "middle_name": "",
+        "last_name": "Lau",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Design"
+        ],
+        "influence_score": 46,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/wanda-lau"
+    },
+    {
+        "company": "architect",
+        "company_url": "architectmagazine.com",
+        "name": "Alexandra Cipolle",
+        "first_name": "Alexandra",
+        "middle_name": "",
+        "last_name": "Cipolle",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Design"
+        ],
+        "influence_score": 50,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/alexandra-cipolle"
+    },
+    {
+        "company": "architect",
+        "company_url": "architectmagazine.com",
+        "name": "Eric Wills",
+        "first_name": "Eric",
+        "middle_name": "",
+        "last_name": "Wills",
+        "title": "Senior Editor, Features",
+        "location": "United States",
+        "topics": [
+            "Design"
+        ],
+        "influence_score": 42,
+        "company_influence_score": 64,
+        "url": "https://prowly.com/profiles/journalists/eric-wills"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "company": "techhive-com-341535",
+        "company_url": "techhive.com",
+        "name": "Michael Brown",
+        "first_name": "Michael",
+        "middle_name": "",
+        "last_name": "Brown",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Consumer Electronics",
+            "House",
+            "Gifts"
+        ],
+        "influence_score": 60,
+        "company_influence_score": 66,
+        "url": "https://prowly.com/profiles/journalists/michael-brown"
+    }
+]

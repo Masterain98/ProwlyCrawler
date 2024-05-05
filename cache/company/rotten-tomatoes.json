@@ -1,0 +1,68 @@
+[
+    {
+        "company": "rotten-tomatoes",
+        "company_url": "rottentomatoes.com",
+        "name": "Benjamin Lindsay",
+        "first_name": "Benjamin",
+        "middle_name": "",
+        "last_name": "Lindsay",
+        "title": "Contributing TV Editor",
+        "location": "United States",
+        "topics": [
+            "Media"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/benjamin-lindsay"
+    },
+    {
+        "company": "rotten-tomatoes",
+        "company_url": "rottentomatoes.com",
+        "name": "Kit Bowen",
+        "first_name": "Kit",
+        "middle_name": "",
+        "last_name": "Bowen",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Entertainment"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/kit-bowen"
+    },
+    {
+        "company": "rotten-tomatoes",
+        "company_url": "rottentomatoes.com",
+        "name": "Sara Clements",
+        "first_name": "Sara",
+        "middle_name": "",
+        "last_name": "Clements",
+        "title": "Editor & Freelance Journalist",
+        "location": "Canada",
+        "topics": [
+            "Entertainment",
+            "Rural"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/sara-clements"
+    },
+    {
+        "company": "rotten-tomatoes",
+        "company_url": "rottentomatoes.com",
+        "name": "Joel Meares",
+        "first_name": "Joel",
+        "middle_name": "",
+        "last_name": "Meares",
+        "title": "Editor In Chief",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 70,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/joel-meares"
+    }
+]

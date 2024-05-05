@@ -1,0 +1,70 @@
+[
+    {
+        "company": "9to5google",
+        "company_url": "9to5google.com",
+        "name": "Stephen Hall",
+        "first_name": "Stephen",
+        "middle_name": "",
+        "last_name": "Hall",
+        "title": "Growth Marketing Director/Blogger",
+        "location": "United States",
+        "topics": [
+            "Telecommunications"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 69,
+        "url": "https://prowly.com/profiles/journalists/stephen-hall"
+    },
+    {
+        "company": "9to5google",
+        "company_url": "9to5google.com",
+        "name": "Trevor Daugherty",
+        "first_name": "Trevor",
+        "middle_name": "",
+        "last_name": "Daugherty",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Consumer Electronics",
+            "Commerce",
+            "Smartphones"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 69,
+        "url": "https://prowly.com/profiles/journalists/trevor-daugherty"
+    },
+    {
+        "company": "9to5google",
+        "company_url": "9to5google.com",
+        "name": "Ben Schoon",
+        "first_name": "Ben",
+        "middle_name": "",
+        "last_name": "Schoon",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Smartphones",
+            "Android"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 69,
+        "url": "https://prowly.com/profiles/journalists/ben-schoon-17780"
+    },
+    {
+        "company": "9to5google",
+        "company_url": "9to5google.com",
+        "name": "Ben Schoon",
+        "first_name": "Ben",
+        "middle_name": "",
+        "last_name": "Schoon",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Smartphones",
+            "Android"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 69,
+        "url": "https://prowly.com/profiles/journalists/ben-schoon"
+    }
+]

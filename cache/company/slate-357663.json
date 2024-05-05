@@ -1,0 +1,423 @@
+[
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Bryan Lowder",
+        "first_name": "Bryan",
+        "middle_name": "",
+        "last_name": "Lowder",
+        "title": "Associate Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "LGBT"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/bryan-lowder"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Susan Matthews",
+        "first_name": "Susan",
+        "middle_name": "",
+        "last_name": "Matthews",
+        "title": "News Director",
+        "location": "United States",
+        "topics": [
+            "Features/Lifestyle",
+            "General Assignment News",
+            "Law",
+            "Environment",
+            "Politics"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/susan-matthews"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Joel Anderson",
+        "first_name": "Joel",
+        "middle_name": "",
+        "last_name": "Anderson",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Sports"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/joel-anderson"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Allegra Frank",
+        "first_name": "Allegra",
+        "middle_name": "",
+        "last_name": "Frank",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/allegra-frank-164298"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Carl Wilson",
+        "first_name": "Carl",
+        "middle_name": "",
+        "last_name": "Wilson",
+        "title": "Music Critic",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/carl-wilson"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Mason Marks",
+        "first_name": "Mason",
+        "middle_name": "",
+        "last_name": "Marks",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "Law"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/mason-marks"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Allegra Frank",
+        "first_name": "Allegra",
+        "middle_name": "",
+        "last_name": "Frank",
+        "title": "Senior Editor",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/allegra-frank"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Justin Peters",
+        "first_name": "Justin",
+        "middle_name": "",
+        "last_name": "Peters",
+        "title": "Correspondent",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Media",
+            "Politics"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/justin-peters"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Jonathan Fischer",
+        "first_name": "Jonathan",
+        "middle_name": "",
+        "last_name": "Fischer",
+        "title": "Technology Editor",
+        "location": "United States",
+        "topics": [
+            "Technology"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/jonathan-fischer"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Rebecca Onion",
+        "first_name": "Rebecca",
+        "middle_name": "",
+        "last_name": "Onion",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/rebecca-onion"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Fred Kaplan",
+        "first_name": "Fred",
+        "middle_name": "",
+        "last_name": "Kaplan",
+        "title": "Columnist",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/fred-kaplan"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Karen Han",
+        "first_name": "Karen",
+        "middle_name": "",
+        "last_name": "Han",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Media",
+            "Video Games"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/karen-han"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Jordan Weissmann",
+        "first_name": "Jordan",
+        "middle_name": "",
+        "last_name": "Weissmann",
+        "title": "Senior Business and Economics Correspondent",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Society"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/jordan-weissmann"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "June Thomas",
+        "first_name": "June",
+        "middle_name": "",
+        "last_name": "Thomas",
+        "title": "Senior Managing Producer",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/june-thomas"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Laura Bennett",
+        "first_name": "Laura",
+        "middle_name": "",
+        "last_name": "Bennett",
+        "title": "Editorial Director",
+        "location": "United States",
+        "topics": [
+            "House"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/laura-bennett"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Jared Hohlt",
+        "first_name": "Jared",
+        "middle_name": "",
+        "last_name": "Hohlt",
+        "title": "Editor in Chief",
+        "location": "United States",
+        "topics": [
+            "Business",
+            "Technology"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/jared-hohlt"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Lizzie O'Leary",
+        "first_name": "Lizzie",
+        "middle_name": "",
+        "last_name": "O'Leary",
+        "title": "Host, What Next: TBD",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Technology",
+            "Politics"
+        ],
+        "influence_score": 61,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/lizzie-o-leary"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Willa Paskin",
+        "first_name": "Willa",
+        "middle_name": "",
+        "last_name": "Paskin",
+        "title": "TV Critic",
+        "location": "United States",
+        "topics": [
+            "Media"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/willa-paskin"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Heather Schwedel",
+        "first_name": "Heather",
+        "middle_name": "",
+        "last_name": "Schwedel",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Entertainment"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/heather-schwedel"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Aymann Ismail",
+        "first_name": "Aymann",
+        "middle_name": "",
+        "last_name": "Ismail",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/aymann-ismail"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Allison Benedikt",
+        "first_name": "Allison",
+        "middle_name": "",
+        "last_name": "Benedikt",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Demographics",
+            "General Assignment News",
+            "Business",
+            "News",
+            "Politics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/allison-benedikt"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Carl Wilson",
+        "first_name": "Carl",
+        "middle_name": "",
+        "last_name": "Wilson",
+        "title": "Music Critic",
+        "location": "United States",
+        "topics": [
+            "Music"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/carl-wilson-126258"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Rachelle Hampton",
+        "first_name": "Rachelle",
+        "middle_name": "",
+        "last_name": "Hampton",
+        "title": "Podcast Host",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Internet"
+        ],
+        "influence_score": 65,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/rachelle-hampton"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Dana Stevens",
+        "first_name": "Dana",
+        "middle_name": "",
+        "last_name": "Stevens",
+        "title": "Movie Critic",
+        "location": "United States",
+        "topics": [
+            "Entertainment"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/dana-stevens"
+    },
+    {
+        "company": "slate-357663",
+        "company_url": "slate.com",
+        "name": "Lili Loofbourow",
+        "first_name": "Lili",
+        "middle_name": "",
+        "last_name": "Loofbourow",
+        "title": "Staff Writer",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Politics"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 61,
+        "url": "https://prowly.com/profiles/journalists/lili-loofbourow"
+    }
+]

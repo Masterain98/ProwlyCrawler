@@ -1,0 +1,122 @@
+[
+    {
+        "company": "lonely-planet",
+        "company_url": "lonelyplanet.com",
+        "name": "Sam Haddad",
+        "first_name": "Sam",
+        "middle_name": "",
+        "last_name": "Haddad",
+        "title": "Freelance Writer / Editor",
+        "location": "United Kingdom",
+        "topics": [
+            "Bicycling",
+            "Skiing and Winter Sports",
+            "Swimming and Water Sports",
+            "Travel",
+            "Extreme/Adventure Sports",
+            "Women's Sports"
+        ],
+        "influence_score": 59,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/sam-haddad"
+    },
+    {
+        "company": "lonely-planet",
+        "company_url": "lonelyplanet.com",
+        "name": "Melissa Yeager",
+        "first_name": "Melissa",
+        "middle_name": "",
+        "last_name": "Yeager",
+        "title": "Senior News Editor",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Travel"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/melissa-yeager-229479"
+    },
+    {
+        "company": "lonely-planet",
+        "company_url": "lonelyplanet.com",
+        "name": "Robert Balkovich",
+        "first_name": "Robert",
+        "middle_name": "",
+        "last_name": "Balkovich",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 57,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/robert-balkovich"
+    },
+    {
+        "company": "lonely-planet",
+        "company_url": "lonelyplanet.com",
+        "name": "Melissa Yeager",
+        "first_name": "Melissa",
+        "middle_name": "",
+        "last_name": "Yeager",
+        "title": "Senior News Editor",
+        "location": "United States",
+        "topics": [
+            "General Assignment News",
+            "Travel"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/melissa-yeager-261747"
+    },
+    {
+        "company": "lonely-planet",
+        "company_url": "lonelyplanet.com",
+        "name": "Evan Godt",
+        "first_name": "Evan",
+        "middle_name": "",
+        "last_name": "Godt",
+        "title": "Director of Content Operations",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/evan-godt"
+    },
+    {
+        "company": "lonely-planet",
+        "company_url": "lonelyplanet.com",
+        "name": "Alison Bing",
+        "first_name": "Alison",
+        "middle_name": "",
+        "last_name": "Bing",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Travel"
+        ],
+        "influence_score": 63,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/alison-bing"
+    },
+    {
+        "company": "lonely-planet",
+        "company_url": "lonelyplanet.com",
+        "name": "Sebastian Modak",
+        "first_name": "Sebastian",
+        "middle_name": "",
+        "last_name": "Modak",
+        "title": "Editor-at-Large",
+        "location": "United States",
+        "topics": [
+            "Nature & Wildlife",
+            "Travel"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 82,
+        "url": "https://prowly.com/profiles/journalists/sebastian-modak"
+    }
+]

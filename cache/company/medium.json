@@ -1,0 +1,291 @@
+[
+    {
+        "company": "medium",
+        "company_url": "medium.com",
+        "name": "Bill Abbate",
+        "first_name": "Bill",
+        "middle_name": "",
+        "last_name": "Abbate",
+        "title": "Leadership Writer and Editor",
+        "location": "United States",
+        "topics": [
+            "House",
+            "History"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/bill-abbate"
+    },
+    {
+        "company": "medium",
+        "company_url": "medium.com",
+        "name": "Nate Goldman",
+        "first_name": "Nate",
+        "middle_name": "",
+        "last_name": "Goldman",
+        "title": "Senior Editor, Audience Engagement",
+        "location": "United States",
+        "topics": [
+            "House"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/nate-goldman"
+    },
+    {
+        "company": "medium",
+        "company_url": "medium.com",
+        "name": "Ross McCammon",
+        "first_name": "Ross",
+        "middle_name": "",
+        "last_name": "McCammon",
+        "title": "Executive Editor",
+        "location": "United States",
+        "topics": [
+            "House"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ross-mccammon"
+    },
+    {
+        "company": "medium",
+        "company_url": "medium.com",
+        "name": "Craig Spencer",
+        "first_name": "Craig",
+        "middle_name": "",
+        "last_name": "Spencer",
+        "title": "Blogger",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine"
+        ],
+        "influence_score": 77,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/craig-spencer"
+    },
+    {
+        "company": "medium",
+        "company_url": "medium.com",
+        "name": "Evan Williams",
+        "first_name": "Evan",
+        "middle_name": "",
+        "last_name": "Williams",
+        "title": "CEO",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 87,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/evan-williams-15989"
+    },
+    {
+        "company": "medium",
+        "company_url": "medium.com",
+        "name": "Dennis Huynh",
+        "first_name": "Dennis",
+        "middle_name": "",
+        "last_name": "Huynh",
+        "title": "Director, Editorial Design",
+        "location": "United States",
+        "topics": [
+            "Entertainment",
+            "Society",
+            "Politics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/dennis-huynh"
+    },
+    {
+        "company": "medium",
+        "company_url": "medium.com",
+        "name": "Robert Britt",
+        "first_name": "Robert",
+        "middle_name": "",
+        "last_name": "Britt",
+        "title": "Writer",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Science"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/robert-britt"
+    },
+    {
+        "company": "medium",
+        "company_url": "medium.com",
+        "name": "Tony Bowles",
+        "first_name": "Tony",
+        "middle_name": "",
+        "last_name": "Bowles",
+        "title": "Contributing Columnist / Writer",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Entertainment",
+            "Apparel",
+            "Food"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/tony-bowles"
+    },
+    {
+        "company": "medium",
+        "company_url": "medium.com",
+        "name": "Ashley Collie",
+        "first_name": "Ashley",
+        "middle_name": "",
+        "last_name": "Collie",
+        "title": "Blogger",
+        "location": "United States",
+        "topics": [
+            "Celebrities",
+            "Entertainment"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/ashley-collie"
+    },
+    {
+        "company": "medium",
+        "company_url": "medium.com",
+        "name": "Vernic Popat",
+        "first_name": "Vernic",
+        "middle_name": "",
+        "last_name": "Popat",
+        "title": "Contributing Writer",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Demographics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/vernic-popat"
+    },
+    {
+        "company": "medium",
+        "company_url": "medium.com",
+        "name": "Hanif Abdurraqib",
+        "first_name": "Hanif",
+        "middle_name": "",
+        "last_name": "Abdurraqib",
+        "title": "Editor",
+        "location": "United States",
+        "topics": [
+            "House"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/hanif-abdurraqib"
+    },
+    {
+        "company": "medium",
+        "company_url": "medium.com",
+        "name": "Jermaine Hall",
+        "first_name": "Jermaine",
+        "middle_name": "",
+        "last_name": "Hall",
+        "title": "Director, Medium Editorial Group",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 64,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/jermaine-hall"
+    },
+    {
+        "company": "medium",
+        "company_url": "medium.com",
+        "name": "Angela Lashbrook",
+        "first_name": "Angela",
+        "middle_name": "",
+        "last_name": "Lashbrook",
+        "title": "Columnist",
+        "location": "United States",
+        "topics": [
+            "Health & Medicine",
+            "Technology"
+        ],
+        "influence_score": 71,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/angela-lashbrook"
+    },
+    {
+        "company": "medium",
+        "company_url": "medium.com",
+        "name": "Kim Straus",
+        "first_name": "Kim",
+        "middle_name": "",
+        "last_name": "Straus",
+        "title": "Blogger",
+        "location": "United States",
+        "topics": [
+            "House",
+            "Apparel",
+            "Food",
+            "Technology"
+        ],
+        "influence_score": 62,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/kim-straus"
+    },
+    {
+        "company": "medium",
+        "company_url": "medium.com",
+        "name": "Evan Williams",
+        "first_name": "Evan",
+        "middle_name": "",
+        "last_name": "Williams",
+        "title": "CEO",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 87,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/evan-williams"
+    },
+    {
+        "company": "medium",
+        "company_url": "medium.com",
+        "name": "Cari Romm Nazeer",
+        "first_name": "Cari",
+        "middle_name": "Romm",
+        "last_name": "Nazeer",
+        "title": "Content Lead",
+        "location": "United States",
+        "topics": [
+            "Careers",
+            "House"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/cari-romm-nazeer"
+    },
+    {
+        "company": "medium",
+        "company_url": "medium.com",
+        "name": "Delton Rhodes",
+        "first_name": "Delton",
+        "middle_name": "",
+        "last_name": "Rhodes",
+        "title": "Content Writer, The Green Light",
+        "location": "United States",
+        "topics": [
+            "Computers & Technology",
+            "Artificial Intelligence",
+            "Internet",
+            "Cloud Computing"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/delton-rhodes"
+    }
+]

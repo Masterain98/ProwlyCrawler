@@ -1,0 +1,68 @@
+[
+    {
+        "company": "pbs-newshour-online",
+        "company_url": "pbs.org",
+        "name": "Justin Stabley",
+        "first_name": "Justin",
+        "middle_name": "",
+        "last_name": "Stabley",
+        "title": "Digital Editor",
+        "location": "United States",
+        "topics": [
+            "National News",
+            "Politics"
+        ],
+        "influence_score": 66,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/justin-stabley"
+    },
+    {
+        "company": "pbs-newshour-online",
+        "company_url": "pbs.org",
+        "name": "Erica Hendry",
+        "first_name": "Erica",
+        "middle_name": "",
+        "last_name": "Hendry",
+        "title": "Digital Managing Editor",
+        "location": "United States",
+        "topics": [
+            "Local News",
+            "Politics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/erica-hendry"
+    },
+    {
+        "company": "pbs-newshour-online",
+        "company_url": "pbs.org",
+        "name": "Daniel Cooney",
+        "first_name": "Daniel",
+        "middle_name": "",
+        "last_name": "Cooney",
+        "title": "Social Media Editor & Producer",
+        "location": "United States",
+        "topics": [
+            "Politics"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/daniel-cooney"
+    },
+    {
+        "company": "pbs-newshour-online",
+        "company_url": "pbs.org",
+        "name": "Travis Daub",
+        "first_name": "Travis",
+        "middle_name": "",
+        "last_name": "Daub",
+        "title": "Director of Digital",
+        "location": "United States",
+        "topics": [
+            "Non-Editorial"
+        ],
+        "influence_score": 68,
+        "company_influence_score": 85,
+        "url": "https://prowly.com/profiles/journalists/travis-daub"
+    }
+]
